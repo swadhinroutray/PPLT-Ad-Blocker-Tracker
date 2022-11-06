@@ -1,6 +1,7 @@
 import time 
+# from selenium import webdriver
 from selenium import webdriver
-# driver = webdriver.Chrome('/path/to/chromedriver')  # Optional argument, if not specified will search path.
+driver = webdriver.Chrome('./chromedriver')  # Optional argument, if not specified will search path.
 
 driver.get('http://www.google.com/');
 
