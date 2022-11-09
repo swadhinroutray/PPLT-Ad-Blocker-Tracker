@@ -1,15 +1,25 @@
 import time 
 import csv
-# from selenium import webdriver
+from browsermobproxy import Server
+
 from selenium import webdriver
 from selenium.webdriver.chrome.options import Options 
 
+server = Server('./browsermob-proxy-2.1.4/bin/browsermob-proxy')
+server.start()
+proxy = server.create_proxy()
+
 options = webdriver.ChromeOptions()
 options.add_extension('../plugins/Adblock_5.3.0_0.crx')
+options.add_argument('captureHeaders: True')
+options.add_argument(f'--proxy-server={proxy.selenium_proxy()}') # Proxy Issue 
 driver = webdriver.Chrome('./chromedriver',options=options)  # Optional argument, if not specified will search path.
+# driver.set_proxy(proxy.selenium_proxy())
+# driver.set
 filename = '../data/websites.csv'
 time.sleep(10)
 
+proxy.new_har('wired')
 driver.get('http://www.wired.com')
 
 # with open(filename, 'r') as csvfile:
@@ -23,4 +33,6 @@ driver.get('http://www.wired.com')
 #         time.sleep(5) # Let the user actually see something!
 
 time.sleep(10)
+print(proxy.har)
+server.stop()
 driver.quit()
