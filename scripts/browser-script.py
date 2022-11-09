@@ -1,18 +1,26 @@
 import time 
+import csv
 # from selenium import webdriver
 from selenium import webdriver
-driver = webdriver.Chrome('./chromedriver')  # Optional argument, if not specified will search path.
+from selenium.webdriver.chrome.options import Options 
 
-driver.get('http://www.google.com/');
+options = webdriver.ChromeOptions()
+options.add_extension('../plugins/Adblock_5.3.0_0.crx')
+driver = webdriver.Chrome('./chromedriver',options=options)  # Optional argument, if not specified will search path.
+filename = '../data/websites.csv'
+time.sleep(10)
 
-time.sleep(5) # Let the user actually see something!
+driver.get('http://www.wired.com')
 
-search_box = driver.find_element_by_name('q')
+# with open(filename, 'r') as csvfile:
+#     datareader = csv.reader(csvfile)
+#     for row in datareader:
+#         driver.get(row[2]);
+#         time.sleep(5) # Let the user actually see something!
+#         search_box = driver.find_element_by_name('q')
+#         search_box.send_keys('ChromeDriver')
+#         search_box.submit()
+#         time.sleep(5) # Let the user actually see something!
 
-search_box.send_keys('ChromeDriver')
-
-search_box.submit()
-
-time.sleep(5) # Let the user actually see something!
-
+time.sleep(10)
 driver.quit()
