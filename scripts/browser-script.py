@@ -11,11 +11,11 @@ proxy = server.create_proxy()
 
 options = webdriver.ChromeOptions()
 options.add_extension('../plugins/Adblock_5.3.0_0.crx')
-options.add_argument('captureHeaders: True')
-options.add_argument(f'--proxy-server={proxy.selenium_proxy()}') # Proxy Issue 
+# options.add_argument('captureHeaders: True')
+# options.add_argument(f'--proxy-server={proxy.selenium_proxy()}') # Proxy Issue 
 driver = webdriver.Chrome('./chromedriver',options=options)  # Optional argument, if not specified will search path.
 # driver.set_proxy(proxy.selenium_proxy())
-# driver.set
+
 filename = '../data/websites.csv'
 time.sleep(10)
 
@@ -32,7 +32,8 @@ driver.get('http://www.wired.com')
 #         search_box.submit()
 #         time.sleep(5) # Let the user actually see something!
 
-time.sleep(10)
 print(proxy.har)
+
+time.sleep(10)
 server.stop()
 driver.quit()
