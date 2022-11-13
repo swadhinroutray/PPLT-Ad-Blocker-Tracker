@@ -1,8 +1,8 @@
 from browsermobproxy import Server
 from selenium import webdriver
-import json,time,csv
+import json,time,csv,sys
 output_folder = "../data/data_AdBlock/";
-web_filename = '../data/websites.csv'
+web_filename = '../data/'+ sys.argv[1]
 
 class CreateHar(object):
     """create HTTP archive file"""
@@ -21,7 +21,7 @@ class CreateHar(object):
 
     def __start_server(self):
         """prepare and start server"""
-        self.server = Server(self.browser_mob)
+        self.server = Server(self.browser_mob, options={'existing_proxy_port_to_use': 8090})
         self.server.start()
         self.proxy = self.server.create_proxy()
 
