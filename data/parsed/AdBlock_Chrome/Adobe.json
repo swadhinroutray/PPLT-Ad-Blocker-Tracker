@@ -1,0 +1,73 @@
+{
+  "pages": {
+    "noOfPages": 1,
+    "medianOnLoad": null,
+    "ninetyFifthOnLoad": null,
+    "pages": [
+      {
+        "url": "Adobe",
+        "onLoad": null
+      }
+    ]
+  },
+  "requests": {
+    "all": {
+      "noOfRequests": 213,
+      "medianTime": 50,
+      "ninetyFifthTime": 377,
+      "medianTimings": {
+        "blocked": -1,
+        "wait": 33,
+        "receive": 0
+      },
+      "ninetyFifthTimings": {
+        "blocked": 0,
+        "wait": 77,
+        "receive": 25
+      },
+      "bytesTransferred": null,
+      "topUrl": {
+        "url": "https://www.googletagmanager.com/gtag/js",
+        "noOfOccurrences": 7
+      },
+      "largest": {
+        "url": "https://www.google.com/pagead/1p-user-list/1055007256",
+        "bytes": 0
+      },
+      "largestCompressed": {
+        "url": "https://cdn.adblockcdn.com/filters/adblock_custom.txt"
+      },
+      "longest": {
+        "url": "https://optimizationguide-pa.googleapis.com/downloads",
+        "time": 4162,
+        "timings": {
+          "blocked": 0,
+          "wait": 4097,
+          "receive": 3,
+          "connect": 61
+        }
+      }
+    },
+    "document": {
+      "noOfRequests": 0
+    },
+    "font": {
+      "noOfRequests": 0
+    },
+    "image": {
+      "noOfRequests": 0
+    },
+    "style": {
+      "noOfRequests": 0
+    },
+    "script": {
+      "noOfRequests": 0
+    },
+    "xhr": {
+      "noOfRequests": 0
+    },
+    "other": {
+      "noOfRequests": 0
+    }
+  }
+}

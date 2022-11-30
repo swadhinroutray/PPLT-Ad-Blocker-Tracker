@@ -1,0 +1,73 @@
+{
+  "pages": {
+    "noOfPages": 1,
+    "medianOnLoad": null,
+    "ninetyFifthOnLoad": null,
+    "pages": [
+      {
+        "url": "Land O'Lakes",
+        "onLoad": null
+      }
+    ]
+  },
+  "requests": {
+    "all": {
+      "noOfRequests": 116,
+      "medianTime": 67,
+      "ninetyFifthTime": 494,
+      "medianTimings": {
+        "blocked": -1,
+        "wait": 36,
+        "receive": 0
+      },
+      "ninetyFifthTimings": {
+        "blocked": 0,
+        "wait": 103,
+        "receive": 127
+      },
+      "bytesTransferred": null,
+      "topUrl": {
+        "url": "https://admin.landolakesinc.com//CMSPages/GetResource.ashx",
+        "noOfOccurrences": 15
+      },
+      "largest": {
+        "url": "https://assets.adobedtm.com/7390c55bcb09/346fddcd457c/0397408c3a1d/RCfa47c7a7d04e4e278e69b47d1a7b845b-source.min.js",
+        "bytes": 0
+      },
+      "largestCompressed": {
+        "url": "https://cdn.adblockcdn.com/filters/adblock_custom.txt"
+      },
+      "longest": {
+        "url": "https://storcpkenticomedia.blob.core.windows.net/media/lolinc/media/videos/lol_roots_header_web.mp4",
+        "time": 8097,
+        "timings": {
+          "blocked": -1,
+          "wait": 90,
+          "receive": 8007,
+          "connect": -1
+        }
+      }
+    },
+    "document": {
+      "noOfRequests": 0
+    },
+    "font": {
+      "noOfRequests": 0
+    },
+    "image": {
+      "noOfRequests": 0
+    },
+    "style": {
+      "noOfRequests": 0
+    },
+    "script": {
+      "noOfRequests": 0
+    },
+    "xhr": {
+      "noOfRequests": 0
+    },
+    "other": {
+      "noOfRequests": 0
+    }
+  }
+}

@@ -1,0 +1,73 @@
+{
+  "pages": {
+    "noOfPages": 1,
+    "medianOnLoad": null,
+    "ninetyFifthOnLoad": null,
+    "pages": [
+      {
+        "url": "Colgate-Palmolive",
+        "onLoad": null
+      }
+    ]
+  },
+  "requests": {
+    "all": {
+      "noOfRequests": 147,
+      "medianTime": 45,
+      "ninetyFifthTime": 694,
+      "medianTimings": {
+        "blocked": -1,
+        "wait": 33,
+        "receive": 0
+      },
+      "ninetyFifthTimings": {
+        "blocked": 0,
+        "wait": 143,
+        "receive": 40
+      },
+      "bytesTransferred": null,
+      "topUrl": {
+        "url": "https://cdns.us1.gigya.com/sdk.config.get",
+        "noOfOccurrences": 3
+      },
+      "largest": {
+        "url": "https://cdns.us1.gigya.com/sdk.config.get",
+        "bytes": 0
+      },
+      "largestCompressed": {
+        "url": "https://cdn.adblockcdn.com/filters/adblock_custom.txt"
+      },
+      "longest": {
+        "url": "https://easylist-downloads.adblockplus.org/exceptionrules.txt",
+        "time": 2979,
+        "timings": {
+          "blocked": 0,
+          "wait": 151,
+          "receive": 738,
+          "connect": 2089
+        }
+      }
+    },
+    "document": {
+      "noOfRequests": 0
+    },
+    "font": {
+      "noOfRequests": 0
+    },
+    "image": {
+      "noOfRequests": 0
+    },
+    "style": {
+      "noOfRequests": 0
+    },
+    "script": {
+      "noOfRequests": 0
+    },
+    "xhr": {
+      "noOfRequests": 0
+    },
+    "other": {
+      "noOfRequests": 0
+    }
+  }
+}

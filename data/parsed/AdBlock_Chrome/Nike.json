@@ -1,0 +1,73 @@
+{
+  "pages": {
+    "noOfPages": 1,
+    "medianOnLoad": null,
+    "ninetyFifthOnLoad": null,
+    "pages": [
+      {
+        "url": "Nike",
+        "onLoad": null
+      }
+    ]
+  },
+  "requests": {
+    "all": {
+      "noOfRequests": 237,
+      "medianTime": 72,
+      "ninetyFifthTime": 416,
+      "medianTimings": {
+        "blocked": -1,
+        "wait": 36,
+        "receive": 0
+      },
+      "ninetyFifthTimings": {
+        "blocked": 0,
+        "wait": 235,
+        "receive": 29
+      },
+      "bytesTransferred": null,
+      "topUrl": {
+        "url": "https://insights-collector.newrelic.com/v1/accounts/714737/events",
+        "noOfOccurrences": 5
+      },
+      "largest": {
+        "url": "https://digitalmarketing.dea-eng-prod.nikecloud.com/nr-proxy",
+        "bytes": 0
+      },
+      "largestCompressed": {
+        "url": "https://getadblock.com/installed/"
+      },
+      "longest": {
+        "url": "https://easylist-downloads.adblockplus.org/easylist.txt",
+        "time": 1587,
+        "timings": {
+          "blocked": 0,
+          "wait": 144,
+          "receive": 737,
+          "connect": 681
+        }
+      }
+    },
+    "document": {
+      "noOfRequests": 0
+    },
+    "font": {
+      "noOfRequests": 0
+    },
+    "image": {
+      "noOfRequests": 0
+    },
+    "style": {
+      "noOfRequests": 0
+    },
+    "script": {
+      "noOfRequests": 0
+    },
+    "xhr": {
+      "noOfRequests": 0
+    },
+    "other": {
+      "noOfRequests": 0
+    }
+  }
+}

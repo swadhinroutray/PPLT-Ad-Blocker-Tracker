@@ -1,0 +1,73 @@
+{
+  "pages": {
+    "noOfPages": 1,
+    "medianOnLoad": null,
+    "ninetyFifthOnLoad": null,
+    "pages": [
+      {
+        "url": "Advanced Micro Devices",
+        "onLoad": null
+      }
+    ]
+  },
+  "requests": {
+    "all": {
+      "noOfRequests": 128,
+      "medianTime": 60,
+      "ninetyFifthTime": 417,
+      "medianTimings": {
+        "blocked": -1,
+        "wait": 37,
+        "receive": 0
+      },
+      "ninetyFifthTimings": {
+        "blocked": 0,
+        "wait": 131,
+        "receive": 72
+      },
+      "bytesTransferred": null,
+      "topUrl": {
+        "url": "https://www.amd.com/5sDHlC/TP/d8/3VQg/jbuya6edk1ZJ4/YaEzpffh/EltsWg/Q2IzIWlB/DnkB",
+        "noOfOccurrences": 4
+      },
+      "largest": {
+        "url": "https://www.amd.com/5sDHlC/TP/d8/3VQg/jbuya6edk1ZJ4/YaEzpffh/EltsWg/Q2IzIWlB/DnkB",
+        "bytes": 0
+      },
+      "largestCompressed": {
+        "url": "https://getadblock.com/installed/"
+      },
+      "longest": {
+        "url": "https://easylist-downloads.adblockplus.org/easylist.txt",
+        "time": 1221,
+        "timings": {
+          "blocked": 0,
+          "wait": 118,
+          "receive": 588,
+          "connect": 514
+        }
+      }
+    },
+    "document": {
+      "noOfRequests": 0
+    },
+    "font": {
+      "noOfRequests": 0
+    },
+    "image": {
+      "noOfRequests": 0
+    },
+    "style": {
+      "noOfRequests": 0
+    },
+    "script": {
+      "noOfRequests": 0
+    },
+    "xhr": {
+      "noOfRequests": 0
+    },
+    "other": {
+      "noOfRequests": 0
+    }
+  }
+}

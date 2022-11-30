@@ -1,0 +1,73 @@
+{
+  "pages": {
+    "noOfPages": 1,
+    "medianOnLoad": null,
+    "ninetyFifthOnLoad": null,
+    "pages": [
+      {
+        "url": "General Motors",
+        "onLoad": null
+      }
+    ]
+  },
+  "requests": {
+    "all": {
+      "noOfRequests": 140,
+      "medianTime": 39,
+      "ninetyFifthTime": 431,
+      "medianTimings": {
+        "blocked": -1,
+        "wait": 32,
+        "receive": 0
+      },
+      "ninetyFifthTimings": {
+        "blocked": 0,
+        "wait": 119,
+        "receive": 27
+      },
+      "bytesTransferred": null,
+      "topUrl": {
+        "url": "https://collection.decibelinsight.net/i/12251/da/",
+        "noOfOccurrences": 6
+      },
+      "largest": {
+        "url": "https://sd.iperceptions.com/ius-359cd6b861125d638f6cea04ffb14739/35282_638031004029639055",
+        "bytes": 0
+      },
+      "largestCompressed": {
+        "url": "https://log.getadblock.com/v2/record_log.php"
+      },
+      "longest": {
+        "url": "https://easylist-downloads.adblockplus.org/exceptionrules.txt",
+        "time": 1569,
+        "timings": {
+          "blocked": 0,
+          "wait": 145,
+          "receive": 725,
+          "connect": 698
+        }
+      }
+    },
+    "document": {
+      "noOfRequests": 0
+    },
+    "font": {
+      "noOfRequests": 0
+    },
+    "image": {
+      "noOfRequests": 0
+    },
+    "style": {
+      "noOfRequests": 0
+    },
+    "script": {
+      "noOfRequests": 0
+    },
+    "xhr": {
+      "noOfRequests": 0
+    },
+    "other": {
+      "noOfRequests": 0
+    }
+  }
+}

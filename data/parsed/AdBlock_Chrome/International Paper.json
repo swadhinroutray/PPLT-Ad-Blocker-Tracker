@@ -1,0 +1,73 @@
+{
+  "pages": {
+    "noOfPages": 1,
+    "medianOnLoad": null,
+    "ninetyFifthOnLoad": null,
+    "pages": [
+      {
+        "url": "International Paper",
+        "onLoad": null
+      }
+    ]
+  },
+  "requests": {
+    "all": {
+      "noOfRequests": 76,
+      "medianTime": 76,
+      "ninetyFifthTime": 579,
+      "medianTimings": {
+        "blocked": -1,
+        "wait": 42,
+        "receive": 0
+      },
+      "ninetyFifthTimings": {
+        "blocked": 0,
+        "wait": 138,
+        "receive": 262
+      },
+      "bytesTransferred": null,
+      "topUrl": {
+        "url": "https://www.internationalpaper.com/Telerik.Web.UI.WebResource.axd",
+        "noOfOccurrences": 2
+      },
+      "largest": {
+        "url": "https://www.internationalpaper.com/Sitefinity/WebsiteTemplates/Framework/App_Themes/Framework/Icons/favicon.ico",
+        "bytes": 0
+      },
+      "largestCompressed": {
+        "url": "https://cdn.adblockcdn.com/filters/adblock_custom.txt"
+      },
+      "longest": {
+        "url": "https://easylist-downloads.adblockplus.org/exceptionrules.txt",
+        "time": 1518,
+        "timings": {
+          "blocked": 0,
+          "wait": 145,
+          "receive": 723,
+          "connect": 649
+        }
+      }
+    },
+    "document": {
+      "noOfRequests": 0
+    },
+    "font": {
+      "noOfRequests": 0
+    },
+    "image": {
+      "noOfRequests": 0
+    },
+    "style": {
+      "noOfRequests": 0
+    },
+    "script": {
+      "noOfRequests": 0
+    },
+    "xhr": {
+      "noOfRequests": 0
+    },
+    "other": {
+      "noOfRequests": 0
+    }
+  }
+}

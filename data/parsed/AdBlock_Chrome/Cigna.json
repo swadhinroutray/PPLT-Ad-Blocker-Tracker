@@ -1,0 +1,73 @@
+{
+  "pages": {
+    "noOfPages": 1,
+    "medianOnLoad": null,
+    "ninetyFifthOnLoad": null,
+    "pages": [
+      {
+        "url": "Cigna",
+        "onLoad": null
+      }
+    ]
+  },
+  "requests": {
+    "all": {
+      "noOfRequests": 153,
+      "medianTime": 46,
+      "ninetyFifthTime": 452,
+      "medianTimings": {
+        "blocked": -1,
+        "wait": 33,
+        "receive": 0
+      },
+      "ninetyFifthTimings": {
+        "blocked": 0,
+        "wait": 77,
+        "receive": 28
+      },
+      "bytesTransferred": null,
+      "topUrl": {
+        "url": "https://tlt.cigna.com/tealeaf/TealeafTarget.jsp",
+        "noOfOccurrences": 3
+      },
+      "largest": {
+        "url": "https://c212.net/c/sync",
+        "bytes": 0
+      },
+      "largestCompressed": {
+        "url": "https://cdn.adblockcdn.com/filters/adblock_custom.txt"
+      },
+      "longest": {
+        "url": "https://optimizationguide-pa.googleapis.com/downloads",
+        "time": 2933,
+        "timings": {
+          "blocked": 0,
+          "wait": 2861,
+          "receive": 3,
+          "connect": 68
+        }
+      }
+    },
+    "document": {
+      "noOfRequests": 0
+    },
+    "font": {
+      "noOfRequests": 0
+    },
+    "image": {
+      "noOfRequests": 0
+    },
+    "style": {
+      "noOfRequests": 0
+    },
+    "script": {
+      "noOfRequests": 0
+    },
+    "xhr": {
+      "noOfRequests": 0
+    },
+    "other": {
+      "noOfRequests": 0
+    }
+  }
+}

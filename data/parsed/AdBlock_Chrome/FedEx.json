@@ -1,0 +1,73 @@
+{
+  "pages": {
+    "noOfPages": 1,
+    "medianOnLoad": null,
+    "ninetyFifthOnLoad": null,
+    "pages": [
+      {
+        "url": "FedEx",
+        "onLoad": null
+      }
+    ]
+  },
+  "requests": {
+    "all": {
+      "noOfRequests": 105,
+      "medianTime": 73,
+      "ninetyFifthTime": 393,
+      "medianTimings": {
+        "blocked": -1,
+        "wait": 33,
+        "receive": 0
+      },
+      "ninetyFifthTimings": {
+        "blocked": 0,
+        "wait": 148,
+        "receive": 43
+      },
+      "bytesTransferred": null,
+      "topUrl": {
+        "url": "https://www.fedex.com/fHpgLbHdeA3ctSTNkePM/EYhaVSLN/DRYkP2YC/UDd9P/lp3c0EB",
+        "noOfOccurrences": 3
+      },
+      "largest": {
+        "url": "https://sync.search.spotxchange.com/partner",
+        "bytes": 0
+      },
+      "largestCompressed": {
+        "url": "https://getadblock.com/installed/"
+      },
+      "longest": {
+        "url": "https://easylist-downloads.adblockplus.org/exceptionrules.txt",
+        "time": 1488,
+        "timings": {
+          "blocked": 0,
+          "wait": 145,
+          "receive": 737,
+          "connect": 604
+        }
+      }
+    },
+    "document": {
+      "noOfRequests": 0
+    },
+    "font": {
+      "noOfRequests": 0
+    },
+    "image": {
+      "noOfRequests": 0
+    },
+    "style": {
+      "noOfRequests": 0
+    },
+    "script": {
+      "noOfRequests": 0
+    },
+    "xhr": {
+      "noOfRequests": 0
+    },
+    "other": {
+      "noOfRequests": 0
+    }
+  }
+}

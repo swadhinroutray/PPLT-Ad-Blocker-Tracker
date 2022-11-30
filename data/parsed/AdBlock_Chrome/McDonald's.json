@@ -1,0 +1,73 @@
+{
+  "pages": {
+    "noOfPages": 1,
+    "medianOnLoad": null,
+    "ninetyFifthOnLoad": null,
+    "pages": [
+      {
+        "url": "McDonald's",
+        "onLoad": null
+      }
+    ]
+  },
+  "requests": {
+    "all": {
+      "noOfRequests": 130,
+      "medianTime": 55,
+      "ninetyFifthTime": 467,
+      "medianTimings": {
+        "blocked": -1,
+        "wait": 31,
+        "receive": 0
+      },
+      "ninetyFifthTimings": {
+        "blocked": 0,
+        "wait": 102,
+        "receive": 56
+      },
+      "bytesTransferred": null,
+      "topUrl": {
+        "url": "https://www.mcdonalds.com/zF4A41/o9q/P0f/6ro6pMS_/azuuV2zJ/BU9nR2Ji/BFp/XPn4RbjgB",
+        "noOfOccurrences": 3
+      },
+      "largest": {
+        "url": "https://content-autofill.googleapis.com/v1/pages/ChVDaHJvbWUvMTA3LjAuNTMwNC4xMTASEAlw9-LWWhjtvBIFDaWTNiQ=",
+        "bytes": 0
+      },
+      "largestCompressed": {
+        "url": "https://getadblock.com/installed/"
+      },
+      "longest": {
+        "url": "https://m.stripe.com/6",
+        "time": 1594,
+        "timings": {
+          "blocked": 0,
+          "wait": 85,
+          "receive": 0,
+          "connect": 1487
+        }
+      }
+    },
+    "document": {
+      "noOfRequests": 0
+    },
+    "font": {
+      "noOfRequests": 0
+    },
+    "image": {
+      "noOfRequests": 0
+    },
+    "style": {
+      "noOfRequests": 0
+    },
+    "script": {
+      "noOfRequests": 0
+    },
+    "xhr": {
+      "noOfRequests": 0
+    },
+    "other": {
+      "noOfRequests": 0
+    }
+  }
+}

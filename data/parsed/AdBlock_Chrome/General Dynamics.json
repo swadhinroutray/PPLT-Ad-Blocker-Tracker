@@ -1,0 +1,73 @@
+{
+  "pages": {
+    "noOfPages": 1,
+    "medianOnLoad": null,
+    "ninetyFifthOnLoad": null,
+    "pages": [
+      {
+        "url": "General Dynamics",
+        "onLoad": null
+      }
+    ]
+  },
+  "requests": {
+    "all": {
+      "noOfRequests": 91,
+      "medianTime": 107,
+      "ninetyFifthTime": 3537,
+      "medianTimings": {
+        "blocked": -1,
+        "wait": 52,
+        "receive": 9
+      },
+      "ninetyFifthTimings": {
+        "blocked": 0,
+        "wait": 171,
+        "receive": 541
+      },
+      "bytesTransferred": null,
+      "topUrl": {
+        "url": "https://optimizationguide-pa.googleapis.com/downloads",
+        "noOfOccurrences": 1
+      },
+      "largest": {
+        "url": "https://optimizationguide-pa.googleapis.com/downloads",
+        "bytes": 0
+      },
+      "largestCompressed": {
+        "url": "https://cdn.adblockcdn.com/filters/adblock_custom.txt"
+      },
+      "longest": {
+        "url": "https://easylist-downloads.adblockplus.org/exceptionrules.txt",
+        "time": 6312,
+        "timings": {
+          "blocked": 0,
+          "wait": 123,
+          "receive": 2411,
+          "connect": 3597
+        }
+      }
+    },
+    "document": {
+      "noOfRequests": 0
+    },
+    "font": {
+      "noOfRequests": 0
+    },
+    "image": {
+      "noOfRequests": 0
+    },
+    "style": {
+      "noOfRequests": 0
+    },
+    "script": {
+      "noOfRequests": 0
+    },
+    "xhr": {
+      "noOfRequests": 0
+    },
+    "other": {
+      "noOfRequests": 0
+    }
+  }
+}

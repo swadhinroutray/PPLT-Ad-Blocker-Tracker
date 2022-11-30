@@ -1,0 +1,73 @@
+{
+  "pages": {
+    "noOfPages": 1,
+    "medianOnLoad": null,
+    "ninetyFifthOnLoad": null,
+    "pages": [
+      {
+        "url": "Gilead Sciences",
+        "onLoad": null
+      }
+    ]
+  },
+  "requests": {
+    "all": {
+      "noOfRequests": 114,
+      "medianTime": 114,
+      "ninetyFifthTime": 495,
+      "medianTimings": {
+        "blocked": -1,
+        "wait": 33,
+        "receive": 1
+      },
+      "ninetyFifthTimings": {
+        "blocked": 0,
+        "wait": 205,
+        "receive": 72
+      },
+      "bytesTransferred": null,
+      "topUrl": {
+        "url": "https://www.gilead.com/-/media/gilead-corporate/images/global/gilead-create-possible-svg.svg",
+        "noOfOccurrences": 1
+      },
+      "largest": {
+        "url": "https://pbs.twimg.com/amplify_video_thumb/1587866384163229696/img/M9uo5uzOElHlnJ_9.jpg",
+        "bytes": 0
+      },
+      "largestCompressed": {
+        "url": "https://getadblock.com/installed/"
+      },
+      "longest": {
+        "url": "https://easylist-downloads.adblockplus.org/exceptionrules.txt",
+        "time": 1164,
+        "timings": {
+          "blocked": 0,
+          "wait": 113,
+          "receive": 571,
+          "connect": 478
+        }
+      }
+    },
+    "document": {
+      "noOfRequests": 0
+    },
+    "font": {
+      "noOfRequests": 0
+    },
+    "image": {
+      "noOfRequests": 0
+    },
+    "style": {
+      "noOfRequests": 0
+    },
+    "script": {
+      "noOfRequests": 0
+    },
+    "xhr": {
+      "noOfRequests": 0
+    },
+    "other": {
+      "noOfRequests": 0
+    }
+  }
+}

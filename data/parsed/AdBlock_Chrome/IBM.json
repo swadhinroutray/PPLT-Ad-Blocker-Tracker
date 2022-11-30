@@ -1,0 +1,73 @@
+{
+  "pages": {
+    "noOfPages": 1,
+    "medianOnLoad": null,
+    "ninetyFifthOnLoad": null,
+    "pages": [
+      {
+        "url": "IBM",
+        "onLoad": null
+      }
+    ]
+  },
+  "requests": {
+    "all": {
+      "noOfRequests": 305,
+      "medianTime": 39,
+      "ninetyFifthTime": 421,
+      "medianTimings": {
+        "blocked": -1,
+        "wait": 26,
+        "receive": 0
+      },
+      "ninetyFifthTimings": {
+        "blocked": 0,
+        "wait": 109,
+        "receive": 17
+      },
+      "bytesTransferred": null,
+      "topUrl": {
+        "url": "https://www.ibm.com/pqP4N742tji3cuHr_ANiZlL7/O15tbQhz3OL9/EmQxAg/Lk/0QF1VfGCAB",
+        "noOfOccurrences": 4
+      },
+      "largest": {
+        "url": "https://collection.decibelinsight.net/i/14029/ws/",
+        "bytes": 0
+      },
+      "largestCompressed": {
+        "url": "https://cdn.adblockcdn.com/filters/adblock_custom.txt"
+      },
+      "longest": {
+        "url": "https://ushp-tool.lan2rya65da.us-east.codeengine.appdomain.cloud/api/newsflash.json",
+        "time": 5514,
+        "timings": {
+          "blocked": 0,
+          "wait": 5282,
+          "receive": 0,
+          "connect": 152
+        }
+      }
+    },
+    "document": {
+      "noOfRequests": 0
+    },
+    "font": {
+      "noOfRequests": 0
+    },
+    "image": {
+      "noOfRequests": 0
+    },
+    "style": {
+      "noOfRequests": 0
+    },
+    "script": {
+      "noOfRequests": 0
+    },
+    "xhr": {
+      "noOfRequests": 0
+    },
+    "other": {
+      "noOfRequests": 0
+    }
+  }
+}

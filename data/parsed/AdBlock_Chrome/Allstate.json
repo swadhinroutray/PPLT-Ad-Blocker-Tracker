@@ -1,0 +1,73 @@
+{
+  "pages": {
+    "noOfPages": 1,
+    "medianOnLoad": null,
+    "ninetyFifthOnLoad": null,
+    "pages": [
+      {
+        "url": "Allstate",
+        "onLoad": null
+      }
+    ]
+  },
+  "requests": {
+    "all": {
+      "noOfRequests": 142,
+      "medianTime": 176,
+      "ninetyFifthTime": 2152,
+      "medianTimings": {
+        "blocked": -1,
+        "wait": 47,
+        "receive": 0
+      },
+      "ninetyFifthTimings": {
+        "blocked": 0,
+        "wait": 2150,
+        "receive": 86
+      },
+      "bytesTransferred": null,
+      "topUrl": {
+        "url": "https://rum-http-intake.logs.datadoghq.com/v1/input/pub0547e4b4d5c35c62f237e1260591e959",
+        "noOfOccurrences": 4
+      },
+      "largest": {
+        "url": "https://rum-http-intake.logs.datadoghq.com/v1/input/pub0547e4b4d5c35c62f237e1260591e959",
+        "bytes": 0
+      },
+      "largestCompressed": {
+        "url": "https://cdn.adblockcdn.com/filters/adblock_custom.txt"
+      },
+      "longest": {
+        "url": "https://www.allstate.com/dist/content-client-react-app/static/js/74.e265bf09.chunk.js",
+        "time": 3255,
+        "timings": {
+          "blocked": -1,
+          "wait": 3255,
+          "receive": 0,
+          "connect": -1
+        }
+      }
+    },
+    "document": {
+      "noOfRequests": 0
+    },
+    "font": {
+      "noOfRequests": 0
+    },
+    "image": {
+      "noOfRequests": 0
+    },
+    "style": {
+      "noOfRequests": 0
+    },
+    "script": {
+      "noOfRequests": 0
+    },
+    "xhr": {
+      "noOfRequests": 0
+    },
+    "other": {
+      "noOfRequests": 0
+    }
+  }
+}

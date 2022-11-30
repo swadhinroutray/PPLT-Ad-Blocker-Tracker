@@ -1,0 +1,73 @@
+{
+  "pages": {
+    "noOfPages": 1,
+    "medianOnLoad": null,
+    "ninetyFifthOnLoad": null,
+    "pages": [
+      {
+        "url": "Cheniere Energy",
+        "onLoad": null
+      }
+    ]
+  },
+  "requests": {
+    "all": {
+      "noOfRequests": 71,
+      "medianTime": 116,
+      "ninetyFifthTime": 989,
+      "medianTimings": {
+        "blocked": -1,
+        "wait": 40,
+        "receive": 0
+      },
+      "ninetyFifthTimings": {
+        "blocked": 0,
+        "wait": 156,
+        "receive": 163
+      },
+      "bytesTransferred": null,
+      "topUrl": {
+        "url": "https://app.quotemedia.com/datatool/getEnhancedQuotes.json",
+        "noOfOccurrences": 1
+      },
+      "largest": {
+        "url": "https://www.cheniere.com/imager/media/2815209/DJI_0043-Pano-color-correctted_24f90235bb97a9cf8d3d417df7a5f59d.jpg",
+        "bytes": 0
+      },
+      "largestCompressed": {
+        "url": "https://getadblock.com/installed/"
+      },
+      "longest": {
+        "url": "https://optimizationguide-pa.googleapis.com/downloads",
+        "time": 4682,
+        "timings": {
+          "blocked": 0,
+          "wait": 4607,
+          "receive": 3,
+          "connect": 70
+        }
+      }
+    },
+    "document": {
+      "noOfRequests": 0
+    },
+    "font": {
+      "noOfRequests": 0
+    },
+    "image": {
+      "noOfRequests": 0
+    },
+    "style": {
+      "noOfRequests": 0
+    },
+    "script": {
+      "noOfRequests": 0
+    },
+    "xhr": {
+      "noOfRequests": 0
+    },
+    "other": {
+      "noOfRequests": 0
+    }
+  }
+}

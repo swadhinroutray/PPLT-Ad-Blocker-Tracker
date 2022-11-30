@@ -1,0 +1,73 @@
+{
+  "pages": {
+    "noOfPages": 1,
+    "medianOnLoad": null,
+    "ninetyFifthOnLoad": null,
+    "pages": [
+      {
+        "url": "Murphy USA",
+        "onLoad": null
+      }
+    ]
+  },
+  "requests": {
+    "all": {
+      "noOfRequests": 71,
+      "medianTime": 107,
+      "ninetyFifthTime": 576,
+      "medianTimings": {
+        "blocked": -1,
+        "wait": 64,
+        "receive": 0
+      },
+      "ninetyFifthTimings": {
+        "blocked": 0,
+        "wait": 160,
+        "receive": 244
+      },
+      "bytesTransferred": null,
+      "topUrl": {
+        "url": "https://www.murphyusa.com/CMSPages/GetResource.ashx",
+        "noOfOccurrences": 7
+      },
+      "largest": {
+        "url": "https://m.stripe.com/6",
+        "bytes": 0
+      },
+      "largestCompressed": {
+        "url": "https://log.getadblock.com"
+      },
+      "longest": {
+        "url": "https://easylist-downloads.adblockplus.org/exceptionrules.txt",
+        "time": 1440,
+        "timings": {
+          "blocked": 0,
+          "wait": 160,
+          "receive": 729,
+          "connect": 549
+        }
+      }
+    },
+    "document": {
+      "noOfRequests": 0
+    },
+    "font": {
+      "noOfRequests": 0
+    },
+    "image": {
+      "noOfRequests": 0
+    },
+    "style": {
+      "noOfRequests": 0
+    },
+    "script": {
+      "noOfRequests": 0
+    },
+    "xhr": {
+      "noOfRequests": 0
+    },
+    "other": {
+      "noOfRequests": 0
+    }
+  }
+}

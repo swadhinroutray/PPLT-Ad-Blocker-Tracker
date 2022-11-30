@@ -1,0 +1,73 @@
+{
+  "pages": {
+    "noOfPages": 1,
+    "medianOnLoad": null,
+    "ninetyFifthOnLoad": null,
+    "pages": [
+      {
+        "url": "Marsh & McLennan",
+        "onLoad": null
+      }
+    ]
+  },
+  "requests": {
+    "all": {
+      "noOfRequests": 133,
+      "medianTime": 88,
+      "ninetyFifthTime": 469,
+      "medianTimings": {
+        "blocked": -1,
+        "wait": 77,
+        "receive": 0
+      },
+      "ninetyFifthTimings": {
+        "blocked": 0,
+        "wait": 109,
+        "receive": 262
+      },
+      "bytesTransferred": null,
+      "topUrl": {
+        "url": "https://px.ads.linkedin.com/collect",
+        "noOfOccurrences": 2
+      },
+      "largest": {
+        "url": "https://p.adsymptotic.com/d/px/",
+        "bytes": 0
+      },
+      "largestCompressed": {
+        "url": "https://log.getadblock.com"
+      },
+      "longest": {
+        "url": "https://easylist-downloads.adblockplus.org/exceptionrules.txt",
+        "time": 1455,
+        "timings": {
+          "blocked": 0,
+          "wait": 146,
+          "receive": 738,
+          "connect": 570
+        }
+      }
+    },
+    "document": {
+      "noOfRequests": 0
+    },
+    "font": {
+      "noOfRequests": 0
+    },
+    "image": {
+      "noOfRequests": 0
+    },
+    "style": {
+      "noOfRequests": 0
+    },
+    "script": {
+      "noOfRequests": 0
+    },
+    "xhr": {
+      "noOfRequests": 0
+    },
+    "other": {
+      "noOfRequests": 0
+    }
+  }
+}

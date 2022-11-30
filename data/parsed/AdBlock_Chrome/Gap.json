@@ -1,0 +1,73 @@
+{
+  "pages": {
+    "noOfPages": 1,
+    "medianOnLoad": null,
+    "ninetyFifthOnLoad": null,
+    "pages": [
+      {
+        "url": "Gap",
+        "onLoad": null
+      }
+    ]
+  },
+  "requests": {
+    "all": {
+      "noOfRequests": 129,
+      "medianTime": 49,
+      "ninetyFifthTime": 600,
+      "medianTimings": {
+        "blocked": -1,
+        "wait": 37,
+        "receive": 0
+      },
+      "ninetyFifthTimings": {
+        "blocked": 0,
+        "wait": 152,
+        "receive": 90
+      },
+      "bytesTransferred": null,
+      "topUrl": {
+        "url": "https://content.gap.com/fp/clear.png",
+        "noOfOccurrences": 2
+      },
+      "largest": {
+        "url": "https://h.online-metrix.net/fp/clear1.png;CIS3SID=22E2FE03C165275D03BBB44882B548EE",
+        "bytes": 0
+      },
+      "largestCompressed": {
+        "url": "https://cdn.adblockcdn.com/filters/adblock_custom.txt"
+      },
+      "longest": {
+        "url": "https://optimizationguide-pa.googleapis.com/downloads",
+        "time": 3272,
+        "timings": {
+          "blocked": 0,
+          "wait": 3206,
+          "receive": 0,
+          "connect": 65
+        }
+      }
+    },
+    "document": {
+      "noOfRequests": 0
+    },
+    "font": {
+      "noOfRequests": 0
+    },
+    "image": {
+      "noOfRequests": 0
+    },
+    "style": {
+      "noOfRequests": 0
+    },
+    "script": {
+      "noOfRequests": 0
+    },
+    "xhr": {
+      "noOfRequests": 0
+    },
+    "other": {
+      "noOfRequests": 0
+    }
+  }
+}

@@ -1,0 +1,73 @@
+{
+  "pages": {
+    "noOfPages": 1,
+    "medianOnLoad": null,
+    "ninetyFifthOnLoad": null,
+    "pages": [
+      {
+        "url": "Cleveland-Cliffs",
+        "onLoad": null
+      }
+    ]
+  },
+  "requests": {
+    "all": {
+      "noOfRequests": 63,
+      "medianTime": 136,
+      "ninetyFifthTime": 2118,
+      "medianTimings": {
+        "blocked": 0,
+        "wait": 39,
+        "receive": 0
+      },
+      "ninetyFifthTimings": {
+        "blocked": 0,
+        "wait": 145,
+        "receive": 711
+      },
+      "bytesTransferred": null,
+      "topUrl": {
+        "url": "https://log.getadblock.com",
+        "noOfOccurrences": 1
+      },
+      "largest": {
+        "url": "https://m.stripe.com/6",
+        "bytes": 0
+      },
+      "largestCompressed": {
+        "url": "https://cdn.adblockcdn.com/filters/adblock_custom.txt"
+      },
+      "longest": {
+        "url": "https://d1io3yog0oux5.cloudfront.net/_65b9604c8560bb1b16280547c0d8e221/clevelandcliffs/db/1153/11287/file/cliffs_homepage_video_--_shortened+%281080p%29.mp4",
+        "time": 3565,
+        "timings": {
+          "blocked": -1,
+          "wait": 102,
+          "receive": 3462,
+          "connect": -1
+        }
+      }
+    },
+    "document": {
+      "noOfRequests": 0
+    },
+    "font": {
+      "noOfRequests": 0
+    },
+    "image": {
+      "noOfRequests": 0
+    },
+    "style": {
+      "noOfRequests": 0
+    },
+    "script": {
+      "noOfRequests": 0
+    },
+    "xhr": {
+      "noOfRequests": 0
+    },
+    "other": {
+      "noOfRequests": 0
+    }
+  }
+}

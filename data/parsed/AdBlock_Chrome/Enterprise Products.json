@@ -1,0 +1,73 @@
+{
+  "pages": {
+    "noOfPages": 1,
+    "medianOnLoad": null,
+    "ninetyFifthOnLoad": null,
+    "pages": [
+      {
+        "url": "Enterprise Products",
+        "onLoad": null
+      }
+    ]
+  },
+  "requests": {
+    "all": {
+      "noOfRequests": 86,
+      "medianTime": 170,
+      "ninetyFifthTime": 675,
+      "medianTimings": {
+        "blocked": 0,
+        "wait": 49,
+        "receive": 0
+      },
+      "ninetyFifthTimings": {
+        "blocked": 0,
+        "wait": 64,
+        "receive": 234
+      },
+      "bytesTransferred": null,
+      "topUrl": {
+        "url": "https://www.enterpriseproducts.com/media-library/a48e1df3-1d66-46fe-908d-c7b3c9ab46ba/20220803_Website.jpg",
+        "noOfOccurrences": 2
+      },
+      "largest": {
+        "url": "https://content-autofill.googleapis.com/v1/pages/ChVDaHJvbWUvMTA3LjAuNTMwNC4xMTASEAmTRpKMNSGnhxIFDQDfFjU=",
+        "bytes": 0
+      },
+      "largestCompressed": {
+        "url": "https://cdn.adblockcdn.com/filters/adblock_custom.txt"
+      },
+      "longest": {
+        "url": "https://easylist-downloads.adblockplus.org/exceptionrules.txt",
+        "time": 1154,
+        "timings": {
+          "blocked": 0,
+          "wait": 116,
+          "receive": 584,
+          "connect": 452
+        }
+      }
+    },
+    "document": {
+      "noOfRequests": 0
+    },
+    "font": {
+      "noOfRequests": 0
+    },
+    "image": {
+      "noOfRequests": 0
+    },
+    "style": {
+      "noOfRequests": 0
+    },
+    "script": {
+      "noOfRequests": 0
+    },
+    "xhr": {
+      "noOfRequests": 0
+    },
+    "other": {
+      "noOfRequests": 0
+    }
+  }
+}

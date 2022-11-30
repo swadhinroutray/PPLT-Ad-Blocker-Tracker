@@ -1,0 +1,73 @@
+{
+  "pages": {
+    "noOfPages": 1,
+    "medianOnLoad": null,
+    "ninetyFifthOnLoad": null,
+    "pages": [
+      {
+        "url": "Prudential Financial",
+        "onLoad": null
+      }
+    ]
+  },
+  "requests": {
+    "all": {
+      "noOfRequests": 276,
+      "medianTime": 88,
+      "ninetyFifthTime": 468,
+      "medianTimings": {
+        "blocked": -1,
+        "wait": 26,
+        "receive": 0
+      },
+      "ninetyFifthTimings": {
+        "blocked": 0,
+        "wait": 116,
+        "receive": 33
+      },
+      "bytesTransferred": null,
+      "topUrl": {
+        "url": "https://nexus.ensighten.com/error/e.gif",
+        "noOfOccurrences": 13
+      },
+      "largest": {
+        "url": "https://adservice.google.com/ddm/fls/z/dc_pre=CI_J6sDYqfsCFQVbDQod6_kHQw;src=2988838;type=global;cat=unive0;u4=35791014475246577484513186034945304566;u5=;u6=https://www.prudential.com/;u7=PageLoad;u11=www.prudential.com;dc_lat=;dc_rdid=;tag_for_child_directed_treatment=;ord=1;num=9325775657648.361",
+        "bytes": 0
+      },
+      "largestCompressed": {
+        "url": "https://log.getadblock.com"
+      },
+      "longest": {
+        "url": "https://easylist-downloads.adblockplus.org/exceptionrules.txt",
+        "time": 1382,
+        "timings": {
+          "blocked": 0,
+          "wait": 143,
+          "receive": 717,
+          "connect": 520
+        }
+      }
+    },
+    "document": {
+      "noOfRequests": 0
+    },
+    "font": {
+      "noOfRequests": 0
+    },
+    "image": {
+      "noOfRequests": 0
+    },
+    "style": {
+      "noOfRequests": 0
+    },
+    "script": {
+      "noOfRequests": 0
+    },
+    "xhr": {
+      "noOfRequests": 0
+    },
+    "other": {
+      "noOfRequests": 0
+    }
+  }
+}
