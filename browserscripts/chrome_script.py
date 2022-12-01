@@ -1,8 +1,12 @@
 from browsermobproxy import Server
 from selenium import webdriver
-import json,time,csv,sys
-output_folder = "../data/data_AdBlock/";
-web_filename = '../data/'+ sys.argv[1]
+import json
+import time
+import csv
+import sys
+output_folder = "../data/vanilla_chrome/"
+web_filename = '../data/' + sys.argv[1]
+
 
 class CreateHar(object):
     """create HTTP archive file"""
@@ -21,14 +25,15 @@ class CreateHar(object):
 
     def __start_server(self):
         """prepare and start server"""
-        self.server = Server(self.browser_mob, options={'existing_proxy_port_to_use': 8090})
+        self.server = Server(self.browser_mob, options={
+                             'existing_proxy_port_to_use': 8090})
         self.server.start()
         self.proxy = self.server.create_proxy()
 
     def __start_driver(self):
         """prepare and start driver"""
         options = webdriver.ChromeOptions()
-        options.add_extension('../plugins/Adblock_5.3.0_0.crx')
+        # options.add_extension('../plugins/Adblock_5.3.0_0.crx')
         options.add_argument('--ignore-ssl-errors=yes')
         options.add_argument('--ignore-certificate-errors')
         # profile = webdriver.Chrome()
@@ -44,7 +49,7 @@ class CreateHar(object):
     def create_har(self, title, url):
         """start request and parse response"""
         self.proxy.new_har(title)
-        time.sleep(10)
+        time.sleep(1)
         self.driver.get(url)
         time.sleep(5)
         result = json.dumps(self.proxy.har, ensure_ascii=False)
