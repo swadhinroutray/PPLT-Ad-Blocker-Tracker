@@ -32,23 +32,29 @@ class CreateHar(object):
 
     def __start_driver(self):
         """prepare and start driver"""
-        profile = webdriver.FirefoxProfile()
-        profile.set_preference("network.proxy.type", 1)
-        profile.set_preference("network.proxy.http", "localhost")
-        profile.set_preference("network.proxy.http_port", 8090)
-        profile.set_preference("network.proxy.ssl", "localhost")
-        profile.set_preference("network.proxy.ssl_port", 8090)
-        profile.set_preference("network.proxy.ftp", "localhost")
-        profile.set_preference("network.proxy.ftp_port", 8090)
-        profile.set_preference("network.proxy.socks", "localhost")
-        profile.set_preference("network.proxy.socks_port", 8090)
-        profile.set_preference("network.proxy.share_proxy_settings", True)
-        profile.set_preference("network.proxy.no_proxies_on", "")
+        #profile = webdriver.FirefoxProfile()
+        options = webdriver.FirefoxOptions()
+        # set proxy in options
+        options.set_preference("network.proxy.type", 1)
+        options.set_preference("network.proxy.http", "localhost")
+        options.set_preference("network.proxy.http_port", 8090)
+        options.set_preference("network.proxy.ssl", "localhost")
+        options.set_preference("network.proxy.ssl_port", 8090)
+        options.set_preference("network.proxy.ftp", "localhost")
+        options.set_preference("network.proxy.ftp_port", 8090)
+        options.set_preference("network.proxy.socks", "localhost")
+        options.set_preference("network.proxy.socks_port", 8090)
+        options.set_preference("network.proxy.share_proxy_settings", True)
 
-        profile.update_preferences()
+       # profile.update_preferences()
         # self.driver.set_proxy(self.proxy.selenium_proxy())
 
-        self.driver = webdriver.Firefox(firefox_profile=profile)
+        # configure the webdriver to use the browsermob-proxy server
+
+        # profile.set_proxy(self.proxy.selenium_proxy())
+
+        #self.driver = webdriver.Firefox(firefox_profile=profile)
+        self.driver = webdriver.Firefox(options=options)
 
         # self.driver.install_addon(r"/Users/jatanloya/PPLT-Ad-Blocker-Tracker/plugins/uBlock0_1.45.3b8.firefox.signed.xpi")
 
@@ -79,6 +85,5 @@ if __name__ == '__main__':
         datareader = csv.reader(csvfile)
         RUN.start_all()
         for row in datareader:
-
             RUN.create_har(row[1], row[2])
         RUN.stop_all()
