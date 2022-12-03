@@ -1,0 +1,73 @@
+{
+  "pages": {
+    "noOfPages": 1,
+    "medianOnLoad": null,
+    "ninetyFifthOnLoad": null,
+    "pages": [
+      {
+        "url": "Walgreens Boots Alliance",
+        "onLoad": null
+      }
+    ]
+  },
+  "requests": {
+    "all": {
+      "noOfRequests": 87,
+      "medianTime": 119,
+      "ninetyFifthTime": 567,
+      "medianTimings": {
+        "blocked": 0,
+        "wait": 30,
+        "receive": 0
+      },
+      "ninetyFifthTimings": {
+        "blocked": 0,
+        "wait": 145,
+        "receive": 25
+      },
+      "bytesTransferred": null,
+      "topUrl": {
+        "url": "https://fonts.googleapis.com/css",
+        "noOfOccurrences": 1
+      },
+      "largest": {
+        "url": "https://ws14.hotjar.com/api/v2/client/ws",
+        "bytes": 0
+      },
+      "largestCompressed": {
+        "url": "https://customer.homedepot.com/ox2V4j5dROs0Tf3O"
+      },
+      "longest": {
+        "url": "https://ws14.hotjar.com/api/v2/sites/2411840/recordings/content",
+        "time": 1089,
+        "timings": {
+          "blocked": 0,
+          "wait": 615,
+          "receive": 0,
+          "connect": 433
+        }
+      }
+    },
+    "document": {
+      "noOfRequests": 0
+    },
+    "font": {
+      "noOfRequests": 0
+    },
+    "image": {
+      "noOfRequests": 0
+    },
+    "style": {
+      "noOfRequests": 0
+    },
+    "script": {
+      "noOfRequests": 0
+    },
+    "xhr": {
+      "noOfRequests": 0
+    },
+    "other": {
+      "noOfRequests": 0
+    }
+  }
+}

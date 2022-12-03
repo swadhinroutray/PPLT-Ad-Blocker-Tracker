@@ -1,0 +1,73 @@
+{
+  "pages": {
+    "noOfPages": 1,
+    "medianOnLoad": null,
+    "ninetyFifthOnLoad": null,
+    "pages": [
+      {
+        "url": "DTEEnergy",
+        "onLoad": null
+      }
+    ]
+  },
+  "requests": {
+    "all": {
+      "noOfRequests": 99,
+      "medianTime": 44,
+      "ninetyFifthTime": 406,
+      "medianTimings": {
+        "blocked": -1,
+        "wait": 31,
+        "receive": 0
+      },
+      "ninetyFifthTimings": {
+        "blocked": 0,
+        "wait": 55,
+        "receive": 88
+      },
+      "bytesTransferred": null,
+      "topUrl": {
+        "url": "https://signin.dteenergy.com/sdk.config.get",
+        "noOfOccurrences": 4
+      },
+      "largest": {
+        "url": "https://www.newlook.dteenergy.com/wps/wcm/rb_7ce986b5-9ae7-4368-b27f-375c62e89bb2",
+        "bytes": 0
+      },
+      "largestCompressed": {
+        "url": "https://www.newlook.dteenergy.com/"
+      },
+      "longest": {
+        "url": "https://www.newlook.dteenergy.com/wps/wcm/ruxitagentjs_ICA27QVfhjqrux_10247220811100421.js",
+        "time": 724,
+        "timings": {
+          "blocked": 0,
+          "wait": 39,
+          "receive": 311,
+          "connect": 289
+        }
+      }
+    },
+    "document": {
+      "noOfRequests": 0
+    },
+    "font": {
+      "noOfRequests": 0
+    },
+    "image": {
+      "noOfRequests": 0
+    },
+    "style": {
+      "noOfRequests": 0
+    },
+    "script": {
+      "noOfRequests": 0
+    },
+    "xhr": {
+      "noOfRequests": 0
+    },
+    "other": {
+      "noOfRequests": 0
+    }
+  }
+}

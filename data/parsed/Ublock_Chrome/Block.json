@@ -1,0 +1,73 @@
+{
+  "pages": {
+    "noOfPages": 1,
+    "medianOnLoad": null,
+    "ninetyFifthOnLoad": null,
+    "pages": [
+      {
+        "url": "Block",
+        "onLoad": null
+      }
+    ]
+  },
+  "requests": {
+    "all": {
+      "noOfRequests": 21,
+      "medianTime": 106,
+      "ninetyFifthTime": 308,
+      "medianTimings": {
+        "blocked": 0,
+        "wait": 24,
+        "receive": 6
+      },
+      "ninetyFifthTimings": {
+        "blocked": 0,
+        "wait": 76,
+        "receive": 34
+      },
+      "bytesTransferred": null,
+      "topUrl": {
+        "url": "https://www.block.xyz/playlist/free_mind.mp3",
+        "noOfOccurrences": 0
+      },
+      "largest": {
+        "url": "https://www.block.xyz/playlist/free_mind.mp3",
+        "bytes": 0
+      },
+      "largestCompressed": {
+        "url": "https://www.block.xyz/"
+      },
+      "longest": {
+        "url": "https://www.block.xyz/",
+        "time": 427,
+        "timings": {
+          "blocked": 0,
+          "wait": 58,
+          "receive": 0,
+          "connect": 309
+        }
+      }
+    },
+    "document": {
+      "noOfRequests": 0
+    },
+    "font": {
+      "noOfRequests": 0
+    },
+    "image": {
+      "noOfRequests": 0
+    },
+    "style": {
+      "noOfRequests": 0
+    },
+    "script": {
+      "noOfRequests": 0
+    },
+    "xhr": {
+      "noOfRequests": 0
+    },
+    "other": {
+      "noOfRequests": 0
+    }
+  }
+}

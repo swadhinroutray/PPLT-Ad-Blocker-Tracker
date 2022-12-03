@@ -1,0 +1,73 @@
+{
+  "pages": {
+    "noOfPages": 1,
+    "medianOnLoad": null,
+    "ninetyFifthOnLoad": null,
+    "pages": [
+      {
+        "url": "Bank of America",
+        "onLoad": null
+      }
+    ]
+  },
+  "requests": {
+    "all": {
+      "noOfRequests": 97,
+      "medianTime": 30,
+      "ninetyFifthTime": 342,
+      "medianTimings": {
+        "blocked": -1,
+        "wait": 25,
+        "receive": 0
+      },
+      "ninetyFifthTimings": {
+        "blocked": 0,
+        "wait": 108,
+        "receive": 25
+      },
+      "bytesTransferred": null,
+      "topUrl": {
+        "url": "https://target.bankofamerica.com/m2/bankofamerica/mbox/json",
+        "noOfOccurrences": 7
+      },
+      "largest": {
+        "url": "https://secure.bankofamerica.com/pa/components/utilities/ah-continuous-auth-util/1.1/deploy/cau-login.js",
+        "bytes": 0
+      },
+      "largestCompressed": {
+        "url": "https://image2.pubmatic.com/AdServer/Pug"
+      },
+      "longest": {
+        "url": "https://www.bankofamerica.com/",
+        "time": 1046,
+        "timings": {
+          "blocked": 0,
+          "wait": 177,
+          "receive": 240,
+          "connect": 453
+        }
+      }
+    },
+    "document": {
+      "noOfRequests": 0
+    },
+    "font": {
+      "noOfRequests": 0
+    },
+    "image": {
+      "noOfRequests": 0
+    },
+    "style": {
+      "noOfRequests": 0
+    },
+    "script": {
+      "noOfRequests": 0
+    },
+    "xhr": {
+      "noOfRequests": 0
+    },
+    "other": {
+      "noOfRequests": 0
+    }
+  }
+}

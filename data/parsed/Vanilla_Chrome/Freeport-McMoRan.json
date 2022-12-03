@@ -1,0 +1,73 @@
+{
+  "pages": {
+    "noOfPages": 1,
+    "medianOnLoad": null,
+    "ninetyFifthOnLoad": null,
+    "pages": [
+      {
+        "url": "Freeport-McMoRan",
+        "onLoad": null
+      }
+    ]
+  },
+  "requests": {
+    "all": {
+      "noOfRequests": 75,
+      "medianTime": 88,
+      "ninetyFifthTime": 342,
+      "medianTimings": {
+        "blocked": -1,
+        "wait": 69,
+        "receive": 0
+      },
+      "ninetyFifthTimings": {
+        "blocked": 0,
+        "wait": 151,
+        "receive": 176
+      },
+      "bytesTransferred": null,
+      "topUrl": {
+        "url": "https://bam.nr-data.net/1/c3a305d69b",
+        "noOfOccurrences": 0
+      },
+      "largest": {
+        "url": "https://bam.nr-data.net/1/c3a305d69b",
+        "bytes": 0
+      },
+      "largestCompressed": {
+        "url": "https://68794910.akstat.io/"
+      },
+      "longest": {
+        "url": "https://www.fcx.com/sites/fcx/files/css/css_GC1Msw4KATCXAdD3iEenu-gUopyyZXyGZt2Bch1ZeT4.css",
+        "time": 811,
+        "timings": {
+          "blocked": 0,
+          "wait": 154,
+          "receive": 0,
+          "connect": 455
+        }
+      }
+    },
+    "document": {
+      "noOfRequests": 0
+    },
+    "font": {
+      "noOfRequests": 0
+    },
+    "image": {
+      "noOfRequests": 0
+    },
+    "style": {
+      "noOfRequests": 0
+    },
+    "script": {
+      "noOfRequests": 0
+    },
+    "xhr": {
+      "noOfRequests": 0
+    },
+    "other": {
+      "noOfRequests": 0
+    }
+  }
+}

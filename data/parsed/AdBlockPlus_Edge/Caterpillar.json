@@ -1,0 +1,73 @@
+{
+  "pages": {
+    "noOfPages": 1,
+    "medianOnLoad": null,
+    "ninetyFifthOnLoad": null,
+    "pages": [
+      {
+        "url": "Caterpillar",
+        "onLoad": null
+      }
+    ]
+  },
+  "requests": {
+    "all": {
+      "noOfRequests": 85,
+      "medianTime": 46,
+      "ninetyFifthTime": 271,
+      "medianTimings": {
+        "blocked": -1,
+        "wait": 32,
+        "receive": 0
+      },
+      "ninetyFifthTimings": {
+        "blocked": 0,
+        "wait": 159,
+        "receive": 37
+      },
+      "bytesTransferred": null,
+      "topUrl": {
+        "url": "https://www.caterpillar.com/",
+        "noOfOccurrences": 2
+      },
+      "largest": {
+        "url": "https://edge.microsoft.com/autofillservice/v1/pages/ChVDaHJvbWUvMTA3LjAuNTMwNC4xNTASLAk7EOwkJUS_RBIFDZFhlU4SBQ2RYZVOEgUNkWGVThIFDZFhlU4SBQ2lkzYk",
+        "bytes": 0
+      },
+      "largestCompressed": {
+        "url": "https://173bf109.akstat.io/"
+      },
+      "longest": {
+        "url": "https://edge.microsoft.com/autofillservice/v1/pages/ChVDaHJvbWUvMTA3LjAuNTMwNC4xNTASJQmYgkD0cpvTOhIFDZFhlU4SBQ2RYZVOEgUNkWGVThIFDZFhlU4=",
+        "time": 1107,
+        "timings": {
+          "blocked": 0,
+          "wait": 997,
+          "receive": 0,
+          "connect": 110
+        }
+      }
+    },
+    "document": {
+      "noOfRequests": 0
+    },
+    "font": {
+      "noOfRequests": 0
+    },
+    "image": {
+      "noOfRequests": 0
+    },
+    "style": {
+      "noOfRequests": 0
+    },
+    "script": {
+      "noOfRequests": 0
+    },
+    "xhr": {
+      "noOfRequests": 0
+    },
+    "other": {
+      "noOfRequests": 0
+    }
+  }
+}

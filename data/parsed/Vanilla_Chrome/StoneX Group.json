@@ -1,0 +1,73 @@
+{
+  "pages": {
+    "noOfPages": 1,
+    "medianOnLoad": null,
+    "ninetyFifthOnLoad": null,
+    "pages": [
+      {
+        "url": "StoneX Group",
+        "onLoad": null
+      }
+    ]
+  },
+  "requests": {
+    "all": {
+      "noOfRequests": 175,
+      "medianTime": 46,
+      "ninetyFifthTime": 334,
+      "medianTimings": {
+        "blocked": -1,
+        "wait": 32,
+        "receive": 0
+      },
+      "ninetyFifthTimings": {
+        "blocked": 0,
+        "wait": 94,
+        "receive": 36
+      },
+      "bytesTransferred": null,
+      "topUrl": {
+        "url": "https://www.youtube.com/youtubei/v1/log_event",
+        "noOfOccurrences": 9
+      },
+      "largest": {
+        "url": "https://www.youtube.com/youtubei/v1/log_event",
+        "bytes": 0
+      },
+      "largestCompressed": {
+        "url": "https://s3.amazonaws.com/ps.projects/abbott/new-bot-icon.png"
+      },
+      "longest": {
+        "url": "https://www.stonex.com/globalassets/new-homepage-blocks/video-banner-blocks/wespeakyourlanguageanimation-1280x500.gif",
+        "time": 1095,
+        "timings": {
+          "blocked": -1,
+          "wait": 135,
+          "receive": 959,
+          "connect": -1
+        }
+      }
+    },
+    "document": {
+      "noOfRequests": 0
+    },
+    "font": {
+      "noOfRequests": 0
+    },
+    "image": {
+      "noOfRequests": 0
+    },
+    "style": {
+      "noOfRequests": 0
+    },
+    "script": {
+      "noOfRequests": 0
+    },
+    "xhr": {
+      "noOfRequests": 0
+    },
+    "other": {
+      "noOfRequests": 0
+    }
+  }
+}

@@ -1,0 +1,73 @@
+{
+  "pages": {
+    "noOfPages": 1,
+    "medianOnLoad": null,
+    "ninetyFifthOnLoad": null,
+    "pages": [
+      {
+        "url": "MetLife",
+        "onLoad": null
+      }
+    ]
+  },
+  "requests": {
+    "all": {
+      "noOfRequests": 165,
+      "medianTime": 58,
+      "ninetyFifthTime": 324,
+      "medianTimings": {
+        "blocked": -1,
+        "wait": 26,
+        "receive": 0
+      },
+      "ninetyFifthTimings": {
+        "blocked": 0,
+        "wait": 53,
+        "receive": 55
+      },
+      "bytesTransferred": null,
+      "topUrl": {
+        "url": "https://collection.decibelinsight.net/i/14029/da/",
+        "noOfOccurrences": 11
+      },
+      "largest": {
+        "url": "https://udc-neb.kampyle.com/egw/5/qceuv8449dzg58ptt1bhda9g8ue19c7s/track/__cool.gif",
+        "bytes": 0
+      },
+      "largestCompressed": {
+        "url": "https://id5-sync.com/g/v2/974.json"
+      },
+      "longest": {
+        "url": "https://id5-sync.com/g/v2/974.json",
+        "time": 628,
+        "timings": {
+          "blocked": 0,
+          "wait": 107,
+          "receive": 0,
+          "connect": 493
+        }
+      }
+    },
+    "document": {
+      "noOfRequests": 0
+    },
+    "font": {
+      "noOfRequests": 0
+    },
+    "image": {
+      "noOfRequests": 0
+    },
+    "style": {
+      "noOfRequests": 0
+    },
+    "script": {
+      "noOfRequests": 0
+    },
+    "xhr": {
+      "noOfRequests": 0
+    },
+    "other": {
+      "noOfRequests": 0
+    }
+  }
+}

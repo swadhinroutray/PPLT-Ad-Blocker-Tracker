@@ -1,0 +1,73 @@
+{
+  "pages": {
+    "noOfPages": 1,
+    "medianOnLoad": null,
+    "ninetyFifthOnLoad": null,
+    "pages": [
+      {
+        "url": "Boeing",
+        "onLoad": null
+      }
+    ]
+  },
+  "requests": {
+    "all": {
+      "noOfRequests": 123,
+      "medianTime": 147,
+      "ninetyFifthTime": 414,
+      "medianTimings": {
+        "blocked": 0,
+        "wait": 63,
+        "receive": 0
+      },
+      "ninetyFifthTimings": {
+        "blocked": 0,
+        "wait": 105,
+        "receive": 155
+      },
+      "bytesTransferred": null,
+      "topUrl": {
+        "url": "https://su.addthis.com/red/usync",
+        "noOfOccurrences": 3
+      },
+      "largest": {
+        "url": "https://2771890.fls.doubleclick.net/activityi;dc_pre=CJzI18uF3PsCFWkCaAgdBdYKdw;src=2771890;type=boein0;cat=boein00d;u8=https://www.boeing.com/;u9=;dc_lat=;dc_rdid=;tag_for_child_directed_treatment=;ord=1;num=4883876600294.616",
+        "bytes": 0
+      },
+      "largestCompressed": {
+        "url": "https://privacyportal.onetrust.com/request/v1/consentreceipts"
+      },
+      "longest": {
+        "url": "https://www.boeing.com/assets/boeing.min.css",
+        "time": 814,
+        "timings": {
+          "blocked": 0,
+          "wait": 77,
+          "receive": 243,
+          "connect": 364
+        }
+      }
+    },
+    "document": {
+      "noOfRequests": 0
+    },
+    "font": {
+      "noOfRequests": 0
+    },
+    "image": {
+      "noOfRequests": 0
+    },
+    "style": {
+      "noOfRequests": 0
+    },
+    "script": {
+      "noOfRequests": 0
+    },
+    "xhr": {
+      "noOfRequests": 0
+    },
+    "other": {
+      "noOfRequests": 0
+    }
+  }
+}

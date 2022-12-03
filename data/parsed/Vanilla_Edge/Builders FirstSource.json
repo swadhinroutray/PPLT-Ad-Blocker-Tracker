@@ -1,0 +1,73 @@
+{
+  "pages": {
+    "noOfPages": 1,
+    "medianOnLoad": null,
+    "ninetyFifthOnLoad": null,
+    "pages": [
+      {
+        "url": "Builders FirstSource",
+        "onLoad": null
+      }
+    ]
+  },
+  "requests": {
+    "all": {
+      "noOfRequests": 111,
+      "medianTime": 48,
+      "ninetyFifthTime": 400,
+      "medianTimings": {
+        "blocked": -1,
+        "wait": 27,
+        "receive": 0
+      },
+      "ninetyFifthTimings": {
+        "blocked": 0,
+        "wait": 91,
+        "receive": 43
+      },
+      "bytesTransferred": null,
+      "topUrl": {
+        "url": "https://info.bldr.com/analytics",
+        "noOfOccurrences": 1
+      },
+      "largest": {
+        "url": "https://www.bldr.com/_ui/responsive/theme-bldr/images/favicon.ico",
+        "bytes": 0
+      },
+      "largestCompressed": {
+        "url": "https://nav-edge.smartscreen.microsoft.com/api/browser/edge/navigate/3"
+      },
+      "longest": {
+        "url": "https://info.bldr.com/l/965693/2022-04-12/lbjz",
+        "time": 636,
+        "timings": {
+          "blocked": 0,
+          "wait": 267,
+          "receive": 0,
+          "connect": 253
+        }
+      }
+    },
+    "document": {
+      "noOfRequests": 0
+    },
+    "font": {
+      "noOfRequests": 0
+    },
+    "image": {
+      "noOfRequests": 0
+    },
+    "style": {
+      "noOfRequests": 0
+    },
+    "script": {
+      "noOfRequests": 0
+    },
+    "xhr": {
+      "noOfRequests": 0
+    },
+    "other": {
+      "noOfRequests": 0
+    }
+  }
+}

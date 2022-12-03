@@ -1,0 +1,73 @@
+{
+  "pages": {
+    "noOfPages": 1,
+    "medianOnLoad": null,
+    "ninetyFifthOnLoad": null,
+    "pages": [
+      {
+        "url": "Duke Energy",
+        "onLoad": null
+      }
+    ]
+  },
+  "requests": {
+    "all": {
+      "noOfRequests": 133,
+      "medianTime": 115,
+      "ninetyFifthTime": 437,
+      "medianTimings": {
+        "blocked": 0,
+        "wait": 32,
+        "receive": 0
+      },
+      "ninetyFifthTimings": {
+        "blocked": 0,
+        "wait": 207,
+        "receive": 25
+      },
+      "bytesTransferred": null,
+      "topUrl": {
+        "url": "https://cdn.linkedin.oribi.io/partner/431714/domain/duke-energy.com/token",
+        "noOfOccurrences": 11
+      },
+      "largest": {
+        "url": "https://www.google-analytics.com/g/collect",
+        "bytes": 0
+      },
+      "largestCompressed": {
+        "url": "https://www.macys.com/favicon.ico"
+      },
+      "longest": {
+        "url": "https://www.duke-energy.com/home",
+        "time": 771,
+        "timings": {
+          "blocked": -1,
+          "wait": 746,
+          "receive": 25,
+          "connect": -1
+        }
+      }
+    },
+    "document": {
+      "noOfRequests": 0
+    },
+    "font": {
+      "noOfRequests": 0
+    },
+    "image": {
+      "noOfRequests": 0
+    },
+    "style": {
+      "noOfRequests": 0
+    },
+    "script": {
+      "noOfRequests": 0
+    },
+    "xhr": {
+      "noOfRequests": 0
+    },
+    "other": {
+      "noOfRequests": 0
+    }
+  }
+}

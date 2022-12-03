@@ -1,0 +1,73 @@
+{
+  "pages": {
+    "noOfPages": 1,
+    "medianOnLoad": null,
+    "ninetyFifthOnLoad": null,
+    "pages": [
+      {
+        "url": "Lowe's",
+        "onLoad": null
+      }
+    ]
+  },
+  "requests": {
+    "all": {
+      "noOfRequests": 158,
+      "medianTime": 81,
+      "ninetyFifthTime": 551,
+      "medianTimings": {
+        "blocked": -1,
+        "wait": 27,
+        "receive": 0
+      },
+      "ninetyFifthTimings": {
+        "blocked": 0,
+        "wait": 166,
+        "receive": 44
+      },
+      "bytesTransferred": null,
+      "topUrl": {
+        "url": "https://www.lowes.com/N0mMF0LKTXQkxGAMMElp/z75mkzrhm1YN/BVB-WxFXew4/MEwTO/1JEbnwB",
+        "noOfOccurrences": 3
+      },
+      "largest": {
+        "url": "https://bat.bing.com/p/action/5668750.js",
+        "bytes": 0
+      },
+      "largestCompressed": {
+        "url": "https://68794907.akstat.io/"
+      },
+      "longest": {
+        "url": "https://www.lowescdn.com/www/node/global-header-footer/5.578.1/header-v2.d1cf1615.js",
+        "time": 743,
+        "timings": {
+          "blocked": 0,
+          "wait": 111,
+          "receive": 55,
+          "connect": 495
+        }
+      }
+    },
+    "document": {
+      "noOfRequests": 0
+    },
+    "font": {
+      "noOfRequests": 0
+    },
+    "image": {
+      "noOfRequests": 0
+    },
+    "style": {
+      "noOfRequests": 0
+    },
+    "script": {
+      "noOfRequests": 0
+    },
+    "xhr": {
+      "noOfRequests": 0
+    },
+    "other": {
+      "noOfRequests": 0
+    }
+  }
+}

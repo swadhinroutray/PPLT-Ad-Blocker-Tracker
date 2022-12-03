@@ -1,0 +1,73 @@
+{
+  "pages": {
+    "noOfPages": 1,
+    "medianOnLoad": null,
+    "ninetyFifthOnLoad": null,
+    "pages": [
+      {
+        "url": "WestRock",
+        "onLoad": null
+      }
+    ]
+  },
+  "requests": {
+    "all": {
+      "noOfRequests": 116,
+      "medianTime": 79,
+      "ninetyFifthTime": 367,
+      "medianTimings": {
+        "blocked": -1,
+        "wait": 38,
+        "receive": 1
+      },
+      "ninetyFifthTimings": {
+        "blocked": 0,
+        "wait": 99,
+        "receive": 96
+      },
+      "bytesTransferred": null,
+      "topUrl": {
+        "url": "https://www.westrock.com/_Incapsula_Resource",
+        "noOfOccurrences": 1
+      },
+      "largest": {
+        "url": "https://www.westrock.com/public/westrock/images/favicon.ico",
+        "bytes": 0
+      },
+      "largestCompressed": {
+        "url": "https://www.westrock.com/"
+      },
+      "longest": {
+        "url": "https://prospector.pmmimediagroup.com/pmg-beacon",
+        "time": 1396,
+        "timings": {
+          "blocked": 0,
+          "wait": 1325,
+          "receive": 0,
+          "connect": 70
+        }
+      }
+    },
+    "document": {
+      "noOfRequests": 0
+    },
+    "font": {
+      "noOfRequests": 0
+    },
+    "image": {
+      "noOfRequests": 0
+    },
+    "style": {
+      "noOfRequests": 0
+    },
+    "script": {
+      "noOfRequests": 0
+    },
+    "xhr": {
+      "noOfRequests": 0
+    },
+    "other": {
+      "noOfRequests": 0
+    }
+  }
+}

@@ -1,0 +1,73 @@
+{
+  "pages": {
+    "noOfPages": 1,
+    "medianOnLoad": null,
+    "ninetyFifthOnLoad": null,
+    "pages": [
+      {
+        "url": "WestRock",
+        "onLoad": null
+      }
+    ]
+  },
+  "requests": {
+    "all": {
+      "noOfRequests": 139,
+      "medianTime": 62,
+      "ninetyFifthTime": 570,
+      "medianTimings": {
+        "blocked": -1,
+        "wait": 38,
+        "receive": 0
+      },
+      "ninetyFifthTimings": {
+        "blocked": 0,
+        "wait": 115,
+        "receive": 118
+      },
+      "bytesTransferred": null,
+      "topUrl": {
+        "url": "https://edge.microsoft.com/componentupdater/api/v1/update",
+        "noOfOccurrences": 11
+      },
+      "largest": {
+        "url": "https://www.westrock.com/public/westrock/images/favicon.ico",
+        "bytes": 0
+      },
+      "largestCompressed": {
+        "url": "https://www.westrock.com/"
+      },
+      "longest": {
+        "url": "https://www.westrock.com/-/media/images/products/automation/meta-duo/metaduo-175-dpi-png.png",
+        "time": 4824,
+        "timings": {
+          "blocked": -1,
+          "wait": 67,
+          "receive": 4757,
+          "connect": -1
+        }
+      }
+    },
+    "document": {
+      "noOfRequests": 0
+    },
+    "font": {
+      "noOfRequests": 0
+    },
+    "image": {
+      "noOfRequests": 0
+    },
+    "style": {
+      "noOfRequests": 0
+    },
+    "script": {
+      "noOfRequests": 0
+    },
+    "xhr": {
+      "noOfRequests": 0
+    },
+    "other": {
+      "noOfRequests": 0
+    }
+  }
+}

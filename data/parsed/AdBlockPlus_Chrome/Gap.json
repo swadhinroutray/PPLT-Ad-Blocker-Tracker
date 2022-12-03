@@ -1,0 +1,73 @@
+{
+  "pages": {
+    "noOfPages": 1,
+    "medianOnLoad": null,
+    "ninetyFifthOnLoad": null,
+    "pages": [
+      {
+        "url": "Gap",
+        "onLoad": null
+      }
+    ]
+  },
+  "requests": {
+    "all": {
+      "noOfRequests": 120,
+      "medianTime": 44,
+      "ninetyFifthTime": 399,
+      "medianTimings": {
+        "blocked": -1,
+        "wait": 39,
+        "receive": 0
+      },
+      "ninetyFifthTimings": {
+        "blocked": 0,
+        "wait": 208,
+        "receive": 23
+      },
+      "bytesTransferred": null,
+      "topUrl": {
+        "url": "https://update.googleapis.com/service/update2/json",
+        "noOfOccurrences": 9
+      },
+      "largest": {
+        "url": "https://update.googleapis.com/service/update2/json",
+        "bytes": 0
+      },
+      "largestCompressed": {
+        "url": "http://edgedl.me.gvt1.com/edgedl/release2/chrome_component/adrir7gejsjla4vjhvqdx23w4mta_9.41.0/gcmjkmgdlgnkkcocmoeiminaijmmjnii_9.41.0_all_adazbiririz6mrhekuvwx2r4zjiq.crx3"
+      },
+      "longest": {
+        "url": "https://s.go-mpulse.net/boomerang/8TH7R-A8HZ6-FFABL-LUVZF-RTH3D",
+        "time": 1157,
+        "timings": {
+          "blocked": 0,
+          "wait": 49,
+          "receive": 28,
+          "connect": 1079
+        }
+      }
+    },
+    "document": {
+      "noOfRequests": 0
+    },
+    "font": {
+      "noOfRequests": 0
+    },
+    "image": {
+      "noOfRequests": 0
+    },
+    "style": {
+      "noOfRequests": 0
+    },
+    "script": {
+      "noOfRequests": 0
+    },
+    "xhr": {
+      "noOfRequests": 0
+    },
+    "other": {
+      "noOfRequests": 0
+    }
+  }
+}

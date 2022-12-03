@@ -1,0 +1,73 @@
+{
+  "pages": {
+    "noOfPages": 1,
+    "medianOnLoad": null,
+    "ninetyFifthOnLoad": null,
+    "pages": [
+      {
+        "url": "PayPal Holdings",
+        "onLoad": null
+      }
+    ]
+  },
+  "requests": {
+    "all": {
+      "noOfRequests": 28,
+      "medianTime": 47,
+      "ninetyFifthTime": 286,
+      "medianTimings": {
+        "blocked": -1,
+        "wait": 23,
+        "receive": 0
+      },
+      "ninetyFifthTimings": {
+        "blocked": 0,
+        "wait": 198,
+        "receive": 17
+      },
+      "bytesTransferred": null,
+      "topUrl": {
+        "url": "https://www.recaptcha.net/recaptcha/enterprise.js",
+        "noOfOccurrences": 0
+      },
+      "largest": {
+        "url": "https://www.recaptcha.net/recaptcha/enterprise.js",
+        "bytes": 0
+      },
+      "largestCompressed": {
+        "url": "https://www.paypal.com/"
+      },
+      "longest": {
+        "url": "https://www.paypal.com/us/home",
+        "time": 515,
+        "timings": {
+          "blocked": -1,
+          "wait": 508,
+          "receive": 6,
+          "connect": -1
+        }
+      }
+    },
+    "document": {
+      "noOfRequests": 0
+    },
+    "font": {
+      "noOfRequests": 0
+    },
+    "image": {
+      "noOfRequests": 0
+    },
+    "style": {
+      "noOfRequests": 0
+    },
+    "script": {
+      "noOfRequests": 0
+    },
+    "xhr": {
+      "noOfRequests": 0
+    },
+    "other": {
+      "noOfRequests": 0
+    }
+  }
+}

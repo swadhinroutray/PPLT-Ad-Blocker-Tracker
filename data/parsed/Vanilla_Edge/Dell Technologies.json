@@ -1,0 +1,73 @@
+{
+  "pages": {
+    "noOfPages": 1,
+    "medianOnLoad": null,
+    "ninetyFifthOnLoad": null,
+    "pages": [
+      {
+        "url": "Dell Technologies",
+        "onLoad": null
+      }
+    ]
+  },
+  "requests": {
+    "all": {
+      "noOfRequests": 153,
+      "medianTime": 125,
+      "ninetyFifthTime": 468,
+      "medianTimings": {
+        "blocked": 0,
+        "wait": 33,
+        "receive": 0
+      },
+      "ninetyFifthTimings": {
+        "blocked": 0,
+        "wait": 181,
+        "receive": 33
+      },
+      "bytesTransferred": null,
+      "topUrl": {
+        "url": "https://www.googletagmanager.com/gtag/js",
+        "noOfOccurrences": 6
+      },
+      "largest": {
+        "url": "https://dell-prod.actioniq.mr-in.com/v1/p",
+        "bytes": 0
+      },
+      "largestCompressed": {
+        "url": "https://www.dell.com/en-in"
+      },
+      "longest": {
+        "url": "https://i.dell.com/is/image/DellContent/content/dam/ss2/page-specific/dell-homepage/apj/heroes/show-latitude-sb-dell-latitude-7430t-uhp-2304-01-in-homepage-hero-lf-2400x696-lr.png",
+        "time": 1004,
+        "timings": {
+          "blocked": 0,
+          "wait": 476,
+          "receive": 56,
+          "connect": 437
+        }
+      }
+    },
+    "document": {
+      "noOfRequests": 0
+    },
+    "font": {
+      "noOfRequests": 0
+    },
+    "image": {
+      "noOfRequests": 0
+    },
+    "style": {
+      "noOfRequests": 0
+    },
+    "script": {
+      "noOfRequests": 0
+    },
+    "xhr": {
+      "noOfRequests": 0
+    },
+    "other": {
+      "noOfRequests": 0
+    }
+  }
+}

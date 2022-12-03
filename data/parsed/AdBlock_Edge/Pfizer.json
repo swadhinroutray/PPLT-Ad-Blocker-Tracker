@@ -1,0 +1,73 @@
+{
+  "pages": {
+    "noOfPages": 1,
+    "medianOnLoad": null,
+    "ninetyFifthOnLoad": null,
+    "pages": [
+      {
+        "url": "Pfizer",
+        "onLoad": null
+      }
+    ]
+  },
+  "requests": {
+    "all": {
+      "noOfRequests": 162,
+      "medianTime": 97,
+      "ninetyFifthTime": 405,
+      "medianTimings": {
+        "blocked": -1,
+        "wait": 33,
+        "receive": 0
+      },
+      "ninetyFifthTimings": {
+        "blocked": 0,
+        "wait": 115,
+        "receive": 40
+      },
+      "bytesTransferred": null,
+      "topUrl": {
+        "url": "https://secure.adnxs.com/bounce",
+        "noOfOccurrences": 5
+      },
+      "largest": {
+        "url": "https://getadblock.com/images/smallWhiteLock.png",
+        "bytes": 0
+      },
+      "largestCompressed": {
+        "url": "https://resources.digital-cloud.medallia.com/wdcus/6172/onsite/embed.js"
+      },
+      "longest": {
+        "url": "https://px.ads.linkedin.com/collect",
+        "time": 974,
+        "timings": {
+          "blocked": 0,
+          "wait": 705,
+          "receive": 0,
+          "connect": 234
+        }
+      }
+    },
+    "document": {
+      "noOfRequests": 0
+    },
+    "font": {
+      "noOfRequests": 0
+    },
+    "image": {
+      "noOfRequests": 0
+    },
+    "style": {
+      "noOfRequests": 0
+    },
+    "script": {
+      "noOfRequests": 0
+    },
+    "xhr": {
+      "noOfRequests": 0
+    },
+    "other": {
+      "noOfRequests": 0
+    }
+  }
+}

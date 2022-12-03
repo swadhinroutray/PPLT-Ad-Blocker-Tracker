@@ -1,0 +1,73 @@
+{
+  "pages": {
+    "noOfPages": 1,
+    "medianOnLoad": null,
+    "ninetyFifthOnLoad": null,
+    "pages": [
+      {
+        "url": "ConocoPhillips",
+        "onLoad": null
+      }
+    ]
+  },
+  "requests": {
+    "all": {
+      "noOfRequests": 101,
+      "medianTime": 106,
+      "ninetyFifthTime": 346,
+      "medianTimings": {
+        "blocked": -1,
+        "wait": 27,
+        "receive": 2
+      },
+      "ninetyFifthTimings": {
+        "blocked": 0,
+        "wait": 58,
+        "receive": 67
+      },
+      "bytesTransferred": null,
+      "topUrl": {
+        "url": "https://fresnel.vimeocdn.com/add/player-stats",
+        "noOfOccurrences": 4
+      },
+      "largest": {
+        "url": "https://113vod-adaptive.akamaized.net/exp=1670026336~acl=%2F9c424f66-234e-403b-97d2-49192390f370%2F%2A~hmac=345099e72c5c25867069f2b7a7694821adb931484423b9844b4ee2fd51bfcbbc/9c424f66-234e-403b-97d2-49192390f370/sep/audio/5a3d5cb1/chop/segment-4.m4s",
+        "bytes": 0
+      },
+      "largestCompressed": {
+        "url": "https://www.conocophillips.com/"
+      },
+      "longest": {
+        "url": "https://static.conocophillips.com/files/maps/full-xsml-grissik-gas-plant-2.jpg",
+        "time": 480,
+        "timings": {
+          "blocked": 0,
+          "wait": 25,
+          "receive": 23,
+          "connect": 362
+        }
+      }
+    },
+    "document": {
+      "noOfRequests": 0
+    },
+    "font": {
+      "noOfRequests": 0
+    },
+    "image": {
+      "noOfRequests": 0
+    },
+    "style": {
+      "noOfRequests": 0
+    },
+    "script": {
+      "noOfRequests": 0
+    },
+    "xhr": {
+      "noOfRequests": 0
+    },
+    "other": {
+      "noOfRequests": 0
+    }
+  }
+}

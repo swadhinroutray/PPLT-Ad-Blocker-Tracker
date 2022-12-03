@@ -1,0 +1,73 @@
+{
+  "pages": {
+    "noOfPages": 1,
+    "medianOnLoad": null,
+    "ninetyFifthOnLoad": null,
+    "pages": [
+      {
+        "url": "Lear",
+        "onLoad": null
+      }
+    ]
+  },
+  "requests": {
+    "all": {
+      "noOfRequests": 72,
+      "medianTime": 45,
+      "ninetyFifthTime": 406,
+      "medianTimings": {
+        "blocked": -1,
+        "wait": 29,
+        "receive": 0
+      },
+      "ninetyFifthTimings": {
+        "blocked": 0,
+        "wait": 82,
+        "receive": 131
+      },
+      "bytesTransferred": null,
+      "topUrl": {
+        "url": "https://assets-global.website-files.com/6019e43dcfad3c059841794a/61bbefb83dce726a042e3f5f_youtube.png",
+        "noOfOccurrences": 1
+      },
+      "largest": {
+        "url": "https://assets-global.website-files.com/6019e43dcfad3c059841794a/6019e43dcfad3ccb2d417993_lear%20favicon.png",
+        "bytes": 0
+      },
+      "largestCompressed": {
+        "url": "https://nav-edge.smartscreen.microsoft.com/api/browser/edge/navigate/3"
+      },
+      "longest": {
+        "url": "https://cdn.finsweet.com/files/cmslibrary-v1.6.js",
+        "time": 781,
+        "timings": {
+          "blocked": 0,
+          "wait": 47,
+          "receive": 15,
+          "connect": 599
+        }
+      }
+    },
+    "document": {
+      "noOfRequests": 0
+    },
+    "font": {
+      "noOfRequests": 0
+    },
+    "image": {
+      "noOfRequests": 0
+    },
+    "style": {
+      "noOfRequests": 0
+    },
+    "script": {
+      "noOfRequests": 0
+    },
+    "xhr": {
+      "noOfRequests": 0
+    },
+    "other": {
+      "noOfRequests": 0
+    }
+  }
+}

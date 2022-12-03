@@ -1,0 +1,73 @@
+{
+  "pages": {
+    "noOfPages": 1,
+    "medianOnLoad": null,
+    "ninetyFifthOnLoad": null,
+    "pages": [
+      {
+        "url": "Charter Communications",
+        "onLoad": null
+      }
+    ]
+  },
+  "requests": {
+    "all": {
+      "noOfRequests": 233,
+      "medianTime": 25,
+      "ninetyFifthTime": 193,
+      "medianTimings": {
+        "blocked": -1,
+        "wait": 24,
+        "receive": 0
+      },
+      "ninetyFifthTimings": {
+        "blocked": 0,
+        "wait": 52,
+        "receive": 13
+      },
+      "bytesTransferred": null,
+      "topUrl": {
+        "url": "https://www.facebook.com/tr/",
+        "noOfOccurrences": 1
+      },
+      "largest": {
+        "url": "https://content-autofill.googleapis.com/v1/pages/ChRDaHJvbWUvMTA4LjAuNTM1OS45NBKqAQk5Qv_6nEVHZhIFDSFfFoQSBQ0oVqf1EgUNP-OY2hIFDZ6ikzcSBQ3Z1IgbEgUNopDM2xIFDR2olvUSBQ3tcDMnEgUNDtFCoBIFDXEuZNUSBQ1Z0h-sEgUN-2gT1hIFDXtgLqISBQ0NClPXEgUNjc-uBBIFDWc1Xs4SBQ0JsmrlEgUNojim4RIFDfNlE2ASBQ38BGq2EgUN7jhlfhIFDficLfsSBQ00If0d",
+        "bytes": 0
+      },
+      "largestCompressed": {
+        "url": "https://dpm.demdex.net/ibs:dpid=12105&dpuuid=715995179431"
+      },
+      "longest": {
+        "url": "https://charter.d2.sc.omtrdc.net/id",
+        "time": 370,
+        "timings": {
+          "blocked": 0,
+          "wait": 38,
+          "receive": 0,
+          "connect": 267
+        }
+      }
+    },
+    "document": {
+      "noOfRequests": 0
+    },
+    "font": {
+      "noOfRequests": 0
+    },
+    "image": {
+      "noOfRequests": 0
+    },
+    "style": {
+      "noOfRequests": 0
+    },
+    "script": {
+      "noOfRequests": 0
+    },
+    "xhr": {
+      "noOfRequests": 0
+    },
+    "other": {
+      "noOfRequests": 0
+    }
+  }
+}

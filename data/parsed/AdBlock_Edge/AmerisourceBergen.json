@@ -1,0 +1,73 @@
+{
+  "pages": {
+    "noOfPages": 1,
+    "medianOnLoad": null,
+    "ninetyFifthOnLoad": null,
+    "pages": [
+      {
+        "url": "AmerisourceBergen",
+        "onLoad": null
+      }
+    ]
+  },
+  "requests": {
+    "all": {
+      "noOfRequests": 120,
+      "medianTime": 110,
+      "ninetyFifthTime": 556,
+      "medianTimings": {
+        "blocked": 0,
+        "wait": 41,
+        "receive": 0
+      },
+      "ninetyFifthTimings": {
+        "blocked": 0,
+        "wait": 165,
+        "receive": 156
+      },
+      "bytesTransferred": null,
+      "topUrl": {
+        "url": "https://googleads.g.doubleclick.net/pagead/viewthroughconversion/761547705/",
+        "noOfOccurrences": 3
+      },
+      "largest": {
+        "url": "https://adservice.google.com/ddm/fls/p/dc_pre=CLX7pPbf2_sCFcUNwQod1pULHA;src=11201259;type=;cat=;cost=0;gtm=2odbu0;auiddc=7810882.1670012108;~oref=https%3A%2F%2Fwww.amerisourcebergen.com%2F",
+        "bytes": 0
+      },
+      "largestCompressed": {
+        "url": "https://www.google-analytics.com/collect"
+      },
+      "longest": {
+        "url": "https://www.amerisourcebergen.com/assets/dist/site.css",
+        "time": 1455,
+        "timings": {
+          "blocked": 0,
+          "wait": 47,
+          "receive": 1039,
+          "connect": 327
+        }
+      }
+    },
+    "document": {
+      "noOfRequests": 0
+    },
+    "font": {
+      "noOfRequests": 0
+    },
+    "image": {
+      "noOfRequests": 0
+    },
+    "style": {
+      "noOfRequests": 0
+    },
+    "script": {
+      "noOfRequests": 0
+    },
+    "xhr": {
+      "noOfRequests": 0
+    },
+    "other": {
+      "noOfRequests": 0
+    }
+  }
+}

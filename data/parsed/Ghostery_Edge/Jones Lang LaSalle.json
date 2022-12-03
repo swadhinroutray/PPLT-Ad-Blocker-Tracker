@@ -1,0 +1,73 @@
+{
+  "pages": {
+    "noOfPages": 1,
+    "medianOnLoad": null,
+    "ninetyFifthOnLoad": null,
+    "pages": [
+      {
+        "url": "Jones Lang LaSalle",
+        "onLoad": null
+      }
+    ]
+  },
+  "requests": {
+    "all": {
+      "noOfRequests": 51,
+      "medianTime": 108,
+      "ninetyFifthTime": 406,
+      "medianTimings": {
+        "blocked": -1,
+        "wait": 47,
+        "receive": 0
+      },
+      "ninetyFifthTimings": {
+        "blocked": 0,
+        "wait": 204,
+        "receive": 93
+      },
+      "bytesTransferred": null,
+      "topUrl": {
+        "url": "https://www.us.jll.com/etc/designs/jll-dot-com/favicon.ico",
+        "noOfOccurrences": 1
+      },
+      "largest": {
+        "url": "https://edge.microsoft.com/autofillservice/v1/pages/ChVDaHJvbWUvMTA3LjAuNTMwNC4xNTASFwmMypDO-yPxdRIFDZFhlU4SBQ2lkzYk",
+        "bytes": 0
+      },
+      "largestCompressed": {
+        "url": "https://privacyportal-de.onetrust.com/request/v1/consentreceipts"
+      },
+      "longest": {
+        "url": "https://www.us.jll.com/",
+        "time": 669,
+        "timings": {
+          "blocked": 0,
+          "wait": 363,
+          "receive": 17,
+          "connect": 166
+        }
+      }
+    },
+    "document": {
+      "noOfRequests": 0
+    },
+    "font": {
+      "noOfRequests": 0
+    },
+    "image": {
+      "noOfRequests": 0
+    },
+    "style": {
+      "noOfRequests": 0
+    },
+    "script": {
+      "noOfRequests": 0
+    },
+    "xhr": {
+      "noOfRequests": 0
+    },
+    "other": {
+      "noOfRequests": 0
+    }
+  }
+}

@@ -1,0 +1,73 @@
+{
+  "pages": {
+    "noOfPages": 1,
+    "medianOnLoad": null,
+    "ninetyFifthOnLoad": null,
+    "pages": [
+      {
+        "url": "Phillips 66",
+        "onLoad": null
+      }
+    ]
+  },
+  "requests": {
+    "all": {
+      "noOfRequests": 53,
+      "medianTime": 124,
+      "ninetyFifthTime": 332,
+      "medianTimings": {
+        "blocked": 0,
+        "wait": 29,
+        "receive": 1
+      },
+      "ninetyFifthTimings": {
+        "blocked": 0,
+        "wait": 120,
+        "receive": 48
+      },
+      "bytesTransferred": null,
+      "topUrl": {
+        "url": "https://phillips66.widen.net/content/xykicyrd3z/jpeg/1718_01A7692_hero_CLweb.jpeg",
+        "noOfOccurrences": 1
+      },
+      "largest": {
+        "url": "https://edge.microsoft.com/autofillservice/v1/pages/ChVDaHJvbWUvMTA3LjAuNTMwNC4xNTASEAmoOj_o3XTSURIFDaWTNiQ=",
+        "bytes": 0
+      },
+      "largestCompressed": {
+        "url": "https://173bf104.akstat.io/"
+      },
+      "longest": {
+        "url": "https://phillips66.widen.net/content/oitjrj1tov/jpeg/20210223_PSX_PRC_2573_hero_CLweb.jpeg",
+        "time": 685,
+        "timings": {
+          "blocked": 0,
+          "wait": 269,
+          "receive": 72,
+          "connect": 270
+        }
+      }
+    },
+    "document": {
+      "noOfRequests": 0
+    },
+    "font": {
+      "noOfRequests": 0
+    },
+    "image": {
+      "noOfRequests": 0
+    },
+    "style": {
+      "noOfRequests": 0
+    },
+    "script": {
+      "noOfRequests": 0
+    },
+    "xhr": {
+      "noOfRequests": 0
+    },
+    "other": {
+      "noOfRequests": 0
+    }
+  }
+}

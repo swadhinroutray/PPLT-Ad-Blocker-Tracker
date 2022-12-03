@@ -1,0 +1,73 @@
+{
+  "pages": {
+    "noOfPages": 1,
+    "medianOnLoad": null,
+    "ninetyFifthOnLoad": null,
+    "pages": [
+      {
+        "url": "Centene",
+        "onLoad": null
+      }
+    ]
+  },
+  "requests": {
+    "all": {
+      "noOfRequests": 75,
+      "medianTime": 56,
+      "ninetyFifthTime": 390,
+      "medianTimings": {
+        "blocked": -1,
+        "wait": 43,
+        "receive": 0
+      },
+      "ninetyFifthTimings": {
+        "blocked": 0,
+        "wait": 54,
+        "receive": 234
+      },
+      "bytesTransferred": null,
+      "topUrl": {
+        "url": "https://jnn-pa.googleapis.com/$rpc/google.internal.waa.v1.Waa/GenerateIT",
+        "noOfOccurrences": 1
+      },
+      "largest": {
+        "url": "https://www.gstatic.com/cv/js/sender/v1/cast_sender.js",
+        "bytes": 0
+      },
+      "largestCompressed": {
+        "url": "https://collection.decibelinsight.net/i/12251/354098/c.json"
+      },
+      "longest": {
+        "url": "https://www.centene.com/content/dam/centenedotcom/banners/care-manager-assist.jpg",
+        "time": 462,
+        "timings": {
+          "blocked": 0,
+          "wait": 47,
+          "receive": 314,
+          "connect": 101
+        }
+      }
+    },
+    "document": {
+      "noOfRequests": 0
+    },
+    "font": {
+      "noOfRequests": 0
+    },
+    "image": {
+      "noOfRequests": 0
+    },
+    "style": {
+      "noOfRequests": 0
+    },
+    "script": {
+      "noOfRequests": 0
+    },
+    "xhr": {
+      "noOfRequests": 0
+    },
+    "other": {
+      "noOfRequests": 0
+    }
+  }
+}

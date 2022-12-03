@@ -1,0 +1,73 @@
+{
+  "pages": {
+    "noOfPages": 1,
+    "medianOnLoad": null,
+    "ninetyFifthOnLoad": null,
+    "pages": [
+      {
+        "url": "Lam Research",
+        "onLoad": null
+      }
+    ]
+  },
+  "requests": {
+    "all": {
+      "noOfRequests": 99,
+      "medianTime": 114,
+      "ninetyFifthTime": 615,
+      "medianTimings": {
+        "blocked": -1,
+        "wait": 33,
+        "receive": 0
+      },
+      "ninetyFifthTimings": {
+        "blocked": 0,
+        "wait": 386,
+        "receive": 134
+      },
+      "bytesTransferred": null,
+      "topUrl": {
+        "url": "https://edge.microsoft.com/entityextractiontemplates/api/v1/assets/find-assets",
+        "noOfOccurrences": 2
+      },
+      "largest": {
+        "url": "https://edge.microsoft.com/abusiveadblocking/api/v1/blocklist",
+        "bytes": 0
+      },
+      "largestCompressed": {
+        "url": "https://www.googleapis.com/chromewebstore/v1.1/items/verify"
+      },
+      "longest": {
+        "url": "https://data-edge.smartscreen.microsoft.com/api/browser/edge/data/toptraffic/3",
+        "time": 982,
+        "timings": {
+          "blocked": 0,
+          "wait": 93,
+          "receive": 503,
+          "connect": 381
+        }
+      }
+    },
+    "document": {
+      "noOfRequests": 0
+    },
+    "font": {
+      "noOfRequests": 0
+    },
+    "image": {
+      "noOfRequests": 0
+    },
+    "style": {
+      "noOfRequests": 0
+    },
+    "script": {
+      "noOfRequests": 0
+    },
+    "xhr": {
+      "noOfRequests": 0
+    },
+    "other": {
+      "noOfRequests": 0
+    }
+  }
+}

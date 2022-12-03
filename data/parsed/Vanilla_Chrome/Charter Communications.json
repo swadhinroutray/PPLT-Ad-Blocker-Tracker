@@ -1,0 +1,73 @@
+{
+  "pages": {
+    "noOfPages": 1,
+    "medianOnLoad": null,
+    "ninetyFifthOnLoad": null,
+    "pages": [
+      {
+        "url": "Charter Communications",
+        "onLoad": null
+      }
+    ]
+  },
+  "requests": {
+    "all": {
+      "noOfRequests": 231,
+      "medianTime": 24,
+      "ninetyFifthTime": 194,
+      "medianTimings": {
+        "blocked": -1,
+        "wait": 22,
+        "receive": 0
+      },
+      "ninetyFifthTimings": {
+        "blocked": 0,
+        "wait": 46,
+        "receive": 14
+      },
+      "bytesTransferred": null,
+      "topUrl": {
+        "url": "https://www.facebook.com/tr/",
+        "noOfOccurrences": 1
+      },
+      "largest": {
+        "url": "https://bam.nr-data.net/events/1/1d30dfd95b",
+        "bytes": 0
+      },
+      "largestCompressed": {
+        "url": "https://gum.criteo.com/sync"
+      },
+      "longest": {
+        "url": "https://pixel.advertising.com/ups/28/sync",
+        "time": 296,
+        "timings": {
+          "blocked": 0,
+          "wait": 19,
+          "receive": 0,
+          "connect": 252
+        }
+      }
+    },
+    "document": {
+      "noOfRequests": 0
+    },
+    "font": {
+      "noOfRequests": 0
+    },
+    "image": {
+      "noOfRequests": 0
+    },
+    "style": {
+      "noOfRequests": 0
+    },
+    "script": {
+      "noOfRequests": 0
+    },
+    "xhr": {
+      "noOfRequests": 0
+    },
+    "other": {
+      "noOfRequests": 0
+    }
+  }
+}

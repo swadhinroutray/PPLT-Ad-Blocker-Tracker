@@ -1,0 +1,73 @@
+{
+  "pages": {
+    "noOfPages": 1,
+    "medianOnLoad": null,
+    "ninetyFifthOnLoad": null,
+    "pages": [
+      {
+        "url": "Gilead Sciences",
+        "onLoad": null
+      }
+    ]
+  },
+  "requests": {
+    "all": {
+      "noOfRequests": 93,
+      "medianTime": 100,
+      "ninetyFifthTime": 274,
+      "medianTimings": {
+        "blocked": -1,
+        "wait": 35,
+        "receive": 0
+      },
+      "ninetyFifthTimings": {
+        "blocked": 0,
+        "wait": 104,
+        "receive": 66
+      },
+      "bytesTransferred": null,
+      "topUrl": {
+        "url": "https://www.gilead.com/-/media/gilead-corporate/images/global/gilead-create-possible-svg.svg",
+        "noOfOccurrences": 1
+      },
+      "largest": {
+        "url": "https://www.gilead.com/-/media/gilead-corporate/images/favicon_32.png",
+        "bytes": 0
+      },
+      "largestCompressed": {
+        "url": "https://www.broadcom.com/css/icons/brcm.woff2"
+      },
+      "longest": {
+        "url": "https://cwsgblprod-cdne.azureedge.net/World-AIDS-Day-2022_Mantra.mp4",
+        "time": 5141,
+        "timings": {
+          "blocked": 0,
+          "wait": 262,
+          "receive": 4467,
+          "connect": 295
+        }
+      }
+    },
+    "document": {
+      "noOfRequests": 0
+    },
+    "font": {
+      "noOfRequests": 0
+    },
+    "image": {
+      "noOfRequests": 0
+    },
+    "style": {
+      "noOfRequests": 0
+    },
+    "script": {
+      "noOfRequests": 0
+    },
+    "xhr": {
+      "noOfRequests": 0
+    },
+    "other": {
+      "noOfRequests": 0
+    }
+  }
+}

@@ -1,0 +1,73 @@
+{
+  "pages": {
+    "noOfPages": 1,
+    "medianOnLoad": null,
+    "ninetyFifthOnLoad": null,
+    "pages": [
+      {
+        "url": "Home Depot",
+        "onLoad": null
+      }
+    ]
+  },
+  "requests": {
+    "all": {
+      "noOfRequests": 83,
+      "medianTime": 56,
+      "ninetyFifthTime": 452,
+      "medianTimings": {
+        "blocked": -1,
+        "wait": 28,
+        "receive": 0
+      },
+      "ninetyFifthTimings": {
+        "blocked": 0,
+        "wait": 166,
+        "receive": 52
+      },
+      "bytesTransferred": null,
+      "topUrl": {
+        "url": "https://www.homedepot.com/nrXkD1w09IV84vxe4bXO/f5OELh4X5tD9/GBAqNwE/AGl/VXDUoZjIB",
+        "noOfOccurrences": 3
+      },
+      "largest": {
+        "url": "https://clickstream-producer.hd-personalization-prod.gcp.homedepot.com/clickstream-producer/v1/publish",
+        "bytes": 0
+      },
+      "largestCompressed": {
+        "url": "https://jnn-pa.googleapis.com/$rpc/google.internal.waa.v1.Waa/GenerateIT"
+      },
+      "longest": {
+        "url": "https://images.ctfassets.net/7rldri896b2a/4fsz7Yh8M5WJO36GH4mOAR/d2fd58af70d24b7df5be4db955c85912/hp-mw44-45-Launch1-Spotlight4.jpg",
+        "time": 526,
+        "timings": {
+          "blocked": 0,
+          "wait": 27,
+          "receive": 75,
+          "connect": 402
+        }
+      }
+    },
+    "document": {
+      "noOfRequests": 0
+    },
+    "font": {
+      "noOfRequests": 0
+    },
+    "image": {
+      "noOfRequests": 0
+    },
+    "style": {
+      "noOfRequests": 0
+    },
+    "script": {
+      "noOfRequests": 0
+    },
+    "xhr": {
+      "noOfRequests": 0
+    },
+    "other": {
+      "noOfRequests": 0
+    }
+  }
+}

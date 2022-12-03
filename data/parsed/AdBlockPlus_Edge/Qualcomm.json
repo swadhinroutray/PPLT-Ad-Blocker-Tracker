@@ -1,0 +1,73 @@
+{
+  "pages": {
+    "noOfPages": 1,
+    "medianOnLoad": null,
+    "ninetyFifthOnLoad": null,
+    "pages": [
+      {
+        "url": "Qualcomm",
+        "onLoad": null
+      }
+    ]
+  },
+  "requests": {
+    "all": {
+      "noOfRequests": 123,
+      "medianTime": 124,
+      "ninetyFifthTime": 319,
+      "medianTimings": {
+        "blocked": 0,
+        "wait": 32,
+        "receive": 0
+      },
+      "ninetyFifthTimings": {
+        "blocked": 0,
+        "wait": 67,
+        "receive": 58
+      },
+      "bytesTransferred": null,
+      "topUrl": {
+        "url": "https://cdn.linkedin.oribi.io/partner/2305345,4019012,56638/domain/qualcomm.com/token",
+        "noOfOccurrences": 3
+      },
+      "largest": {
+        "url": "https://385-tws-803.mktoresp.com/webevents/visitWebPage",
+        "bytes": 0
+      },
+      "largestCompressed": {
+        "url": "https://dggo.dollargeneral.com/images/32/70/32707301_0.jpg"
+      },
+      "longest": {
+        "url": "https://tags.tiqcdn.com/utag/qualcomm/qualcomm-react/prod/utag.js",
+        "time": 527,
+        "timings": {
+          "blocked": 0,
+          "wait": 354,
+          "receive": 36,
+          "connect": 112
+        }
+      }
+    },
+    "document": {
+      "noOfRequests": 0
+    },
+    "font": {
+      "noOfRequests": 0
+    },
+    "image": {
+      "noOfRequests": 0
+    },
+    "style": {
+      "noOfRequests": 0
+    },
+    "script": {
+      "noOfRequests": 0
+    },
+    "xhr": {
+      "noOfRequests": 0
+    },
+    "other": {
+      "noOfRequests": 0
+    }
+  }
+}

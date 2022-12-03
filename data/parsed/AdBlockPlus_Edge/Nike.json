@@ -1,0 +1,73 @@
+{
+  "pages": {
+    "noOfPages": 1,
+    "medianOnLoad": null,
+    "ninetyFifthOnLoad": null,
+    "pages": [
+      {
+        "url": "Nike",
+        "onLoad": null
+      }
+    ]
+  },
+  "requests": {
+    "all": {
+      "noOfRequests": 225,
+      "medianTime": 96,
+      "ninetyFifthTime": 362,
+      "medianTimings": {
+        "blocked": -1,
+        "wait": 32,
+        "receive": 0
+      },
+      "ninetyFifthTimings": {
+        "blocked": 0,
+        "wait": 210,
+        "receive": 35
+      },
+      "bytesTransferred": null,
+      "topUrl": {
+        "url": "https://insights-collector.newrelic.com/v1/accounts/714737/events",
+        "noOfOccurrences": 6
+      },
+      "largest": {
+        "url": "https://siteassets.bluecore.com/site_campaigns/nike/34b003cf-88aa-439b-a6c0-ecc546067ad4.json",
+        "bytes": 0
+      },
+      "largestCompressed": {
+        "url": "https://www.nike.com/"
+      },
+      "longest": {
+        "url": "https://www.nike.com/",
+        "time": 1012,
+        "timings": {
+          "blocked": 0,
+          "wait": 618,
+          "receive": 150,
+          "connect": 191
+        }
+      }
+    },
+    "document": {
+      "noOfRequests": 0
+    },
+    "font": {
+      "noOfRequests": 0
+    },
+    "image": {
+      "noOfRequests": 0
+    },
+    "style": {
+      "noOfRequests": 0
+    },
+    "script": {
+      "noOfRequests": 0
+    },
+    "xhr": {
+      "noOfRequests": 0
+    },
+    "other": {
+      "noOfRequests": 0
+    }
+  }
+}

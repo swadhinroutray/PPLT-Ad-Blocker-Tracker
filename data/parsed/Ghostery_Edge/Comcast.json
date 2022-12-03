@@ -1,0 +1,73 @@
+{
+  "pages": {
+    "noOfPages": 1,
+    "medianOnLoad": null,
+    "ninetyFifthOnLoad": null,
+    "pages": [
+      {
+        "url": "Comcast",
+        "onLoad": null
+      }
+    ]
+  },
+  "requests": {
+    "all": {
+      "noOfRequests": 78,
+      "medianTime": 107,
+      "ninetyFifthTime": 309,
+      "medianTimings": {
+        "blocked": 0,
+        "wait": 33,
+        "receive": 0
+      },
+      "ninetyFifthTimings": {
+        "blocked": 0,
+        "wait": 69,
+        "receive": 89
+      },
+      "bytesTransferred": null,
+      "topUrl": {
+        "url": "https://www.facebook.com/tr/",
+        "noOfOccurrences": 3
+      },
+      "largest": {
+        "url": "https://www.facebook.com/tr/",
+        "bytes": 0
+      },
+      "largestCompressed": {
+        "url": "https://corporate.comcast.com/"
+      },
+      "longest": {
+        "url": "https://player.vimeo.com/progressive_redirect/playback/769975705/rendition/720p/file.mp4",
+        "time": 476,
+        "timings": {
+          "blocked": 0,
+          "wait": 102,
+          "receive": 0,
+          "connect": 322
+        }
+      }
+    },
+    "document": {
+      "noOfRequests": 0
+    },
+    "font": {
+      "noOfRequests": 0
+    },
+    "image": {
+      "noOfRequests": 0
+    },
+    "style": {
+      "noOfRequests": 0
+    },
+    "script": {
+      "noOfRequests": 0
+    },
+    "xhr": {
+      "noOfRequests": 0
+    },
+    "other": {
+      "noOfRequests": 0
+    }
+  }
+}

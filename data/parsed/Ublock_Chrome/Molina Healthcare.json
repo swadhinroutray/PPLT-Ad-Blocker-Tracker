@@ -1,0 +1,73 @@
+{
+  "pages": {
+    "noOfPages": 1,
+    "medianOnLoad": null,
+    "ninetyFifthOnLoad": null,
+    "pages": [
+      {
+        "url": "Molina Healthcare",
+        "onLoad": null
+      }
+    ]
+  },
+  "requests": {
+    "all": {
+      "noOfRequests": 56,
+      "medianTime": 80,
+      "ninetyFifthTime": 381,
+      "medianTimings": {
+        "blocked": -1,
+        "wait": 35,
+        "receive": 0
+      },
+      "ninetyFifthTimings": {
+        "blocked": 0,
+        "wait": 151,
+        "receive": 58
+      },
+      "bytesTransferred": null,
+      "topUrl": {
+        "url": "https://www.gstatic.com/recaptcha/releases/Km9gKuG06He-isPsP6saG8cn/recaptcha__en.js",
+        "noOfOccurrences": 2
+      },
+      "largest": {
+        "url": "https://www.google.com/recaptcha/api2/reload",
+        "bytes": 0
+      },
+      "largestCompressed": {
+        "url": "https://67vod-adaptive.akamaized.net/exp=1669918569~acl=%2F0fba26c4-24ac-4407-bf0c-96651a412f92%2F%2A~hmac=336fc59ad558da2adaff5fd7d0b643afb714dba99f0928a549c9e1bc2f313405/0fba26c4-24ac-4407-bf0c-96651a412f92/sep/video/96f64057/chop/segment-1.m4s"
+      },
+      "longest": {
+        "url": "https://www.molinahealthcare.com/_Content/Images/btnGreenBg.jpg",
+        "time": 733,
+        "timings": {
+          "blocked": -1,
+          "wait": 733,
+          "receive": 0,
+          "connect": -1
+        }
+      }
+    },
+    "document": {
+      "noOfRequests": 0
+    },
+    "font": {
+      "noOfRequests": 0
+    },
+    "image": {
+      "noOfRequests": 0
+    },
+    "style": {
+      "noOfRequests": 0
+    },
+    "script": {
+      "noOfRequests": 0
+    },
+    "xhr": {
+      "noOfRequests": 0
+    },
+    "other": {
+      "noOfRequests": 0
+    }
+  }
+}

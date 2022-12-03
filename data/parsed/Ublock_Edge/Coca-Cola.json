@@ -1,0 +1,73 @@
+{
+  "pages": {
+    "noOfPages": 1,
+    "medianOnLoad": null,
+    "ninetyFifthOnLoad": null,
+    "pages": [
+      {
+        "url": "Coca-Cola",
+        "onLoad": null
+      }
+    ]
+  },
+  "requests": {
+    "all": {
+      "noOfRequests": 36,
+      "medianTime": 125,
+      "ninetyFifthTime": 317,
+      "medianTimings": {
+        "blocked": -1,
+        "wait": 38,
+        "receive": 0
+      },
+      "ninetyFifthTimings": {
+        "blocked": 0,
+        "wait": 175,
+        "receive": 30
+      },
+      "bytesTransferred": null,
+      "topUrl": {
+        "url": "https://shared.coke.com/etc.clientlibs/nextgen/clientlibs/ng-base/app/main.js",
+        "noOfOccurrences": 0
+      },
+      "largest": {
+        "url": "https://shared.coke.com/etc.clientlibs/nextgen/clientlibs/ng-base/app/main.js",
+        "bytes": 0
+      },
+      "largestCompressed": {
+        "url": "https://www.thermofisher.com/shared-static/scripts/angular.1.1.5.js"
+      },
+      "longest": {
+        "url": "https://www.coca-colacompany.com/",
+        "time": 443,
+        "timings": {
+          "blocked": 0,
+          "wait": 47,
+          "receive": 1,
+          "connect": 209
+        }
+      }
+    },
+    "document": {
+      "noOfRequests": 0
+    },
+    "font": {
+      "noOfRequests": 0
+    },
+    "image": {
+      "noOfRequests": 0
+    },
+    "style": {
+      "noOfRequests": 0
+    },
+    "script": {
+      "noOfRequests": 0
+    },
+    "xhr": {
+      "noOfRequests": 0
+    },
+    "other": {
+      "noOfRequests": 0
+    }
+  }
+}

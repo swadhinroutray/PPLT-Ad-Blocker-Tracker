@@ -1,0 +1,73 @@
+{
+  "pages": {
+    "noOfPages": 1,
+    "medianOnLoad": null,
+    "ninetyFifthOnLoad": null,
+    "pages": [
+      {
+        "url": "AbbVie",
+        "onLoad": null
+      }
+    ]
+  },
+  "requests": {
+    "all": {
+      "noOfRequests": 97,
+      "medianTime": 63,
+      "ninetyFifthTime": 322,
+      "medianTimings": {
+        "blocked": -1,
+        "wait": 33,
+        "receive": 0
+      },
+      "ninetyFifthTimings": {
+        "blocked": 0,
+        "wait": 81,
+        "receive": 30
+      },
+      "bytesTransferred": null,
+      "topUrl": {
+        "url": "https://www.google-analytics.com/collect",
+        "noOfOccurrences": 6
+      },
+      "largest": {
+        "url": "https://tracking.reactful.com/tracking/275784/",
+        "bytes": 0
+      },
+      "largestCompressed": {
+        "url": "https://www.abbvie.com/"
+      },
+      "longest": {
+        "url": "https://app.bowencraggs.com/scripts/b8cc2e38-7579-44cc-a940-7825aa0b7032.js",
+        "time": 591,
+        "timings": {
+          "blocked": 0,
+          "wait": 261,
+          "receive": 102,
+          "connect": 226
+        }
+      }
+    },
+    "document": {
+      "noOfRequests": 0
+    },
+    "font": {
+      "noOfRequests": 0
+    },
+    "image": {
+      "noOfRequests": 0
+    },
+    "style": {
+      "noOfRequests": 0
+    },
+    "script": {
+      "noOfRequests": 0
+    },
+    "xhr": {
+      "noOfRequests": 0
+    },
+    "other": {
+      "noOfRequests": 0
+    }
+  }
+}

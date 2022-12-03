@@ -1,0 +1,73 @@
+{
+  "pages": {
+    "noOfPages": 1,
+    "medianOnLoad": null,
+    "ninetyFifthOnLoad": null,
+    "pages": [
+      {
+        "url": "AmerisourceBergen",
+        "onLoad": null
+      }
+    ]
+  },
+  "requests": {
+    "all": {
+      "noOfRequests": 27,
+      "medianTime": 178,
+      "ninetyFifthTime": 555,
+      "medianTimings": {
+        "blocked": -1,
+        "wait": 58,
+        "receive": 4
+      },
+      "ninetyFifthTimings": {
+        "blocked": 0,
+        "wait": 222,
+        "receive": 478
+      },
+      "bytesTransferred": null,
+      "topUrl": {
+        "url": "https://www.amerisourcebergen.com/",
+        "noOfOccurrences": 1
+      },
+      "largest": {
+        "url": "https://www.amerisourcebergen.com/assets/dist/images/favicon.svg",
+        "bytes": 0
+      },
+      "largestCompressed": {
+        "url": "https://www.mckesson.com/uploadedImages/McKessoncom/Content/Images/Arrows/ExportIconCTABlue2.png"
+      },
+      "longest": {
+        "url": "https://www.amerisourcebergen.com/assets/dist/site.css",
+        "time": 1148,
+        "timings": {
+          "blocked": -1,
+          "wait": 45,
+          "receive": 1102,
+          "connect": -1
+        }
+      }
+    },
+    "document": {
+      "noOfRequests": 0
+    },
+    "font": {
+      "noOfRequests": 0
+    },
+    "image": {
+      "noOfRequests": 0
+    },
+    "style": {
+      "noOfRequests": 0
+    },
+    "script": {
+      "noOfRequests": 0
+    },
+    "xhr": {
+      "noOfRequests": 0
+    },
+    "other": {
+      "noOfRequests": 0
+    }
+  }
+}

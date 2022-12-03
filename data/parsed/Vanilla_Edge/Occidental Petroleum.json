@@ -1,0 +1,73 @@
+{
+  "pages": {
+    "noOfPages": 1,
+    "medianOnLoad": null,
+    "ninetyFifthOnLoad": null,
+    "pages": [
+      {
+        "url": "Occidental Petroleum",
+        "onLoad": null
+      }
+    ]
+  },
+  "requests": {
+    "all": {
+      "noOfRequests": 70,
+      "medianTime": 172,
+      "ninetyFifthTime": 718,
+      "medianTimings": {
+        "blocked": 0,
+        "wait": 41,
+        "receive": 0
+      },
+      "ninetyFifthTimings": {
+        "blocked": 0,
+        "wait": 258,
+        "receive": 80
+      },
+      "bytesTransferred": null,
+      "topUrl": {
+        "url": "https://n.clarity.ms/collect",
+        "noOfOccurrences": 1
+      },
+      "largest": {
+        "url": "https://n.clarity.ms/collect",
+        "bytes": 0
+      },
+      "largestCompressed": {
+        "url": "https://cdn.pushcrew.com/css/httpFront-v4.css"
+      },
+      "longest": {
+        "url": "https://www.oxy.com/frontend/dist/assets/images/occidental-color-logo.png",
+        "time": 963,
+        "timings": {
+          "blocked": 0,
+          "wait": 380,
+          "receive": 0,
+          "connect": 415
+        }
+      }
+    },
+    "document": {
+      "noOfRequests": 0
+    },
+    "font": {
+      "noOfRequests": 0
+    },
+    "image": {
+      "noOfRequests": 0
+    },
+    "style": {
+      "noOfRequests": 0
+    },
+    "script": {
+      "noOfRequests": 0
+    },
+    "xhr": {
+      "noOfRequests": 0
+    },
+    "other": {
+      "noOfRequests": 0
+    }
+  }
+}

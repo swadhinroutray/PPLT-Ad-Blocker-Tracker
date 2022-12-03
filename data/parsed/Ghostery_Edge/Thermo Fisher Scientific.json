@@ -1,0 +1,73 @@
+{
+  "pages": {
+    "noOfPages": 1,
+    "medianOnLoad": null,
+    "ninetyFifthOnLoad": null,
+    "pages": [
+      {
+        "url": "Thermo Fisher Scientific",
+        "onLoad": null
+      }
+    ]
+  },
+  "requests": {
+    "all": {
+      "noOfRequests": 245,
+      "medianTime": 78,
+      "ninetyFifthTime": 395,
+      "medianTimings": {
+        "blocked": -1,
+        "wait": 34,
+        "receive": 0
+      },
+      "ninetyFifthTimings": {
+        "blocked": 0,
+        "wait": 170,
+        "receive": 24
+      },
+      "bytesTransferred": null,
+      "topUrl": {
+        "url": "https://www.thermofisher.com/event/offer/postevent",
+        "noOfOccurrences": 8
+      },
+      "largest": {
+        "url": "https://in.hotjar.com/api/v2/client/sites/4539/visit-data",
+        "bytes": 0
+      },
+      "largestCompressed": {
+        "url": "https://68794911.akstat.io/"
+      },
+      "longest": {
+        "url": "https://admin.acceleratingscience.com/wp-json/as-api/v1/blog-feed",
+        "time": 640,
+        "timings": {
+          "blocked": 0,
+          "wait": 299,
+          "receive": 0,
+          "connect": 226
+        }
+      }
+    },
+    "document": {
+      "noOfRequests": 0
+    },
+    "font": {
+      "noOfRequests": 0
+    },
+    "image": {
+      "noOfRequests": 0
+    },
+    "style": {
+      "noOfRequests": 0
+    },
+    "script": {
+      "noOfRequests": 0
+    },
+    "xhr": {
+      "noOfRequests": 0
+    },
+    "other": {
+      "noOfRequests": 0
+    }
+  }
+}

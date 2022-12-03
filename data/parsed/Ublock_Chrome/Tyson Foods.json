@@ -1,0 +1,73 @@
+{
+  "pages": {
+    "noOfPages": 1,
+    "medianOnLoad": null,
+    "ninetyFifthOnLoad": null,
+    "pages": [
+      {
+        "url": "Tyson Foods",
+        "onLoad": null
+      }
+    ]
+  },
+  "requests": {
+    "all": {
+      "noOfRequests": 52,
+      "medianTime": 61,
+      "ninetyFifthTime": 402,
+      "medianTimings": {
+        "blocked": -1,
+        "wait": 38,
+        "receive": 1
+      },
+      "ninetyFifthTimings": {
+        "blocked": 0,
+        "wait": 78,
+        "receive": 39
+      },
+      "bytesTransferred": null,
+      "topUrl": {
+        "url": "https://jnn-pa.googleapis.com/$rpc/google.internal.waa.v1.Waa/GenerateIT",
+        "noOfOccurrences": 2
+      },
+      "largest": {
+        "url": "https://www.gstatic.com/eureka/clank/107/cast_sender.js",
+        "bytes": 0
+      },
+      "largestCompressed": {
+        "url": "https://celebrus-prod.nationwide.com/5140/3637974223/XBW09WEA78JG/jsEvent.json"
+      },
+      "longest": {
+        "url": "https://cloud.typography.com/7091356/7473192/css/fonts.css",
+        "time": 619,
+        "timings": {
+          "blocked": 0,
+          "wait": 241,
+          "receive": 1,
+          "connect": 325
+        }
+      }
+    },
+    "document": {
+      "noOfRequests": 0
+    },
+    "font": {
+      "noOfRequests": 0
+    },
+    "image": {
+      "noOfRequests": 0
+    },
+    "style": {
+      "noOfRequests": 0
+    },
+    "script": {
+      "noOfRequests": 0
+    },
+    "xhr": {
+      "noOfRequests": 0
+    },
+    "other": {
+      "noOfRequests": 0
+    }
+  }
+}

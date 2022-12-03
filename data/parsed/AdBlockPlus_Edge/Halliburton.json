@@ -1,0 +1,73 @@
+{
+  "pages": {
+    "noOfPages": 1,
+    "medianOnLoad": null,
+    "ninetyFifthOnLoad": null,
+    "pages": [
+      {
+        "url": "Halliburton",
+        "onLoad": null
+      }
+    ]
+  },
+  "requests": {
+    "all": {
+      "noOfRequests": 65,
+      "medianTime": 119,
+      "ninetyFifthTime": 469,
+      "medianTimings": {
+        "blocked": -1,
+        "wait": 26,
+        "receive": 0
+      },
+      "ninetyFifthTimings": {
+        "blocked": 0,
+        "wait": 341,
+        "receive": 116
+      },
+      "bytesTransferred": null,
+      "topUrl": {
+        "url": "https://cdn.brandfolder.io/3I2CY2XL/as/ttqvsvbm46pcrm38bncstf/favicon.ico",
+        "noOfOccurrences": 1
+      },
+      "largest": {
+        "url": "https://cdn.brandfolder.io/3I2CY2XL/as/ttqvsvbm46pcrm38bncstf/favicon.ico",
+        "bytes": 0
+      },
+      "largestCompressed": {
+        "url": "https://edgeassetservice.azureedge.net/assets/domains_config/1.8.45/asset"
+      },
+      "longest": {
+        "url": "https://www.halliburton.com/etc.clientlibs/halliburton/clientlibs/clientlib-site.js",
+        "time": 1405,
+        "timings": {
+          "blocked": 0,
+          "wait": 350,
+          "receive": 541,
+          "connect": 397
+        }
+      }
+    },
+    "document": {
+      "noOfRequests": 0
+    },
+    "font": {
+      "noOfRequests": 0
+    },
+    "image": {
+      "noOfRequests": 0
+    },
+    "style": {
+      "noOfRequests": 0
+    },
+    "script": {
+      "noOfRequests": 0
+    },
+    "xhr": {
+      "noOfRequests": 0
+    },
+    "other": {
+      "noOfRequests": 0
+    }
+  }
+}

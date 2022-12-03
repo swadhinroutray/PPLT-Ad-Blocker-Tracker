@@ -1,0 +1,73 @@
+{
+  "pages": {
+    "noOfPages": 1,
+    "medianOnLoad": null,
+    "ninetyFifthOnLoad": null,
+    "pages": [
+      {
+        "url": "State Farm Insurance",
+        "onLoad": null
+      }
+    ]
+  },
+  "requests": {
+    "all": {
+      "noOfRequests": 190,
+      "medianTime": 105,
+      "ninetyFifthTime": 382,
+      "medianTimings": {
+        "blocked": 0,
+        "wait": 30,
+        "receive": 0
+      },
+      "ninetyFifthTimings": {
+        "blocked": 0,
+        "wait": 174,
+        "receive": 50
+      },
+      "bytesTransferred": null,
+      "topUrl": {
+        "url": "https://www.facebook.com/tr/",
+        "noOfOccurrences": 8
+      },
+      "largest": {
+        "url": "https://ddc.statefarm.com/privacy/v1/b/r.rnc",
+        "bytes": 0
+      },
+      "largestCompressed": {
+        "url": "https://static.wellsfargo.com/tracking/ga/ga_conversion_async.js"
+      },
+      "longest": {
+        "url": "https://connect.secure.wellsfargo.com/AIDO/trx.js",
+        "time": 1234,
+        "timings": {
+          "blocked": 0,
+          "wait": 1141,
+          "receive": 25,
+          "connect": 67
+        }
+      }
+    },
+    "document": {
+      "noOfRequests": 0
+    },
+    "font": {
+      "noOfRequests": 0
+    },
+    "image": {
+      "noOfRequests": 0
+    },
+    "style": {
+      "noOfRequests": 0
+    },
+    "script": {
+      "noOfRequests": 0
+    },
+    "xhr": {
+      "noOfRequests": 0
+    },
+    "other": {
+      "noOfRequests": 0
+    }
+  }
+}

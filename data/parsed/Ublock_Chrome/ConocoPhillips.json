@@ -1,0 +1,73 @@
+{
+  "pages": {
+    "noOfPages": 1,
+    "medianOnLoad": null,
+    "ninetyFifthOnLoad": null,
+    "pages": [
+      {
+        "url": "ConocoPhillips",
+        "onLoad": null
+      }
+    ]
+  },
+  "requests": {
+    "all": {
+      "noOfRequests": 77,
+      "medianTime": 76,
+      "ninetyFifthTime": 482,
+      "medianTimings": {
+        "blocked": -1,
+        "wait": 25,
+        "receive": 3
+      },
+      "ninetyFifthTimings": {
+        "blocked": 0,
+        "wait": 89,
+        "receive": 46
+      },
+      "bytesTransferred": null,
+      "topUrl": {
+        "url": "https://content-autofill.googleapis.com/v1/pages/ChVDaHJvbWUvMTA3LjAuNTMwNC4xMjESFwkHaHUc0-52JBIFDbXnTEQSBQ2lkzYk",
+        "noOfOccurrences": 0
+      },
+      "largest": {
+        "url": "https://content-autofill.googleapis.com/v1/pages/ChVDaHJvbWUvMTA3LjAuNTMwNC4xMjESFwkHaHUc0-52JBIFDbXnTEQSBQ2lkzYk",
+        "bytes": 0
+      },
+      "largestCompressed": {
+        "url": "https://www.conocophillips.com/"
+      },
+      "longest": {
+        "url": "https://static.conocophillips.com/files/pages/classic-xsml-topicrow-ar21-home-dark.png",
+        "time": 506,
+        "timings": {
+          "blocked": 0,
+          "wait": 41,
+          "receive": 36,
+          "connect": 306
+        }
+      }
+    },
+    "document": {
+      "noOfRequests": 0
+    },
+    "font": {
+      "noOfRequests": 0
+    },
+    "image": {
+      "noOfRequests": 0
+    },
+    "style": {
+      "noOfRequests": 0
+    },
+    "script": {
+      "noOfRequests": 0
+    },
+    "xhr": {
+      "noOfRequests": 0
+    },
+    "other": {
+      "noOfRequests": 0
+    }
+  }
+}

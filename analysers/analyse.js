@@ -1,7 +1,7 @@
 //* Parse data
 const fse = require("fs-extra");
 //! Change filepath with the right parsed folder
-const filepath = "../data/parsed/AdBlock_Chrome";
+const filepath = "../data/parsed/Ublock_Edge";
 async function getAverageTimes() {
   var files = await fse.readdir(filepath);
   console.log(files.length);

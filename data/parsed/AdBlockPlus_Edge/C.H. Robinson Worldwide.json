@@ -1,0 +1,73 @@
+{
+  "pages": {
+    "noOfPages": 1,
+    "medianOnLoad": null,
+    "ninetyFifthOnLoad": null,
+    "pages": [
+      {
+        "url": "C.H. Robinson Worldwide",
+        "onLoad": null
+      }
+    ]
+  },
+  "requests": {
+    "all": {
+      "noOfRequests": 185,
+      "medianTime": 82,
+      "ninetyFifthTime": 293,
+      "medianTimings": {
+        "blocked": -1,
+        "wait": 37,
+        "receive": 0
+      },
+      "ninetyFifthTimings": {
+        "blocked": 0,
+        "wait": 164,
+        "receive": 29
+      },
+      "bytesTransferred": null,
+      "topUrl": {
+        "url": "https://www.googletagmanager.com/gtag/js",
+        "noOfOccurrences": 3
+      },
+      "largest": {
+        "url": "https://udc-neb.kampyle.com/v1/qceuv8449dzg58ptt1bhda9g8ue19c7s/track",
+        "bytes": 0
+      },
+      "largestCompressed": {
+        "url": "https://www.chrobinson.com/"
+      },
+      "longest": {
+        "url": "https://app-ab35.marketo.com/index.php/form/getForm",
+        "time": 681,
+        "timings": {
+          "blocked": 0,
+          "wait": 533,
+          "receive": 0,
+          "connect": 147
+        }
+      }
+    },
+    "document": {
+      "noOfRequests": 0
+    },
+    "font": {
+      "noOfRequests": 0
+    },
+    "image": {
+      "noOfRequests": 0
+    },
+    "style": {
+      "noOfRequests": 0
+    },
+    "script": {
+      "noOfRequests": 0
+    },
+    "xhr": {
+      "noOfRequests": 0
+    },
+    "other": {
+      "noOfRequests": 0
+    }
+  }
+}

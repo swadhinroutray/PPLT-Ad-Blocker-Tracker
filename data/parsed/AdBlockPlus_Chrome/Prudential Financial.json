@@ -1,0 +1,73 @@
+{
+  "pages": {
+    "noOfPages": 1,
+    "medianOnLoad": null,
+    "ninetyFifthOnLoad": null,
+    "pages": [
+      {
+        "url": "Prudential Financial",
+        "onLoad": null
+      }
+    ]
+  },
+  "requests": {
+    "all": {
+      "noOfRequests": 220,
+      "medianTime": 106,
+      "ninetyFifthTime": 291,
+      "medianTimings": {
+        "blocked": 0,
+        "wait": 26,
+        "receive": 0
+      },
+      "ninetyFifthTimings": {
+        "blocked": 0,
+        "wait": 121,
+        "receive": 34
+      },
+      "bytesTransferred": null,
+      "topUrl": {
+        "url": "https://nexus.ensighten.com/error/e.gif",
+        "noOfOccurrences": 13
+      },
+      "largest": {
+        "url": "https://nebula-cdn.kampyle.com/us/resources/dist/assets/js/liveform-web-vendor-8f5080b98d.js",
+        "bytes": 0
+      },
+      "largestCompressed": {
+        "url": "https://www.prudential.com/"
+      },
+      "longest": {
+        "url": "https://tags.bluekai.com/site/53831",
+        "time": 1009,
+        "timings": {
+          "blocked": 0,
+          "wait": 918,
+          "receive": 0,
+          "connect": 46
+        }
+      }
+    },
+    "document": {
+      "noOfRequests": 0
+    },
+    "font": {
+      "noOfRequests": 0
+    },
+    "image": {
+      "noOfRequests": 0
+    },
+    "style": {
+      "noOfRequests": 0
+    },
+    "script": {
+      "noOfRequests": 0
+    },
+    "xhr": {
+      "noOfRequests": 0
+    },
+    "other": {
+      "noOfRequests": 0
+    }
+  }
+}

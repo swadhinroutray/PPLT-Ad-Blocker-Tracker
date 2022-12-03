@@ -1,0 +1,73 @@
+{
+  "pages": {
+    "noOfPages": 1,
+    "medianOnLoad": null,
+    "ninetyFifthOnLoad": null,
+    "pages": [
+      {
+        "url": "Applied Materials",
+        "onLoad": null
+      }
+    ]
+  },
+  "requests": {
+    "all": {
+      "noOfRequests": 59,
+      "medianTime": 95,
+      "ninetyFifthTime": 398,
+      "medianTimings": {
+        "blocked": -1,
+        "wait": 32,
+        "receive": 0
+      },
+      "ninetyFifthTimings": {
+        "blocked": 0,
+        "wait": 86,
+        "receive": 46
+      },
+      "bytesTransferred": null,
+      "topUrl": {
+        "url": "https://www.appliedmaterials.com/content/dam/applied-materials/image/favicon/mobile_favicon.png",
+        "noOfOccurrences": 1
+      },
+      "largest": {
+        "url": "https://173bf10f.akstat.io/",
+        "bytes": 0
+      },
+      "largestCompressed": {
+        "url": "https://googleads.g.doubleclick.net/pagead/viewthroughconversion/1029148939/"
+      },
+      "longest": {
+        "url": "https://www.appliedmaterials.com/content/dam/site/home/vid/WWH_Banner_2022.mp4",
+        "time": 1390,
+        "timings": {
+          "blocked": -1,
+          "wait": 87,
+          "receive": 1302,
+          "connect": -1
+        }
+      }
+    },
+    "document": {
+      "noOfRequests": 0
+    },
+    "font": {
+      "noOfRequests": 0
+    },
+    "image": {
+      "noOfRequests": 0
+    },
+    "style": {
+      "noOfRequests": 0
+    },
+    "script": {
+      "noOfRequests": 0
+    },
+    "xhr": {
+      "noOfRequests": 0
+    },
+    "other": {
+      "noOfRequests": 0
+    }
+  }
+}

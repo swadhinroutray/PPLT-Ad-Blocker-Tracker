@@ -1,0 +1,73 @@
+{
+  "pages": {
+    "noOfPages": 1,
+    "medianOnLoad": null,
+    "ninetyFifthOnLoad": null,
+    "pages": [
+      {
+        "url": "American Express",
+        "onLoad": null
+      }
+    ]
+  },
+  "requests": {
+    "all": {
+      "noOfRequests": 62,
+      "medianTime": 92,
+      "ninetyFifthTime": 429,
+      "medianTimings": {
+        "blocked": 0,
+        "wait": 30,
+        "receive": 0
+      },
+      "ninetyFifthTimings": {
+        "blocked": 0,
+        "wait": 179,
+        "receive": 21
+      },
+      "bytesTransferred": null,
+      "topUrl": {
+        "url": "https://functions.americanexpress.com/ReadScriptRegistry.v1",
+        "noOfOccurrences": 4
+      },
+      "largest": {
+        "url": "https://assets.adobedtm.com/dcb19cbd6cbf/61650f53735f/4f8756827e89/RCba6f9cee3abe426fa326391960ab44ab-source.min.js",
+        "bytes": 0
+      },
+      "largestCompressed": {
+        "url": "https://privacyportal.onetrust.com/request/v1/consentreceipts"
+      },
+      "longest": {
+        "url": "https://apigw.americanexpress.com/acqpzn/en-us/both/hp/pzn-offers",
+        "time": 476,
+        "timings": {
+          "blocked": 0,
+          "wait": 182,
+          "receive": 0,
+          "connect": 247
+        }
+      }
+    },
+    "document": {
+      "noOfRequests": 0
+    },
+    "font": {
+      "noOfRequests": 0
+    },
+    "image": {
+      "noOfRequests": 0
+    },
+    "style": {
+      "noOfRequests": 0
+    },
+    "script": {
+      "noOfRequests": 0
+    },
+    "xhr": {
+      "noOfRequests": 0
+    },
+    "other": {
+      "noOfRequests": 0
+    }
+  }
+}

@@ -1,0 +1,73 @@
+{
+  "pages": {
+    "noOfPages": 1,
+    "medianOnLoad": null,
+    "ninetyFifthOnLoad": null,
+    "pages": [
+      {
+        "url": "Jabil",
+        "onLoad": null
+      }
+    ]
+  },
+  "requests": {
+    "all": {
+      "noOfRequests": 92,
+      "medianTime": 91,
+      "ninetyFifthTime": 387,
+      "medianTimings": {
+        "blocked": -1,
+        "wait": 26,
+        "receive": 0
+      },
+      "ninetyFifthTimings": {
+        "blocked": 0,
+        "wait": 119,
+        "receive": 97
+      },
+      "bytesTransferred": null,
+      "topUrl": {
+        "url": "https://api.usercentrics.eu/translations/translations-en.json",
+        "noOfOccurrences": 1
+      },
+      "largest": {
+        "url": "https://abs.twimg.com/sticky/animations/like.4.json",
+        "bytes": 0
+      },
+      "largestCompressed": {
+        "url": "https://www.jabil.com/"
+      },
+      "longest": {
+        "url": "https://pi.pardot.com/analytics",
+        "time": 743,
+        "timings": {
+          "blocked": 0,
+          "wait": 580,
+          "receive": 0,
+          "connect": 162
+        }
+      }
+    },
+    "document": {
+      "noOfRequests": 0
+    },
+    "font": {
+      "noOfRequests": 0
+    },
+    "image": {
+      "noOfRequests": 0
+    },
+    "style": {
+      "noOfRequests": 0
+    },
+    "script": {
+      "noOfRequests": 0
+    },
+    "xhr": {
+      "noOfRequests": 0
+    },
+    "other": {
+      "noOfRequests": 0
+    }
+  }
+}

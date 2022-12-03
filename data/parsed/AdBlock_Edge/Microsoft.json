@@ -1,0 +1,73 @@
+{
+  "pages": {
+    "noOfPages": 1,
+    "medianOnLoad": null,
+    "ninetyFifthOnLoad": null,
+    "pages": [
+      {
+        "url": "Microsoft",
+        "onLoad": null
+      }
+    ]
+  },
+  "requests": {
+    "all": {
+      "noOfRequests": 75,
+      "medianTime": 48,
+      "ninetyFifthTime": 371,
+      "medianTimings": {
+        "blocked": -1,
+        "wait": 37,
+        "receive": 0
+      },
+      "ninetyFifthTimings": {
+        "blocked": 0,
+        "wait": 65,
+        "receive": 24
+      },
+      "bytesTransferred": null,
+      "topUrl": {
+        "url": "https://browser.events.data.microsoft.com/OneCollector/1.0/",
+        "noOfOccurrences": 2
+      },
+      "largest": {
+        "url": "https://browser.events.data.microsoft.com/OneCollector/1.0/",
+        "bytes": 0
+      },
+      "largestCompressed": {
+        "url": "https://173bf106.akstat.io/"
+      },
+      "longest": {
+        "url": "https://www.microsoft.com/en-in",
+        "time": 1081,
+        "timings": {
+          "blocked": 0,
+          "wait": 727,
+          "receive": 11,
+          "connect": 309
+        }
+      }
+    },
+    "document": {
+      "noOfRequests": 0
+    },
+    "font": {
+      "noOfRequests": 0
+    },
+    "image": {
+      "noOfRequests": 0
+    },
+    "style": {
+      "noOfRequests": 0
+    },
+    "script": {
+      "noOfRequests": 0
+    },
+    "xhr": {
+      "noOfRequests": 0
+    },
+    "other": {
+      "noOfRequests": 0
+    }
+  }
+}

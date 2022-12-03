@@ -1,0 +1,54 @@
+Chrome Vanilla Data
+┌─────────┬────────────────────────────────────┬─────────┐
+│ (index) │               Result               │  Value  │
+├─────────┼────────────────────────────────────┼─────────┤
+│    0    │    'Average Distinct Requests'     │ 125.424 │
+│    1    │       'Average Median Time'        │ 90.956  │
+│    2    │     'Average NinetyFith Time'      │ 430.156 │
+│    3    │ 'Average Maximum Calls to Top URL' │  5.044  │
+│    4    │     'Average Longest URL Call'     │ 1653.64 │
+└─────────┴────────────────────────────────────┴─────────┘
+
+Chrome+Adblock
+┌─────────┬────────────────────────────────────┬──────────┐
+│ (index) │               Result               │  Value   │
+├─────────┼────────────────────────────────────┼──────────┤
+│    0    │    'Average Distinct Requests'     │  154.5   │
+│    1    │       'Average Median Time'        │  70.068  │
+│    2    │     'Average NinetyFith Time'      │ 571.552  │
+│    3    │ 'Average Maximum Calls to Top URL' │   4.6    │
+│    4    │     'Average Longest URL Call'     │ 1995.924 │
+└─────────┴────────────────────────────────────┴──────────┘
+
+Chrome+AdblockPlus
+┌─────────┬────────────────────────────────────┬──────────┐
+│ (index) │               Result               │  Value   │
+├─────────┼────────────────────────────────────┼──────────┤
+│    0    │    'Average Distinct Requests'     │ 119.956  │
+│    1    │       'Average Median Time'        │  82.652  │
+│    2    │     'Average NinetyFith Time'      │ 419.204  │
+│    3    │ 'Average Maximum Calls to Top URL' │  4.828   │
+│    4    │     'Average Longest URL Call'     │ 1594.292 │
+└─────────┴────────────────────────────────────┴──────────┘
+
+Chrome+UBlock
+┌─────────┬────────────────────────────────────┬─────────┐
+│ (index) │               Result               │  Value  │
+├─────────┼────────────────────────────────────┼─────────┤
+│    0    │    'Average Distinct Requests'     │ 74.244  │
+│    1    │       'Average Median Time'        │ 72.416  │
+│    2    │     'Average NinetyFith Time'      │ 386.34  │
+│    3    │ 'Average Maximum Calls to Top URL' │  2.816  │
+│    4    │     'Average Longest URL Call'     │ 1656.24 │
+└─────────┴────────────────────────────────────┴─────────┘
+
+Chrome+Ghostery
+┌─────────┬────────────────────────────────────┬──────────┐
+│ (index) │               Result               │  Value   │
+├─────────┼────────────────────────────────────┼──────────┤
+│    0    │    'Average Distinct Requests'     │ 124.944  │
+│    1    │       'Average Median Time'        │  95.016  │
+│    2    │     'Average NinetyFith Time'      │ 418.308  │
+│    3    │ 'Average Maximum Calls to Top URL' │  4.764   │
+│    4    │     'Average Longest URL Call'     │ 1403.148 │
+└─────────┴────────────────────────────────────┴──────────┘

@@ -1,0 +1,73 @@
+{
+  "pages": {
+    "noOfPages": 1,
+    "medianOnLoad": null,
+    "ninetyFifthOnLoad": null,
+    "pages": [
+      {
+        "url": "DTEEnergy",
+        "onLoad": null
+      }
+    ]
+  },
+  "requests": {
+    "all": {
+      "noOfRequests": 121,
+      "medianTime": 46,
+      "ninetyFifthTime": 352,
+      "medianTimings": {
+        "blocked": -1,
+        "wait": 30,
+        "receive": 0
+      },
+      "ninetyFifthTimings": {
+        "blocked": 0,
+        "wait": 46,
+        "receive": 66
+      },
+      "bytesTransferred": null,
+      "topUrl": {
+        "url": "https://tags.w55c.net/rs",
+        "noOfOccurrences": 5
+      },
+      "largest": {
+        "url": "https://www.newlook.dteenergy.com/wps/wcm/connect/97bd97ae-8eb2-405e-8fe5-af32b56c5d3d/stormClose.png",
+        "bytes": 0
+      },
+      "largestCompressed": {
+        "url": "https://www.newlook.dteenergy.com/"
+      },
+      "longest": {
+        "url": "https://edge.microsoft.com/autofillservice/v1/pages/ChVDaHJvbWUvMTA3LjAuNTMwNC4xNTASFwmQeoMu4GMZ4RIFDeeNQA4SBQ3OQUx6EhcJ8INtk8qr04gSBQ0tCBTXEgUNVXeitxIXCdBXzjd4NTNBEgUN541ADhIFDWb0zPISJQnCdII5KBP3ARIFDR3Kc8kSBQ23ziacEgUNuRJcExIFDTjyeN8SFwnTKLpY3WHLNRIFDfsDxk0SBQ2-TwTjEhAJJNRA1O5_rLMSBQ0qrd8K",
+        "time": 701,
+        "timings": {
+          "blocked": 0,
+          "wait": 605,
+          "receive": 0,
+          "connect": 96
+        }
+      }
+    },
+    "document": {
+      "noOfRequests": 0
+    },
+    "font": {
+      "noOfRequests": 0
+    },
+    "image": {
+      "noOfRequests": 0
+    },
+    "style": {
+      "noOfRequests": 0
+    },
+    "script": {
+      "noOfRequests": 0
+    },
+    "xhr": {
+      "noOfRequests": 0
+    },
+    "other": {
+      "noOfRequests": 0
+    }
+  }
+}

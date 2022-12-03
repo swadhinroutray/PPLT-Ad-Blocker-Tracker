@@ -1,0 +1,73 @@
+{
+  "pages": {
+    "noOfPages": 1,
+    "medianOnLoad": null,
+    "ninetyFifthOnLoad": null,
+    "pages": [
+      {
+        "url": "Edison International",
+        "onLoad": null
+      }
+    ]
+  },
+  "requests": {
+    "all": {
+      "noOfRequests": 106,
+      "medianTime": 125,
+      "ninetyFifthTime": 564,
+      "medianTimings": {
+        "blocked": 0,
+        "wait": 39,
+        "receive": 0
+      },
+      "ninetyFifthTimings": {
+        "blocked": 0,
+        "wait": 157,
+        "receive": 100
+      },
+      "bytesTransferred": null,
+      "topUrl": {
+        "url": "https://su.addthis.com/red/usync",
+        "noOfOccurrences": 2
+      },
+      "largest": {
+        "url": "https://api-public.addthis.com/url/serviceapi/shares-post.json",
+        "bytes": 0
+      },
+      "largestCompressed": {
+        "url": "https://www.google-analytics.com/collect"
+      },
+      "longest": {
+        "url": "https://s3.amazonaws.com/cms.ipressroom.com/406/files/20229/6351706fb3aed34278e69525_homepageloop_updated/homepageloop_updated.mp4",
+        "time": 1331,
+        "timings": {
+          "blocked": -1,
+          "wait": 31,
+          "receive": 1299,
+          "connect": -1
+        }
+      }
+    },
+    "document": {
+      "noOfRequests": 0
+    },
+    "font": {
+      "noOfRequests": 0
+    },
+    "image": {
+      "noOfRequests": 0
+    },
+    "style": {
+      "noOfRequests": 0
+    },
+    "script": {
+      "noOfRequests": 0
+    },
+    "xhr": {
+      "noOfRequests": 0
+    },
+    "other": {
+      "noOfRequests": 0
+    }
+  }
+}

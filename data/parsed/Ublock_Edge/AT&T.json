@@ -1,0 +1,73 @@
+{
+  "pages": {
+    "noOfPages": 1,
+    "medianOnLoad": null,
+    "ninetyFifthOnLoad": null,
+    "pages": [
+      {
+        "url": "AT&T",
+        "onLoad": null
+      }
+    ]
+  },
+  "requests": {
+    "all": {
+      "noOfRequests": 111,
+      "medianTime": 50,
+      "ninetyFifthTime": 157,
+      "medianTimings": {
+        "blocked": -1,
+        "wait": 45,
+        "receive": 0
+      },
+      "ninetyFifthTimings": {
+        "blocked": 0,
+        "wait": 146,
+        "receive": 18
+      },
+      "bytesTransferred": null,
+      "topUrl": {
+        "url": "https://www.att.com/X29Hee/WsD/bs-/PKBNRWLq/uSwip4cSur9i/QCEYaQ/MD9DRx/pKDBAC",
+        "noOfOccurrences": 3
+      },
+      "largest": {
+        "url": "https://www.att.com/MEG/chatserver/js/jsPlugin.js",
+        "bytes": 0
+      },
+      "largestCompressed": {
+        "url": "https://www.cigna.com/static/www-cigna-com/bundle/fonts/8A759DCC601661D38.07ec8c8a37d4.woff2"
+      },
+      "longest": {
+        "url": "https://www.att.com/",
+        "time": 1240,
+        "timings": {
+          "blocked": 0,
+          "wait": 569,
+          "receive": 374,
+          "connect": 263
+        }
+      }
+    },
+    "document": {
+      "noOfRequests": 0
+    },
+    "font": {
+      "noOfRequests": 0
+    },
+    "image": {
+      "noOfRequests": 0
+    },
+    "style": {
+      "noOfRequests": 0
+    },
+    "script": {
+      "noOfRequests": 0
+    },
+    "xhr": {
+      "noOfRequests": 0
+    },
+    "other": {
+      "noOfRequests": 0
+    }
+  }
+}

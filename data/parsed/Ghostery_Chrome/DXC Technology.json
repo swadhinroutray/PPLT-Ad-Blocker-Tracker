@@ -1,0 +1,73 @@
+{
+  "pages": {
+    "noOfPages": 1,
+    "medianOnLoad": null,
+    "ninetyFifthOnLoad": null,
+    "pages": [
+      {
+        "url": "DXC Technology",
+        "onLoad": null
+      }
+    ]
+  },
+  "requests": {
+    "all": {
+      "noOfRequests": 166,
+      "medianTime": 98,
+      "ninetyFifthTime": 370,
+      "medianTimings": {
+        "blocked": 0,
+        "wait": 31,
+        "receive": 0
+      },
+      "ninetyFifthTimings": {
+        "blocked": 0,
+        "wait": 108,
+        "receive": 26
+      },
+      "bytesTransferred": null,
+      "topUrl": {
+        "url": "https://dxc.com/content/dam/datafiles/fonts/fonts.css",
+        "noOfOccurrences": 1
+      },
+      "largest": {
+        "url": "https://dxc.scene7.com/is/image/dxc/Score-carousel-3a:banner_desktop",
+        "bytes": 0
+      },
+      "largestCompressed": {
+        "url": "https://dxc.com/"
+      },
+      "longest": {
+        "url": "https://publish-p31504-e108941.adobeaemcloud.com/etc/cloudsettings.kernel.js/libs/settings/cloudsettings/legacy/contexthub",
+        "time": 3594,
+        "timings": {
+          "blocked": -1,
+          "wait": 3468,
+          "receive": 126,
+          "connect": -1
+        }
+      }
+    },
+    "document": {
+      "noOfRequests": 0
+    },
+    "font": {
+      "noOfRequests": 0
+    },
+    "image": {
+      "noOfRequests": 0
+    },
+    "style": {
+      "noOfRequests": 0
+    },
+    "script": {
+      "noOfRequests": 0
+    },
+    "xhr": {
+      "noOfRequests": 0
+    },
+    "other": {
+      "noOfRequests": 0
+    }
+  }
+}

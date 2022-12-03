@@ -1,0 +1,73 @@
+{
+  "pages": {
+    "noOfPages": 1,
+    "medianOnLoad": null,
+    "ninetyFifthOnLoad": null,
+    "pages": [
+      {
+        "url": "Kroger",
+        "onLoad": null
+      }
+    ]
+  },
+  "requests": {
+    "all": {
+      "noOfRequests": 132,
+      "medianTime": 62,
+      "ninetyFifthTime": 340,
+      "medianTimings": {
+        "blocked": -1,
+        "wait": 49,
+        "receive": 0
+      },
+      "ninetyFifthTimings": {
+        "blocked": 0,
+        "wait": 318,
+        "receive": 14
+      },
+      "bytesTransferred": null,
+      "topUrl": {
+        "url": "https://www.kroger.com/D0FIiM/zuYN/u35/uR8/hzxKNZvK/t1a3DpOX/QQcBPRwrSQ0/ID4L/WjtbQRYB",
+        "noOfOccurrences": 4
+      },
+      "largest": {
+        "url": "https://www.kroger.com/cdn/@kroger/amp-products-components/src/components/CmsProductList.20fee89e38d6a87720bb.js",
+        "bytes": 0
+      },
+      "largestCompressed": {
+        "url": "https://www.kroger.com/"
+      },
+      "longest": {
+        "url": "https://www.kroger.com/",
+        "time": 1859,
+        "timings": {
+          "blocked": 0,
+          "wait": 1016,
+          "receive": 593,
+          "connect": 205
+        }
+      }
+    },
+    "document": {
+      "noOfRequests": 0
+    },
+    "font": {
+      "noOfRequests": 0
+    },
+    "image": {
+      "noOfRequests": 0
+    },
+    "style": {
+      "noOfRequests": 0
+    },
+    "script": {
+      "noOfRequests": 0
+    },
+    "xhr": {
+      "noOfRequests": 0
+    },
+    "other": {
+      "noOfRequests": 0
+    }
+  }
+}

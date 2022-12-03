@@ -1,0 +1,73 @@
+{
+  "pages": {
+    "noOfPages": 1,
+    "medianOnLoad": null,
+    "ninetyFifthOnLoad": null,
+    "pages": [
+      {
+        "url": "Stanley Black & Decker",
+        "onLoad": null
+      }
+    ]
+  },
+  "requests": {
+    "all": {
+      "noOfRequests": 56,
+      "medianTime": 79,
+      "ninetyFifthTime": 364,
+      "medianTimings": {
+        "blocked": -1,
+        "wait": 29,
+        "receive": 0
+      },
+      "ninetyFifthTimings": {
+        "blocked": 0,
+        "wait": 258,
+        "receive": 59
+      },
+      "bytesTransferred": null,
+      "topUrl": {
+        "url": "https://jnn-pa.googleapis.com/$rpc/google.internal.waa.v1.Waa/GenerateIT",
+        "noOfOccurrences": 2
+      },
+      "largest": {
+        "url": "https://www.gstatic.com/eureka/clank/107/cast_sender.js",
+        "bytes": 0
+      },
+      "largestCompressed": {
+        "url": "https://www.stanleyblackanddecker.com/"
+      },
+      "longest": {
+        "url": "https://www.stanleyblackanddecker.com/sites/default/files/styles/dojo_16_9_ratio/public/2022-06/13aqa1tla10_xt1lt50_env_2_1920x1080.jpg",
+        "time": 522,
+        "timings": {
+          "blocked": -1,
+          "wait": 242,
+          "receive": 279,
+          "connect": -1
+        }
+      }
+    },
+    "document": {
+      "noOfRequests": 0
+    },
+    "font": {
+      "noOfRequests": 0
+    },
+    "image": {
+      "noOfRequests": 0
+    },
+    "style": {
+      "noOfRequests": 0
+    },
+    "script": {
+      "noOfRequests": 0
+    },
+    "xhr": {
+      "noOfRequests": 0
+    },
+    "other": {
+      "noOfRequests": 0
+    }
+  }
+}

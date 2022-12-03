@@ -1,0 +1,73 @@
+{
+  "pages": {
+    "noOfPages": 1,
+    "medianOnLoad": null,
+    "ninetyFifthOnLoad": null,
+    "pages": [
+      {
+        "url": "Dell Technologies",
+        "onLoad": null
+      }
+    ]
+  },
+  "requests": {
+    "all": {
+      "noOfRequests": 89,
+      "medianTime": 116,
+      "ninetyFifthTime": 345,
+      "medianTimings": {
+        "blocked": 0,
+        "wait": 30,
+        "receive": 0
+      },
+      "ninetyFifthTimings": {
+        "blocked": 0,
+        "wait": 145,
+        "receive": 29
+      },
+      "bytesTransferred": null,
+      "topUrl": {
+        "url": "https://www.googletagmanager.com/gtag/js",
+        "noOfOccurrences": 5
+      },
+      "largest": {
+        "url": "https://9632645.fls.doubleclick.net/activityi;dc_pre=CPP9oPmD3PsCFcYPaAgdOhIPZA;src=9632645;type=homee0;cat=csb_h0;ord=1807603634165;gtm=2odbu0;auiddc=25929404.1670021782;u1=en;u10=incorp1;u11=;u12=d;u13=;u14=;u15=;u16=;u17=;u18=;u19=;u2=gen;u20=1;u21=;u22=;u23=;u24=;u25=;u26=;u27=none;u28=;u29=;u3=;u30=;u35=;u36=;u37=;u38=;u4=in;u6=;u7=;u8=;u9=;~oref=https%3A%2F%2Fwww.dell.com%2Fen-in",
+        "bytes": 0
+      },
+      "largestCompressed": {
+        "url": "https://www.dell.com/en-in"
+      },
+      "longest": {
+        "url": "https://app.eu.securiti.ai/core/v1/utils/geo/location",
+        "time": 782,
+        "timings": {
+          "blocked": 0,
+          "wait": 112,
+          "receive": 0,
+          "connect": 635
+        }
+      }
+    },
+    "document": {
+      "noOfRequests": 0
+    },
+    "font": {
+      "noOfRequests": 0
+    },
+    "image": {
+      "noOfRequests": 0
+    },
+    "style": {
+      "noOfRequests": 0
+    },
+    "script": {
+      "noOfRequests": 0
+    },
+    "xhr": {
+      "noOfRequests": 0
+    },
+    "other": {
+      "noOfRequests": 0
+    }
+  }
+}

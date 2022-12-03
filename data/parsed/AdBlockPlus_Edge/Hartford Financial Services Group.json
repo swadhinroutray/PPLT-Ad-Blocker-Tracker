@@ -1,0 +1,73 @@
+{
+  "pages": {
+    "noOfPages": 1,
+    "medianOnLoad": null,
+    "ninetyFifthOnLoad": null,
+    "pages": [
+      {
+        "url": "Hartford Financial Services Group",
+        "onLoad": null
+      }
+    ]
+  },
+  "requests": {
+    "all": {
+      "noOfRequests": 80,
+      "medianTime": 130,
+      "ninetyFifthTime": 397,
+      "medianTimings": {
+        "blocked": 0,
+        "wait": 31,
+        "receive": 0
+      },
+      "ninetyFifthTimings": {
+        "blocked": 0,
+        "wait": 108,
+        "receive": 27
+      },
+      "bytesTransferred": null,
+      "topUrl": {
+        "url": "https://www.googletagmanager.com/gtag/js",
+        "noOfOccurrences": 2
+      },
+      "largest": {
+        "url": "https://www.thehartford.com/sites/rb_3905aa6f-4130-439f-b336-dd2af9fa40d4",
+        "bytes": 0
+      },
+      "largestCompressed": {
+        "url": "https://www.thehartford.com/"
+      },
+      "longest": {
+        "url": "https://ampcid.google.com/v1/publisher:getClientId",
+        "time": 602,
+        "timings": {
+          "blocked": 0,
+          "wait": 44,
+          "receive": 0,
+          "connect": 525
+        }
+      }
+    },
+    "document": {
+      "noOfRequests": 0
+    },
+    "font": {
+      "noOfRequests": 0
+    },
+    "image": {
+      "noOfRequests": 0
+    },
+    "style": {
+      "noOfRequests": 0
+    },
+    "script": {
+      "noOfRequests": 0
+    },
+    "xhr": {
+      "noOfRequests": 0
+    },
+    "other": {
+      "noOfRequests": 0
+    }
+  }
+}

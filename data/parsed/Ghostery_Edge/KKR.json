@@ -1,0 +1,73 @@
+{
+  "pages": {
+    "noOfPages": 1,
+    "medianOnLoad": null,
+    "ninetyFifthOnLoad": null,
+    "pages": [
+      {
+        "url": "KKR",
+        "onLoad": null
+      }
+    ]
+  },
+  "requests": {
+    "all": {
+      "noOfRequests": 139,
+      "medianTime": 84,
+      "ninetyFifthTime": 329,
+      "medianTimings": {
+        "blocked": -1,
+        "wait": 35,
+        "receive": 0
+      },
+      "ninetyFifthTimings": {
+        "blocked": 0,
+        "wait": 234,
+        "receive": 27
+      },
+      "bytesTransferred": null,
+      "topUrl": {
+        "url": "https://experiences.wyng.com/api/v1/event-api/events",
+        "noOfOccurrences": 3
+      },
+      "largest": {
+        "url": "https://www.kkr.com/sites/default/files/favicon_0.png",
+        "bytes": 0
+      },
+      "largestCompressed": {
+        "url": "https://www.dollartree.com/file/general/DT-icon-account-black.svg"
+      },
+      "longest": {
+        "url": "https://www.kkr.com/",
+        "time": 1129,
+        "timings": {
+          "blocked": 0,
+          "wait": 898,
+          "receive": 5,
+          "connect": 150
+        }
+      }
+    },
+    "document": {
+      "noOfRequests": 0
+    },
+    "font": {
+      "noOfRequests": 0
+    },
+    "image": {
+      "noOfRequests": 0
+    },
+    "style": {
+      "noOfRequests": 0
+    },
+    "script": {
+      "noOfRequests": 0
+    },
+    "xhr": {
+      "noOfRequests": 0
+    },
+    "other": {
+      "noOfRequests": 0
+    }
+  }
+}

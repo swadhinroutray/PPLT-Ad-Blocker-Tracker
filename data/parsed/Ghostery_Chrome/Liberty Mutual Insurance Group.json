@@ -1,0 +1,73 @@
+{
+  "pages": {
+    "noOfPages": 1,
+    "medianOnLoad": null,
+    "ninetyFifthOnLoad": null,
+    "pages": [
+      {
+        "url": "Liberty Mutual Insurance Group",
+        "onLoad": null
+      }
+    ]
+  },
+  "requests": {
+    "all": {
+      "noOfRequests": 73,
+      "medianTime": 100,
+      "ninetyFifthTime": 334,
+      "medianTimings": {
+        "blocked": -1,
+        "wait": 39,
+        "receive": 0
+      },
+      "ninetyFifthTimings": {
+        "blocked": 0,
+        "wait": 140,
+        "receive": 44
+      },
+      "bytesTransferred": null,
+      "topUrl": {
+        "url": "https://siteintercept.qualtrics.com/WRSiteInterceptEngine/Asset.php",
+        "noOfOccurrences": 3
+      },
+      "largest": {
+        "url": "https://co1.qualtrics.com/WRQualtricsSiteIntercept/Graphic.php",
+        "bytes": 0
+      },
+      "largestCompressed": {
+        "url": "https://113vod-adaptive.akamaized.net/exp=1670026336~acl=%2F9c424f66-234e-403b-97d2-49192390f370%2F%2A~hmac=345099e72c5c25867069f2b7a7694821adb931484423b9844b4ee2fd51bfcbbc/9c424f66-234e-403b-97d2-49192390f370/sep/video/8bede956/chop/segment-2.m4s"
+      },
+      "longest": {
+        "url": "https://www.libertymutualgroup.com/about-lm/corporate-information/overview",
+        "time": 487,
+        "timings": {
+          "blocked": -1,
+          "wait": 486,
+          "receive": 0,
+          "connect": -1
+        }
+      }
+    },
+    "document": {
+      "noOfRequests": 0
+    },
+    "font": {
+      "noOfRequests": 0
+    },
+    "image": {
+      "noOfRequests": 0
+    },
+    "style": {
+      "noOfRequests": 0
+    },
+    "script": {
+      "noOfRequests": 0
+    },
+    "xhr": {
+      "noOfRequests": 0
+    },
+    "other": {
+      "noOfRequests": 0
+    }
+  }
+}

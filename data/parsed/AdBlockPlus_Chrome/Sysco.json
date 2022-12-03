@@ -1,0 +1,73 @@
+{
+  "pages": {
+    "noOfPages": 1,
+    "medianOnLoad": null,
+    "ninetyFifthOnLoad": null,
+    "pages": [
+      {
+        "url": "Sysco",
+        "onLoad": null
+      }
+    ]
+  },
+  "requests": {
+    "all": {
+      "noOfRequests": 84,
+      "medianTime": 76,
+      "ninetyFifthTime": 358,
+      "medianTimings": {
+        "blocked": -1,
+        "wait": 30,
+        "receive": 0
+      },
+      "ninetyFifthTimings": {
+        "blocked": 0,
+        "wait": 102,
+        "receive": 41
+      },
+      "bytesTransferred": null,
+      "topUrl": {
+        "url": "https://www.google.com/ads/ga-audiences",
+        "noOfOccurrences": 1
+      },
+      "largest": {
+        "url": "https://api-iam.intercom.io/messenger/web/ping",
+        "bytes": 0
+      },
+      "largestCompressed": {
+        "url": "https://www.sysco.com/"
+      },
+      "longest": {
+        "url": "https://px.ads.linkedin.com/collect",
+        "time": 927,
+        "timings": {
+          "blocked": 0,
+          "wait": 800,
+          "receive": 0,
+          "connect": 87
+        }
+      }
+    },
+    "document": {
+      "noOfRequests": 0
+    },
+    "font": {
+      "noOfRequests": 0
+    },
+    "image": {
+      "noOfRequests": 0
+    },
+    "style": {
+      "noOfRequests": 0
+    },
+    "script": {
+      "noOfRequests": 0
+    },
+    "xhr": {
+      "noOfRequests": 0
+    },
+    "other": {
+      "noOfRequests": 0
+    }
+  }
+}

@@ -1,0 +1,73 @@
+{
+  "pages": {
+    "noOfPages": 1,
+    "medianOnLoad": null,
+    "ninetyFifthOnLoad": null,
+    "pages": [
+      {
+        "url": "PG&E",
+        "onLoad": null
+      }
+    ]
+  },
+  "requests": {
+    "all": {
+      "noOfRequests": 11,
+      "medianTime": 69,
+      "ninetyFifthTime": 376,
+      "medianTimings": {
+        "blocked": -1,
+        "wait": 25,
+        "receive": 0
+      },
+      "ninetyFifthTimings": {
+        "blocked": 0,
+        "wait": 134,
+        "receive": 44
+      },
+      "bytesTransferred": null,
+      "topUrl": {
+        "url": "https://www.pgecorp.com/pge_global/pgecorp/common/images/PGE_Corp_full_rgb_pos.svg",
+        "noOfOccurrences": 0
+      },
+      "largest": {
+        "url": "https://www.pgecorp.com/pge_global/pgecorp/common/images/PGE_Corp_full_rgb_pos.svg",
+        "bytes": 0
+      },
+      "largestCompressed": {
+        "url": "https://privacy-portal-manpowergroup.my.onetrust.com/request/v1/consentreceipts"
+      },
+      "longest": {
+        "url": "https://privacy-portal-manpowergroup.my.onetrust.com/request/v1/consentreceipts",
+        "time": 430,
+        "timings": {
+          "blocked": 0,
+          "wait": 224,
+          "receive": 0,
+          "connect": 178
+        }
+      }
+    },
+    "document": {
+      "noOfRequests": 0
+    },
+    "font": {
+      "noOfRequests": 0
+    },
+    "image": {
+      "noOfRequests": 0
+    },
+    "style": {
+      "noOfRequests": 0
+    },
+    "script": {
+      "noOfRequests": 0
+    },
+    "xhr": {
+      "noOfRequests": 0
+    },
+    "other": {
+      "noOfRequests": 0
+    }
+  }
+}

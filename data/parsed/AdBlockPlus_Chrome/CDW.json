@@ -1,0 +1,73 @@
+{
+  "pages": {
+    "noOfPages": 1,
+    "medianOnLoad": null,
+    "ninetyFifthOnLoad": null,
+    "pages": [
+      {
+        "url": "CDW",
+        "onLoad": null
+      }
+    ]
+  },
+  "requests": {
+    "all": {
+      "noOfRequests": 395,
+      "medianTime": 54,
+      "ninetyFifthTime": 300,
+      "medianTimings": {
+        "blocked": -1,
+        "wait": 35,
+        "receive": 0
+      },
+      "ninetyFifthTimings": {
+        "blocked": 0,
+        "wait": 85,
+        "receive": 15
+      },
+      "bytesTransferred": null,
+      "topUrl": {
+        "url": "https://www.cdw.com/WKu4Z0/QVot/sczZ/1T7Y/5VEqu3/X13O2frQwaG9/Qk1QICEi/AFUmDD/lzCSkB",
+        "noOfOccurrences": 4
+      },
+      "largest": {
+        "url": "https://webobjects2.cdw.com/is/content/CDW/cdw/on-domain-cdw/cdw-branded/cdw-icons/down-triangle.svg",
+        "bytes": 0
+      },
+      "largestCompressed": {
+        "url": "https://www.cdw.com/"
+      },
+      "longest": {
+        "url": "https://cdw.needle.com/needle_service.js",
+        "time": 594,
+        "timings": {
+          "blocked": 0,
+          "wait": 81,
+          "receive": 1,
+          "connect": 422
+        }
+      }
+    },
+    "document": {
+      "noOfRequests": 0
+    },
+    "font": {
+      "noOfRequests": 0
+    },
+    "image": {
+      "noOfRequests": 0
+    },
+    "style": {
+      "noOfRequests": 0
+    },
+    "script": {
+      "noOfRequests": 0
+    },
+    "xhr": {
+      "noOfRequests": 0
+    },
+    "other": {
+      "noOfRequests": 0
+    }
+  }
+}

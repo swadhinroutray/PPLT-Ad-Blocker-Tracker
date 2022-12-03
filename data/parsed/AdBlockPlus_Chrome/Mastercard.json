@@ -1,0 +1,73 @@
+{
+  "pages": {
+    "noOfPages": 1,
+    "medianOnLoad": null,
+    "ninetyFifthOnLoad": null,
+    "pages": [
+      {
+        "url": "Mastercard",
+        "onLoad": null
+      }
+    ]
+  },
+  "requests": {
+    "all": {
+      "noOfRequests": 53,
+      "medianTime": 42,
+      "ninetyFifthTime": 239,
+      "medianTimings": {
+        "blocked": -1,
+        "wait": 29,
+        "receive": 0
+      },
+      "ninetyFifthTimings": {
+        "blocked": 0,
+        "wait": 150,
+        "receive": 8
+      },
+      "bytesTransferred": null,
+      "topUrl": {
+        "url": "https://www.mastercard.us/iooNIA/_sY/JsX/rA8XKw/G1z1rphXpOu1/HRNLRk0/ZQo/7U2AnLR8B",
+        "noOfOccurrences": 3
+      },
+      "largest": {
+        "url": "https://cdn.cookielaw.org/logos/static/poweredBy_ot_logo.svg",
+        "bytes": 0
+      },
+      "largestCompressed": {
+        "url": "https://www.mastercard.us/"
+      },
+      "longest": {
+        "url": "https://www.mastercard.us/",
+        "time": 327,
+        "timings": {
+          "blocked": 0,
+          "wait": 110,
+          "receive": 0,
+          "connect": 155
+        }
+      }
+    },
+    "document": {
+      "noOfRequests": 0
+    },
+    "font": {
+      "noOfRequests": 0
+    },
+    "image": {
+      "noOfRequests": 0
+    },
+    "style": {
+      "noOfRequests": 0
+    },
+    "script": {
+      "noOfRequests": 0
+    },
+    "xhr": {
+      "noOfRequests": 0
+    },
+    "other": {
+      "noOfRequests": 0
+    }
+  }
+}

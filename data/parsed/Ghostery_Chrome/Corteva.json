@@ -1,0 +1,73 @@
+{
+  "pages": {
+    "noOfPages": 1,
+    "medianOnLoad": null,
+    "ninetyFifthOnLoad": null,
+    "pages": [
+      {
+        "url": "Corteva",
+        "onLoad": null
+      }
+    ]
+  },
+  "requests": {
+    "all": {
+      "noOfRequests": 88,
+      "medianTime": 110,
+      "ninetyFifthTime": 351,
+      "medianTimings": {
+        "blocked": 0,
+        "wait": 28,
+        "receive": 0
+      },
+      "ninetyFifthTimings": {
+        "blocked": 0,
+        "wait": 117,
+        "receive": 36
+      },
+      "bytesTransferred": null,
+      "topUrl": {
+        "url": "https://www.googletagmanager.com/gtag/js",
+        "noOfOccurrences": 4
+      },
+      "largest": {
+        "url": "https://engage.corteva.com/visitor/v200/svrgp.aspx",
+        "bytes": 0
+      },
+      "largestCompressed": {
+        "url": "https://173bf10f.akstat.io/"
+      },
+      "longest": {
+        "url": "https://rum-collector-2.pingdom.net/img/beacon.gif",
+        "time": 492,
+        "timings": {
+          "blocked": 0,
+          "wait": 112,
+          "receive": 0,
+          "connect": 348
+        }
+      }
+    },
+    "document": {
+      "noOfRequests": 0
+    },
+    "font": {
+      "noOfRequests": 0
+    },
+    "image": {
+      "noOfRequests": 0
+    },
+    "style": {
+      "noOfRequests": 0
+    },
+    "script": {
+      "noOfRequests": 0
+    },
+    "xhr": {
+      "noOfRequests": 0
+    },
+    "other": {
+      "noOfRequests": 0
+    }
+  }
+}

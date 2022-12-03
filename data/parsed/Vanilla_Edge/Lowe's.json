@@ -1,0 +1,73 @@
+{
+  "pages": {
+    "noOfPages": 1,
+    "medianOnLoad": null,
+    "ninetyFifthOnLoad": null,
+    "pages": [
+      {
+        "url": "Lowe's",
+        "onLoad": null
+      }
+    ]
+  },
+  "requests": {
+    "all": {
+      "noOfRequests": 184,
+      "medianTime": 86,
+      "ninetyFifthTime": 383,
+      "medianTimings": {
+        "blocked": -1,
+        "wait": 27,
+        "receive": 0
+      },
+      "ninetyFifthTimings": {
+        "blocked": 0,
+        "wait": 133,
+        "receive": 34
+      },
+      "bytesTransferred": null,
+      "topUrl": {
+        "url": "https://googleads.g.doubleclick.net/pagead/viewthroughconversion/1031919983/",
+        "noOfOccurrences": 4
+      },
+      "largest": {
+        "url": "https://googleads.g.doubleclick.net/pagead/viewthroughconversion/1031919983/",
+        "bytes": 0
+      },
+      "largestCompressed": {
+        "url": "https://68794912.akstat.io/"
+      },
+      "longest": {
+        "url": "https://www.lowes.com/",
+        "time": 734,
+        "timings": {
+          "blocked": 0,
+          "wait": 453,
+          "receive": 20,
+          "connect": 205
+        }
+      }
+    },
+    "document": {
+      "noOfRequests": 0
+    },
+    "font": {
+      "noOfRequests": 0
+    },
+    "image": {
+      "noOfRequests": 0
+    },
+    "style": {
+      "noOfRequests": 0
+    },
+    "script": {
+      "noOfRequests": 0
+    },
+    "xhr": {
+      "noOfRequests": 0
+    },
+    "other": {
+      "noOfRequests": 0
+    }
+  }
+}

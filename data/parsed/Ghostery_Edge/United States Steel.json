@@ -1,0 +1,73 @@
+{
+  "pages": {
+    "noOfPages": 1,
+    "medianOnLoad": null,
+    "ninetyFifthOnLoad": null,
+    "pages": [
+      {
+        "url": "United States Steel",
+        "onLoad": null
+      }
+    ]
+  },
+  "requests": {
+    "all": {
+      "noOfRequests": 184,
+      "medianTime": 47,
+      "ninetyFifthTime": 350,
+      "medianTimings": {
+        "blocked": -1,
+        "wait": 37,
+        "receive": 0
+      },
+      "ninetyFifthTimings": {
+        "blocked": 0,
+        "wait": 76,
+        "receive": 114
+      },
+      "bytesTransferred": null,
+      "topUrl": {
+        "url": "https://www.ussteel.com/combo/",
+        "noOfOccurrences": 25
+      },
+      "largest": {
+        "url": "https://www.youtube.com/youtubei/v1/log_event",
+        "bytes": 0
+      },
+      "largestCompressed": {
+        "url": "https://nav-edge.smartscreen.microsoft.com/api/browser/edge/navigate/3"
+      },
+      "longest": {
+        "url": "https://www.ussteel.com/documents/40705/43719/USS_Anthem_30sec_web_12-1-20.mp4/462bf7ae-d754-86fb-bb4d-03db6882935a",
+        "time": 2165,
+        "timings": {
+          "blocked": -1,
+          "wait": 44,
+          "receive": 2121,
+          "connect": -1
+        }
+      }
+    },
+    "document": {
+      "noOfRequests": 0
+    },
+    "font": {
+      "noOfRequests": 0
+    },
+    "image": {
+      "noOfRequests": 0
+    },
+    "style": {
+      "noOfRequests": 0
+    },
+    "script": {
+      "noOfRequests": 0
+    },
+    "xhr": {
+      "noOfRequests": 0
+    },
+    "other": {
+      "noOfRequests": 0
+    }
+  }
+}

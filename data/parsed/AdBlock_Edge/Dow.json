@@ -1,0 +1,73 @@
+{
+  "pages": {
+    "noOfPages": 1,
+    "medianOnLoad": null,
+    "ninetyFifthOnLoad": null,
+    "pages": [
+      {
+        "url": "Dow",
+        "onLoad": null
+      }
+    ]
+  },
+  "requests": {
+    "all": {
+      "noOfRequests": 142,
+      "medianTime": 97,
+      "ninetyFifthTime": 400,
+      "medianTimings": {
+        "blocked": -1,
+        "wait": 38,
+        "receive": 0
+      },
+      "ninetyFifthTimings": {
+        "blocked": 0,
+        "wait": 205,
+        "receive": 37
+      },
+      "bytesTransferred": null,
+      "topUrl": {
+        "url": "https://www.dow.com/PWUGnYeIu/wG/Ei/hZQmlqtYreGITQ/V7i7pcSm/aS12AxAB/MVRY/BzwDFiAB",
+        "noOfOccurrences": 3
+      },
+      "largest": {
+        "url": "https://dow.demdex.net/dest5.html",
+        "bytes": 0
+      },
+      "largestCompressed": {
+        "url": "https://www.dow.com/"
+      },
+      "longest": {
+        "url": "https://www.dow.com/.search.token.servlet.json",
+        "time": 930,
+        "timings": {
+          "blocked": -1,
+          "wait": 930,
+          "receive": 0,
+          "connect": -1
+        }
+      }
+    },
+    "document": {
+      "noOfRequests": 0
+    },
+    "font": {
+      "noOfRequests": 0
+    },
+    "image": {
+      "noOfRequests": 0
+    },
+    "style": {
+      "noOfRequests": 0
+    },
+    "script": {
+      "noOfRequests": 0
+    },
+    "xhr": {
+      "noOfRequests": 0
+    },
+    "other": {
+      "noOfRequests": 0
+    }
+  }
+}

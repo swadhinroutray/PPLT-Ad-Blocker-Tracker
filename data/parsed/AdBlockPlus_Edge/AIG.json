@@ -1,0 +1,73 @@
+{
+  "pages": {
+    "noOfPages": 1,
+    "medianOnLoad": null,
+    "ninetyFifthOnLoad": null,
+    "pages": [
+      {
+        "url": "AIG",
+        "onLoad": null
+      }
+    ]
+  },
+  "requests": {
+    "all": {
+      "noOfRequests": 63,
+      "medianTime": 35,
+      "ninetyFifthTime": 279,
+      "medianTimings": {
+        "blocked": -1,
+        "wait": 25,
+        "receive": 0
+      },
+      "ninetyFifthTimings": {
+        "blocked": 0,
+        "wait": 47,
+        "receive": 39
+      },
+      "bytesTransferred": null,
+      "topUrl": {
+        "url": "https://www.aig.com/_Incapsula_Resource",
+        "noOfOccurrences": 1
+      },
+      "largest": {
+        "url": "https://www-172.aig.com/b/ss/aig.us,aig.global/1/JS-2.22.2-LCXS/s16456614029271",
+        "bytes": 0
+      },
+      "largestCompressed": {
+        "url": "https://173bf110.akstat.io/"
+      },
+      "longest": {
+        "url": "https://www.aig.com/etc.clientlibs/dmp2-base/clientlibs/clientlib-base.min.css",
+        "time": 461,
+        "timings": {
+          "blocked": 0,
+          "wait": 25,
+          "receive": 0,
+          "connect": 303
+        }
+      }
+    },
+    "document": {
+      "noOfRequests": 0
+    },
+    "font": {
+      "noOfRequests": 0
+    },
+    "image": {
+      "noOfRequests": 0
+    },
+    "style": {
+      "noOfRequests": 0
+    },
+    "script": {
+      "noOfRequests": 0
+    },
+    "xhr": {
+      "noOfRequests": 0
+    },
+    "other": {
+      "noOfRequests": 0
+    }
+  }
+}

@@ -1,0 +1,73 @@
+{
+  "pages": {
+    "noOfPages": 1,
+    "medianOnLoad": null,
+    "ninetyFifthOnLoad": null,
+    "pages": [
+      {
+        "url": "AIG",
+        "onLoad": null
+      }
+    ]
+  },
+  "requests": {
+    "all": {
+      "noOfRequests": 53,
+      "medianTime": 38,
+      "ninetyFifthTime": 245,
+      "medianTimings": {
+        "blocked": -1,
+        "wait": 24,
+        "receive": 1
+      },
+      "ninetyFifthTimings": {
+        "blocked": 0,
+        "wait": 70,
+        "receive": 103
+      },
+      "bytesTransferred": null,
+      "topUrl": {
+        "url": "https://www.aig.com/_Incapsula_Resource",
+        "noOfOccurrences": 1
+      },
+      "largest": {
+        "url": "https://www.aig.com/favicon.ico",
+        "bytes": 0
+      },
+      "largestCompressed": {
+        "url": "https://data.allstate.com/529001/buR5"
+      },
+      "longest": {
+        "url": "https://www.aig.com/content/aig/america-canada/us_corporate/en/individual/_jcr_content/root/responsivegrid/responsivegrid/container_263414574_/teaserflex_copy_1501.coreimg.90.2798.png/1669830816607/colleagues-of-aig-paul-komar-hero.png",
+        "time": 374,
+        "timings": {
+          "blocked": -1,
+          "wait": 23,
+          "receive": 351,
+          "connect": -1
+        }
+      }
+    },
+    "document": {
+      "noOfRequests": 0
+    },
+    "font": {
+      "noOfRequests": 0
+    },
+    "image": {
+      "noOfRequests": 0
+    },
+    "style": {
+      "noOfRequests": 0
+    },
+    "script": {
+      "noOfRequests": 0
+    },
+    "xhr": {
+      "noOfRequests": 0
+    },
+    "other": {
+      "noOfRequests": 0
+    }
+  }
+}

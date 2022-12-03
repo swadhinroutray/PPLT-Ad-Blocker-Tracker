@@ -1,0 +1,73 @@
+{
+  "pages": {
+    "noOfPages": 1,
+    "medianOnLoad": null,
+    "ninetyFifthOnLoad": null,
+    "pages": [
+      {
+        "url": "Automatic Data Processing",
+        "onLoad": null
+      }
+    ]
+  },
+  "requests": {
+    "all": {
+      "noOfRequests": 191,
+      "medianTime": 34,
+      "ninetyFifthTime": 278,
+      "medianTimings": {
+        "blocked": -1,
+        "wait": 26,
+        "receive": 0
+      },
+      "ninetyFifthTimings": {
+        "blocked": 0,
+        "wait": 78,
+        "receive": 24
+      },
+      "bytesTransferred": null,
+      "topUrl": {
+        "url": "https://a.idio.co/ia.gif",
+        "noOfOccurrences": 2
+      },
+      "largest": {
+        "url": "https://edge.microsoft.com/autofillservice/v1/pages/ChVDaHJvbWUvMTA3LjAuNTMwNC4xNTASQQn69zOvju4CzxIFDSV5TswSBQ3TkmL1EgUN6kzjZxIFDbJNnSQSBQ3N3kqBEgUNYQvMAhIFDcBTvuoSBQ2RYZVOEiwJc2KPYTRVHfcSBQ1N3vMWEgUNgZDxfBIFDZSQkvoSBQ2RYZVOEgUNlJCS-g==",
+        "bytes": 0
+      },
+      "largestCompressed": {
+        "url": "https://www.adp.com/"
+      },
+      "longest": {
+        "url": "https://www.adp.com/",
+        "time": 494,
+        "timings": {
+          "blocked": 0,
+          "wait": 204,
+          "receive": 37,
+          "connect": 206
+        }
+      }
+    },
+    "document": {
+      "noOfRequests": 0
+    },
+    "font": {
+      "noOfRequests": 0
+    },
+    "image": {
+      "noOfRequests": 0
+    },
+    "style": {
+      "noOfRequests": 0
+    },
+    "script": {
+      "noOfRequests": 0
+    },
+    "xhr": {
+      "noOfRequests": 0
+    },
+    "other": {
+      "noOfRequests": 0
+    }
+  }
+}

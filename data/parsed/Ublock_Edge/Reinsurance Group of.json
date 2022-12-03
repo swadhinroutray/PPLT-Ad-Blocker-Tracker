@@ -1,0 +1,73 @@
+{
+  "pages": {
+    "noOfPages": 1,
+    "medianOnLoad": null,
+    "ninetyFifthOnLoad": null,
+    "pages": [
+      {
+        "url": "Reinsurance Group of",
+        "onLoad": null
+      }
+    ]
+  },
+  "requests": {
+    "all": {
+      "noOfRequests": 38,
+      "medianTime": 238,
+      "ninetyFifthTime": 6959,
+      "medianTimings": {
+        "blocked": -1,
+        "wait": 98,
+        "receive": 0
+      },
+      "ninetyFifthTimings": {
+        "blocked": 0,
+        "wait": 158,
+        "receive": 6844
+      },
+      "bytesTransferred": null,
+      "topUrl": {
+        "url": "https://www.rgare.com/ResourcePackages/Talon/assets/dist/css/updates.css",
+        "noOfOccurrences": 1
+      },
+      "largest": {
+        "url": "https://www.rgare.com/favicon.ico",
+        "bytes": 0
+      },
+      "largestCompressed": {
+        "url": "https://nav-edge.smartscreen.microsoft.com/api/browser/edge/navigate/3"
+      },
+      "longest": {
+        "url": "https://www.rgare.com/images/default-source/banners/pivot-extra-long.png",
+        "time": 11798,
+        "timings": {
+          "blocked": -1,
+          "wait": 102,
+          "receive": 11695,
+          "connect": -1
+        }
+      }
+    },
+    "document": {
+      "noOfRequests": 0
+    },
+    "font": {
+      "noOfRequests": 0
+    },
+    "image": {
+      "noOfRequests": 0
+    },
+    "style": {
+      "noOfRequests": 0
+    },
+    "script": {
+      "noOfRequests": 0
+    },
+    "xhr": {
+      "noOfRequests": 0
+    },
+    "other": {
+      "noOfRequests": 0
+    }
+  }
+}

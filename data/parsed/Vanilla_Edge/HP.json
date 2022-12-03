@@ -1,0 +1,73 @@
+{
+  "pages": {
+    "noOfPages": 1,
+    "medianOnLoad": null,
+    "ninetyFifthOnLoad": null,
+    "pages": [
+      {
+        "url": "HP",
+        "onLoad": null
+      }
+    ]
+  },
+  "requests": {
+    "all": {
+      "noOfRequests": 86,
+      "medianTime": 64,
+      "ninetyFifthTime": 211,
+      "medianTimings": {
+        "blocked": -1,
+        "wait": 29,
+        "receive": 0
+      },
+      "ninetyFifthTimings": {
+        "blocked": 0,
+        "wait": 63,
+        "receive": 37
+      },
+      "bytesTransferred": null,
+      "topUrl": {
+        "url": "https://www.googletagmanager.com/gtm.js",
+        "noOfOccurrences": 3
+      },
+      "largest": {
+        "url": "https://s.yimg.com/wi/ytc.js",
+        "bytes": 0
+      },
+      "largestCompressed": {
+        "url": "https://www.hp.com/"
+      },
+      "longest": {
+        "url": "https://www8.hp.com/us/en/home.html",
+        "time": 372,
+        "timings": {
+          "blocked": 0,
+          "wait": 19,
+          "receive": 0,
+          "connect": 312
+        }
+      }
+    },
+    "document": {
+      "noOfRequests": 0
+    },
+    "font": {
+      "noOfRequests": 0
+    },
+    "image": {
+      "noOfRequests": 0
+    },
+    "style": {
+      "noOfRequests": 0
+    },
+    "script": {
+      "noOfRequests": 0
+    },
+    "xhr": {
+      "noOfRequests": 0
+    },
+    "other": {
+      "noOfRequests": 0
+    }
+  }
+}

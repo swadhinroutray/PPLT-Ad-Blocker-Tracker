@@ -1,0 +1,73 @@
+{
+  "pages": {
+    "noOfPages": 1,
+    "medianOnLoad": null,
+    "ninetyFifthOnLoad": null,
+    "pages": [
+      {
+        "url": "Sherwin-Williams",
+        "onLoad": null
+      }
+    ]
+  },
+  "requests": {
+    "all": {
+      "noOfRequests": 326,
+      "medianTime": 103,
+      "ninetyFifthTime": 437,
+      "medianTimings": {
+        "blocked": 0,
+        "wait": 26,
+        "receive": 0
+      },
+      "ninetyFifthTimings": {
+        "blocked": 0,
+        "wait": 85,
+        "receive": 34
+      },
+      "bytesTransferred": null,
+      "topUrl": {
+        "url": "https://data.privacy.ensighten.com/privacy/v1/b/r.rnc",
+        "noOfOccurrences": 10
+      },
+      "largest": {
+        "url": "https://data.privacy.ensighten.com/privacy/v1/b/r.rnc",
+        "bytes": 0
+      },
+      "largestCompressed": {
+        "url": "https://68794910.akstat.io/"
+      },
+      "longest": {
+        "url": "https://lpcdn.lpsnmedia.net/le_unified_window/10.23.0.0-release_5549/desktopEmbedded.js",
+        "time": 1266,
+        "timings": {
+          "blocked": 0,
+          "wait": 164,
+          "receive": 732,
+          "connect": 369
+        }
+      }
+    },
+    "document": {
+      "noOfRequests": 0
+    },
+    "font": {
+      "noOfRequests": 0
+    },
+    "image": {
+      "noOfRequests": 0
+    },
+    "style": {
+      "noOfRequests": 0
+    },
+    "script": {
+      "noOfRequests": 0
+    },
+    "xhr": {
+      "noOfRequests": 0
+    },
+    "other": {
+      "noOfRequests": 0
+    }
+  }
+}

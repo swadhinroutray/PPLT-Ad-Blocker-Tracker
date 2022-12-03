@@ -1,0 +1,73 @@
+{
+  "pages": {
+    "noOfPages": 1,
+    "medianOnLoad": null,
+    "ninetyFifthOnLoad": null,
+    "pages": [
+      {
+        "url": "Starbucks",
+        "onLoad": null
+      }
+    ]
+  },
+  "requests": {
+    "all": {
+      "noOfRequests": 32,
+      "medianTime": 42,
+      "ninetyFifthTime": 315,
+      "medianTimings": {
+        "blocked": -1,
+        "wait": 27,
+        "receive": 0
+      },
+      "ninetyFifthTimings": {
+        "blocked": 0,
+        "wait": 147,
+        "receive": 50
+      },
+      "bytesTransferred": null,
+      "topUrl": {
+        "url": "https://consent.trustarc.com/notice",
+        "noOfOccurrences": 1
+      },
+      "largest": {
+        "url": "https://consent.trustarc.com/bannermsg",
+        "bytes": 0
+      },
+      "largestCompressed": {
+        "url": "https://platform.twitter.com/_next/static/chunks/4.87a72bcd1cc186518122.js"
+      },
+      "longest": {
+        "url": "https://www.starbucks.com/",
+        "time": 604,
+        "timings": {
+          "blocked": 0,
+          "wait": 392,
+          "receive": 15,
+          "connect": 138
+        }
+      }
+    },
+    "document": {
+      "noOfRequests": 0
+    },
+    "font": {
+      "noOfRequests": 0
+    },
+    "image": {
+      "noOfRequests": 0
+    },
+    "style": {
+      "noOfRequests": 0
+    },
+    "script": {
+      "noOfRequests": 0
+    },
+    "xhr": {
+      "noOfRequests": 0
+    },
+    "other": {
+      "noOfRequests": 0
+    }
+  }
+}

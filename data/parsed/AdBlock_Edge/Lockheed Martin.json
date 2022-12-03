@@ -1,0 +1,73 @@
+{
+  "pages": {
+    "noOfPages": 1,
+    "medianOnLoad": null,
+    "ninetyFifthOnLoad": null,
+    "pages": [
+      {
+        "url": "Lockheed Martin",
+        "onLoad": null
+      }
+    ]
+  },
+  "requests": {
+    "all": {
+      "noOfRequests": 82,
+      "medianTime": 176,
+      "ninetyFifthTime": 411,
+      "medianTimings": {
+        "blocked": 0,
+        "wait": 38,
+        "receive": 0
+      },
+      "ninetyFifthTimings": {
+        "blocked": 0,
+        "wait": 259,
+        "receive": 85
+      },
+      "bytesTransferred": null,
+      "topUrl": {
+        "url": "https://pixel.mathtag.com/misc/img",
+        "noOfOccurrences": 1
+      },
+      "largest": {
+        "url": "https://c212.net/c/sync",
+        "bytes": 0
+      },
+      "largestCompressed": {
+        "url": "https://nav-edge.smartscreen.microsoft.com/api/browser/edge/navigate/3"
+      },
+      "longest": {
+        "url": "https://in.hotjar.com/api/v2/client/sites/2558627/visit-data",
+        "time": 761,
+        "timings": {
+          "blocked": 0,
+          "wait": 111,
+          "receive": 0,
+          "connect": 617
+        }
+      }
+    },
+    "document": {
+      "noOfRequests": 0
+    },
+    "font": {
+      "noOfRequests": 0
+    },
+    "image": {
+      "noOfRequests": 0
+    },
+    "style": {
+      "noOfRequests": 0
+    },
+    "script": {
+      "noOfRequests": 0
+    },
+    "xhr": {
+      "noOfRequests": 0
+    },
+    "other": {
+      "noOfRequests": 0
+    }
+  }
+}

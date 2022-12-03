@@ -1,0 +1,73 @@
+{
+  "pages": {
+    "noOfPages": 1,
+    "medianOnLoad": null,
+    "ninetyFifthOnLoad": null,
+    "pages": [
+      {
+        "url": "Dollar Tree",
+        "onLoad": null
+      }
+    ]
+  },
+  "requests": {
+    "all": {
+      "noOfRequests": 48,
+      "medianTime": 109,
+      "ninetyFifthTime": 364,
+      "medianTimings": {
+        "blocked": -1,
+        "wait": 36,
+        "receive": 0
+      },
+      "ninetyFifthTimings": {
+        "blocked": 0,
+        "wait": 271,
+        "receive": 43
+      },
+      "bytesTransferred": null,
+      "topUrl": {
+        "url": "https://www.dollartree.com/ccstoreui/v1/pages/home",
+        "noOfOccurrences": 1
+      },
+      "largest": {
+        "url": "https://www.dollartree.com/file/v3503446465581403795/css/pl6600012.css",
+        "bytes": 0
+      },
+      "largestCompressed": {
+        "url": "https://www.salesforce.com/c/public/app/assets/favicon.ico"
+      },
+      "longest": {
+        "url": "https://www.dollartree.com/ccstoreui/v1/countries/shippingCountries",
+        "time": 461,
+        "timings": {
+          "blocked": -1,
+          "wait": 461,
+          "receive": 0,
+          "connect": -1
+        }
+      }
+    },
+    "document": {
+      "noOfRequests": 0
+    },
+    "font": {
+      "noOfRequests": 0
+    },
+    "image": {
+      "noOfRequests": 0
+    },
+    "style": {
+      "noOfRequests": 0
+    },
+    "script": {
+      "noOfRequests": 0
+    },
+    "xhr": {
+      "noOfRequests": 0
+    },
+    "other": {
+      "noOfRequests": 0
+    }
+  }
+}

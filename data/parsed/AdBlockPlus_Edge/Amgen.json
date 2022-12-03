@@ -1,0 +1,73 @@
+{
+  "pages": {
+    "noOfPages": 1,
+    "medianOnLoad": null,
+    "ninetyFifthOnLoad": null,
+    "pages": [
+      {
+        "url": "Amgen",
+        "onLoad": null
+      }
+    ]
+  },
+  "requests": {
+    "all": {
+      "noOfRequests": 113,
+      "medianTime": 137,
+      "ninetyFifthTime": 618,
+      "medianTimings": {
+        "blocked": -1,
+        "wait": 134,
+        "receive": 0
+      },
+      "ninetyFifthTimings": {
+        "blocked": 0,
+        "wait": 310,
+        "receive": 70
+      },
+      "bytesTransferred": null,
+      "topUrl": {
+        "url": "https://analytics.google.com/g/collect",
+        "noOfOccurrences": 2
+      },
+      "largest": {
+        "url": "https://www.amgen.com/favicon.ico",
+        "bytes": 0
+      },
+      "largestCompressed": {
+        "url": "https://nav-edge.smartscreen.microsoft.com/api/browser/edge/navigate/3"
+      },
+      "longest": {
+        "url": "https://www.amgen.com/-/media/Themes/CorporateAffairs/amgen-com/amgen-com/images/amgencommigration/stories/2022/11-09-Building-a-Path-to-Greater-Health-Equity-Through-Storytelling/ALLIANCES_EPCESMHES_LaunchAmgenArticle_1440x570.png",
+        "time": 2994,
+        "timings": {
+          "blocked": 0,
+          "wait": 2640,
+          "receive": 0,
+          "connect": 354
+        }
+      }
+    },
+    "document": {
+      "noOfRequests": 0
+    },
+    "font": {
+      "noOfRequests": 0
+    },
+    "image": {
+      "noOfRequests": 0
+    },
+    "style": {
+      "noOfRequests": 0
+    },
+    "script": {
+      "noOfRequests": 0
+    },
+    "xhr": {
+      "noOfRequests": 0
+    },
+    "other": {
+      "noOfRequests": 0
+    }
+  }
+}

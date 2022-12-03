@@ -1,0 +1,73 @@
+{
+  "pages": {
+    "noOfPages": 1,
+    "medianOnLoad": null,
+    "ninetyFifthOnLoad": null,
+    "pages": [
+      {
+        "url": "Truist Financial",
+        "onLoad": null
+      }
+    ]
+  },
+  "requests": {
+    "all": {
+      "noOfRequests": 232,
+      "medianTime": 88,
+      "ninetyFifthTime": 538,
+      "medianTimings": {
+        "blocked": 0,
+        "wait": 28,
+        "receive": 0
+      },
+      "ninetyFifthTimings": {
+        "blocked": 0,
+        "wait": 134,
+        "receive": 56
+      },
+      "bytesTransferred": null,
+      "topUrl": {
+        "url": "https://cm.g.doubleclick.net/pixel",
+        "noOfOccurrences": 13
+      },
+      "largest": {
+        "url": "https://fast.wistia.com/assets/external/allIntegrations.js",
+        "bytes": 0
+      },
+      "largestCompressed": {
+        "url": "https://www.truist.com/"
+      },
+      "longest": {
+        "url": "https://lpcdn.lpsnmedia.net/le_unified_window/10.23.0.0-release_5549/desktopEmbedded.js",
+        "time": 1673,
+        "timings": {
+          "blocked": -1,
+          "wait": 87,
+          "receive": 1586,
+          "connect": -1
+        }
+      }
+    },
+    "document": {
+      "noOfRequests": 0
+    },
+    "font": {
+      "noOfRequests": 0
+    },
+    "image": {
+      "noOfRequests": 0
+    },
+    "style": {
+      "noOfRequests": 0
+    },
+    "script": {
+      "noOfRequests": 0
+    },
+    "xhr": {
+      "noOfRequests": 0
+    },
+    "other": {
+      "noOfRequests": 0
+    }
+  }
+}

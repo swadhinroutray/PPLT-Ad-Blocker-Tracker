@@ -1,0 +1,73 @@
+{
+  "pages": {
+    "noOfPages": 1,
+    "medianOnLoad": null,
+    "ninetyFifthOnLoad": null,
+    "pages": [
+      {
+        "url": "Nvidia",
+        "onLoad": null
+      }
+    ]
+  },
+  "requests": {
+    "all": {
+      "noOfRequests": 155,
+      "medianTime": 97,
+      "ninetyFifthTime": 352,
+      "medianTimings": {
+        "blocked": 0,
+        "wait": 27,
+        "receive": 0
+      },
+      "ninetyFifthTimings": {
+        "blocked": 0,
+        "wait": 112,
+        "receive": 60
+      },
+      "bytesTransferred": null,
+      "topUrl": {
+        "url": "https://googleads.g.doubleclick.net/pagead/viewthroughconversion/1041695361/",
+        "noOfOccurrences": 5
+      },
+      "largest": {
+        "url": "https://q-aeu1.contentsquare.net/quota",
+        "bytes": 0
+      },
+      "largestCompressed": {
+        "url": "https://bf94493cun.bf.dynatrace.com/bf"
+      },
+      "longest": {
+        "url": "https://www.nvidia.com/en-us/",
+        "time": 1185,
+        "timings": {
+          "blocked": -1,
+          "wait": 785,
+          "receive": 400,
+          "connect": -1
+        }
+      }
+    },
+    "document": {
+      "noOfRequests": 0
+    },
+    "font": {
+      "noOfRequests": 0
+    },
+    "image": {
+      "noOfRequests": 0
+    },
+    "style": {
+      "noOfRequests": 0
+    },
+    "script": {
+      "noOfRequests": 0
+    },
+    "xhr": {
+      "noOfRequests": 0
+    },
+    "other": {
+      "noOfRequests": 0
+    }
+  }
+}

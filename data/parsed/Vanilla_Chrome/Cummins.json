@@ -1,0 +1,73 @@
+{
+  "pages": {
+    "noOfPages": 1,
+    "medianOnLoad": null,
+    "ninetyFifthOnLoad": null,
+    "pages": [
+      {
+        "url": "Cummins",
+        "onLoad": null
+      }
+    ]
+  },
+  "requests": {
+    "all": {
+      "noOfRequests": 220,
+      "medianTime": 55,
+      "ninetyFifthTime": 211,
+      "medianTimings": {
+        "blocked": -1,
+        "wait": 46,
+        "receive": 0
+      },
+      "ninetyFifthTimings": {
+        "blocked": 0,
+        "wait": 81,
+        "receive": 21
+      },
+      "bytesTransferred": null,
+      "topUrl": {
+        "url": "https://www.googletagmanager.com/a",
+        "noOfOccurrences": 17
+      },
+      "largest": {
+        "url": "https://content-autofill.googleapis.com/v1/pages/ChRDaHJvbWUvMTA4LjAuNTM1OS43MRIQCasIyVzsf3n9EgUNAN8WNRIXCWr3zBVI3xTLEgUNpZM2JBIFDZSQkvo=",
+        "bytes": 0
+      },
+      "largestCompressed": {
+        "url": "https://www.cummins.com/"
+      },
+      "longest": {
+        "url": "https://www.cummins.com/sites/default/files/2021-06/Cummins%20Homepage%20Header%20Video_3.mp4",
+        "time": 8053,
+        "timings": {
+          "blocked": -1,
+          "wait": 66,
+          "receive": 7986,
+          "connect": -1
+        }
+      }
+    },
+    "document": {
+      "noOfRequests": 0
+    },
+    "font": {
+      "noOfRequests": 0
+    },
+    "image": {
+      "noOfRequests": 0
+    },
+    "style": {
+      "noOfRequests": 0
+    },
+    "script": {
+      "noOfRequests": 0
+    },
+    "xhr": {
+      "noOfRequests": 0
+    },
+    "other": {
+      "noOfRequests": 0
+    }
+  }
+}

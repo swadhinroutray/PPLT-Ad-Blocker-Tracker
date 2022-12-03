@@ -1,0 +1,73 @@
+{
+  "pages": {
+    "noOfPages": 1,
+    "medianOnLoad": null,
+    "ninetyFifthOnLoad": null,
+    "pages": [
+      {
+        "url": "Nationwide",
+        "onLoad": null
+      }
+    ]
+  },
+  "requests": {
+    "all": {
+      "noOfRequests": 141,
+      "medianTime": 130,
+      "ninetyFifthTime": 402,
+      "medianTimings": {
+        "blocked": 0,
+        "wait": 33,
+        "receive": 0
+      },
+      "ninetyFifthTimings": {
+        "blocked": 0,
+        "wait": 98,
+        "receive": 44
+      },
+      "bytesTransferred": null,
+      "topUrl": {
+        "url": "https://celebrus-prod.nationwide.com/3569/3643632582/XBW09WEA78JG/jsEvent.json",
+        "noOfOccurrences": 4
+      },
+      "largest": {
+        "url": "https://celebrus-prod.nationwide.com/3569/3643632582/XBW09WEA78JG/jsEvent.json",
+        "bytes": 0
+      },
+      "largestCompressed": {
+        "url": "https://lib-us-2.brilliantcollector.com/collector/collectorPost"
+      },
+      "longest": {
+        "url": "https://www.nationwide.com/",
+        "time": 912,
+        "timings": {
+          "blocked": 0,
+          "wait": 662,
+          "receive": 20,
+          "connect": 149
+        }
+      }
+    },
+    "document": {
+      "noOfRequests": 0
+    },
+    "font": {
+      "noOfRequests": 0
+    },
+    "image": {
+      "noOfRequests": 0
+    },
+    "style": {
+      "noOfRequests": 0
+    },
+    "script": {
+      "noOfRequests": 0
+    },
+    "xhr": {
+      "noOfRequests": 0
+    },
+    "other": {
+      "noOfRequests": 0
+    }
+  }
+}

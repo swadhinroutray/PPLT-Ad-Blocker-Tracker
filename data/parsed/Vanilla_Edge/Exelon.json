@@ -1,0 +1,73 @@
+{
+  "pages": {
+    "noOfPages": 1,
+    "medianOnLoad": null,
+    "ninetyFifthOnLoad": null,
+    "pages": [
+      {
+        "url": "Exelon",
+        "onLoad": null
+      }
+    ]
+  },
+  "requests": {
+    "all": {
+      "noOfRequests": 181,
+      "medianTime": 39,
+      "ninetyFifthTime": 378,
+      "medianTimings": {
+        "blocked": -1,
+        "wait": 35,
+        "receive": 0
+      },
+      "ninetyFifthTimings": {
+        "blocked": 0,
+        "wait": 189,
+        "receive": 156
+      },
+      "bytesTransferred": null,
+      "topUrl": {
+        "url": "https://services.www.exeloncorp.com/api/branding/ImageRenditions",
+        "noOfOccurrences": 71
+      },
+      "largest": {
+        "url": "https://forms.hubspot.com/lead-flows-config/v1/config/json",
+        "bytes": 0
+      },
+      "largestCompressed": {
+        "url": "https://heapanalytics.com/h"
+      },
+      "longest": {
+        "url": "https://www.exeloncorp.com/PublishingImages/Lists/Exelon%20Reusable%20Content/AllItems/BGE%20Home%20Careers%20image%20darkened.png",
+        "time": 1798,
+        "timings": {
+          "blocked": -1,
+          "wait": 76,
+          "receive": 1721,
+          "connect": -1
+        }
+      }
+    },
+    "document": {
+      "noOfRequests": 0
+    },
+    "font": {
+      "noOfRequests": 0
+    },
+    "image": {
+      "noOfRequests": 0
+    },
+    "style": {
+      "noOfRequests": 0
+    },
+    "script": {
+      "noOfRequests": 0
+    },
+    "xhr": {
+      "noOfRequests": 0
+    },
+    "other": {
+      "noOfRequests": 0
+    }
+  }
+}

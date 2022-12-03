@@ -1,0 +1,73 @@
+{
+  "pages": {
+    "noOfPages": 1,
+    "medianOnLoad": null,
+    "ninetyFifthOnLoad": null,
+    "pages": [
+      {
+        "url": "NRG Energy",
+        "onLoad": null
+      }
+    ]
+  },
+  "requests": {
+    "all": {
+      "noOfRequests": 150,
+      "medianTime": 103,
+      "ninetyFifthTime": 336,
+      "medianTimings": {
+        "blocked": 0,
+        "wait": 27,
+        "receive": 0
+      },
+      "ninetyFifthTimings": {
+        "blocked": 0,
+        "wait": 85,
+        "receive": 29
+      },
+      "bytesTransferred": null,
+      "topUrl": {
+        "url": "https://aorta.clickagy.com/pixel.gif",
+        "noOfOccurrences": 6
+      },
+      "largest": {
+        "url": "https://rtb-csync.smartadserver.com/redir/",
+        "bytes": 0
+      },
+      "largestCompressed": {
+        "url": "https://www.nrg.com/"
+      },
+      "longest": {
+        "url": "https://www.google.com/ads/ga-audiences",
+        "time": 1352,
+        "timings": {
+          "blocked": 0,
+          "wait": 1294,
+          "receive": 0,
+          "connect": 58
+        }
+      }
+    },
+    "document": {
+      "noOfRequests": 0
+    },
+    "font": {
+      "noOfRequests": 0
+    },
+    "image": {
+      "noOfRequests": 0
+    },
+    "style": {
+      "noOfRequests": 0
+    },
+    "script": {
+      "noOfRequests": 0
+    },
+    "xhr": {
+      "noOfRequests": 0
+    },
+    "other": {
+      "noOfRequests": 0
+    }
+  }
+}

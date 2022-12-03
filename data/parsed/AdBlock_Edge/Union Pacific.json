@@ -1,0 +1,73 @@
+{
+  "pages": {
+    "noOfPages": 1,
+    "medianOnLoad": null,
+    "ninetyFifthOnLoad": null,
+    "pages": [
+      {
+        "url": "Union Pacific",
+        "onLoad": null
+      }
+    ]
+  },
+  "requests": {
+    "all": {
+      "noOfRequests": 126,
+      "medianTime": 86,
+      "ninetyFifthTime": 737,
+      "medianTimings": {
+        "blocked": -1,
+        "wait": 78,
+        "receive": 1
+      },
+      "ninetyFifthTimings": {
+        "blocked": 0,
+        "wait": 97,
+        "receive": 147
+      },
+      "bytesTransferred": null,
+      "topUrl": {
+        "url": "https://edge.microsoft.com/entityextractiontemplates/api/v1/assets/find-assets",
+        "noOfOccurrences": 2
+      },
+      "largest": {
+        "url": "https://getadblock.com/images/smallWhiteLock.png",
+        "bytes": 0
+      },
+      "largestCompressed": {
+        "url": "https://ping-edge.smartscreen.microsoft.com/api/browser/edge/actions/3"
+      },
+      "longest": {
+        "url": "https://easylist-downloads.adblockplus.org/exceptionrules.txt",
+        "time": 1178,
+        "timings": {
+          "blocked": 0,
+          "wait": 108,
+          "receive": 557,
+          "connect": 450
+        }
+      }
+    },
+    "document": {
+      "noOfRequests": 0
+    },
+    "font": {
+      "noOfRequests": 0
+    },
+    "image": {
+      "noOfRequests": 0
+    },
+    "style": {
+      "noOfRequests": 0
+    },
+    "script": {
+      "noOfRequests": 0
+    },
+    "xhr": {
+      "noOfRequests": 0
+    },
+    "other": {
+      "noOfRequests": 0
+    }
+  }
+}

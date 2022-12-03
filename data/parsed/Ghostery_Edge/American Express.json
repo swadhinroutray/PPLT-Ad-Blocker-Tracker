@@ -1,0 +1,73 @@
+{
+  "pages": {
+    "noOfPages": 1,
+    "medianOnLoad": null,
+    "ninetyFifthOnLoad": null,
+    "pages": [
+      {
+        "url": "American Express",
+        "onLoad": null
+      }
+    ]
+  },
+  "requests": {
+    "all": {
+      "noOfRequests": 92,
+      "medianTime": 95,
+      "ninetyFifthTime": 482,
+      "medianTimings": {
+        "blocked": 0,
+        "wait": 41,
+        "receive": 0
+      },
+      "ninetyFifthTimings": {
+        "blocked": 0,
+        "wait": 135,
+        "receive": 24
+      },
+      "bytesTransferred": null,
+      "topUrl": {
+        "url": "https://functions.americanexpress.com/ReadScriptRegistry.v1",
+        "noOfOccurrences": 4
+      },
+      "largest": {
+        "url": "https://www.aexp-static.com/cdaas/api/axpi/ensighten/gatekeeper/gtkp_aa.js",
+        "bytes": 0
+      },
+      "largestCompressed": {
+        "url": "https://s.tribalfusion.com/visitor"
+      },
+      "longest": {
+        "url": "https://dynatracepsg.americanexpress.com/jstag/managed/ruxitagent_A27Vfhjqrux_10233220224103020.js",
+        "time": 838,
+        "timings": {
+          "blocked": 0,
+          "wait": 51,
+          "receive": 142,
+          "connect": 586
+        }
+      }
+    },
+    "document": {
+      "noOfRequests": 0
+    },
+    "font": {
+      "noOfRequests": 0
+    },
+    "image": {
+      "noOfRequests": 0
+    },
+    "style": {
+      "noOfRequests": 0
+    },
+    "script": {
+      "noOfRequests": 0
+    },
+    "xhr": {
+      "noOfRequests": 0
+    },
+    "other": {
+      "noOfRequests": 0
+    }
+  }
+}

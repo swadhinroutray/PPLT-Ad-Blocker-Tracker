@@ -1,0 +1,73 @@
+{
+  "pages": {
+    "noOfPages": 1,
+    "medianOnLoad": null,
+    "ninetyFifthOnLoad": null,
+    "pages": [
+      {
+        "url": "Broadcom",
+        "onLoad": null
+      }
+    ]
+  },
+  "requests": {
+    "all": {
+      "noOfRequests": 109,
+      "medianTime": 114,
+      "ninetyFifthTime": 426,
+      "medianTimings": {
+        "blocked": 0,
+        "wait": 43,
+        "receive": 0
+      },
+      "ninetyFifthTimings": {
+        "blocked": 0,
+        "wait": 91,
+        "receive": 21
+      },
+      "bytesTransferred": null,
+      "topUrl": {
+        "url": "https://pixel.mathtag.com/misc/img",
+        "noOfOccurrences": 2
+      },
+      "largest": {
+        "url": "https://www.broadcom.com/media/blt4ac44e0e6c6d8341/blt37d2d2da07c776e8/61b243761bdbe25709ba6f37/_wwwHero_CPO-Homepage_1920x455-2.jpg",
+        "bytes": 0
+      },
+      "largestCompressed": {
+        "url": "https://cm.g.doubleclick.net/pixel"
+      },
+      "longest": {
+        "url": "https://x.bidswitch.net/sync",
+        "time": 607,
+        "timings": {
+          "blocked": 0,
+          "wait": 36,
+          "receive": 0,
+          "connect": 538
+        }
+      }
+    },
+    "document": {
+      "noOfRequests": 0
+    },
+    "font": {
+      "noOfRequests": 0
+    },
+    "image": {
+      "noOfRequests": 0
+    },
+    "style": {
+      "noOfRequests": 0
+    },
+    "script": {
+      "noOfRequests": 0
+    },
+    "xhr": {
+      "noOfRequests": 0
+    },
+    "other": {
+      "noOfRequests": 0
+    }
+  }
+}

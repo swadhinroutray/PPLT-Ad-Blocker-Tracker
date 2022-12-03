@@ -1,0 +1,73 @@
+{
+  "pages": {
+    "noOfPages": 1,
+    "medianOnLoad": null,
+    "ninetyFifthOnLoad": null,
+    "pages": [
+      {
+        "url": "Qualcomm",
+        "onLoad": null
+      }
+    ]
+  },
+  "requests": {
+    "all": {
+      "noOfRequests": 70,
+      "medianTime": 106,
+      "ninetyFifthTime": 841,
+      "medianTimings": {
+        "blocked": -1,
+        "wait": 36,
+        "receive": 0
+      },
+      "ninetyFifthTimings": {
+        "blocked": 0,
+        "wait": 77,
+        "receive": 106
+      },
+      "bytesTransferred": null,
+      "topUrl": {
+        "url": "https://tags.tiqcdn.com/utag/qualcomm/qualcomm-react/prod/utag.163.js",
+        "noOfOccurrences": 0
+      },
+      "largest": {
+        "url": "https://tags.tiqcdn.com/utag/qualcomm/qualcomm-react/prod/utag.163.js",
+        "bytes": 0
+      },
+      "largestCompressed": {
+        "url": "https://www.qualcomm.com/"
+      },
+      "longest": {
+        "url": "https://s7d1.scene7.com/is/image/dmqualcommprod/hp-joinus_tout",
+        "time": 906,
+        "timings": {
+          "blocked": 0,
+          "wait": 63,
+          "receive": 105,
+          "connect": 709
+        }
+      }
+    },
+    "document": {
+      "noOfRequests": 0
+    },
+    "font": {
+      "noOfRequests": 0
+    },
+    "image": {
+      "noOfRequests": 0
+    },
+    "style": {
+      "noOfRequests": 0
+    },
+    "script": {
+      "noOfRequests": 0
+    },
+    "xhr": {
+      "noOfRequests": 0
+    },
+    "other": {
+      "noOfRequests": 0
+    }
+  }
+}

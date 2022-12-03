@@ -1,0 +1,73 @@
+{
+  "pages": {
+    "noOfPages": 1,
+    "medianOnLoad": null,
+    "ninetyFifthOnLoad": null,
+    "pages": [
+      {
+        "url": "Nike",
+        "onLoad": null
+      }
+    ]
+  },
+  "requests": {
+    "all": {
+      "noOfRequests": 174,
+      "medianTime": 80,
+      "ninetyFifthTime": 346,
+      "medianTimings": {
+        "blocked": -1,
+        "wait": 41,
+        "receive": 0
+      },
+      "ninetyFifthTimings": {
+        "blocked": 0,
+        "wait": 224,
+        "receive": 40
+      },
+      "bytesTransferred": null,
+      "topUrl": {
+        "url": "https://insights-collector.newrelic.com/v1/accounts/714737/events",
+        "noOfOccurrences": 5
+      },
+      "largest": {
+        "url": "https://4171764.fls.doubleclick.net/activityi;src=4171764;type=category;cat=pdppages;ord=1079837009920;gtm=2wgbu0;auiddc=237597632.1669998845;u1=us;u2=en_us;u3=homepage;u4=%2F;u5=0;u6=;u7=;u8=en_us;u9=;u10=;u11=;u12=0;u13=0;u14=usd;u15=;u16=;u17=https%3A%2F%2Fwww.nike.com%2F;u18=;u19=;u20=;u21=;u22=;u23=;u24=;u25=us;u26=usd;u27=0;u28=Desktop;u29=0;u30=;u31=;u32=;u33=;u34=;u35=false;u36=en_us;u37=usd;u38=N;u39=;u40=;u41=0;u42=;u43=0;u44=;u45=;u47=;u48=0;u49=0;u50=N;u51=0;u52=null;u53=;u54=;u55=;u56=0;u57=;u58=0;u59=0;u60=https%3A%2F%2Fwww.nike.com%2F;u61=N;~oref=https%3A%2F%2Fwww.nike.com%2F",
+        "bytes": 0
+      },
+      "largestCompressed": {
+        "url": "https://www.nike.com/"
+      },
+      "longest": {
+        "url": "https://www.nike.com/",
+        "time": 685,
+        "timings": {
+          "blocked": 0,
+          "wait": 437,
+          "receive": 62,
+          "connect": 156
+        }
+      }
+    },
+    "document": {
+      "noOfRequests": 0
+    },
+    "font": {
+      "noOfRequests": 0
+    },
+    "image": {
+      "noOfRequests": 0
+    },
+    "style": {
+      "noOfRequests": 0
+    },
+    "script": {
+      "noOfRequests": 0
+    },
+    "xhr": {
+      "noOfRequests": 0
+    },
+    "other": {
+      "noOfRequests": 0
+    }
+  }
+}

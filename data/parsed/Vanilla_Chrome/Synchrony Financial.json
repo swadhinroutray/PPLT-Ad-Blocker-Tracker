@@ -1,0 +1,73 @@
+{
+  "pages": {
+    "noOfPages": 1,
+    "medianOnLoad": null,
+    "ninetyFifthOnLoad": null,
+    "pages": [
+      {
+        "url": "Synchrony Financial",
+        "onLoad": null
+      }
+    ]
+  },
+  "requests": {
+    "all": {
+      "noOfRequests": 132,
+      "medianTime": 118,
+      "ninetyFifthTime": 273,
+      "medianTimings": {
+        "blocked": 0,
+        "wait": 31,
+        "receive": 0
+      },
+      "ninetyFifthTimings": {
+        "blocked": 0,
+        "wait": 93,
+        "receive": 42
+      },
+      "bytesTransferred": null,
+      "topUrl": {
+        "url": "https://analytics.synchrony.com/error/e.gif",
+        "noOfOccurrences": 2
+      },
+      "largest": {
+        "url": "https://173bf110.akstat.io/",
+        "bytes": 0
+      },
+      "largestCompressed": {
+        "url": "https://www.adobe.com/content/dam/cc/icons/Adobe_Corporate_Horizontal_Red_HEX.svg"
+      },
+      "longest": {
+        "url": "https://tags.synchrony.com/synchrony/prod/utag.js",
+        "time": 561,
+        "timings": {
+          "blocked": 0,
+          "wait": 31,
+          "receive": 20,
+          "connect": 416
+        }
+      }
+    },
+    "document": {
+      "noOfRequests": 0
+    },
+    "font": {
+      "noOfRequests": 0
+    },
+    "image": {
+      "noOfRequests": 0
+    },
+    "style": {
+      "noOfRequests": 0
+    },
+    "script": {
+      "noOfRequests": 0
+    },
+    "xhr": {
+      "noOfRequests": 0
+    },
+    "other": {
+      "noOfRequests": 0
+    }
+  }
+}

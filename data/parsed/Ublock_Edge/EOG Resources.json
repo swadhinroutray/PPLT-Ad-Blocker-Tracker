@@ -1,0 +1,73 @@
+{
+  "pages": {
+    "noOfPages": 1,
+    "medianOnLoad": null,
+    "ninetyFifthOnLoad": null,
+    "pages": [
+      {
+        "url": "EOG Resources",
+        "onLoad": null
+      }
+    ]
+  },
+  "requests": {
+    "all": {
+      "noOfRequests": 23,
+      "medianTime": 37,
+      "ninetyFifthTime": 493,
+      "medianTimings": {
+        "blocked": -1,
+        "wait": 32,
+        "receive": 3
+      },
+      "ninetyFifthTimings": {
+        "blocked": 0,
+        "wait": 83,
+        "receive": 147
+      },
+      "bytesTransferred": null,
+      "topUrl": {
+        "url": "https://isell.svcapps.eogresources.com/marketprice/stockinfo",
+        "noOfOccurrences": 0
+      },
+      "largest": {
+        "url": "https://isell.svcapps.eogresources.com/marketprice/stockinfo",
+        "bytes": 0
+      },
+      "largestCompressed": {
+        "url": "https://nav-edge.smartscreen.microsoft.com/api/browser/edge/navigate/3"
+      },
+      "longest": {
+        "url": "https://isell.svcapps.eogresources.com/marketprice/stockinfo",
+        "time": 1141,
+        "timings": {
+          "blocked": 0,
+          "wait": 347,
+          "receive": 154,
+          "connect": 381
+        }
+      }
+    },
+    "document": {
+      "noOfRequests": 0
+    },
+    "font": {
+      "noOfRequests": 0
+    },
+    "image": {
+      "noOfRequests": 0
+    },
+    "style": {
+      "noOfRequests": 0
+    },
+    "script": {
+      "noOfRequests": 0
+    },
+    "xhr": {
+      "noOfRequests": 0
+    },
+    "other": {
+      "noOfRequests": 0
+    }
+  }
+}

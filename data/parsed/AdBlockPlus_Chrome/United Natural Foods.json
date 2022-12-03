@@ -1,0 +1,73 @@
+{
+  "pages": {
+    "noOfPages": 1,
+    "medianOnLoad": null,
+    "ninetyFifthOnLoad": null,
+    "pages": [
+      {
+        "url": "United Natural Foods",
+        "onLoad": null
+      }
+    ]
+  },
+  "requests": {
+    "all": {
+      "noOfRequests": 116,
+      "medianTime": 47,
+      "ninetyFifthTime": 170,
+      "medianTimings": {
+        "blocked": -1,
+        "wait": 40,
+        "receive": 0
+      },
+      "ninetyFifthTimings": {
+        "blocked": 0,
+        "wait": 70,
+        "receive": 29
+      },
+      "bytesTransferred": null,
+      "topUrl": {
+        "url": "https://www.unfi.com/_Incapsula_Resource",
+        "noOfOccurrences": 5
+      },
+      "largest": {
+        "url": "https://www.unfi.com/Deerefull-lood-Lets-they-All-vp-the-so-in-And-th",
+        "bytes": 0
+      },
+      "largestCompressed": {
+        "url": "https://pixel.mathtag.com/comp/img"
+      },
+      "longest": {
+        "url": "https://pixel.dsp.townsquaremedia.com/iap/34780914b8b7a7a2",
+        "time": 314,
+        "timings": {
+          "blocked": 0,
+          "wait": 21,
+          "receive": 0,
+          "connect": 261
+        }
+      }
+    },
+    "document": {
+      "noOfRequests": 0
+    },
+    "font": {
+      "noOfRequests": 0
+    },
+    "image": {
+      "noOfRequests": 0
+    },
+    "style": {
+      "noOfRequests": 0
+    },
+    "script": {
+      "noOfRequests": 0
+    },
+    "xhr": {
+      "noOfRequests": 0
+    },
+    "other": {
+      "noOfRequests": 0
+    }
+  }
+}

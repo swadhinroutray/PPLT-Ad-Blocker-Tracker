@@ -1,0 +1,73 @@
+{
+  "pages": {
+    "noOfPages": 1,
+    "medianOnLoad": null,
+    "ninetyFifthOnLoad": null,
+    "pages": [
+      {
+        "url": "Lithia Motors",
+        "onLoad": null
+      }
+    ]
+  },
+  "requests": {
+    "all": {
+      "noOfRequests": 181,
+      "medianTime": 36,
+      "ninetyFifthTime": 429,
+      "medianTimings": {
+        "blocked": -1,
+        "wait": 33,
+        "receive": 0
+      },
+      "ninetyFifthTimings": {
+        "blocked": 0,
+        "wait": 353,
+        "receive": 8
+      },
+      "bytesTransferred": null,
+      "topUrl": {
+        "url": "https://www.lithia.com/api/widget/ws-inv-count-display/getCounts/lithiagroupsite/auto-new,auto-used",
+        "noOfOccurrences": 3
+      },
+      "largest": {
+        "url": "https://firebase.googleapis.com/v1alpha/projects/-/apps/1:783443811837:web:888b4a983b12c925e7cd94/webConfig",
+        "bytes": 0
+      },
+      "largestCompressed": {
+        "url": "https://www.lithia.com/"
+      },
+      "longest": {
+        "url": "https://www.lithia.com/apis/promotionSlides",
+        "time": 1763,
+        "timings": {
+          "blocked": -1,
+          "wait": 1763,
+          "receive": 0,
+          "connect": -1
+        }
+      }
+    },
+    "document": {
+      "noOfRequests": 0
+    },
+    "font": {
+      "noOfRequests": 0
+    },
+    "image": {
+      "noOfRequests": 0
+    },
+    "style": {
+      "noOfRequests": 0
+    },
+    "script": {
+      "noOfRequests": 0
+    },
+    "xhr": {
+      "noOfRequests": 0
+    },
+    "other": {
+      "noOfRequests": 0
+    }
+  }
+}

@@ -1,0 +1,73 @@
+{
+  "pages": {
+    "noOfPages": 1,
+    "medianOnLoad": null,
+    "ninetyFifthOnLoad": null,
+    "pages": [
+      {
+        "url": "Oracle",
+        "onLoad": null
+      }
+    ]
+  },
+  "requests": {
+    "all": {
+      "noOfRequests": 65,
+      "medianTime": 75,
+      "ninetyFifthTime": 320,
+      "medianTimings": {
+        "blocked": -1,
+        "wait": 48,
+        "receive": 0
+      },
+      "ninetyFifthTimings": {
+        "blocked": 0,
+        "wait": 227,
+        "receive": 30
+      },
+      "bytesTransferred": null,
+      "topUrl": {
+        "url": "https://check3.tiaa.org/R_ASLV1xCRBvzaXr",
+        "noOfOccurrences": 1
+      },
+      "largest": {
+        "url": "https://www.oracle.com/asset/web/i/u28-navbg.jpg",
+        "bytes": 0
+      },
+      "largestCompressed": {
+        "url": "https://storage.googleapis.com/workbox-cdn/releases/3.2.0/workbox-strategies.prod.js"
+      },
+      "longest": {
+        "url": "https://check3.tiaa.org/0xMagK9Co6BcLrA0",
+        "time": 798,
+        "timings": {
+          "blocked": 0,
+          "wait": 386,
+          "receive": 164,
+          "connect": 246
+        }
+      }
+    },
+    "document": {
+      "noOfRequests": 0
+    },
+    "font": {
+      "noOfRequests": 0
+    },
+    "image": {
+      "noOfRequests": 0
+    },
+    "style": {
+      "noOfRequests": 0
+    },
+    "script": {
+      "noOfRequests": 0
+    },
+    "xhr": {
+      "noOfRequests": 0
+    },
+    "other": {
+      "noOfRequests": 0
+    }
+  }
+}

@@ -1,0 +1,73 @@
+{
+  "pages": {
+    "noOfPages": 1,
+    "medianOnLoad": null,
+    "ninetyFifthOnLoad": null,
+    "pages": [
+      {
+        "url": "Cleveland-Cliffs",
+        "onLoad": null
+      }
+    ]
+  },
+  "requests": {
+    "all": {
+      "noOfRequests": 23,
+      "medianTime": 157,
+      "ninetyFifthTime": 1334,
+      "medianTimings": {
+        "blocked": 0,
+        "wait": 56,
+        "receive": 1
+      },
+      "ninetyFifthTimings": {
+        "blocked": 0,
+        "wait": 172,
+        "receive": 1241
+      },
+      "bytesTransferred": null,
+      "topUrl": {
+        "url": "https://d1io3yog0oux5.cloudfront.net/_20e371595748fd64e7e7e764404cffe7/clevelandcliffs/files/theme/images/favicons/favicon.ico",
+        "noOfOccurrences": 0
+      },
+      "largest": {
+        "url": "https://d1io3yog0oux5.cloudfront.net/_20e371595748fd64e7e7e764404cffe7/clevelandcliffs/files/theme/images/favicons/favicon.ico",
+        "bytes": 0
+      },
+      "largestCompressed": {
+        "url": "https://www.clevelandcliffs.com/"
+      },
+      "longest": {
+        "url": "https://d1io3yog0oux5.cloudfront.net/_20e371595748fd64e7e7e764404cffe7/clevelandcliffs/db/1153/11287/file/cliffs_homepage_video_--_shortened+%281080p%29.mp4",
+        "time": 1868,
+        "timings": {
+          "blocked": -1,
+          "wait": 200,
+          "receive": 1667,
+          "connect": -1
+        }
+      }
+    },
+    "document": {
+      "noOfRequests": 0
+    },
+    "font": {
+      "noOfRequests": 0
+    },
+    "image": {
+      "noOfRequests": 0
+    },
+    "style": {
+      "noOfRequests": 0
+    },
+    "script": {
+      "noOfRequests": 0
+    },
+    "xhr": {
+      "noOfRequests": 0
+    },
+    "other": {
+      "noOfRequests": 0
+    }
+  }
+}

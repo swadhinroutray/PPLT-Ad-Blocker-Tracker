@@ -1,0 +1,73 @@
+{
+  "pages": {
+    "noOfPages": 1,
+    "medianOnLoad": null,
+    "ninetyFifthOnLoad": null,
+    "pages": [
+      {
+        "url": "Loews",
+        "onLoad": null
+      }
+    ]
+  },
+  "requests": {
+    "all": {
+      "noOfRequests": 31,
+      "medianTime": 110,
+      "ninetyFifthTime": 354,
+      "medianTimings": {
+        "blocked": -1,
+        "wait": 74,
+        "receive": 0
+      },
+      "ninetyFifthTimings": {
+        "blocked": 0,
+        "wait": 349,
+        "receive": 72
+      },
+      "bytesTransferred": null,
+      "topUrl": {
+        "url": "https://loews.com/favicon.ico",
+        "noOfOccurrences": 0
+      },
+      "largest": {
+        "url": "https://loews.com/favicon.ico",
+        "bytes": 0
+      },
+      "largestCompressed": {
+        "url": "https://loews.com/"
+      },
+      "longest": {
+        "url": "https://loews.com/FileStore/Virtual-Investor-Day.png",
+        "time": 1244,
+        "timings": {
+          "blocked": -1,
+          "wait": 1122,
+          "receive": 121,
+          "connect": -1
+        }
+      }
+    },
+    "document": {
+      "noOfRequests": 0
+    },
+    "font": {
+      "noOfRequests": 0
+    },
+    "image": {
+      "noOfRequests": 0
+    },
+    "style": {
+      "noOfRequests": 0
+    },
+    "script": {
+      "noOfRequests": 0
+    },
+    "xhr": {
+      "noOfRequests": 0
+    },
+    "other": {
+      "noOfRequests": 0
+    }
+  }
+}

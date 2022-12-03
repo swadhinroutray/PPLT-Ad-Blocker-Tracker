@@ -1,0 +1,73 @@
+{
+  "pages": {
+    "noOfPages": 1,
+    "medianOnLoad": null,
+    "ninetyFifthOnLoad": null,
+    "pages": [
+      {
+        "url": "WestRock",
+        "onLoad": null
+      }
+    ]
+  },
+  "requests": {
+    "all": {
+      "noOfRequests": 97,
+      "medianTime": 47,
+      "ninetyFifthTime": 266,
+      "medianTimings": {
+        "blocked": -1,
+        "wait": 37,
+        "receive": 2
+      },
+      "ninetyFifthTimings": {
+        "blocked": 0,
+        "wait": 92,
+        "receive": 105
+      },
+      "bytesTransferred": null,
+      "topUrl": {
+        "url": "https://www.westrock.com/_Incapsula_Resource",
+        "noOfOccurrences": 1
+      },
+      "largest": {
+        "url": "https://www.westrock.com/public/westrock/images/favicon.ico",
+        "bytes": 0
+      },
+      "largestCompressed": {
+        "url": "https://www.westrock.com/"
+      },
+      "longest": {
+        "url": "https://www.westrock.com/-/media/images/products/automation/meta-duo/metaduo-175-dpi-png.png",
+        "time": 1518,
+        "timings": {
+          "blocked": -1,
+          "wait": 94,
+          "receive": 1423,
+          "connect": -1
+        }
+      }
+    },
+    "document": {
+      "noOfRequests": 0
+    },
+    "font": {
+      "noOfRequests": 0
+    },
+    "image": {
+      "noOfRequests": 0
+    },
+    "style": {
+      "noOfRequests": 0
+    },
+    "script": {
+      "noOfRequests": 0
+    },
+    "xhr": {
+      "noOfRequests": 0
+    },
+    "other": {
+      "noOfRequests": 0
+    }
+  }
+}

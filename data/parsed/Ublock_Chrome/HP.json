@@ -1,0 +1,73 @@
+{
+  "pages": {
+    "noOfPages": 1,
+    "medianOnLoad": null,
+    "ninetyFifthOnLoad": null,
+    "pages": [
+      {
+        "url": "HP",
+        "onLoad": null
+      }
+    ]
+  },
+  "requests": {
+    "all": {
+      "noOfRequests": 72,
+      "medianTime": 51,
+      "ninetyFifthTime": 242,
+      "medianTimings": {
+        "blocked": -1,
+        "wait": 29,
+        "receive": 0
+      },
+      "ninetyFifthTimings": {
+        "blocked": 0,
+        "wait": 76,
+        "receive": 27
+      },
+      "bytesTransferred": null,
+      "topUrl": {
+        "url": "https://cf-assets.hcaptcha.com/captcha/v1/6fdad99/static/hcaptcha.html",
+        "noOfOccurrences": 3
+      },
+      "largest": {
+        "url": "https://cdn.cookielaw.org/scripttemplates/6.39.0/assets/otCommonStyles.css",
+        "bytes": 0
+      },
+      "largestCompressed": {
+        "url": "https://www.rtx.com/cdn-cgi/challenge-platform/h/g/flow/ov1/0.3448557033304651:1669910823:eEh-i6Si4XIYRydxbqruaYJd950V6f0viOAooUkhuK4/772d536dfde02036/5a285ea83e9df96"
+      },
+      "longest": {
+        "url": "https://www.hp.com/",
+        "time": 360,
+        "timings": {
+          "blocked": 0,
+          "wait": 111,
+          "receive": 0,
+          "connect": 211
+        }
+      }
+    },
+    "document": {
+      "noOfRequests": 0
+    },
+    "font": {
+      "noOfRequests": 0
+    },
+    "image": {
+      "noOfRequests": 0
+    },
+    "style": {
+      "noOfRequests": 0
+    },
+    "script": {
+      "noOfRequests": 0
+    },
+    "xhr": {
+      "noOfRequests": 0
+    },
+    "other": {
+      "noOfRequests": 0
+    }
+  }
+}

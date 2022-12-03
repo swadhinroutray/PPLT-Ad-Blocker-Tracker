@@ -1,0 +1,73 @@
+{
+  "pages": {
+    "noOfPages": 1,
+    "medianOnLoad": null,
+    "ninetyFifthOnLoad": null,
+    "pages": [
+      {
+        "url": "Stanley Black & Decker",
+        "onLoad": null
+      }
+    ]
+  },
+  "requests": {
+    "all": {
+      "noOfRequests": 132,
+      "medianTime": 99,
+      "ninetyFifthTime": 287,
+      "medianTimings": {
+        "blocked": -1,
+        "wait": 33,
+        "receive": 0
+      },
+      "ninetyFifthTimings": {
+        "blocked": 0,
+        "wait": 163,
+        "receive": 29
+      },
+      "bytesTransferred": null,
+      "topUrl": {
+        "url": "https://www.youtube.com/youtubei/v1/log_event",
+        "noOfOccurrences": 3
+      },
+      "largest": {
+        "url": "https://jhwa3pdijorrsy4kgzla-p13z6g-5b873f999-clientnsv4-s.akamaihd.net/eum/results.txt",
+        "bytes": 0
+      },
+      "largestCompressed": {
+        "url": "https://www.colgatepalmolive.com/etc/designs/zg/cpcorporate2021/desktop/css.asset.css/core/fonts/slick.woff"
+      },
+      "longest": {
+        "url": "https://www.stanleyblackanddecker.com/sbd-cwr-utility/stock-ticker-ajax-callback",
+        "time": 438,
+        "timings": {
+          "blocked": -1,
+          "wait": 438,
+          "receive": 0,
+          "connect": -1
+        }
+      }
+    },
+    "document": {
+      "noOfRequests": 0
+    },
+    "font": {
+      "noOfRequests": 0
+    },
+    "image": {
+      "noOfRequests": 0
+    },
+    "style": {
+      "noOfRequests": 0
+    },
+    "script": {
+      "noOfRequests": 0
+    },
+    "xhr": {
+      "noOfRequests": 0
+    },
+    "other": {
+      "noOfRequests": 0
+    }
+  }
+}

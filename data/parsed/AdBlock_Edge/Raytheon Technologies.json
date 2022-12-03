@@ -1,0 +1,73 @@
+{
+  "pages": {
+    "noOfPages": 1,
+    "medianOnLoad": null,
+    "ninetyFifthOnLoad": null,
+    "pages": [
+      {
+        "url": "Raytheon Technologies",
+        "onLoad": null
+      }
+    ]
+  },
+  "requests": {
+    "all": {
+      "noOfRequests": 26,
+      "medianTime": 89,
+      "ninetyFifthTime": 272,
+      "medianTimings": {
+        "blocked": -1,
+        "wait": 39,
+        "receive": 0
+      },
+      "ninetyFifthTimings": {
+        "blocked": 0,
+        "wait": 120,
+        "receive": 17
+      },
+      "bytesTransferred": null,
+      "topUrl": {
+        "url": "https://challenges.cloudflare.com/cdn-cgi/challenge-platform/h/g/flow/ov1/0.950317586924453:1670011706:oQXgv37rL-sLO1L8Zn0YZfLtRGgsBfxjJxQMGFqoo3Y/7736d153cb6a9c4f/5965755f081f9f5",
+        "noOfOccurrences": 1
+      },
+      "largest": {
+        "url": "https://challenges.cloudflare.com/cdn-cgi/challenge-platform/h/g/flow/ov1/0.950317586924453:1670011706:oQXgv37rL-sLO1L8Zn0YZfLtRGgsBfxjJxQMGFqoo3Y/7736d153cb6a9c4f/5965755f081f9f5",
+        "bytes": 0
+      },
+      "largestCompressed": {
+        "url": "https://68794907.akstat.io/"
+      },
+      "longest": {
+        "url": "https://challenges.cloudflare.com/turnstile/v0/api.js",
+        "time": 276,
+        "timings": {
+          "blocked": 0,
+          "wait": 34,
+          "receive": 0,
+          "connect": 216
+        }
+      }
+    },
+    "document": {
+      "noOfRequests": 0
+    },
+    "font": {
+      "noOfRequests": 0
+    },
+    "image": {
+      "noOfRequests": 0
+    },
+    "style": {
+      "noOfRequests": 0
+    },
+    "script": {
+      "noOfRequests": 0
+    },
+    "xhr": {
+      "noOfRequests": 0
+    },
+    "other": {
+      "noOfRequests": 0
+    }
+  }
+}

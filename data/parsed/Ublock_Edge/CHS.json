@@ -1,0 +1,73 @@
+{
+  "pages": {
+    "noOfPages": 1,
+    "medianOnLoad": null,
+    "ninetyFifthOnLoad": null,
+    "pages": [
+      {
+        "url": "CHS",
+        "onLoad": null
+      }
+    ]
+  },
+  "requests": {
+    "all": {
+      "noOfRequests": 87,
+      "medianTime": 86,
+      "ninetyFifthTime": 271,
+      "medianTimings": {
+        "blocked": -1,
+        "wait": 43,
+        "receive": 0
+      },
+      "ninetyFifthTimings": {
+        "blocked": 0,
+        "wait": 71,
+        "receive": 98
+      },
+      "bytesTransferred": null,
+      "topUrl": {
+        "url": "https://www.chsinc.com/-/media/chs%20inc/images/news%20stories/2022/november/financials-fy-22.jpg",
+        "noOfOccurrences": 1
+      },
+      "largest": {
+        "url": "https://87vod-adaptive.akamaized.net/exp=1670024455~acl=%2Ff00ed657-fa48-4626-85d2-875e661a354e%2F%2A~hmac=19e00d40ebf6be521a6cefcd83780f3baad3a775e4c63ab10be376f9ec67bf90/f00ed657-fa48-4626-85d2-875e661a354e/sep/video/267e93d0/chop/segment-3.m4s",
+        "bytes": 0
+      },
+      "largestCompressed": {
+        "url": "https://nav-edge.smartscreen.microsoft.com/api/browser/edge/navigate/3"
+      },
+      "longest": {
+        "url": "https://www.chsinc.com/",
+        "time": 1449,
+        "timings": {
+          "blocked": 0,
+          "wait": 210,
+          "receive": 37,
+          "connect": 317
+        }
+      }
+    },
+    "document": {
+      "noOfRequests": 0
+    },
+    "font": {
+      "noOfRequests": 0
+    },
+    "image": {
+      "noOfRequests": 0
+    },
+    "style": {
+      "noOfRequests": 0
+    },
+    "script": {
+      "noOfRequests": 0
+    },
+    "xhr": {
+      "noOfRequests": 0
+    },
+    "other": {
+      "noOfRequests": 0
+    }
+  }
+}

@@ -1,0 +1,73 @@
+{
+  "pages": {
+    "noOfPages": 1,
+    "medianOnLoad": null,
+    "ninetyFifthOnLoad": null,
+    "pages": [
+      {
+        "url": "goanizant Technology",
+        "onLoad": null
+      }
+    ]
+  },
+  "requests": {
+    "all": {
+      "noOfRequests": 253,
+      "medianTime": 108,
+      "ninetyFifthTime": 534,
+      "medianTimings": {
+        "blocked": -1,
+        "wait": 32,
+        "receive": 0
+      },
+      "ninetyFifthTimings": {
+        "blocked": 0,
+        "wait": 187,
+        "receive": 112
+      },
+      "bytesTransferred": null,
+      "topUrl": {
+        "url": "https://pixel.sitescout.com/dmp/asyncPixelSync",
+        "noOfOccurrences": 19
+      },
+      "largest": {
+        "url": "https://b.6sc.co/v1/beacon/img.gif",
+        "bytes": 0
+      },
+      "largestCompressed": {
+        "url": "https://www.cognizant.com/"
+      },
+      "longest": {
+        "url": "https://trizetto.allegiancetech.com/Scripts/select2.min.js",
+        "time": 1160,
+        "timings": {
+          "blocked": -1,
+          "wait": 49,
+          "receive": 1111,
+          "connect": -1
+        }
+      }
+    },
+    "document": {
+      "noOfRequests": 0
+    },
+    "font": {
+      "noOfRequests": 0
+    },
+    "image": {
+      "noOfRequests": 0
+    },
+    "style": {
+      "noOfRequests": 0
+    },
+    "script": {
+      "noOfRequests": 0
+    },
+    "xhr": {
+      "noOfRequests": 0
+    },
+    "other": {
+      "noOfRequests": 0
+    }
+  }
+}

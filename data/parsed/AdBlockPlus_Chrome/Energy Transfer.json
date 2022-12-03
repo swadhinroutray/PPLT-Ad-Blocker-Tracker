@@ -1,0 +1,73 @@
+{
+  "pages": {
+    "noOfPages": 1,
+    "medianOnLoad": null,
+    "ninetyFifthOnLoad": null,
+    "pages": [
+      {
+        "url": "Energy Transfer",
+        "onLoad": null
+      }
+    ]
+  },
+  "requests": {
+    "all": {
+      "noOfRequests": 135,
+      "medianTime": 130,
+      "ninetyFifthTime": 780,
+      "medianTimings": {
+        "blocked": -1,
+        "wait": 58,
+        "receive": 0
+      },
+      "ninetyFifthTimings": {
+        "blocked": 0,
+        "wait": 373,
+        "receive": 171
+      },
+      "bytesTransferred": null,
+      "topUrl": {
+        "url": "https://pixel.tapad.com/idsync/ex/receive",
+        "noOfOccurrences": 7
+      },
+      "largest": {
+        "url": "https://www.energytransfer.com/static/img/favicons/favicon-32x32.png",
+        "bytes": 0
+      },
+      "largestCompressed": {
+        "url": "https://www.energytransfer.com/"
+      },
+      "longest": {
+        "url": "https://energytransfer.com/wp-content/uploads/2022/01/Patoka-Sky-2048x1152-1.mp4",
+        "time": 10351,
+        "timings": {
+          "blocked": -1,
+          "wait": 3438,
+          "receive": 6913,
+          "connect": -1
+        }
+      }
+    },
+    "document": {
+      "noOfRequests": 0
+    },
+    "font": {
+      "noOfRequests": 0
+    },
+    "image": {
+      "noOfRequests": 0
+    },
+    "style": {
+      "noOfRequests": 0
+    },
+    "script": {
+      "noOfRequests": 0
+    },
+    "xhr": {
+      "noOfRequests": 0
+    },
+    "other": {
+      "noOfRequests": 0
+    }
+  }
+}

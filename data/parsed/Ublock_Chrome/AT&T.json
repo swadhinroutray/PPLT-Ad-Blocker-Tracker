@@ -1,0 +1,73 @@
+{
+  "pages": {
+    "noOfPages": 1,
+    "medianOnLoad": null,
+    "ninetyFifthOnLoad": null,
+    "pages": [
+      {
+        "url": "AT&T",
+        "onLoad": null
+      }
+    ]
+  },
+  "requests": {
+    "all": {
+      "noOfRequests": 81,
+      "medianTime": 79,
+      "ninetyFifthTime": 358,
+      "medianTimings": {
+        "blocked": -1,
+        "wait": 55,
+        "receive": 0
+      },
+      "ninetyFifthTimings": {
+        "blocked": 0,
+        "wait": 358,
+        "receive": 65
+      },
+      "bytesTransferred": null,
+      "topUrl": {
+        "url": "https://www.att.com/cy1jHp/f7/AB/hgHy/8TG1VDxiREJXg/Eari6mLGkuiw/bgcJeAMB/aX4n/JSJzL2YB",
+        "noOfOccurrences": 3
+      },
+      "largest": {
+        "url": "https://www.att.com/ui/global_all_cms_globalnav/web-components/2.0/attwc-globalnav/p-56d3b8b8.js",
+        "bytes": 0
+      },
+      "largestCompressed": {
+        "url": "https://www.cigna.com/static/www-cigna-com/images/individuals-families/cigna-com-3-1x1-lg@x2.jpg"
+      },
+      "longest": {
+        "url": "https://www.att.com/",
+        "time": 1138,
+        "timings": {
+          "blocked": 0,
+          "wait": 453,
+          "receive": 485,
+          "connect": 169
+        }
+      }
+    },
+    "document": {
+      "noOfRequests": 0
+    },
+    "font": {
+      "noOfRequests": 0
+    },
+    "image": {
+      "noOfRequests": 0
+    },
+    "style": {
+      "noOfRequests": 0
+    },
+    "script": {
+      "noOfRequests": 0
+    },
+    "xhr": {
+      "noOfRequests": 0
+    },
+    "other": {
+      "noOfRequests": 0
+    }
+  }
+}

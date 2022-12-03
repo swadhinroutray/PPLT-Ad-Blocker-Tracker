@@ -1,0 +1,73 @@
+{
+  "pages": {
+    "noOfPages": 1,
+    "medianOnLoad": null,
+    "ninetyFifthOnLoad": null,
+    "pages": [
+      {
+        "url": "Rite Aid",
+        "onLoad": null
+      }
+    ]
+  },
+  "requests": {
+    "all": {
+      "noOfRequests": 241,
+      "medianTime": 87,
+      "ninetyFifthTime": 372,
+      "medianTimings": {
+        "blocked": -1,
+        "wait": 34,
+        "receive": 0
+      },
+      "ninetyFifthTimings": {
+        "blocked": 0,
+        "wait": 84,
+        "receive": 36
+      },
+      "bytesTransferred": null,
+      "topUrl": {
+        "url": "https://di.rlcdn.com/api/segment",
+        "noOfOccurrences": 7
+      },
+      "largest": {
+        "url": "https://dynaag.riteaid.com/bf/0af9bfb2-30ba-4954-8403-e3ff4c4faf2f",
+        "bytes": 0
+      },
+      "largestCompressed": {
+        "url": "https://www.riteaid.com/"
+      },
+      "longest": {
+        "url": "https://ats.everesttech.net/ats/ats",
+        "time": 627,
+        "timings": {
+          "blocked": 0,
+          "wait": 363,
+          "receive": 0,
+          "connect": 191
+        }
+      }
+    },
+    "document": {
+      "noOfRequests": 0
+    },
+    "font": {
+      "noOfRequests": 0
+    },
+    "image": {
+      "noOfRequests": 0
+    },
+    "style": {
+      "noOfRequests": 0
+    },
+    "script": {
+      "noOfRequests": 0
+    },
+    "xhr": {
+      "noOfRequests": 0
+    },
+    "other": {
+      "noOfRequests": 0
+    }
+  }
+}

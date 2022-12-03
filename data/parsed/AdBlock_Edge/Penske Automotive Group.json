@@ -1,0 +1,73 @@
+{
+  "pages": {
+    "noOfPages": 1,
+    "medianOnLoad": null,
+    "ninetyFifthOnLoad": null,
+    "pages": [
+      {
+        "url": "Penske Automotive Group",
+        "onLoad": null
+      }
+    ]
+  },
+  "requests": {
+    "all": {
+      "noOfRequests": 62,
+      "medianTime": 122,
+      "ninetyFifthTime": 408,
+      "medianTimings": {
+        "blocked": 0,
+        "wait": 38,
+        "receive": 0
+      },
+      "ninetyFifthTimings": {
+        "blocked": 0,
+        "wait": 121,
+        "receive": 80
+      },
+      "bytesTransferred": null,
+      "topUrl": {
+        "url": "https://s27.q4cdn.com/478094565/files/favicon.ico",
+        "noOfOccurrences": 1
+      },
+      "largest": {
+        "url": "https://www.penskeautomotive.com/feed/PressRelease.svc/GetPressReleaseList",
+        "bytes": 0
+      },
+      "largestCompressed": {
+        "url": "https://privacyportal.onetrust.com/request/v1/consentreceipts"
+      },
+      "longest": {
+        "url": "https://www.penskeautomotive.com/feed/PressRelease.svc/GetPressReleaseYearList",
+        "time": 1313,
+        "timings": {
+          "blocked": 0,
+          "wait": 1245,
+          "receive": 0,
+          "connect": 67
+        }
+      }
+    },
+    "document": {
+      "noOfRequests": 0
+    },
+    "font": {
+      "noOfRequests": 0
+    },
+    "image": {
+      "noOfRequests": 0
+    },
+    "style": {
+      "noOfRequests": 0
+    },
+    "script": {
+      "noOfRequests": 0
+    },
+    "xhr": {
+      "noOfRequests": 0
+    },
+    "other": {
+      "noOfRequests": 0
+    }
+  }
+}

@@ -1,0 +1,73 @@
+{
+  "pages": {
+    "noOfPages": 1,
+    "medianOnLoad": null,
+    "ninetyFifthOnLoad": null,
+    "pages": [
+      {
+        "url": "Lowe's",
+        "onLoad": null
+      }
+    ]
+  },
+  "requests": {
+    "all": {
+      "noOfRequests": 81,
+      "medianTime": 114,
+      "ninetyFifthTime": 438,
+      "medianTimings": {
+        "blocked": 0,
+        "wait": 33,
+        "receive": 0
+      },
+      "ninetyFifthTimings": {
+        "blocked": 0,
+        "wait": 220,
+        "receive": 50
+      },
+      "bytesTransferred": null,
+      "topUrl": {
+        "url": "https://www.lowes.com/globalweb/teslacontent",
+        "noOfOccurrences": 3
+      },
+      "largest": {
+        "url": "https://www.googletagmanager.com/gtag/js",
+        "bytes": 0
+      },
+      "largestCompressed": {
+        "url": "https://ups.inq.com/tagserver/incrementality/onEvent"
+      },
+      "longest": {
+        "url": "https://mobileimages.lowes.com/marketingimages/69831255-557b-4286-8ef9-d75f520e691f/save-on-appliances-dt.png",
+        "time": 642,
+        "timings": {
+          "blocked": 0,
+          "wait": 162,
+          "receive": 10,
+          "connect": 469
+        }
+      }
+    },
+    "document": {
+      "noOfRequests": 0
+    },
+    "font": {
+      "noOfRequests": 0
+    },
+    "image": {
+      "noOfRequests": 0
+    },
+    "style": {
+      "noOfRequests": 0
+    },
+    "script": {
+      "noOfRequests": 0
+    },
+    "xhr": {
+      "noOfRequests": 0
+    },
+    "other": {
+      "noOfRequests": 0
+    }
+  }
+}

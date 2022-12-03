@@ -1,0 +1,73 @@
+{
+  "pages": {
+    "noOfPages": 1,
+    "medianOnLoad": null,
+    "ninetyFifthOnLoad": null,
+    "pages": [
+      {
+        "url": "Progressive",
+        "onLoad": null
+      }
+    ]
+  },
+  "requests": {
+    "all": {
+      "noOfRequests": 106,
+      "medianTime": 49,
+      "ninetyFifthTime": 451,
+      "medianTimings": {
+        "blocked": -1,
+        "wait": 31,
+        "receive": 0
+      },
+      "ninetyFifthTimings": {
+        "blocked": 0,
+        "wait": 140,
+        "receive": 22
+      },
+      "bytesTransferred": null,
+      "topUrl": {
+        "url": "https://rtds.progressive.com/splunkservices/v1/collectors/logs",
+        "noOfOccurrences": 9
+      },
+      "largest": {
+        "url": "https://col.eum-appdynamics.com/eumcollector/beacons/browser/v1/AD-AAB-AAC-GWR/adrum",
+        "bytes": 0
+      },
+      "largestCompressed": {
+        "url": "https://173bf108.akstat.io/"
+      },
+      "longest": {
+        "url": "https://c.go-mpulse.net/api/config.json",
+        "time": 2162,
+        "timings": {
+          "blocked": 0,
+          "wait": 2076,
+          "receive": 0,
+          "connect": 85
+        }
+      }
+    },
+    "document": {
+      "noOfRequests": 0
+    },
+    "font": {
+      "noOfRequests": 0
+    },
+    "image": {
+      "noOfRequests": 0
+    },
+    "style": {
+      "noOfRequests": 0
+    },
+    "script": {
+      "noOfRequests": 0
+    },
+    "xhr": {
+      "noOfRequests": 0
+    },
+    "other": {
+      "noOfRequests": 0
+    }
+  }
+}

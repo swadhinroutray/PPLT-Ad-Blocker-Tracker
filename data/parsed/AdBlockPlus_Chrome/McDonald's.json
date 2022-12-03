@@ -1,0 +1,73 @@
+{
+  "pages": {
+    "noOfPages": 1,
+    "medianOnLoad": null,
+    "ninetyFifthOnLoad": null,
+    "pages": [
+      {
+        "url": "McDonald's",
+        "onLoad": null
+      }
+    ]
+  },
+  "requests": {
+    "all": {
+      "noOfRequests": 93,
+      "medianTime": 68,
+      "ninetyFifthTime": 266,
+      "medianTimings": {
+        "blocked": -1,
+        "wait": 30,
+        "receive": 0
+      },
+      "ninetyFifthTimings": {
+        "blocked": 0,
+        "wait": 92,
+        "receive": 40
+      },
+      "bytesTransferred": null,
+      "topUrl": {
+        "url": "https://www.mcdonalds.com/ZVNyTC91i/J/W/8BmTMNKAQXepZkKM/YO5ELbXk3GEX/T1ImORN2cQE/MyYTXG/ALCFEB",
+        "noOfOccurrences": 3
+      },
+      "largest": {
+        "url": "https://cdn.cookielaw.org/logos/static/poweredBy_ot_logo.svg",
+        "bytes": 0
+      },
+      "largestCompressed": {
+        "url": "https://www.mcdonalds.com/"
+      },
+      "longest": {
+        "url": "https://smetrics.mcdonalds.com/id",
+        "time": 369,
+        "timings": {
+          "blocked": 0,
+          "wait": 32,
+          "receive": 0,
+          "connect": 283
+        }
+      }
+    },
+    "document": {
+      "noOfRequests": 0
+    },
+    "font": {
+      "noOfRequests": 0
+    },
+    "image": {
+      "noOfRequests": 0
+    },
+    "style": {
+      "noOfRequests": 0
+    },
+    "script": {
+      "noOfRequests": 0
+    },
+    "xhr": {
+      "noOfRequests": 0
+    },
+    "other": {
+      "noOfRequests": 0
+    }
+  }
+}

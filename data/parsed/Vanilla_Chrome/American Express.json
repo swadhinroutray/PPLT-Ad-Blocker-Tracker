@@ -1,0 +1,73 @@
+{
+  "pages": {
+    "noOfPages": 1,
+    "medianOnLoad": null,
+    "ninetyFifthOnLoad": null,
+    "pages": [
+      {
+        "url": "American Express",
+        "onLoad": null
+      }
+    ]
+  },
+  "requests": {
+    "all": {
+      "noOfRequests": 70,
+      "medianTime": 117,
+      "ninetyFifthTime": 444,
+      "medianTimings": {
+        "blocked": 0,
+        "wait": 52,
+        "receive": 0
+      },
+      "ninetyFifthTimings": {
+        "blocked": 0,
+        "wait": 188,
+        "receive": 28
+      },
+      "bytesTransferred": null,
+      "topUrl": {
+        "url": "https://functions.americanexpress.com/ReadScriptRegistry.v1",
+        "noOfOccurrences": 4
+      },
+      "largest": {
+        "url": "https://www.americanexpress.com/content/dam/amex/en-us/homepage/hero-new/jdp-savings-awards-10-27-22.jpeg",
+        "bytes": 0
+      },
+      "largestCompressed": {
+        "url": "https://somni.deere.com/b/ss/deerersddc/10/JS-2.23.0-LCXS/s9948235877108"
+      },
+      "longest": {
+        "url": "https://www.americanexpress.com/gemservices/getLoginRedirectUrl.json",
+        "time": 1576,
+        "timings": {
+          "blocked": -1,
+          "wait": 1576,
+          "receive": 0,
+          "connect": -1
+        }
+      }
+    },
+    "document": {
+      "noOfRequests": 0
+    },
+    "font": {
+      "noOfRequests": 0
+    },
+    "image": {
+      "noOfRequests": 0
+    },
+    "style": {
+      "noOfRequests": 0
+    },
+    "script": {
+      "noOfRequests": 0
+    },
+    "xhr": {
+      "noOfRequests": 0
+    },
+    "other": {
+      "noOfRequests": 0
+    }
+  }
+}

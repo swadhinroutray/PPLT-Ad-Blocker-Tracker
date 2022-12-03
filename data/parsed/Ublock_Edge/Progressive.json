@@ -1,0 +1,73 @@
+{
+  "pages": {
+    "noOfPages": 1,
+    "medianOnLoad": null,
+    "ninetyFifthOnLoad": null,
+    "pages": [
+      {
+        "url": "Progressive",
+        "onLoad": null
+      }
+    ]
+  },
+  "requests": {
+    "all": {
+      "noOfRequests": 59,
+      "medianTime": 30,
+      "ninetyFifthTime": 303,
+      "medianTimings": {
+        "blocked": -1,
+        "wait": 26,
+        "receive": 0
+      },
+      "ninetyFifthTimings": {
+        "blocked": 0,
+        "wait": 52,
+        "receive": 14
+      },
+      "bytesTransferred": null,
+      "topUrl": {
+        "url": "https://rtds.progressive.com/splunkservices/v1/collectors/logs",
+        "noOfOccurrences": 8
+      },
+      "largest": {
+        "url": "https://publicsuffix.org/list/public_suffix_list.dat",
+        "bytes": 0
+      },
+      "largestCompressed": {
+        "url": "https://www.progressive.com/"
+      },
+      "longest": {
+        "url": "https://images.contentstack.io/v3/assets/blt62d40591b3650da3/bltb11e22e997ab2929/5d920fc27fd1aa0433edc548/mma-homepage_flo.png",
+        "time": 767,
+        "timings": {
+          "blocked": 0,
+          "wait": 20,
+          "receive": 40,
+          "connect": 641
+        }
+      }
+    },
+    "document": {
+      "noOfRequests": 0
+    },
+    "font": {
+      "noOfRequests": 0
+    },
+    "image": {
+      "noOfRequests": 0
+    },
+    "style": {
+      "noOfRequests": 0
+    },
+    "script": {
+      "noOfRequests": 0
+    },
+    "xhr": {
+      "noOfRequests": 0
+    },
+    "other": {
+      "noOfRequests": 0
+    }
+  }
+}

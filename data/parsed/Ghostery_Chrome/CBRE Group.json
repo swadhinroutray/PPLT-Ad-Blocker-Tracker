@@ -1,0 +1,73 @@
+{
+  "pages": {
+    "noOfPages": 1,
+    "medianOnLoad": null,
+    "ninetyFifthOnLoad": null,
+    "pages": [
+      {
+        "url": "CBRE Group",
+        "onLoad": null
+      }
+    ]
+  },
+  "requests": {
+    "all": {
+      "noOfRequests": 154,
+      "medianTime": 77,
+      "ninetyFifthTime": 432,
+      "medianTimings": {
+        "blocked": -1,
+        "wait": 53,
+        "receive": 0
+      },
+      "ninetyFifthTimings": {
+        "blocked": 0,
+        "wait": 115,
+        "receive": 27
+      },
+      "bytesTransferred": null,
+      "topUrl": {
+        "url": "https://www.google-analytics.com/g/collect",
+        "noOfOccurrences": 1
+      },
+      "largest": {
+        "url": "https://api.segment.io/v1/p",
+        "bytes": 0
+      },
+      "largestCompressed": {
+        "url": "https://68794907.akstat.io/"
+      },
+      "longest": {
+        "url": "https://api.segment.io/v1/p",
+        "time": 531,
+        "timings": {
+          "blocked": 0,
+          "wait": 75,
+          "receive": 0,
+          "connect": 428
+        }
+      }
+    },
+    "document": {
+      "noOfRequests": 0
+    },
+    "font": {
+      "noOfRequests": 0
+    },
+    "image": {
+      "noOfRequests": 0
+    },
+    "style": {
+      "noOfRequests": 0
+    },
+    "script": {
+      "noOfRequests": 0
+    },
+    "xhr": {
+      "noOfRequests": 0
+    },
+    "other": {
+      "noOfRequests": 0
+    }
+  }
+}

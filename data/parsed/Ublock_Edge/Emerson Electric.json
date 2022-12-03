@@ -1,0 +1,73 @@
+{
+  "pages": {
+    "noOfPages": 1,
+    "medianOnLoad": null,
+    "ninetyFifthOnLoad": null,
+    "pages": [
+      {
+        "url": "Emerson Electric",
+        "onLoad": null
+      }
+    ]
+  },
+  "requests": {
+    "all": {
+      "noOfRequests": 23,
+      "medianTime": 23,
+      "ninetyFifthTime": 284,
+      "medianTimings": {
+        "blocked": -1,
+        "wait": 21,
+        "receive": 0
+      },
+      "ninetyFifthTimings": {
+        "blocked": 0,
+        "wait": 72,
+        "receive": 25
+      },
+      "bytesTransferred": null,
+      "topUrl": {
+        "url": "https://nav-edge.smartscreen.microsoft.com/api/browser/edge/navigate/3",
+        "noOfOccurrences": 1
+      },
+      "largest": {
+        "url": "https://www.emerson.com/resource/blob/emerson-electric-usa-home-page-favicon-60.ico",
+        "bytes": 0
+      },
+      "largestCompressed": {
+        "url": "https://nav-edge.smartscreen.microsoft.com/api/browser/edge/navigate/3"
+      },
+      "longest": {
+        "url": "https://www.emerson.com/",
+        "time": 470,
+        "timings": {
+          "blocked": 0,
+          "wait": 225,
+          "receive": 0,
+          "connect": 165
+        }
+      }
+    },
+    "document": {
+      "noOfRequests": 0
+    },
+    "font": {
+      "noOfRequests": 0
+    },
+    "image": {
+      "noOfRequests": 0
+    },
+    "style": {
+      "noOfRequests": 0
+    },
+    "script": {
+      "noOfRequests": 0
+    },
+    "xhr": {
+      "noOfRequests": 0
+    },
+    "other": {
+      "noOfRequests": 0
+    }
+  }
+}

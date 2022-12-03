@@ -1,0 +1,73 @@
+{
+  "pages": {
+    "noOfPages": 1,
+    "medianOnLoad": null,
+    "ninetyFifthOnLoad": null,
+    "pages": [
+      {
+        "url": "ConocoPhillips",
+        "onLoad": null
+      }
+    ]
+  },
+  "requests": {
+    "all": {
+      "noOfRequests": 101,
+      "medianTime": 41,
+      "ninetyFifthTime": 232,
+      "medianTimings": {
+        "blocked": -1,
+        "wait": 25,
+        "receive": 3
+      },
+      "ninetyFifthTimings": {
+        "blocked": 0,
+        "wait": 41,
+        "receive": 53
+      },
+      "bytesTransferred": null,
+      "topUrl": {
+        "url": "https://fresnel.vimeocdn.com/add/player-stats",
+        "noOfOccurrences": 4
+      },
+      "largest": {
+        "url": "https://113vod-adaptive.akamaized.net/exp=1670018935~acl=%2F9c424f66-234e-403b-97d2-49192390f370%2F%2A~hmac=293da6da179de9fd4be58fd8a5a2fc36364624c51402647a156a83a6f0f39da1/9c424f66-234e-403b-97d2-49192390f370/sep/audio/5a3d5cb1/chop/segment-4.m4s",
+        "bytes": 0
+      },
+      "largestCompressed": {
+        "url": "https://nav-edge.smartscreen.microsoft.com/api/browser/edge/navigate/3"
+      },
+      "longest": {
+        "url": "https://www.conocophillips.com/",
+        "time": 511,
+        "timings": {
+          "blocked": 0,
+          "wait": 91,
+          "receive": 18,
+          "connect": 296
+        }
+      }
+    },
+    "document": {
+      "noOfRequests": 0
+    },
+    "font": {
+      "noOfRequests": 0
+    },
+    "image": {
+      "noOfRequests": 0
+    },
+    "style": {
+      "noOfRequests": 0
+    },
+    "script": {
+      "noOfRequests": 0
+    },
+    "xhr": {
+      "noOfRequests": 0
+    },
+    "other": {
+      "noOfRequests": 0
+    }
+  }
+}

@@ -1,0 +1,73 @@
+{
+  "pages": {
+    "noOfPages": 1,
+    "medianOnLoad": null,
+    "ninetyFifthOnLoad": null,
+    "pages": [
+      {
+        "url": "CarMax",
+        "onLoad": null
+      }
+    ]
+  },
+  "requests": {
+    "all": {
+      "noOfRequests": 52,
+      "medianTime": 62,
+      "ninetyFifthTime": 268,
+      "medianTimings": {
+        "blocked": -1,
+        "wait": 41,
+        "receive": 0
+      },
+      "ninetyFifthTimings": {
+        "blocked": 0,
+        "wait": 128,
+        "receive": 43
+      },
+      "bytesTransferred": null,
+      "topUrl": {
+        "url": "https://www.carmax.com/oryLUi7i91xMRltKNCinKF7j/uYXO8miu/MB5SExxp/QVZ/NRF5DOz8B",
+        "noOfOccurrences": 4
+      },
+      "largest": {
+        "url": "https://www.carmax.com/oryLUi7i91xMRltKNCinKF7j/uYXO8miu/MB5SExxp/QVZ/NRF5DOz8B",
+        "bytes": 0
+      },
+      "largestCompressed": {
+        "url": "https://content-autofill.googleapis.com/v1/pages/ChVDaHJvbWUvMTA3LjAuNTMwNC4xMjEShwEJAbTREiEPqtMSBQ3lM148EgUNlJCS-hIFDZSQkvoSBQ2UkJL6EgUNlJCS-hIFDZSQkvoSBQ2UkJL6EgUNlJCS-hIFDZSQkvoSBQ2UkJL6EgUN77-NcxIFDQCgC8oSBQ14bxIZEgUNkgVUzhIFDVPydWESBQ2UkJL6EgUNlJCS-hIFDaWTNiQ="
+      },
+      "longest": {
+        "url": "https://www.carmax.com/",
+        "time": 353,
+        "timings": {
+          "blocked": 0,
+          "wait": 71,
+          "receive": 1,
+          "connect": 241
+        }
+      }
+    },
+    "document": {
+      "noOfRequests": 0
+    },
+    "font": {
+      "noOfRequests": 0
+    },
+    "image": {
+      "noOfRequests": 0
+    },
+    "style": {
+      "noOfRequests": 0
+    },
+    "script": {
+      "noOfRequests": 0
+    },
+    "xhr": {
+      "noOfRequests": 0
+    },
+    "other": {
+      "noOfRequests": 0
+    }
+  }
+}

@@ -1,0 +1,73 @@
+{
+  "pages": {
+    "noOfPages": 1,
+    "medianOnLoad": null,
+    "ninetyFifthOnLoad": null,
+    "pages": [
+      {
+        "url": "Avnet",
+        "onLoad": null
+      }
+    ]
+  },
+  "requests": {
+    "all": {
+      "noOfRequests": 259,
+      "medianTime": 71,
+      "ninetyFifthTime": 510,
+      "medianTimings": {
+        "blocked": -1,
+        "wait": 38,
+        "receive": 0
+      },
+      "ninetyFifthTimings": {
+        "blocked": 0,
+        "wait": 184,
+        "receive": 70
+      },
+      "bytesTransferred": null,
+      "topUrl": {
+        "url": "https://collection.decibelinsight.net/i/13999/da/",
+        "noOfOccurrences": 14
+      },
+      "largest": {
+        "url": "https://sp.analytics.yahoo.com/sp.pl",
+        "bytes": 0
+      },
+      "largestCompressed": {
+        "url": "https://ping-edge.smartscreen.microsoft.com/api/browser/edge/actions/3"
+      },
+      "longest": {
+        "url": "https://easylist-downloads.adblockplus.org/exceptionrules.txt",
+        "time": 1559,
+        "timings": {
+          "blocked": 1,
+          "wait": 145,
+          "receive": 750,
+          "connect": 610
+        }
+      }
+    },
+    "document": {
+      "noOfRequests": 0
+    },
+    "font": {
+      "noOfRequests": 0
+    },
+    "image": {
+      "noOfRequests": 0
+    },
+    "style": {
+      "noOfRequests": 0
+    },
+    "script": {
+      "noOfRequests": 0
+    },
+    "xhr": {
+      "noOfRequests": 0
+    },
+    "other": {
+      "noOfRequests": 0
+    }
+  }
+}

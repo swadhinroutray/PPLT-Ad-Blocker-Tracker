@@ -1,0 +1,73 @@
+{
+  "pages": {
+    "noOfPages": 1,
+    "medianOnLoad": null,
+    "ninetyFifthOnLoad": null,
+    "pages": [
+      {
+        "url": "DXC Technology",
+        "onLoad": null
+      }
+    ]
+  },
+  "requests": {
+    "all": {
+      "noOfRequests": 148,
+      "medianTime": 44,
+      "ninetyFifthTime": 293,
+      "medianTimings": {
+        "blocked": -1,
+        "wait": 30,
+        "receive": 0
+      },
+      "ninetyFifthTimings": {
+        "blocked": 0,
+        "wait": 88,
+        "receive": 21
+      },
+      "bytesTransferred": null,
+      "topUrl": {
+        "url": "https://www.googletagmanager.com/gtag/js",
+        "noOfOccurrences": 1
+      },
+      "largest": {
+        "url": "https://smetrics.dxc.com/b/ss/dxc.com/1/JS-2.23.0-LCXS/s18327302422119",
+        "bytes": 0
+      },
+      "largestCompressed": {
+        "url": "https://dxc.com/"
+      },
+      "longest": {
+        "url": "https://smetrics.dxc.com/rest/v1/delivery",
+        "time": 518,
+        "timings": {
+          "blocked": 0,
+          "wait": 40,
+          "receive": 0,
+          "connect": 171
+        }
+      }
+    },
+    "document": {
+      "noOfRequests": 0
+    },
+    "font": {
+      "noOfRequests": 0
+    },
+    "image": {
+      "noOfRequests": 0
+    },
+    "style": {
+      "noOfRequests": 0
+    },
+    "script": {
+      "noOfRequests": 0
+    },
+    "xhr": {
+      "noOfRequests": 0
+    },
+    "other": {
+      "noOfRequests": 0
+    }
+  }
+}

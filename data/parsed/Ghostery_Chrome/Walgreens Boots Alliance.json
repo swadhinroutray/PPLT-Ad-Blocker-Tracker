@@ -1,0 +1,73 @@
+{
+  "pages": {
+    "noOfPages": 1,
+    "medianOnLoad": null,
+    "ninetyFifthOnLoad": null,
+    "pages": [
+      {
+        "url": "Walgreens Boots Alliance",
+        "onLoad": null
+      }
+    ]
+  },
+  "requests": {
+    "all": {
+      "noOfRequests": 93,
+      "medianTime": 134,
+      "ninetyFifthTime": 495,
+      "medianTimings": {
+        "blocked": 0,
+        "wait": 33,
+        "receive": 0
+      },
+      "ninetyFifthTimings": {
+        "blocked": 0,
+        "wait": 129,
+        "receive": 48
+      },
+      "bytesTransferred": null,
+      "topUrl": {
+        "url": "https://c6c9d8ef2759434ead15b8b0d780e202-1ad356638475.cdn.forter.com/prop.json",
+        "noOfOccurrences": 2
+      },
+      "largest": {
+        "url": "https://in.hotjar.com/api/v2/client/sites/2411840/visit-data",
+        "bytes": 0
+      },
+      "largestCompressed": {
+        "url": "https://customer.homedepot.com/fp/clear.png"
+      },
+      "longest": {
+        "url": "https://clickstream-producer.hd-personalization-prod.gcp.homedepot.com/clickstream-producer/v1/publish",
+        "time": 4243,
+        "timings": {
+          "blocked": 0,
+          "wait": 33,
+          "receive": 0,
+          "connect": 4180
+        }
+      }
+    },
+    "document": {
+      "noOfRequests": 0
+    },
+    "font": {
+      "noOfRequests": 0
+    },
+    "image": {
+      "noOfRequests": 0
+    },
+    "style": {
+      "noOfRequests": 0
+    },
+    "script": {
+      "noOfRequests": 0
+    },
+    "xhr": {
+      "noOfRequests": 0
+    },
+    "other": {
+      "noOfRequests": 0
+    }
+  }
+}

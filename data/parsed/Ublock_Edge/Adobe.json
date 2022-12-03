@@ -1,0 +1,73 @@
+{
+  "pages": {
+    "noOfPages": 1,
+    "medianOnLoad": null,
+    "ninetyFifthOnLoad": null,
+    "pages": [
+      {
+        "url": "Adobe",
+        "onLoad": null
+      }
+    ]
+  },
+  "requests": {
+    "all": {
+      "noOfRequests": 49,
+      "medianTime": 43,
+      "ninetyFifthTime": 318,
+      "medianTimings": {
+        "blocked": -1,
+        "wait": 23,
+        "receive": 0
+      },
+      "ninetyFifthTimings": {
+        "blocked": 0,
+        "wait": 43,
+        "receive": 24
+      },
+      "bytesTransferred": null,
+      "topUrl": {
+        "url": "https://adobe.tt.omtrdc.net/rest/v2/batchmbox",
+        "noOfOccurrences": 1
+      },
+      "largest": {
+        "url": "https://assets.adobedtm.com/d4d114c60e50/f3fbfbe0e7ca/2bc238cd0273/RC39708cd022a14380ab0afbf947473bf7-file.min.js",
+        "bytes": 0
+      },
+      "largestCompressed": {
+        "url": "https://www.adobe.com/"
+      },
+      "longest": {
+        "url": "https://www.adobe.com/",
+        "time": 448,
+        "timings": {
+          "blocked": 0,
+          "wait": 119,
+          "receive": 0,
+          "connect": 300
+        }
+      }
+    },
+    "document": {
+      "noOfRequests": 0
+    },
+    "font": {
+      "noOfRequests": 0
+    },
+    "image": {
+      "noOfRequests": 0
+    },
+    "style": {
+      "noOfRequests": 0
+    },
+    "script": {
+      "noOfRequests": 0
+    },
+    "xhr": {
+      "noOfRequests": 0
+    },
+    "other": {
+      "noOfRequests": 0
+    }
+  }
+}

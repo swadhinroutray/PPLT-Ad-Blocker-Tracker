@@ -1,0 +1,73 @@
+{
+  "pages": {
+    "noOfPages": 1,
+    "medianOnLoad": null,
+    "ninetyFifthOnLoad": null,
+    "pages": [
+      {
+        "url": "Sherwin-Williams",
+        "onLoad": null
+      }
+    ]
+  },
+  "requests": {
+    "all": {
+      "noOfRequests": 286,
+      "medianTime": 59,
+      "ninetyFifthTime": 444,
+      "medianTimings": {
+        "blocked": -1,
+        "wait": 29,
+        "receive": 0
+      },
+      "ninetyFifthTimings": {
+        "blocked": 0,
+        "wait": 87,
+        "receive": 36
+      },
+      "bytesTransferred": null,
+      "topUrl": {
+        "url": "https://cdns.us1.gigya.com/sdk.config.get",
+        "noOfOccurrences": 4
+      },
+      "largest": {
+        "url": "https://va.idp.liveperson.net/postmessage/postmessage.min.html",
+        "bytes": 0
+      },
+      "largestCompressed": {
+        "url": "https://assets.adobedtm.com/85b02176ad5a/2446d130b9dd/2c9090e18c00/RCc9154507de3b452d90ecced8a69b4afb-source.min.js"
+      },
+      "longest": {
+        "url": "https://live.rezync.com/sync",
+        "time": 902,
+        "timings": {
+          "blocked": 0,
+          "wait": 178,
+          "receive": 0,
+          "connect": 651
+        }
+      }
+    },
+    "document": {
+      "noOfRequests": 0
+    },
+    "font": {
+      "noOfRequests": 0
+    },
+    "image": {
+      "noOfRequests": 0
+    },
+    "style": {
+      "noOfRequests": 0
+    },
+    "script": {
+      "noOfRequests": 0
+    },
+    "xhr": {
+      "noOfRequests": 0
+    },
+    "other": {
+      "noOfRequests": 0
+    }
+  }
+}

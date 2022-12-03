@@ -1,0 +1,73 @@
+{
+  "pages": {
+    "noOfPages": 1,
+    "medianOnLoad": null,
+    "ninetyFifthOnLoad": null,
+    "pages": [
+      {
+        "url": "BlackRock",
+        "onLoad": null
+      }
+    ]
+  },
+  "requests": {
+    "all": {
+      "noOfRequests": 68,
+      "medianTime": 63,
+      "ninetyFifthTime": 245,
+      "medianTimings": {
+        "blocked": -1,
+        "wait": 32,
+        "receive": 2
+      },
+      "ninetyFifthTimings": {
+        "blocked": 0,
+        "wait": 135,
+        "receive": 52
+      },
+      "bytesTransferred": null,
+      "topUrl": {
+        "url": "https://www.blackrock.com/Vd5vO4ArJffIv/xNFG/Ob2ix1ZUSw/ONDiSwkm/Qk1QIA/TEQ7MHk/BTTgB",
+        "noOfOccurrences": 3
+      },
+      "largest": {
+        "url": "https://www.blackrock.com/Vd5vO4ArJffIv/xNFG/Ob2ix1ZUSw/ONDiSwkm/Qk1QIA/TEQ7MHk/BTTgB",
+        "bytes": 0
+      },
+      "largestCompressed": {
+        "url": "https://www.kohls.com/web/session.jsp"
+      },
+      "longest": {
+        "url": "https://www.blackrock.com/us/individual",
+        "time": 876,
+        "timings": {
+          "blocked": -1,
+          "wait": 828,
+          "receive": 48,
+          "connect": -1
+        }
+      }
+    },
+    "document": {
+      "noOfRequests": 0
+    },
+    "font": {
+      "noOfRequests": 0
+    },
+    "image": {
+      "noOfRequests": 0
+    },
+    "style": {
+      "noOfRequests": 0
+    },
+    "script": {
+      "noOfRequests": 0
+    },
+    "xhr": {
+      "noOfRequests": 0
+    },
+    "other": {
+      "noOfRequests": 0
+    }
+  }
+}

@@ -1,0 +1,73 @@
+{
+  "pages": {
+    "noOfPages": 1,
+    "medianOnLoad": null,
+    "ninetyFifthOnLoad": null,
+    "pages": [
+      {
+        "url": "Arrow Electronics",
+        "onLoad": null
+      }
+    ]
+  },
+  "requests": {
+    "all": {
+      "noOfRequests": 196,
+      "medianTime": 138,
+      "ninetyFifthTime": 459,
+      "medianTimings": {
+        "blocked": 0,
+        "wait": 27,
+        "receive": 0
+      },
+      "ninetyFifthTimings": {
+        "blocked": 0,
+        "wait": 156,
+        "receive": 37
+      },
+      "bytesTransferred": null,
+      "topUrl": {
+        "url": "https://www.facebook.com/tr/",
+        "noOfOccurrences": 11
+      },
+      "largest": {
+        "url": "https://173bf10c.akstat.io/",
+        "bytes": 0
+      },
+      "largestCompressed": {
+        "url": "https://ping-edge.smartscreen.microsoft.com/api/browser/edge/actions/3"
+      },
+      "longest": {
+        "url": "https://wcs.naver.com/m",
+        "time": 1200,
+        "timings": {
+          "blocked": 0,
+          "wait": 221,
+          "receive": 0,
+          "connect": 977
+        }
+      }
+    },
+    "document": {
+      "noOfRequests": 0
+    },
+    "font": {
+      "noOfRequests": 0
+    },
+    "image": {
+      "noOfRequests": 0
+    },
+    "style": {
+      "noOfRequests": 0
+    },
+    "script": {
+      "noOfRequests": 0
+    },
+    "xhr": {
+      "noOfRequests": 0
+    },
+    "other": {
+      "noOfRequests": 0
+    }
+  }
+}

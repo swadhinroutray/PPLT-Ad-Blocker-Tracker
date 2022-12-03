@@ -1,0 +1,73 @@
+{
+  "pages": {
+    "noOfPages": 1,
+    "medianOnLoad": null,
+    "ninetyFifthOnLoad": null,
+    "pages": [
+      {
+        "url": "United States Steel",
+        "onLoad": null
+      }
+    ]
+  },
+  "requests": {
+    "all": {
+      "noOfRequests": 150,
+      "medianTime": 49,
+      "ninetyFifthTime": 254,
+      "medianTimings": {
+        "blocked": -1,
+        "wait": 39,
+        "receive": 0
+      },
+      "ninetyFifthTimings": {
+        "blocked": 0,
+        "wait": 95,
+        "receive": 98
+      },
+      "bytesTransferred": null,
+      "topUrl": {
+        "url": "https://www.ussteel.com/combo/",
+        "noOfOccurrences": 23
+      },
+      "largest": {
+        "url": "https://edge.microsoft.com/autofillservice/v1/pages/ChVDaHJvbWUvMTA3LjAuNTMwNC4xNTASQQk7vH8k9pUDuhIFDau4bu4SBQ2MHd2GEgUN9Tv-4RIFDYPPUu4SBQ3c9omnEgUN8s3o1xIFDdJlmXASBQ1dr-YBEgkJh30Mdi5El4ASEAnBmyiBfmNpbxIFDau4bu4SOgmDIYrEVjPb1hIFDYwd3YYSBQ31O_7hEgUNg89S7hIFDdz2iacSBQ3yzejXEgUN0mWZcBIFDV2v5gE=",
+        "bytes": 0
+      },
+      "largestCompressed": {
+        "url": "https://nav-edge.smartscreen.microsoft.com/api/browser/edge/navigate/3"
+      },
+      "longest": {
+        "url": "https://www.ussteel.com/documents/40705/53985/USS_DEI_Cover_R2_3783x1854.jpg/85734e91-7655-e124-967c-624cd57e97e5",
+        "time": 795,
+        "timings": {
+          "blocked": -1,
+          "wait": 48,
+          "receive": 747,
+          "connect": -1
+        }
+      }
+    },
+    "document": {
+      "noOfRequests": 0
+    },
+    "font": {
+      "noOfRequests": 0
+    },
+    "image": {
+      "noOfRequests": 0
+    },
+    "style": {
+      "noOfRequests": 0
+    },
+    "script": {
+      "noOfRequests": 0
+    },
+    "xhr": {
+      "noOfRequests": 0
+    },
+    "other": {
+      "noOfRequests": 0
+    }
+  }
+}

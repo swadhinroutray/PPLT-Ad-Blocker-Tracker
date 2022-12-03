@@ -1,0 +1,73 @@
+{
+  "pages": {
+    "noOfPages": 1,
+    "medianOnLoad": null,
+    "ninetyFifthOnLoad": null,
+    "pages": [
+      {
+        "url": "Apple",
+        "onLoad": null
+      }
+    ]
+  },
+  "requests": {
+    "all": {
+      "noOfRequests": 85,
+      "medianTime": 64,
+      "ninetyFifthTime": 482,
+      "medianTimings": {
+        "blocked": -1,
+        "wait": 25,
+        "receive": 0
+      },
+      "ninetyFifthTimings": {
+        "blocked": 0,
+        "wait": 110,
+        "receive": 221
+      },
+      "bytesTransferred": null,
+      "topUrl": {
+        "url": "https://unagi-na.amazon.com/1/events/com.amazon.eel.amazonlive.metrics.nexus",
+        "noOfOccurrences": 3
+      },
+      "largest": {
+        "url": "https://www.apple.com/favicon.ico",
+        "bytes": 0
+      },
+      "largestCompressed": {
+        "url": "https://fls-na.amazon.com/1/batch/1/OP/ATVPDKIKX0DER:146-8356613-9105316:PH8BE65ND8FWRHMA8MA1$uedata=s:%2Frd%2Fuedata%3Fld%26v%3D0.233339.0%26id%3DPH8BE65ND8FWRHMA8MA1%26ctb%3D1%26sc0%3DAmazonLiveReact%26bb0%3D1313%26be0%3D12833%26pc0%3D13122%26ld0%3D13122%26t0%3D1669997071039%26pty%3DGateway%26spty%3Ddesktop%26pti%3Ddesktop%26tid%3DPH8BE65ND8FWRHMA8MA1%26aftb%3D1:13122"
+      },
+      "longest": {
+        "url": "https://is5-ssl.mzstatic.com/image/thumb/7SeRlnCzKlgeqrg6-ixkig/1960x1102.jpg",
+        "time": 582,
+        "timings": {
+          "blocked": 0,
+          "wait": 27,
+          "receive": 301,
+          "connect": 228
+        }
+      }
+    },
+    "document": {
+      "noOfRequests": 0
+    },
+    "font": {
+      "noOfRequests": 0
+    },
+    "image": {
+      "noOfRequests": 0
+    },
+    "style": {
+      "noOfRequests": 0
+    },
+    "script": {
+      "noOfRequests": 0
+    },
+    "xhr": {
+      "noOfRequests": 0
+    },
+    "other": {
+      "noOfRequests": 0
+    }
+  }
+}

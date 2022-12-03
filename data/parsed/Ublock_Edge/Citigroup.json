@@ -1,0 +1,73 @@
+{
+  "pages": {
+    "noOfPages": 1,
+    "medianOnLoad": null,
+    "ninetyFifthOnLoad": null,
+    "pages": [
+      {
+        "url": "Citigroup",
+        "onLoad": null
+      }
+    ]
+  },
+  "requests": {
+    "all": {
+      "noOfRequests": 18,
+      "medianTime": 78,
+      "ninetyFifthTime": 328,
+      "medianTimings": {
+        "blocked": -1,
+        "wait": 43,
+        "receive": 0
+      },
+      "ninetyFifthTimings": {
+        "blocked": 0,
+        "wait": 327,
+        "receive": 7
+      },
+      "bytesTransferred": null,
+      "topUrl": {
+        "url": "https://www.citigroup.com/KchpXL/y05RRv/axzfeC_/psmOJ/YSEfD0kL/UVReGQE/KXIDY/DFTMUUB",
+        "noOfOccurrences": 3
+      },
+      "largest": {
+        "url": "https://www.citigroup.com/citi/assets/js/lib/json.js",
+        "bytes": 0
+      },
+      "largestCompressed": {
+        "url": "https://www.citigroup.com/"
+      },
+      "longest": {
+        "url": "https://www.citigroup.com/KchpXL/y05RRv/axzfeC_/psmOJ/YSEfD0kL/UVReGQE/KXIDY/DFTMUUB",
+        "time": 388,
+        "timings": {
+          "blocked": -1,
+          "wait": 388,
+          "receive": 0,
+          "connect": -1
+        }
+      }
+    },
+    "document": {
+      "noOfRequests": 0
+    },
+    "font": {
+      "noOfRequests": 0
+    },
+    "image": {
+      "noOfRequests": 0
+    },
+    "style": {
+      "noOfRequests": 0
+    },
+    "script": {
+      "noOfRequests": 0
+    },
+    "xhr": {
+      "noOfRequests": 0
+    },
+    "other": {
+      "noOfRequests": 0
+    }
+  }
+}

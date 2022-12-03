@@ -1,0 +1,73 @@
+{
+  "pages": {
+    "noOfPages": 1,
+    "medianOnLoad": null,
+    "ninetyFifthOnLoad": null,
+    "pages": [
+      {
+        "url": "General Dynamics",
+        "onLoad": null
+      }
+    ]
+  },
+  "requests": {
+    "all": {
+      "noOfRequests": 73,
+      "medianTime": 45,
+      "ninetyFifthTime": 315,
+      "medianTimings": {
+        "blocked": -1,
+        "wait": 33,
+        "receive": 0
+      },
+      "ninetyFifthTimings": {
+        "blocked": 0,
+        "wait": 62,
+        "receive": 195
+      },
+      "bytesTransferred": null,
+      "topUrl": {
+        "url": "https://www.google-analytics.com/j/collect",
+        "noOfOccurrences": 0
+      },
+      "largest": {
+        "url": "https://www.google-analytics.com/j/collect",
+        "bytes": 0
+      },
+      "largestCompressed": {
+        "url": "https://www.coca-colacompany.com/libs/cq/i18n/dict.en.json"
+      },
+      "longest": {
+        "url": "https://www.gd.com/content/styles/gd-corporate.css",
+        "time": 554,
+        "timings": {
+          "blocked": 0,
+          "wait": 29,
+          "receive": 78,
+          "connect": 339
+        }
+      }
+    },
+    "document": {
+      "noOfRequests": 0
+    },
+    "font": {
+      "noOfRequests": 0
+    },
+    "image": {
+      "noOfRequests": 0
+    },
+    "style": {
+      "noOfRequests": 0
+    },
+    "script": {
+      "noOfRequests": 0
+    },
+    "xhr": {
+      "noOfRequests": 0
+    },
+    "other": {
+      "noOfRequests": 0
+    }
+  }
+}

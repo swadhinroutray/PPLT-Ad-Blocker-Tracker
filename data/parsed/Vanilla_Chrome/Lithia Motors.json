@@ -1,0 +1,73 @@
+{
+  "pages": {
+    "noOfPages": 1,
+    "medianOnLoad": null,
+    "ninetyFifthOnLoad": null,
+    "pages": [
+      {
+        "url": "Lithia Motors",
+        "onLoad": null
+      }
+    ]
+  },
+  "requests": {
+    "all": {
+      "noOfRequests": 353,
+      "medianTime": 78,
+      "ninetyFifthTime": 451,
+      "medianTimings": {
+        "blocked": -1,
+        "wait": 33,
+        "receive": 0
+      },
+      "ninetyFifthTimings": {
+        "blocked": 0,
+        "wait": 199,
+        "receive": 20
+      },
+      "bytesTransferred": null,
+      "topUrl": {
+        "url": "https://s.amazon-adsystem.com/ecm3",
+        "noOfOccurrences": 34
+      },
+      "largest": {
+        "url": "https://analytics.audioeye.com/air/v0/send",
+        "bytes": 0
+      },
+      "largestCompressed": {
+        "url": "https://www.lithia.com/"
+      },
+      "longest": {
+        "url": "https://www.lithia.com/apis/promotionSlides",
+        "time": 3387,
+        "timings": {
+          "blocked": -1,
+          "wait": 3387,
+          "receive": 0,
+          "connect": -1
+        }
+      }
+    },
+    "document": {
+      "noOfRequests": 0
+    },
+    "font": {
+      "noOfRequests": 0
+    },
+    "image": {
+      "noOfRequests": 0
+    },
+    "style": {
+      "noOfRequests": 0
+    },
+    "script": {
+      "noOfRequests": 0
+    },
+    "xhr": {
+      "noOfRequests": 0
+    },
+    "other": {
+      "noOfRequests": 0
+    }
+  }
+}

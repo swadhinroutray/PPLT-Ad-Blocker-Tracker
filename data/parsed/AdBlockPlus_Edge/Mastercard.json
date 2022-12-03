@@ -1,0 +1,73 @@
+{
+  "pages": {
+    "noOfPages": 1,
+    "medianOnLoad": null,
+    "ninetyFifthOnLoad": null,
+    "pages": [
+      {
+        "url": "Mastercard",
+        "onLoad": null
+      }
+    ]
+  },
+  "requests": {
+    "all": {
+      "noOfRequests": 97,
+      "medianTime": 56,
+      "ninetyFifthTime": 329,
+      "medianTimings": {
+        "blocked": -1,
+        "wait": 35,
+        "receive": 0
+      },
+      "ninetyFifthTimings": {
+        "blocked": 0,
+        "wait": 166,
+        "receive": 36
+      },
+      "bytesTransferred": null,
+      "topUrl": {
+        "url": "https://www.mastercard.us/1-cEW8/NM/Af/M4Tk/MKpEdv2FfO/ONp5hNSz9bSi/VwgDKA/UHc/DKU1faXYB",
+        "noOfOccurrences": 3
+      },
+      "largest": {
+        "url": "https://www.mastercard.us/content/dam/dxp/favicon/mastercard-favicon.svg",
+        "bytes": 0
+      },
+      "largestCompressed": {
+        "url": "https://nav-edge.smartscreen.microsoft.com/api/browser/edge/navigate/3"
+      },
+      "longest": {
+        "url": "https://mastercard-a.akamaihd.net/videos/RSA_Header_video_1080p_new.mp4",
+        "time": 681,
+        "timings": {
+          "blocked": 0,
+          "wait": 17,
+          "receive": 291,
+          "connect": 237
+        }
+      }
+    },
+    "document": {
+      "noOfRequests": 0
+    },
+    "font": {
+      "noOfRequests": 0
+    },
+    "image": {
+      "noOfRequests": 0
+    },
+    "style": {
+      "noOfRequests": 0
+    },
+    "script": {
+      "noOfRequests": 0
+    },
+    "xhr": {
+      "noOfRequests": 0
+    },
+    "other": {
+      "noOfRequests": 0
+    }
+  }
+}

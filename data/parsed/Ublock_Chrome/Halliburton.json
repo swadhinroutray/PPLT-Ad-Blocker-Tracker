@@ -1,0 +1,73 @@
+{
+  "pages": {
+    "noOfPages": 1,
+    "medianOnLoad": null,
+    "ninetyFifthOnLoad": null,
+    "pages": [
+      {
+        "url": "Halliburton",
+        "onLoad": null
+      }
+    ]
+  },
+  "requests": {
+    "all": {
+      "noOfRequests": 53,
+      "medianTime": 89,
+      "ninetyFifthTime": 365,
+      "medianTimings": {
+        "blocked": -1,
+        "wait": 25,
+        "receive": 0
+      },
+      "ninetyFifthTimings": {
+        "blocked": 0,
+        "wait": 282,
+        "receive": 74
+      },
+      "bytesTransferred": null,
+      "topUrl": {
+        "url": "https://cdn.brandfolder.io/3I2CY2XL/as/ttqvsvbm46pcrm38bncstf/favicon.ico",
+        "noOfOccurrences": 1
+      },
+      "largest": {
+        "url": "https://cdn.brandfolder.io/3I2CY2XL/as/ttqvsvbm46pcrm38bncstf/favicon.ico",
+        "bytes": 0
+      },
+      "largestCompressed": {
+        "url": "https://www.halliburton.com/"
+      },
+      "longest": {
+        "url": "https://www.halliburton.com/etc.clientlibs/halliburton/clientlibs/clientlib-site/resources/fonts/wizicons.ttf",
+        "time": 672,
+        "timings": {
+          "blocked": -1,
+          "wait": 354,
+          "receive": 317,
+          "connect": -1
+        }
+      }
+    },
+    "document": {
+      "noOfRequests": 0
+    },
+    "font": {
+      "noOfRequests": 0
+    },
+    "image": {
+      "noOfRequests": 0
+    },
+    "style": {
+      "noOfRequests": 0
+    },
+    "script": {
+      "noOfRequests": 0
+    },
+    "xhr": {
+      "noOfRequests": 0
+    },
+    "other": {
+      "noOfRequests": 0
+    }
+  }
+}

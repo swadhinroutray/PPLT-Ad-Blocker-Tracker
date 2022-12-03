@@ -1,0 +1,73 @@
+{
+  "pages": {
+    "noOfPages": 1,
+    "medianOnLoad": null,
+    "ninetyFifthOnLoad": null,
+    "pages": [
+      {
+        "url": "JPMorgan Chase",
+        "onLoad": null
+      }
+    ]
+  },
+  "requests": {
+    "all": {
+      "noOfRequests": 67,
+      "medianTime": 181,
+      "ninetyFifthTime": 821,
+      "medianTimings": {
+        "blocked": 0,
+        "wait": 46,
+        "receive": 0
+      },
+      "ninetyFifthTimings": {
+        "blocked": 0,
+        "wait": 557,
+        "receive": 317
+      },
+      "bytesTransferred": null,
+      "topUrl": {
+        "url": "https://p.adsymptotic.com/d/px/",
+        "noOfOccurrences": 1
+      },
+      "largest": {
+        "url": "https://analytics.chase.com/events/analytics/public/v1/cc.gif",
+        "bytes": 0
+      },
+      "largestCompressed": {
+        "url": "https://gateway.verizonwireless.com/glassbox/VZW/SHOP/reporting/cls_report"
+      },
+      "longest": {
+        "url": "https://www.jpmorganchase.com/",
+        "time": 1052,
+        "timings": {
+          "blocked": 0,
+          "wait": 355,
+          "receive": 41,
+          "connect": 274
+        }
+      }
+    },
+    "document": {
+      "noOfRequests": 0
+    },
+    "font": {
+      "noOfRequests": 0
+    },
+    "image": {
+      "noOfRequests": 0
+    },
+    "style": {
+      "noOfRequests": 0
+    },
+    "script": {
+      "noOfRequests": 0
+    },
+    "xhr": {
+      "noOfRequests": 0
+    },
+    "other": {
+      "noOfRequests": 0
+    }
+  }
+}

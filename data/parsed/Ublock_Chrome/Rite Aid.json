@@ -1,0 +1,73 @@
+{
+  "pages": {
+    "noOfPages": 1,
+    "medianOnLoad": null,
+    "ninetyFifthOnLoad": null,
+    "pages": [
+      {
+        "url": "Rite Aid",
+        "onLoad": null
+      }
+    ]
+  },
+  "requests": {
+    "all": {
+      "noOfRequests": 103,
+      "medianTime": 43,
+      "ninetyFifthTime": 339,
+      "medianTimings": {
+        "blocked": -1,
+        "wait": 31,
+        "receive": 0
+      },
+      "ninetyFifthTimings": {
+        "blocked": 0,
+        "wait": 87,
+        "receive": 28
+      },
+      "bytesTransferred": null,
+      "topUrl": {
+        "url": "https://www.riteaid.com/etc/riteaid/libraries/icons/riteaid.ico",
+        "noOfOccurrences": 0
+      },
+      "largest": {
+        "url": "https://www.riteaid.com/etc/riteaid/libraries/icons/riteaid.ico",
+        "bytes": 0
+      },
+      "largestCompressed": {
+        "url": "https://www.riteaid.com/"
+      },
+      "longest": {
+        "url": "https://prod-east-rcd-mt.rfksrv.com/rfkj/1/11304-149436981/rw",
+        "time": 479,
+        "timings": {
+          "blocked": 0,
+          "wait": 124,
+          "receive": 0,
+          "connect": 277
+        }
+      }
+    },
+    "document": {
+      "noOfRequests": 0
+    },
+    "font": {
+      "noOfRequests": 0
+    },
+    "image": {
+      "noOfRequests": 0
+    },
+    "style": {
+      "noOfRequests": 0
+    },
+    "script": {
+      "noOfRequests": 0
+    },
+    "xhr": {
+      "noOfRequests": 0
+    },
+    "other": {
+      "noOfRequests": 0
+    }
+  }
+}

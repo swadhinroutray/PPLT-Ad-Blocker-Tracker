@@ -1,0 +1,73 @@
+{
+  "pages": {
+    "noOfPages": 1,
+    "medianOnLoad": null,
+    "ninetyFifthOnLoad": null,
+    "pages": [
+      {
+        "url": "Guardian Life Ins. Co. of America",
+        "onLoad": null
+      }
+    ]
+  },
+  "requests": {
+    "all": {
+      "noOfRequests": 175,
+      "medianTime": 113,
+      "ninetyFifthTime": 385,
+      "medianTimings": {
+        "blocked": 0,
+        "wait": 31,
+        "receive": 0
+      },
+      "ninetyFifthTimings": {
+        "blocked": 0,
+        "wait": 116,
+        "receive": 44
+      },
+      "bytesTransferred": null,
+      "topUrl": {
+        "url": "https://pixel.mathtag.com/misc/img",
+        "noOfOccurrences": 3
+      },
+      "largest": {
+        "url": "https://ei.rlcdn.com/448046.gif",
+        "bytes": 0
+      },
+      "largestCompressed": {
+        "url": "https://dc.services.visualstudio.com/v2/track"
+      },
+      "longest": {
+        "url": "https://s.getsmartcontent.com/serving",
+        "time": 737,
+        "timings": {
+          "blocked": 0,
+          "wait": 460,
+          "receive": 0,
+          "connect": 207
+        }
+      }
+    },
+    "document": {
+      "noOfRequests": 0
+    },
+    "font": {
+      "noOfRequests": 0
+    },
+    "image": {
+      "noOfRequests": 0
+    },
+    "style": {
+      "noOfRequests": 0
+    },
+    "script": {
+      "noOfRequests": 0
+    },
+    "xhr": {
+      "noOfRequests": 0
+    },
+    "other": {
+      "noOfRequests": 0
+    }
+  }
+}

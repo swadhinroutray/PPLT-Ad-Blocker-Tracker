@@ -1,0 +1,73 @@
+{
+  "pages": {
+    "noOfPages": 1,
+    "medianOnLoad": null,
+    "ninetyFifthOnLoad": null,
+    "pages": [
+      {
+        "url": "Home Depot",
+        "onLoad": null
+      }
+    ]
+  },
+  "requests": {
+    "all": {
+      "noOfRequests": 151,
+      "medianTime": 55,
+      "ninetyFifthTime": 653,
+      "medianTimings": {
+        "blocked": -1,
+        "wait": 32,
+        "receive": 0
+      },
+      "ninetyFifthTimings": {
+        "blocked": 0,
+        "wait": 174,
+        "receive": 54
+      },
+      "bytesTransferred": null,
+      "topUrl": {
+        "url": "https://update.googleapis.com/service/update2/json",
+        "noOfOccurrences": 15
+      },
+      "largest": {
+        "url": "http://edgedl.me.gvt1.com/edgedl/release2/chrome_component/ac2nvm267dsv3jr2frc2ymszi53a_29.6/imefjhfbkmcmebodilednhmaccmincoa_29.6_mac_adoeqbj3vrdmid7uanp22wrnegyq.crx3",
+        "bytes": 0
+      },
+      "largestCompressed": {
+        "url": "https://www.cardinalhealth.com/rb_bf18209vdu"
+      },
+      "longest": {
+        "url": "https://optimizationguide-pa.googleapis.com/downloads",
+        "time": 2630,
+        "timings": {
+          "blocked": -1,
+          "wait": 2627,
+          "receive": 3,
+          "connect": -1
+        }
+      }
+    },
+    "document": {
+      "noOfRequests": 0
+    },
+    "font": {
+      "noOfRequests": 0
+    },
+    "image": {
+      "noOfRequests": 0
+    },
+    "style": {
+      "noOfRequests": 0
+    },
+    "script": {
+      "noOfRequests": 0
+    },
+    "xhr": {
+      "noOfRequests": 0
+    },
+    "other": {
+      "noOfRequests": 0
+    }
+  }
+}

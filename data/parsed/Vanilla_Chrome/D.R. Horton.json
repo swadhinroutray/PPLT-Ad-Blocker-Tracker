@@ -1,0 +1,73 @@
+{
+  "pages": {
+    "noOfPages": 1,
+    "medianOnLoad": null,
+    "ninetyFifthOnLoad": null,
+    "pages": [
+      {
+        "url": "D.R. Horton",
+        "onLoad": null
+      }
+    ]
+  },
+  "requests": {
+    "all": {
+      "noOfRequests": 127,
+      "medianTime": 129,
+      "ninetyFifthTime": 378,
+      "medianTimings": {
+        "blocked": 0,
+        "wait": 32,
+        "receive": 0
+      },
+      "ninetyFifthTimings": {
+        "blocked": 0,
+        "wait": 196,
+        "receive": 54
+      },
+      "bytesTransferred": null,
+      "topUrl": {
+        "url": "https://collection.decibelinsight.net/i/13908/da/",
+        "noOfOccurrences": 10
+      },
+      "largest": {
+        "url": "https://67vod-adaptive.akamaized.net/exp=1670003523~acl=%2F0fba26c4-24ac-4407-bf0c-96651a412f92%2F%2A~hmac=fd139abc1409ec343c5595688ee5c5ab5a32d54c64efae241c51227c20b80f96/0fba26c4-24ac-4407-bf0c-96651a412f92/sep/video/96f64057/chop/segment-2.m4s",
+        "bytes": 0
+      },
+      "largestCompressed": {
+        "url": "https://collection.decibelinsight.net/i/13908/da/"
+      },
+      "longest": {
+        "url": "https://cdn.acsbapp.com/cache/app/drhorton.com/config.json",
+        "time": 1410,
+        "timings": {
+          "blocked": 0,
+          "wait": 58,
+          "receive": 0,
+          "connect": 1323
+        }
+      }
+    },
+    "document": {
+      "noOfRequests": 0
+    },
+    "font": {
+      "noOfRequests": 0
+    },
+    "image": {
+      "noOfRequests": 0
+    },
+    "style": {
+      "noOfRequests": 0
+    },
+    "script": {
+      "noOfRequests": 0
+    },
+    "xhr": {
+      "noOfRequests": 0
+    },
+    "other": {
+      "noOfRequests": 0
+    }
+  }
+}

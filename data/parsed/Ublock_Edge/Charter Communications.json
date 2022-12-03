@@ -1,0 +1,73 @@
+{
+  "pages": {
+    "noOfPages": 1,
+    "medianOnLoad": null,
+    "ninetyFifthOnLoad": null,
+    "pages": [
+      {
+        "url": "Charter Communications",
+        "onLoad": null
+      }
+    ]
+  },
+  "requests": {
+    "all": {
+      "noOfRequests": 192,
+      "medianTime": 24,
+      "ninetyFifthTime": 81,
+      "medianTimings": {
+        "blocked": -1,
+        "wait": 23,
+        "receive": 0
+      },
+      "ninetyFifthTimings": {
+        "blocked": -1,
+        "wait": 34,
+        "receive": 4
+      },
+      "bytesTransferred": null,
+      "topUrl": {
+        "url": "https://www.bestbuy.com/bf/c9e133db-3eee-4985-809c-85cee508b640",
+        "noOfOccurrences": 1
+      },
+      "largest": {
+        "url": "https://tags.tiqcdn.com/utag/tiqapp/utag.v.js",
+        "bytes": 0
+      },
+      "largestCompressed": {
+        "url": "https://www.bestbuy.com/bf/c9e133db-3eee-4985-809c-85cee508b640"
+      },
+      "longest": {
+        "url": "https://www.bestbuy.com/bf/c9e133db-3eee-4985-809c-85cee508b640",
+        "time": 376,
+        "timings": {
+          "blocked": -1,
+          "wait": 372,
+          "receive": 0,
+          "connect": -1
+        }
+      }
+    },
+    "document": {
+      "noOfRequests": 0
+    },
+    "font": {
+      "noOfRequests": 0
+    },
+    "image": {
+      "noOfRequests": 0
+    },
+    "style": {
+      "noOfRequests": 0
+    },
+    "script": {
+      "noOfRequests": 0
+    },
+    "xhr": {
+      "noOfRequests": 0
+    },
+    "other": {
+      "noOfRequests": 0
+    }
+  }
+}

@@ -1,0 +1,73 @@
+{
+  "pages": {
+    "noOfPages": 1,
+    "medianOnLoad": null,
+    "ninetyFifthOnLoad": null,
+    "pages": [
+      {
+        "url": "Union Pacific",
+        "onLoad": null
+      }
+    ]
+  },
+  "requests": {
+    "all": {
+      "noOfRequests": 84,
+      "medianTime": 88,
+      "ninetyFifthTime": 452,
+      "medianTimings": {
+        "blocked": -1,
+        "wait": 81,
+        "receive": 0
+      },
+      "ninetyFifthTimings": {
+        "blocked": 0,
+        "wait": 99,
+        "receive": 129
+      },
+      "bytesTransferred": null,
+      "topUrl": {
+        "url": "https://www.up.com/favicon.ico",
+        "noOfOccurrences": 0
+      },
+      "largest": {
+        "url": "https://www.up.com/favicon.ico",
+        "bytes": 0
+      },
+      "largestCompressed": {
+        "url": "https://www.up.com/"
+      },
+      "longest": {
+        "url": "https://www.up.com/cs/websites/up/sitenavigation.js",
+        "time": 979,
+        "timings": {
+          "blocked": 0,
+          "wait": 81,
+          "receive": 277,
+          "connect": 444
+        }
+      }
+    },
+    "document": {
+      "noOfRequests": 0
+    },
+    "font": {
+      "noOfRequests": 0
+    },
+    "image": {
+      "noOfRequests": 0
+    },
+    "style": {
+      "noOfRequests": 0
+    },
+    "script": {
+      "noOfRequests": 0
+    },
+    "xhr": {
+      "noOfRequests": 0
+    },
+    "other": {
+      "noOfRequests": 0
+    }
+  }
+}

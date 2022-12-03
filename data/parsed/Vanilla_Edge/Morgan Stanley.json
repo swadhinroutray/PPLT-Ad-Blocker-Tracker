@@ -1,0 +1,73 @@
+{
+  "pages": {
+    "noOfPages": 1,
+    "medianOnLoad": null,
+    "ninetyFifthOnLoad": null,
+    "pages": [
+      {
+        "url": "Morgan Stanley",
+        "onLoad": null
+      }
+    ]
+  },
+  "requests": {
+    "all": {
+      "noOfRequests": 288,
+      "medianTime": 45,
+      "ninetyFifthTime": 268,
+      "medianTimings": {
+        "blocked": -1,
+        "wait": 34,
+        "receive": 0
+      },
+      "ninetyFifthTimings": {
+        "blocked": 0,
+        "wait": 116,
+        "receive": 33
+      },
+      "bytesTransferred": null,
+      "topUrl": {
+        "url": "https://cm.g.doubleclick.net/pixel",
+        "noOfOccurrences": 84
+      },
+      "largest": {
+        "url": "https://siteintercept.qualtrics.com/WRSiteInterceptEngine/Asset.php",
+        "bytes": 0
+      },
+      "largestCompressed": {
+        "url": "https://m.addthis.com/live/red_lojson/100eng.json"
+      },
+      "longest": {
+        "url": "https://www.morganstanley.com/etc.clientlibs/msdotcomr4/clientlibs/clientlib-dependencies.min.d769c8973aa0d404004f524bfe5b86c3.js",
+        "time": 712,
+        "timings": {
+          "blocked": -1,
+          "wait": 711,
+          "receive": 0,
+          "connect": -1
+        }
+      }
+    },
+    "document": {
+      "noOfRequests": 0
+    },
+    "font": {
+      "noOfRequests": 0
+    },
+    "image": {
+      "noOfRequests": 0
+    },
+    "style": {
+      "noOfRequests": 0
+    },
+    "script": {
+      "noOfRequests": 0
+    },
+    "xhr": {
+      "noOfRequests": 0
+    },
+    "other": {
+      "noOfRequests": 0
+    }
+  }
+}

@@ -1,0 +1,73 @@
+{
+  "pages": {
+    "noOfPages": 1,
+    "medianOnLoad": null,
+    "ninetyFifthOnLoad": null,
+    "pages": [
+      {
+        "url": "General Motors",
+        "onLoad": null
+      }
+    ]
+  },
+  "requests": {
+    "all": {
+      "noOfRequests": 91,
+      "medianTime": 55,
+      "ninetyFifthTime": 343,
+      "medianTimings": {
+        "blocked": -1,
+        "wait": 31,
+        "receive": 0
+      },
+      "ninetyFifthTimings": {
+        "blocked": 0,
+        "wait": 131,
+        "receive": 28
+      },
+      "bytesTransferred": null,
+      "topUrl": {
+        "url": "https://www.gm.com/A3oJGI9KyyNh/yS/-EVzsbAM6R/iaD7mfhQ7u/OFIrR2o/RxZl/EHIfbV8B",
+        "noOfOccurrences": 4
+      },
+      "largest": {
+        "url": "https://www.gm.com/content/dam/company/img/us/en/gmcom/favicons/1/GM_BUG_FAV_ICON_24.ico",
+        "bytes": 0
+      },
+      "largestCompressed": {
+        "url": "https://www.gm.com/"
+      },
+      "longest": {
+        "url": "https://www.gm.com/content/dam/company/img/us/en/gmcom/homepage_bg_loop.mp4",
+        "time": 5745,
+        "timings": {
+          "blocked": -1,
+          "wait": 26,
+          "receive": 5718,
+          "connect": -1
+        }
+      }
+    },
+    "document": {
+      "noOfRequests": 0
+    },
+    "font": {
+      "noOfRequests": 0
+    },
+    "image": {
+      "noOfRequests": 0
+    },
+    "style": {
+      "noOfRequests": 0
+    },
+    "script": {
+      "noOfRequests": 0
+    },
+    "xhr": {
+      "noOfRequests": 0
+    },
+    "other": {
+      "noOfRequests": 0
+    }
+  }
+}

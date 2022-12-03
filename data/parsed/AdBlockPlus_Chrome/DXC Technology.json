@@ -1,0 +1,73 @@
+{
+  "pages": {
+    "noOfPages": 1,
+    "medianOnLoad": null,
+    "ninetyFifthOnLoad": null,
+    "pages": [
+      {
+        "url": "DXC Technology",
+        "onLoad": null
+      }
+    ]
+  },
+  "requests": {
+    "all": {
+      "noOfRequests": 138,
+      "medianTime": 44,
+      "ninetyFifthTime": 286,
+      "medianTimings": {
+        "blocked": -1,
+        "wait": 34,
+        "receive": 0
+      },
+      "ninetyFifthTimings": {
+        "blocked": 0,
+        "wait": 188,
+        "receive": 22
+      },
+      "bytesTransferred": null,
+      "topUrl": {
+        "url": "https://www.googletagmanager.com/gtag/js",
+        "noOfOccurrences": 1
+      },
+      "largest": {
+        "url": "https://vid1043.d41.co/api",
+        "bytes": 0
+      },
+      "largestCompressed": {
+        "url": "https://bam.nr-data.net/events/1/NRJS-3663c681d0d61555b65"
+      },
+      "longest": {
+        "url": "https://dxc.com/content/dam/datafiles/fonts/open-sans-v34-latin-500.woff2",
+        "time": 765,
+        "timings": {
+          "blocked": 0,
+          "wait": 675,
+          "receive": 4,
+          "connect": 85
+        }
+      }
+    },
+    "document": {
+      "noOfRequests": 0
+    },
+    "font": {
+      "noOfRequests": 0
+    },
+    "image": {
+      "noOfRequests": 0
+    },
+    "style": {
+      "noOfRequests": 0
+    },
+    "script": {
+      "noOfRequests": 0
+    },
+    "xhr": {
+      "noOfRequests": 0
+    },
+    "other": {
+      "noOfRequests": 0
+    }
+  }
+}

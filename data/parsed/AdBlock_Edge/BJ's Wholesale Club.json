@@ -1,0 +1,73 @@
+{
+  "pages": {
+    "noOfPages": 1,
+    "medianOnLoad": null,
+    "ninetyFifthOnLoad": null,
+    "pages": [
+      {
+        "url": "BJ's Wholesale Club",
+        "onLoad": null
+      }
+    ]
+  },
+  "requests": {
+    "all": {
+      "noOfRequests": 291,
+      "medianTime": 55,
+      "ninetyFifthTime": 317,
+      "medianTimings": {
+        "blocked": -1,
+        "wait": 31,
+        "receive": 0
+      },
+      "ninetyFifthTimings": {
+        "blocked": 0,
+        "wait": 84,
+        "receive": 25
+      },
+      "bytesTransferred": null,
+      "topUrl": {
+        "url": "https://ts-apim-bjs-prod.azure-api.net/request",
+        "noOfOccurrences": 3
+      },
+      "largest": {
+        "url": "https://r.lr-ingest.io/i",
+        "bytes": 0
+      },
+      "largestCompressed": {
+        "url": "https://content.gap.com/fp/clear.png"
+      },
+      "longest": {
+        "url": "https://trkn.us/pixel/conv/ppt=19306;g=sitewide;gid=45040;ord=889437719height=%220%22%20width=%220%22%20border=%220%22;ip=73.236.13.188;cuidchk=1",
+        "time": 656,
+        "timings": {
+          "blocked": -1,
+          "wait": 656,
+          "receive": 0,
+          "connect": -1
+        }
+      }
+    },
+    "document": {
+      "noOfRequests": 0
+    },
+    "font": {
+      "noOfRequests": 0
+    },
+    "image": {
+      "noOfRequests": 0
+    },
+    "style": {
+      "noOfRequests": 0
+    },
+    "script": {
+      "noOfRequests": 0
+    },
+    "xhr": {
+      "noOfRequests": 0
+    },
+    "other": {
+      "noOfRequests": 0
+    }
+  }
+}

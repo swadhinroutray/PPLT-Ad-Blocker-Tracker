@@ -1,0 +1,73 @@
+{
+  "pages": {
+    "noOfPages": 1,
+    "medianOnLoad": null,
+    "ninetyFifthOnLoad": null,
+    "pages": [
+      {
+        "url": "Marsh & McLennan",
+        "onLoad": null
+      }
+    ]
+  },
+  "requests": {
+    "all": {
+      "noOfRequests": 99,
+      "medianTime": 93,
+      "ninetyFifthTime": 401,
+      "medianTimings": {
+        "blocked": -1,
+        "wait": 80,
+        "receive": 0
+      },
+      "ninetyFifthTimings": {
+        "blocked": 0,
+        "wait": 109,
+        "receive": 89
+      },
+      "bytesTransferred": null,
+      "topUrl": {
+        "url": "https://p.adsymptotic.com/d/px/",
+        "noOfOccurrences": 1
+      },
+      "largest": {
+        "url": "https://adservice.google.com/ddm/fls/i/dc_pre=CK3U2vjl2_sCFUO4nwodC48OzA;src=12502425;type=inten0;cat=pagev0;ord=5992367498488;gtm=2wgbu0;gcs=G111;gcu=1;auiddc=1057225064.1670013729;u1=%2Fus%2Fhome.html;~oref=https%3A%2F%2Fwww.marsh.com%2Fus%2Fhome.html",
+        "bytes": 0
+      },
+      "largestCompressed": {
+        "url": "https://nav-edge.smartscreen.microsoft.com/api/browser/edge/navigate/3"
+      },
+      "longest": {
+        "url": "https://www.marsh.com/",
+        "time": 1433,
+        "timings": {
+          "blocked": 0,
+          "wait": 92,
+          "receive": 0,
+          "connect": 390
+        }
+      }
+    },
+    "document": {
+      "noOfRequests": 0
+    },
+    "font": {
+      "noOfRequests": 0
+    },
+    "image": {
+      "noOfRequests": 0
+    },
+    "style": {
+      "noOfRequests": 0
+    },
+    "script": {
+      "noOfRequests": 0
+    },
+    "xhr": {
+      "noOfRequests": 0
+    },
+    "other": {
+      "noOfRequests": 0
+    }
+  }
+}

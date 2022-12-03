@@ -1,0 +1,73 @@
+{
+  "pages": {
+    "noOfPages": 1,
+    "medianOnLoad": null,
+    "ninetyFifthOnLoad": null,
+    "pages": [
+      {
+        "url": "Macy's",
+        "onLoad": null
+      }
+    ]
+  },
+  "requests": {
+    "all": {
+      "noOfRequests": 160,
+      "medianTime": 90,
+      "ninetyFifthTime": 310,
+      "medianTimings": {
+        "blocked": 0,
+        "wait": 33,
+        "receive": 0
+      },
+      "ninetyFifthTimings": {
+        "blocked": 0,
+        "wait": 116,
+        "receive": 36
+      },
+      "bytesTransferred": null,
+      "topUrl": {
+        "url": "https://www.macys.com/OqYyx-5oiv-WF3W76GAa/zEuQGtX6m9/CzlpAQ/TBlLAD/IvNBkB",
+        "noOfOccurrences": 3
+      },
+      "largest": {
+        "url": "https://live-cdn.bambuser.io/us-west-2-m9141.ip.bambuser.net/4fcb8e63-e827-46bb-8434-7d0d3b652af4-hls-live/small/segment000447.ts",
+        "bytes": 0
+      },
+      "largestCompressed": {
+        "url": "https://www.paypalobjects.com/marketing/web/US/en/rebrand/Home/Uncookied/uncookied-hp-hero-sweepstakes-ratio=1-1-for=tablet-up.png"
+      },
+      "longest": {
+        "url": "https://pgl.yoyo.org/adservers/serverlist.php",
+        "time": 704,
+        "timings": {
+          "blocked": 0,
+          "wait": 183,
+          "receive": 95,
+          "connect": 422
+        }
+      }
+    },
+    "document": {
+      "noOfRequests": 0
+    },
+    "font": {
+      "noOfRequests": 0
+    },
+    "image": {
+      "noOfRequests": 0
+    },
+    "style": {
+      "noOfRequests": 0
+    },
+    "script": {
+      "noOfRequests": 0
+    },
+    "xhr": {
+      "noOfRequests": 0
+    },
+    "other": {
+      "noOfRequests": 0
+    }
+  }
+}

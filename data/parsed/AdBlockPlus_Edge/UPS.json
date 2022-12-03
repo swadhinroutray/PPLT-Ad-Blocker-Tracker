@@ -1,0 +1,73 @@
+{
+  "pages": {
+    "noOfPages": 1,
+    "medianOnLoad": null,
+    "ninetyFifthOnLoad": null,
+    "pages": [
+      {
+        "url": "UPS",
+        "onLoad": null
+      }
+    ]
+  },
+  "requests": {
+    "all": {
+      "noOfRequests": 121,
+      "medianTime": 96,
+      "ninetyFifthTime": 324,
+      "medianTimings": {
+        "blocked": -1,
+        "wait": 36,
+        "receive": 0
+      },
+      "ninetyFifthTimings": {
+        "blocked": 0,
+        "wait": 168,
+        "receive": 41
+      },
+      "bytesTransferred": null,
+      "topUrl": {
+        "url": "https://www.ups.com/5lLUjfELAsMl/xG/aJHK8ntSmM/kiEf0L9cuYYf/SV9d/ODJJXB/s7M3cB",
+        "noOfOccurrences": 7
+      },
+      "largest": {
+        "url": "https://68794907.akstat.io/",
+        "bytes": 0
+      },
+      "largestCompressed": {
+        "url": "https://privacyportal.onetrust.com/request/v1/consentreceipts"
+      },
+      "longest": {
+        "url": "https://tags.tiqcdn.com/utag/ups/yoda/prod/utag.sync.js",
+        "time": 636,
+        "timings": {
+          "blocked": 0,
+          "wait": 253,
+          "receive": 47,
+          "connect": 268
+        }
+      }
+    },
+    "document": {
+      "noOfRequests": 0
+    },
+    "font": {
+      "noOfRequests": 0
+    },
+    "image": {
+      "noOfRequests": 0
+    },
+    "style": {
+      "noOfRequests": 0
+    },
+    "script": {
+      "noOfRequests": 0
+    },
+    "xhr": {
+      "noOfRequests": 0
+    },
+    "other": {
+      "noOfRequests": 0
+    }
+  }
+}

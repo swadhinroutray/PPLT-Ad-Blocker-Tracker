@@ -1,0 +1,73 @@
+{
+  "pages": {
+    "noOfPages": 1,
+    "medianOnLoad": null,
+    "ninetyFifthOnLoad": null,
+    "pages": [
+      {
+        "url": "Elevance Health",
+        "onLoad": null
+      }
+    ]
+  },
+  "requests": {
+    "all": {
+      "noOfRequests": 82,
+      "medianTime": 83,
+      "ninetyFifthTime": 338,
+      "medianTimings": {
+        "blocked": 0,
+        "wait": 25,
+        "receive": 0
+      },
+      "ninetyFifthTimings": {
+        "blocked": 0,
+        "wait": 102,
+        "receive": 9
+      },
+      "bytesTransferred": null,
+      "topUrl": {
+        "url": "https://cdn.linkedin.oribi.io/partner/3961276/domain/elevancehealth.com/token",
+        "noOfOccurrences": 1
+      },
+      "largest": {
+        "url": "https://ib.mookie1.com/image.sbxx",
+        "bytes": 0
+      },
+      "largestCompressed": {
+        "url": "https://www.marathonpetroleum.com/cdn-cgi/challenge-platform/h/g/img/7735608b9ea405c5/1669997893695/Fu6J2A9yTZLd9gt"
+      },
+      "longest": {
+        "url": "https://www.elevancehealth.com/member/public/api/tcp/visitor/searchV2",
+        "time": 843,
+        "timings": {
+          "blocked": -1,
+          "wait": 840,
+          "receive": 3,
+          "connect": -1
+        }
+      }
+    },
+    "document": {
+      "noOfRequests": 0
+    },
+    "font": {
+      "noOfRequests": 0
+    },
+    "image": {
+      "noOfRequests": 0
+    },
+    "style": {
+      "noOfRequests": 0
+    },
+    "script": {
+      "noOfRequests": 0
+    },
+    "xhr": {
+      "noOfRequests": 0
+    },
+    "other": {
+      "noOfRequests": 0
+    }
+  }
+}

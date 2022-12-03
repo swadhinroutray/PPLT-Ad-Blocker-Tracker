@@ -1,0 +1,73 @@
+{
+  "pages": {
+    "noOfPages": 1,
+    "medianOnLoad": null,
+    "ninetyFifthOnLoad": null,
+    "pages": [
+      {
+        "url": "C.H. Robinson Worldwide",
+        "onLoad": null
+      }
+    ]
+  },
+  "requests": {
+    "all": {
+      "noOfRequests": 124,
+      "medianTime": 67,
+      "ninetyFifthTime": 236,
+      "medianTimings": {
+        "blocked": -1,
+        "wait": 38,
+        "receive": 0
+      },
+      "ninetyFifthTimings": {
+        "blocked": 0,
+        "wait": 161,
+        "receive": 30
+      },
+      "bytesTransferred": null,
+      "topUrl": {
+        "url": "https://www.gstatic.com/recaptcha/releases/Km9gKuG06He-isPsP6saG8cn/recaptcha__en.js",
+        "noOfOccurrences": 2
+      },
+      "largest": {
+        "url": "https://edge.microsoft.com/autofillservice/v1/pages/ChVDaHJvbWUvMTA3LjAuNTMwNC4xNTASQQnzf5Kz5F2pthIFDfyM-aUSBQ02_qTlEgUND6hsDBIFDbLsZ2QSBQ3QsCUCEgUNmvq0kxIFDX3RiLwSBQ0J4kbBEhcJapew7Q6DwBcSBQ0Cj_toEgUNU1pHxQ==",
+        "bytes": 0
+      },
+      "largestCompressed": {
+        "url": "https://www.chrobinson.com/"
+      },
+      "longest": {
+        "url": "https://app-ab35.marketo.com/index.php/form/getForm",
+        "time": 761,
+        "timings": {
+          "blocked": 0,
+          "wait": 627,
+          "receive": 0,
+          "connect": 133
+        }
+      }
+    },
+    "document": {
+      "noOfRequests": 0
+    },
+    "font": {
+      "noOfRequests": 0
+    },
+    "image": {
+      "noOfRequests": 0
+    },
+    "style": {
+      "noOfRequests": 0
+    },
+    "script": {
+      "noOfRequests": 0
+    },
+    "xhr": {
+      "noOfRequests": 0
+    },
+    "other": {
+      "noOfRequests": 0
+    }
+  }
+}

@@ -1,0 +1,73 @@
+{
+  "pages": {
+    "noOfPages": 1,
+    "medianOnLoad": null,
+    "ninetyFifthOnLoad": null,
+    "pages": [
+      {
+        "url": "Verizon Communications",
+        "onLoad": null
+      }
+    ]
+  },
+  "requests": {
+    "all": {
+      "noOfRequests": 201,
+      "medianTime": 85,
+      "ninetyFifthTime": 345,
+      "medianTimings": {
+        "blocked": 0,
+        "wait": 25,
+        "receive": 0
+      },
+      "ninetyFifthTimings": {
+        "blocked": 0,
+        "wait": 72,
+        "receive": 24
+      },
+      "bytesTransferred": null,
+      "topUrl": {
+        "url": "https://gateway.verizonwireless.com/glassbox/VZW/SHOP/reporting/cls_report",
+        "noOfOccurrences": 5
+      },
+      "largest": {
+        "url": "https://gateway.verizonwireless.com/glassbox/VZW/SHOP/reporting/cls_report",
+        "bytes": 0
+      },
+      "largestCompressed": {
+        "url": "https://173bf104.akstat.io/"
+      },
+      "longest": {
+        "url": "https://ss7.vzw.com/is/image/VerizonWireless/vzw-197876-hp-hero-d",
+        "time": 1282,
+        "timings": {
+          "blocked": 0,
+          "wait": 43,
+          "receive": 118,
+          "connect": 1052
+        }
+      }
+    },
+    "document": {
+      "noOfRequests": 0
+    },
+    "font": {
+      "noOfRequests": 0
+    },
+    "image": {
+      "noOfRequests": 0
+    },
+    "style": {
+      "noOfRequests": 0
+    },
+    "script": {
+      "noOfRequests": 0
+    },
+    "xhr": {
+      "noOfRequests": 0
+    },
+    "other": {
+      "noOfRequests": 0
+    }
+  }
+}

@@ -1,0 +1,73 @@
+{
+  "pages": {
+    "noOfPages": 1,
+    "medianOnLoad": null,
+    "ninetyFifthOnLoad": null,
+    "pages": [
+      {
+        "url": "Boeing",
+        "onLoad": null
+      }
+    ]
+  },
+  "requests": {
+    "all": {
+      "noOfRequests": 155,
+      "medianTime": 100,
+      "ninetyFifthTime": 461,
+      "medianTimings": {
+        "blocked": -1,
+        "wait": 45,
+        "receive": 0
+      },
+      "ninetyFifthTimings": {
+        "blocked": 0,
+        "wait": 99,
+        "receive": 98
+      },
+      "bytesTransferred": null,
+      "topUrl": {
+        "url": "https://t.co/i/adsct",
+        "noOfOccurrences": 5
+      },
+      "largest": {
+        "url": "https://adservice.google.com/ddm/fls/i/dc_pre=CPvZ7J_j2_sCFQGfnwodqkAODw;src=2771890;type=boein0;cat=boein00d;u8=https://www.boeing.com/;u9=;dc_lat=;dc_rdid=;tag_for_child_directed_treatment=;ord=1;num=9515031164505.076;~oref=https://www.boeing.com/",
+        "bytes": 0
+      },
+      "largestCompressed": {
+        "url": "https://www.googleadservices.com/pagead/conversion/844332122/"
+      },
+      "longest": {
+        "url": "https://www.boeing.com/assets/boeing.min.css",
+        "time": 1417,
+        "timings": {
+          "blocked": 0,
+          "wait": 86,
+          "receive": 276,
+          "connect": 769
+        }
+      }
+    },
+    "document": {
+      "noOfRequests": 0
+    },
+    "font": {
+      "noOfRequests": 0
+    },
+    "image": {
+      "noOfRequests": 0
+    },
+    "style": {
+      "noOfRequests": 0
+    },
+    "script": {
+      "noOfRequests": 0
+    },
+    "xhr": {
+      "noOfRequests": 0
+    },
+    "other": {
+      "noOfRequests": 0
+    }
+  }
+}

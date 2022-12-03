@@ -1,0 +1,73 @@
+{
+  "pages": {
+    "noOfPages": 1,
+    "medianOnLoad": null,
+    "ninetyFifthOnLoad": null,
+    "pages": [
+      {
+        "url": "CarMax",
+        "onLoad": null
+      }
+    ]
+  },
+  "requests": {
+    "all": {
+      "noOfRequests": 101,
+      "medianTime": 53,
+      "ninetyFifthTime": 232,
+      "medianTimings": {
+        "blocked": -1,
+        "wait": 36,
+        "receive": 0
+      },
+      "ninetyFifthTimings": {
+        "blocked": 0,
+        "wait": 87,
+        "receive": 29
+      },
+      "bytesTransferred": null,
+      "topUrl": {
+        "url": "https://www.googletagmanager.com/gtag/js",
+        "noOfOccurrences": 8
+      },
+      "largest": {
+        "url": "https://bat.bing.com/action/0",
+        "bytes": 0
+      },
+      "largestCompressed": {
+        "url": "https://68794905.akstat.io/"
+      },
+      "longest": {
+        "url": "https://cdn.levelaccess.net/accessjs/YW1wMTI0OTY/access.js",
+        "time": 438,
+        "timings": {
+          "blocked": 0,
+          "wait": 30,
+          "receive": 29,
+          "connect": 343
+        }
+      }
+    },
+    "document": {
+      "noOfRequests": 0
+    },
+    "font": {
+      "noOfRequests": 0
+    },
+    "image": {
+      "noOfRequests": 0
+    },
+    "style": {
+      "noOfRequests": 0
+    },
+    "script": {
+      "noOfRequests": 0
+    },
+    "xhr": {
+      "noOfRequests": 0
+    },
+    "other": {
+      "noOfRequests": 0
+    }
+  }
+}

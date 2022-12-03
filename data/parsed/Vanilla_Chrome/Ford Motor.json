@@ -1,0 +1,73 @@
+{
+  "pages": {
+    "noOfPages": 1,
+    "medianOnLoad": null,
+    "ninetyFifthOnLoad": null,
+    "pages": [
+      {
+        "url": "Ford Motor",
+        "onLoad": null
+      }
+    ]
+  },
+  "requests": {
+    "all": {
+      "noOfRequests": 176,
+      "medianTime": 101,
+      "ninetyFifthTime": 355,
+      "medianTimings": {
+        "blocked": 0,
+        "wait": 35,
+        "receive": 0
+      },
+      "ninetyFifthTimings": {
+        "blocked": 0,
+        "wait": 169,
+        "receive": 31
+      },
+      "bytesTransferred": null,
+      "topUrl": {
+        "url": "https://www.ford.com/cxservices/products/ModelSlices.json",
+        "noOfOccurrences": 4
+      },
+      "largest": {
+        "url": "https://trial-eum-clienttons-s.akamaihd.net/eum/getdns.txt",
+        "bytes": 0
+      },
+      "largestCompressed": {
+        "url": "https://www.ford.com/"
+      },
+      "longest": {
+        "url": "https://sso.ci.ford.com/oidc/endpoint/default/authorize",
+        "time": 909,
+        "timings": {
+          "blocked": 0,
+          "wait": 312,
+          "receive": 0,
+          "connect": 331
+        }
+      }
+    },
+    "document": {
+      "noOfRequests": 0
+    },
+    "font": {
+      "noOfRequests": 0
+    },
+    "image": {
+      "noOfRequests": 0
+    },
+    "style": {
+      "noOfRequests": 0
+    },
+    "script": {
+      "noOfRequests": 0
+    },
+    "xhr": {
+      "noOfRequests": 0
+    },
+    "other": {
+      "noOfRequests": 0
+    }
+  }
+}

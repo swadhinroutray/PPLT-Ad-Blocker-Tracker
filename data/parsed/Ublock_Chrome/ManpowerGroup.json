@@ -1,0 +1,73 @@
+{
+  "pages": {
+    "noOfPages": 1,
+    "medianOnLoad": null,
+    "ninetyFifthOnLoad": null,
+    "pages": [
+      {
+        "url": "ManpowerGroup",
+        "onLoad": null
+      }
+    ]
+  },
+  "requests": {
+    "all": {
+      "noOfRequests": 51,
+      "medianTime": 562,
+      "ninetyFifthTime": 1319,
+      "medianTimings": {
+        "blocked": -1,
+        "wait": 487,
+        "receive": 2
+      },
+      "ninetyFifthTimings": {
+        "blocked": 0,
+        "wait": 748,
+        "receive": 638
+      },
+      "bytesTransferred": null,
+      "topUrl": {
+        "url": "https://www.manpowergroup.com/wcm/connect/cbe86223-c29b-4b37-a227-2eff31b4ad4e/favicon.ico",
+        "noOfOccurrences": 0
+      },
+      "largest": {
+        "url": "https://www.manpowergroup.com/wcm/connect/cbe86223-c29b-4b37-a227-2eff31b4ad4e/favicon.ico",
+        "bytes": 0
+      },
+      "largestCompressed": {
+        "url": "https://www.manpowergroup.com/"
+      },
+      "longest": {
+        "url": "https://www.manpowergroup.com/wcm/connect/cd28ec8c-3a71-41b6-980f-e36e071105e6/calloutImage1.png",
+        "time": 1859,
+        "timings": {
+          "blocked": -1,
+          "wait": 599,
+          "receive": 1260,
+          "connect": -1
+        }
+      }
+    },
+    "document": {
+      "noOfRequests": 0
+    },
+    "font": {
+      "noOfRequests": 0
+    },
+    "image": {
+      "noOfRequests": 0
+    },
+    "style": {
+      "noOfRequests": 0
+    },
+    "script": {
+      "noOfRequests": 0
+    },
+    "xhr": {
+      "noOfRequests": 0
+    },
+    "other": {
+      "noOfRequests": 0
+    }
+  }
+}

@@ -1,0 +1,73 @@
+{
+  "pages": {
+    "noOfPages": 1,
+    "medianOnLoad": null,
+    "ninetyFifthOnLoad": null,
+    "pages": [
+      {
+        "url": "Cardinal Health",
+        "onLoad": null
+      }
+    ]
+  },
+  "requests": {
+    "all": {
+      "noOfRequests": 175,
+      "medianTime": 53,
+      "ninetyFifthTime": 344,
+      "medianTimings": {
+        "blocked": -1,
+        "wait": 29,
+        "receive": 0
+      },
+      "ninetyFifthTimings": {
+        "blocked": 0,
+        "wait": 86,
+        "receive": 30
+      },
+      "bytesTransferred": null,
+      "topUrl": {
+        "url": "https://edge.microsoft.com/componentupdater/api/v1/update",
+        "noOfOccurrences": 7
+      },
+      "largest": {
+        "url": "http://msedge.b.tlu.dl.delivery.mp.microsoft.com/filestreamingservice/files/8786f1bd-5a2f-4d35-beb5-dff3adcaf47e",
+        "bytes": 0
+      },
+      "largestCompressed": {
+        "url": "http://msedge.b.tlu.dl.delivery.mp.microsoft.com/filestreamingservice/files/6ed979ea-c9fe-4a28-9b60-764d331a0d2b"
+      },
+      "longest": {
+        "url": "https://edge.microsoft.com/autofillservice/v1/pages/ChVDaHJvbWUvMTA3LjAuNTMwNC4xNTASHgmcV-IGEMG8eRIFDZFhlU4SBQ2RYZVOEgUNpZM2JA==",
+        "time": 1312,
+        "timings": {
+          "blocked": -1,
+          "wait": 1312,
+          "receive": 0,
+          "connect": -1
+        }
+      }
+    },
+    "document": {
+      "noOfRequests": 0
+    },
+    "font": {
+      "noOfRequests": 0
+    },
+    "image": {
+      "noOfRequests": 0
+    },
+    "style": {
+      "noOfRequests": 0
+    },
+    "script": {
+      "noOfRequests": 0
+    },
+    "xhr": {
+      "noOfRequests": 0
+    },
+    "other": {
+      "noOfRequests": 0
+    }
+  }
+}

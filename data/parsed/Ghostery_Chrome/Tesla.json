@@ -1,0 +1,73 @@
+{
+  "pages": {
+    "noOfPages": 1,
+    "medianOnLoad": null,
+    "ninetyFifthOnLoad": null,
+    "pages": [
+      {
+        "url": "Tesla",
+        "onLoad": null
+      }
+    ]
+  },
+  "requests": {
+    "all": {
+      "noOfRequests": 42,
+      "medianTime": 137,
+      "ninetyFifthTime": 461,
+      "medianTimings": {
+        "blocked": -1,
+        "wait": 44,
+        "receive": 6
+      },
+      "ninetyFifthTimings": {
+        "blocked": 0,
+        "wait": 263,
+        "receive": 129
+      },
+      "bytesTransferred": null,
+      "topUrl": {
+        "url": "https://www.tesla.com/api/tesla/header/v1_1",
+        "noOfOccurrences": 1
+      },
+      "largest": {
+        "url": "https://www.google.com/ads/ga-audiences",
+        "bytes": 0
+      },
+      "largestCompressed": {
+        "url": "https://www.dow.com/content/dam/dcc/images/heroes/homepage/homepage-3/dow_60033394656-home-recycling-in-store-v2-1200x400.jpg"
+      },
+      "longest": {
+        "url": "https://www.dow.com/content/dam/dcc/images/ContentImages/global/global-1/noav-login-address-blur.jpg",
+        "time": 781,
+        "timings": {
+          "blocked": -1,
+          "wait": 408,
+          "receive": 372,
+          "connect": -1
+        }
+      }
+    },
+    "document": {
+      "noOfRequests": 0
+    },
+    "font": {
+      "noOfRequests": 0
+    },
+    "image": {
+      "noOfRequests": 0
+    },
+    "style": {
+      "noOfRequests": 0
+    },
+    "script": {
+      "noOfRequests": 0
+    },
+    "xhr": {
+      "noOfRequests": 0
+    },
+    "other": {
+      "noOfRequests": 0
+    }
+  }
+}

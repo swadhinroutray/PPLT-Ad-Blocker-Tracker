@@ -1,0 +1,73 @@
+{
+  "pages": {
+    "noOfPages": 1,
+    "medianOnLoad": null,
+    "ninetyFifthOnLoad": null,
+    "pages": [
+      {
+        "url": "USAA",
+        "onLoad": null
+      }
+    ]
+  },
+  "requests": {
+    "all": {
+      "noOfRequests": 95,
+      "medianTime": 90,
+      "ninetyFifthTime": 365,
+      "medianTimings": {
+        "blocked": -1,
+        "wait": 35,
+        "receive": 0
+      },
+      "ninetyFifthTimings": {
+        "blocked": 0,
+        "wait": 107,
+        "receive": 32
+      },
+      "bytesTransferred": null,
+      "topUrl": {
+        "url": "https://fresnel.vimeocdn.com/add/player-stats",
+        "noOfOccurrences": 2
+      },
+      "largest": {
+        "url": "https://datacloud.tealiumiq.com/usaa/main/2/i.gif",
+        "bytes": 0
+      },
+      "largestCompressed": {
+        "url": "https://player-telemetry.vimeo.com/player-events/log/partial"
+      },
+      "longest": {
+        "url": "https://api.usaa.com/v1/presentation/page-templates/enterprise/ecid-generator/v1/ecid",
+        "time": 566,
+        "timings": {
+          "blocked": 0,
+          "wait": 254,
+          "receive": 0,
+          "connect": 291
+        }
+      }
+    },
+    "document": {
+      "noOfRequests": 0
+    },
+    "font": {
+      "noOfRequests": 0
+    },
+    "image": {
+      "noOfRequests": 0
+    },
+    "style": {
+      "noOfRequests": 0
+    },
+    "script": {
+      "noOfRequests": 0
+    },
+    "xhr": {
+      "noOfRequests": 0
+    },
+    "other": {
+      "noOfRequests": 0
+    }
+  }
+}

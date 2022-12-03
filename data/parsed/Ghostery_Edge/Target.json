@@ -1,0 +1,73 @@
+{
+  "pages": {
+    "noOfPages": 1,
+    "medianOnLoad": null,
+    "ninetyFifthOnLoad": null,
+    "pages": [
+      {
+        "url": "Target",
+        "onLoad": null
+      }
+    ]
+  },
+  "requests": {
+    "all": {
+      "noOfRequests": 273,
+      "medianTime": 42,
+      "ninetyFifthTime": 319,
+      "medianTimings": {
+        "blocked": -1,
+        "wait": 29,
+        "receive": 0
+      },
+      "ninetyFifthTimings": {
+        "blocked": 0,
+        "wait": 60,
+        "receive": 30
+      },
+      "bytesTransferred": null,
+      "topUrl": {
+        "url": "https://api.target.com/rum_analytics/v1",
+        "noOfOccurrences": 16
+      },
+      "largest": {
+        "url": "https://pagead2.googlesyndication.com/pagead/sodar",
+        "bytes": 0
+      },
+      "largestCompressed": {
+        "url": "https://boomerang.dell.com/api/beacon"
+      },
+      "longest": {
+        "url": "https://target.scene7.com/is/image/Target/GUEST_0c28de8a-7e11-459b-ae8e-430c8eb6f8be",
+        "time": 464,
+        "timings": {
+          "blocked": 0,
+          "wait": 36,
+          "receive": 46,
+          "connect": 381
+        }
+      }
+    },
+    "document": {
+      "noOfRequests": 0
+    },
+    "font": {
+      "noOfRequests": 0
+    },
+    "image": {
+      "noOfRequests": 0
+    },
+    "style": {
+      "noOfRequests": 0
+    },
+    "script": {
+      "noOfRequests": 0
+    },
+    "xhr": {
+      "noOfRequests": 0
+    },
+    "other": {
+      "noOfRequests": 0
+    }
+  }
+}

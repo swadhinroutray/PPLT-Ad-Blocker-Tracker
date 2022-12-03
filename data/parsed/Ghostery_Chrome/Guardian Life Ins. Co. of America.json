@@ -1,0 +1,73 @@
+{
+  "pages": {
+    "noOfPages": 1,
+    "medianOnLoad": null,
+    "ninetyFifthOnLoad": null,
+    "pages": [
+      {
+        "url": "Guardian Life Ins. Co. of America",
+        "onLoad": null
+      }
+    ]
+  },
+  "requests": {
+    "all": {
+      "noOfRequests": 207,
+      "medianTime": 120,
+      "ninetyFifthTime": 397,
+      "medianTimings": {
+        "blocked": 0,
+        "wait": 31,
+        "receive": 0
+      },
+      "ninetyFifthTimings": {
+        "blocked": 0,
+        "wait": 117,
+        "receive": 44
+      },
+      "bytesTransferred": null,
+      "topUrl": {
+        "url": "https://cm.g.doubleclick.net/pixel",
+        "noOfOccurrences": 6
+      },
+      "largest": {
+        "url": "https://connect.guardiangroupbenefits.com/analytics",
+        "bytes": 0
+      },
+      "largestCompressed": {
+        "url": "https://www.guardianlife.com/"
+      },
+      "longest": {
+        "url": "https://ws35.hotjar.com/api/v2/sites/922725/recordings/content",
+        "time": 1101,
+        "timings": {
+          "blocked": 0,
+          "wait": 567,
+          "receive": 0,
+          "connect": 469
+        }
+      }
+    },
+    "document": {
+      "noOfRequests": 0
+    },
+    "font": {
+      "noOfRequests": 0
+    },
+    "image": {
+      "noOfRequests": 0
+    },
+    "style": {
+      "noOfRequests": 0
+    },
+    "script": {
+      "noOfRequests": 0
+    },
+    "xhr": {
+      "noOfRequests": 0
+    },
+    "other": {
+      "noOfRequests": 0
+    }
+  }
+}

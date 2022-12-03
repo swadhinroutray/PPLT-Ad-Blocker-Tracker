@@ -1,0 +1,73 @@
+{
+  "pages": {
+    "noOfPages": 1,
+    "medianOnLoad": null,
+    "ninetyFifthOnLoad": null,
+    "pages": [
+      {
+        "url": "Southern",
+        "onLoad": null
+      }
+    ]
+  },
+  "requests": {
+    "all": {
+      "noOfRequests": 20,
+      "medianTime": 108,
+      "ninetyFifthTime": 1127,
+      "medianTimings": {
+        "blocked": 0,
+        "wait": 55,
+        "receive": 0
+      },
+      "ninetyFifthTimings": {
+        "blocked": 0,
+        "wait": 188,
+        "receive": 324
+      },
+      "bytesTransferred": null,
+      "topUrl": {
+        "url": "https://www.southernrailway.com/-/media/goahead/gtr-shared-images/industrial-action/featured__0000_2020_brand_homepage_sn.jpg",
+        "noOfOccurrences": 0
+      },
+      "largest": {
+        "url": "https://www.southernrailway.com/-/media/goahead/gtr-shared-images/industrial-action/featured__0000_2020_brand_homepage_sn.jpg",
+        "bytes": 0
+      },
+      "largestCompressed": {
+        "url": "https://nav-edge.smartscreen.microsoft.com/api/browser/edge/navigate/3"
+      },
+      "longest": {
+        "url": "https://widgets.otrl.io/jp-widget/bundle.min.js",
+        "time": 1294,
+        "timings": {
+          "blocked": 0,
+          "wait": 120,
+          "receive": 444,
+          "connect": 586
+        }
+      }
+    },
+    "document": {
+      "noOfRequests": 0
+    },
+    "font": {
+      "noOfRequests": 0
+    },
+    "image": {
+      "noOfRequests": 0
+    },
+    "style": {
+      "noOfRequests": 0
+    },
+    "script": {
+      "noOfRequests": 0
+    },
+    "xhr": {
+      "noOfRequests": 0
+    },
+    "other": {
+      "noOfRequests": 0
+    }
+  }
+}

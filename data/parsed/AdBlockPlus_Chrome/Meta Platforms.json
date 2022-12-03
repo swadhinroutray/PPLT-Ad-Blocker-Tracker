@@ -1,0 +1,73 @@
+{
+  "pages": {
+    "noOfPages": 1,
+    "medianOnLoad": null,
+    "ninetyFifthOnLoad": null,
+    "pages": [
+      {
+        "url": "Meta Platforms",
+        "onLoad": null
+      }
+    ]
+  },
+  "requests": {
+    "all": {
+      "noOfRequests": 183,
+      "medianTime": 27,
+      "ninetyFifthTime": 320,
+      "medianTimings": {
+        "blocked": -1,
+        "wait": 22,
+        "receive": 1
+      },
+      "ninetyFifthTimings": {
+        "blocked": 0,
+        "wait": 48,
+        "receive": 51
+      },
+      "bytesTransferred": null,
+      "topUrl": {
+        "url": "https://static.xx.fbcdn.net/rsrc.php/v3/yj/r/e6wyApPPw1B.js",
+        "noOfOccurrences": 2
+      },
+      "largest": {
+        "url": "https://static.xx.fbcdn.net/rsrc.php/yi/r/gbO80SSOuBU.ico",
+        "bytes": 0
+      },
+      "largestCompressed": {
+        "url": "https://www.youtube.com/youtubei/v1/log_event"
+      },
+      "longest": {
+        "url": "https://video.fagc1-1.fna.fbcdn.net/v/t42.27313-2/306928924_506052857629161_8730355258611891564_n.mp4",
+        "time": 6036,
+        "timings": {
+          "blocked": 0,
+          "wait": 19,
+          "receive": 5771,
+          "connect": 218
+        }
+      }
+    },
+    "document": {
+      "noOfRequests": 0
+    },
+    "font": {
+      "noOfRequests": 0
+    },
+    "image": {
+      "noOfRequests": 0
+    },
+    "style": {
+      "noOfRequests": 0
+    },
+    "script": {
+      "noOfRequests": 0
+    },
+    "xhr": {
+      "noOfRequests": 0
+    },
+    "other": {
+      "noOfRequests": 0
+    }
+  }
+}

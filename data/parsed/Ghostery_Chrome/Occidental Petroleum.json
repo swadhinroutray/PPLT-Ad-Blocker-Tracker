@@ -1,0 +1,73 @@
+{
+  "pages": {
+    "noOfPages": 1,
+    "medianOnLoad": null,
+    "ninetyFifthOnLoad": null,
+    "pages": [
+      {
+        "url": "Occidental Petroleum",
+        "onLoad": null
+      }
+    ]
+  },
+  "requests": {
+    "all": {
+      "noOfRequests": 63,
+      "medianTime": 133,
+      "ninetyFifthTime": 433,
+      "medianTimings": {
+        "blocked": 0,
+        "wait": 40,
+        "receive": 0
+      },
+      "ninetyFifthTimings": {
+        "blocked": 0,
+        "wait": 259,
+        "receive": 87
+      },
+      "bytesTransferred": null,
+      "topUrl": {
+        "url": "https://www.google.com/pagead/1p-user-list/1041695361/",
+        "noOfOccurrences": 5
+      },
+      "largest": {
+        "url": "https://dc.services.visualstudio.com/v2/track",
+        "bytes": 0
+      },
+      "largestCompressed": {
+        "url": "https://c.contentsquare.net/dvar"
+      },
+      "longest": {
+        "url": "https://www.oxy.com/globalassets/videos/hero-videos/zero_in_loop_2.mp4",
+        "time": 1297,
+        "timings": {
+          "blocked": -1,
+          "wait": 339,
+          "receive": 958,
+          "connect": -1
+        }
+      }
+    },
+    "document": {
+      "noOfRequests": 0
+    },
+    "font": {
+      "noOfRequests": 0
+    },
+    "image": {
+      "noOfRequests": 0
+    },
+    "style": {
+      "noOfRequests": 0
+    },
+    "script": {
+      "noOfRequests": 0
+    },
+    "xhr": {
+      "noOfRequests": 0
+    },
+    "other": {
+      "noOfRequests": 0
+    }
+  }
+}

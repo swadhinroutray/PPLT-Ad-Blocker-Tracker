@@ -1,0 +1,73 @@
+{
+  "pages": {
+    "noOfPages": 1,
+    "medianOnLoad": null,
+    "ninetyFifthOnLoad": null,
+    "pages": [
+      {
+        "url": "Targa Resources",
+        "onLoad": null
+      }
+    ]
+  },
+  "requests": {
+    "all": {
+      "noOfRequests": 49,
+      "medianTime": 97,
+      "ninetyFifthTime": 519,
+      "medianTimings": {
+        "blocked": -1,
+        "wait": 28,
+        "receive": 0
+      },
+      "ninetyFifthTimings": {
+        "blocked": 0,
+        "wait": 409,
+        "receive": 35
+      },
+      "bytesTransferred": null,
+      "topUrl": {
+        "url": "https://thomsonreuterscorporategroupweb.sc.omtrdc.net/b/ss/trcgtrcgtargaresourcespartnerslp,trcgclientwebglobal/1/JS-2.22.0-LCUM/s13555195867627",
+        "noOfOccurrences": 0
+      },
+      "largest": {
+        "url": "https://thomsonreuterscorporategroupweb.sc.omtrdc.net/b/ss/trcgtrcgtargaresourcespartnerslp,trcgclientwebglobal/1/JS-2.22.0-LCUM/s13555195867627",
+        "bytes": 0
+      },
+      "largestCompressed": {
+        "url": "https://www.targaresources.com/"
+      },
+      "longest": {
+        "url": "https://www.targaresources.com/",
+        "time": 1182,
+        "timings": {
+          "blocked": 0,
+          "wait": 749,
+          "receive": 14,
+          "connect": 340
+        }
+      }
+    },
+    "document": {
+      "noOfRequests": 0
+    },
+    "font": {
+      "noOfRequests": 0
+    },
+    "image": {
+      "noOfRequests": 0
+    },
+    "style": {
+      "noOfRequests": 0
+    },
+    "script": {
+      "noOfRequests": 0
+    },
+    "xhr": {
+      "noOfRequests": 0
+    },
+    "other": {
+      "noOfRequests": 0
+    }
+  }
+}

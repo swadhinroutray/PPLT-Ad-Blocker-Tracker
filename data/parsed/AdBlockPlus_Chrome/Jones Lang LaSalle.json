@@ -1,0 +1,73 @@
+{
+  "pages": {
+    "noOfPages": 1,
+    "medianOnLoad": null,
+    "ninetyFifthOnLoad": null,
+    "pages": [
+      {
+        "url": "Jones Lang LaSalle",
+        "onLoad": null
+      }
+    ]
+  },
+  "requests": {
+    "all": {
+      "noOfRequests": 74,
+      "medianTime": 81,
+      "ninetyFifthTime": 316,
+      "medianTimings": {
+        "blocked": -1,
+        "wait": 31,
+        "receive": 0
+      },
+      "ninetyFifthTimings": {
+        "blocked": 0,
+        "wait": 139,
+        "receive": 62
+      },
+      "bytesTransferred": null,
+      "topUrl": {
+        "url": "https://www.us.jll.com/etc/designs/jll-dot-com/favicon.ico",
+        "noOfOccurrences": 1
+      },
+      "largest": {
+        "url": "https://content-autofill.googleapis.com/v1/pages/ChVDaHJvbWUvMTA3LjAuNTMwNC4xMjESFwmMypDO-yPxdRIFDZFhlU4SBQ2lkzYk",
+        "bytes": 0
+      },
+      "largestCompressed": {
+        "url": "https://tags.tiqcdn.com/utag/tiqapp/utag.v.js"
+      },
+      "longest": {
+        "url": "https://www.us.jll.com/",
+        "time": 1135,
+        "timings": {
+          "blocked": 0,
+          "wait": 822,
+          "receive": 15,
+          "connect": 191
+        }
+      }
+    },
+    "document": {
+      "noOfRequests": 0
+    },
+    "font": {
+      "noOfRequests": 0
+    },
+    "image": {
+      "noOfRequests": 0
+    },
+    "style": {
+      "noOfRequests": 0
+    },
+    "script": {
+      "noOfRequests": 0
+    },
+    "xhr": {
+      "noOfRequests": 0
+    },
+    "other": {
+      "noOfRequests": 0
+    }
+  }
+}

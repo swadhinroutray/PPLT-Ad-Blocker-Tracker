@@ -1,0 +1,73 @@
+{
+  "pages": {
+    "noOfPages": 1,
+    "medianOnLoad": null,
+    "ninetyFifthOnLoad": null,
+    "pages": [
+      {
+        "url": "Nationwide",
+        "onLoad": null
+      }
+    ]
+  },
+  "requests": {
+    "all": {
+      "noOfRequests": 54,
+      "medianTime": 103,
+      "ninetyFifthTime": 402,
+      "medianTimings": {
+        "blocked": 0,
+        "wait": 28,
+        "receive": 0
+      },
+      "ninetyFifthTimings": {
+        "blocked": 0,
+        "wait": 104,
+        "receive": 52
+      },
+      "bytesTransferred": null,
+      "topUrl": {
+        "url": "https://consent.trustarc.com/get",
+        "noOfOccurrences": 2
+      },
+      "largest": {
+        "url": "https://edge.microsoft.com/autofillservice/v1/pages/ChVDaHJvbWUvMTA3LjAuNTMwNC4xNTASEAkIO-Y67ZekqhIFDZFhlU4=",
+        "bytes": 0
+      },
+      "largestCompressed": {
+        "url": "https://www.nationwide.com/"
+      },
+      "longest": {
+        "url": "https://www.nationwide.com/",
+        "time": 922,
+        "timings": {
+          "blocked": 0,
+          "wait": 616,
+          "receive": 18,
+          "connect": 206
+        }
+      }
+    },
+    "document": {
+      "noOfRequests": 0
+    },
+    "font": {
+      "noOfRequests": 0
+    },
+    "image": {
+      "noOfRequests": 0
+    },
+    "style": {
+      "noOfRequests": 0
+    },
+    "script": {
+      "noOfRequests": 0
+    },
+    "xhr": {
+      "noOfRequests": 0
+    },
+    "other": {
+      "noOfRequests": 0
+    }
+  }
+}

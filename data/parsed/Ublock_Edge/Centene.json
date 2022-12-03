@@ -1,0 +1,73 @@
+{
+  "pages": {
+    "noOfPages": 1,
+    "medianOnLoad": null,
+    "ninetyFifthOnLoad": null,
+    "pages": [
+      {
+        "url": "Centene",
+        "onLoad": null
+      }
+    ]
+  },
+  "requests": {
+    "all": {
+      "noOfRequests": 61,
+      "medianTime": 68,
+      "ninetyFifthTime": 336,
+      "medianTimings": {
+        "blocked": -1,
+        "wait": 46,
+        "receive": 0
+      },
+      "ninetyFifthTimings": {
+        "blocked": 0,
+        "wait": 58,
+        "receive": 145
+      },
+      "bytesTransferred": null,
+      "topUrl": {
+        "url": "https://jnn-pa.googleapis.com/$rpc/google.internal.waa.v1.Waa/GenerateIT",
+        "noOfOccurrences": 1
+      },
+      "largest": {
+        "url": "https://www.centene.com/etc.clientlibs/centenedotcom/clientlibs/clientlibs-main/resources/images/favicon.ico",
+        "bytes": 0
+      },
+      "largestCompressed": {
+        "url": "https://www.centene.com/"
+      },
+      "longest": {
+        "url": "https://www.centene.com/",
+        "time": 571,
+        "timings": {
+          "blocked": 0,
+          "wait": 46,
+          "receive": 0,
+          "connect": 425
+        }
+      }
+    },
+    "document": {
+      "noOfRequests": 0
+    },
+    "font": {
+      "noOfRequests": 0
+    },
+    "image": {
+      "noOfRequests": 0
+    },
+    "style": {
+      "noOfRequests": 0
+    },
+    "script": {
+      "noOfRequests": 0
+    },
+    "xhr": {
+      "noOfRequests": 0
+    },
+    "other": {
+      "noOfRequests": 0
+    }
+  }
+}

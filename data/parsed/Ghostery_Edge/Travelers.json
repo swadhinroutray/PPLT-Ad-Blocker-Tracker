@@ -1,0 +1,73 @@
+{
+  "pages": {
+    "noOfPages": 1,
+    "medianOnLoad": null,
+    "ninetyFifthOnLoad": null,
+    "pages": [
+      {
+        "url": "Travelers",
+        "onLoad": null
+      }
+    ]
+  },
+  "requests": {
+    "all": {
+      "noOfRequests": 159,
+      "medianTime": 78,
+      "ninetyFifthTime": 381,
+      "medianTimings": {
+        "blocked": -1,
+        "wait": 29,
+        "receive": 0
+      },
+      "ninetyFifthTimings": {
+        "blocked": 0,
+        "wait": 107,
+        "receive": 31
+      },
+      "bytesTransferred": null,
+      "topUrl": {
+        "url": "https://travelers-app.quantummetric.com/",
+        "noOfOccurrences": 4
+      },
+      "largest": {
+        "url": "https://st2.dialogtech.com/st/log",
+        "bytes": 0
+      },
+      "largestCompressed": {
+        "url": "https://www.3m.com/rb_bf03069gjb"
+      },
+      "longest": {
+        "url": "https://www.travelers.com/",
+        "time": 923,
+        "timings": {
+          "blocked": 0,
+          "wait": 502,
+          "receive": 0,
+          "connect": 274
+        }
+      }
+    },
+    "document": {
+      "noOfRequests": 0
+    },
+    "font": {
+      "noOfRequests": 0
+    },
+    "image": {
+      "noOfRequests": 0
+    },
+    "style": {
+      "noOfRequests": 0
+    },
+    "script": {
+      "noOfRequests": 0
+    },
+    "xhr": {
+      "noOfRequests": 0
+    },
+    "other": {
+      "noOfRequests": 0
+    }
+  }
+}

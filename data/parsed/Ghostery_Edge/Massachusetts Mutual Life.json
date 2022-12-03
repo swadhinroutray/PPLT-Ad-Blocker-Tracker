@@ -1,0 +1,73 @@
+{
+  "pages": {
+    "noOfPages": 1,
+    "medianOnLoad": null,
+    "ninetyFifthOnLoad": null,
+    "pages": [
+      {
+        "url": "Massachusetts Mutual Life",
+        "onLoad": null
+      }
+    ]
+  },
+  "requests": {
+    "all": {
+      "noOfRequests": 249,
+      "medianTime": 110,
+      "ninetyFifthTime": 422,
+      "medianTimings": {
+        "blocked": 0,
+        "wait": 34,
+        "receive": 0
+      },
+      "ninetyFifthTimings": {
+        "blocked": 0,
+        "wait": 130,
+        "receive": 45
+      },
+      "bytesTransferred": null,
+      "topUrl": {
+        "url": "https://s.iaudienc.com/2/2.84.0/187292/Aavmg4gDBM2drq9M/postback",
+        "noOfOccurrences": 8
+      },
+      "largest": {
+        "url": "https://apis.massmutual.com/rest/baltoapi/api/postEvent",
+        "bytes": 0
+      },
+      "largestCompressed": {
+        "url": "https://www.massmutual.com/"
+      },
+      "longest": {
+        "url": "https://bam-cell.nr-data.net/1/e08e639090",
+        "time": 1216,
+        "timings": {
+          "blocked": 0,
+          "wait": 882,
+          "receive": 0,
+          "connect": 271
+        }
+      }
+    },
+    "document": {
+      "noOfRequests": 0
+    },
+    "font": {
+      "noOfRequests": 0
+    },
+    "image": {
+      "noOfRequests": 0
+    },
+    "style": {
+      "noOfRequests": 0
+    },
+    "script": {
+      "noOfRequests": 0
+    },
+    "xhr": {
+      "noOfRequests": 0
+    },
+    "other": {
+      "noOfRequests": 0
+    }
+  }
+}

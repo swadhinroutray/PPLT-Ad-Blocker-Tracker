@@ -1,0 +1,73 @@
+{
+  "pages": {
+    "noOfPages": 1,
+    "medianOnLoad": null,
+    "ninetyFifthOnLoad": null,
+    "pages": [
+      {
+        "url": "Netflix",
+        "onLoad": null
+      }
+    ]
+  },
+  "requests": {
+    "all": {
+      "noOfRequests": 52,
+      "medianTime": 124,
+      "ninetyFifthTime": 349,
+      "medianTimings": {
+        "blocked": 0,
+        "wait": 29,
+        "receive": 0
+      },
+      "ninetyFifthTimings": {
+        "blocked": 0,
+        "wait": 132,
+        "receive": 60
+      },
+      "bytesTransferred": null,
+      "topUrl": {
+        "url": "https://googleads.g.doubleclick.net/pagead/viewthroughconversion/981179826/",
+        "noOfOccurrences": 1
+      },
+      "largest": {
+        "url": "https://www.google.com/pagead/1p-conversion/981179826/",
+        "bytes": 0
+      },
+      "largestCompressed": {
+        "url": "https://www.netflix.com/"
+      },
+      "longest": {
+        "url": "https://www.netflix.com/",
+        "time": 536,
+        "timings": {
+          "blocked": 0,
+          "wait": 200,
+          "receive": 25,
+          "connect": 262
+        }
+      }
+    },
+    "document": {
+      "noOfRequests": 0
+    },
+    "font": {
+      "noOfRequests": 0
+    },
+    "image": {
+      "noOfRequests": 0
+    },
+    "style": {
+      "noOfRequests": 0
+    },
+    "script": {
+      "noOfRequests": 0
+    },
+    "xhr": {
+      "noOfRequests": 0
+    },
+    "other": {
+      "noOfRequests": 0
+    }
+  }
+}

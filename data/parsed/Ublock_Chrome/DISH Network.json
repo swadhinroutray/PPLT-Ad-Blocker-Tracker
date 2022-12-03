@@ -1,0 +1,73 @@
+{
+  "pages": {
+    "noOfPages": 1,
+    "medianOnLoad": null,
+    "ninetyFifthOnLoad": null,
+    "pages": [
+      {
+        "url": "DISH Network",
+        "onLoad": null
+      }
+    ]
+  },
+  "requests": {
+    "all": {
+      "noOfRequests": 132,
+      "medianTime": 35,
+      "ninetyFifthTime": 274,
+      "medianTimings": {
+        "blocked": -1,
+        "wait": 34,
+        "receive": 0
+      },
+      "ninetyFifthTimings": {
+        "blocked": 0,
+        "wait": 127,
+        "receive": 18
+      },
+      "bytesTransferred": null,
+      "topUrl": {
+        "url": "https://www.dish.com/images/favicon.png",
+        "noOfOccurrences": 0
+      },
+      "largest": {
+        "url": "https://www.dish.com/images/favicon.png",
+        "bytes": 0
+      },
+      "largestCompressed": {
+        "url": "https://www.dish.com/"
+      },
+      "longest": {
+        "url": "https://www.dish.com/",
+        "time": 617,
+        "timings": {
+          "blocked": 0,
+          "wait": 208,
+          "receive": 89,
+          "connect": 229
+        }
+      }
+    },
+    "document": {
+      "noOfRequests": 0
+    },
+    "font": {
+      "noOfRequests": 0
+    },
+    "image": {
+      "noOfRequests": 0
+    },
+    "style": {
+      "noOfRequests": 0
+    },
+    "script": {
+      "noOfRequests": 0
+    },
+    "xhr": {
+      "noOfRequests": 0
+    },
+    "other": {
+      "noOfRequests": 0
+    }
+  }
+}

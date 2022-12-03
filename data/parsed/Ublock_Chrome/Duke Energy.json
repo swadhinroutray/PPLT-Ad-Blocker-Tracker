@@ -1,0 +1,73 @@
+{
+  "pages": {
+    "noOfPages": 1,
+    "medianOnLoad": null,
+    "ninetyFifthOnLoad": null,
+    "pages": [
+      {
+        "url": "Duke Energy",
+        "onLoad": null
+      }
+    ]
+  },
+  "requests": {
+    "all": {
+      "noOfRequests": 32,
+      "medianTime": 141,
+      "ninetyFifthTime": 545,
+      "medianTimings": {
+        "blocked": -1,
+        "wait": 39,
+        "receive": 0
+      },
+      "ninetyFifthTimings": {
+        "blocked": 0,
+        "wait": 276,
+        "receive": 51
+      },
+      "bytesTransferred": null,
+      "topUrl": {
+        "url": "https://telemetry.bambuser.io/",
+        "noOfOccurrences": 1
+      },
+      "largest": {
+        "url": "https://www.duke-energy.com/dist/jsspublic/favicon.ico",
+        "bytes": 0
+      },
+      "largestCompressed": {
+        "url": "https://telemetry.bambuser.io/"
+      },
+      "longest": {
+        "url": "https://www.duke-energy.com/home",
+        "time": 719,
+        "timings": {
+          "blocked": -1,
+          "wait": 683,
+          "receive": 35,
+          "connect": -1
+        }
+      }
+    },
+    "document": {
+      "noOfRequests": 0
+    },
+    "font": {
+      "noOfRequests": 0
+    },
+    "image": {
+      "noOfRequests": 0
+    },
+    "style": {
+      "noOfRequests": 0
+    },
+    "script": {
+      "noOfRequests": 0
+    },
+    "xhr": {
+      "noOfRequests": 0
+    },
+    "other": {
+      "noOfRequests": 0
+    }
+  }
+}

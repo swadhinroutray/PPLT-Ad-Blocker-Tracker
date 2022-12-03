@@ -1,0 +1,73 @@
+{
+  "pages": {
+    "noOfPages": 1,
+    "medianOnLoad": null,
+    "ninetyFifthOnLoad": null,
+    "pages": [
+      {
+        "url": "Target",
+        "onLoad": null
+      }
+    ]
+  },
+  "requests": {
+    "all": {
+      "noOfRequests": 233,
+      "medianTime": 39,
+      "ninetyFifthTime": 417,
+      "medianTimings": {
+        "blocked": -1,
+        "wait": 28,
+        "receive": 0
+      },
+      "ninetyFifthTimings": {
+        "blocked": 0,
+        "wait": 61,
+        "receive": 28
+      },
+      "bytesTransferred": null,
+      "topUrl": {
+        "url": "https://api.target.com/rum_analytics/v1",
+        "noOfOccurrences": 16
+      },
+      "largest": {
+        "url": "https://match.adsrvr.org/track/cmb/appnexus",
+        "bytes": 0
+      },
+      "largestCompressed": {
+        "url": "https://boomerang.dell.com/api/beacon"
+      },
+      "longest": {
+        "url": "https://www.bing.com/api/shopping/v1/item/search",
+        "time": 805,
+        "timings": {
+          "blocked": 0,
+          "wait": 707,
+          "receive": 6,
+          "connect": 92
+        }
+      }
+    },
+    "document": {
+      "noOfRequests": 0
+    },
+    "font": {
+      "noOfRequests": 0
+    },
+    "image": {
+      "noOfRequests": 0
+    },
+    "style": {
+      "noOfRequests": 0
+    },
+    "script": {
+      "noOfRequests": 0
+    },
+    "xhr": {
+      "noOfRequests": 0
+    },
+    "other": {
+      "noOfRequests": 0
+    }
+  }
+}

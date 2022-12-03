@@ -1,0 +1,73 @@
+{
+  "pages": {
+    "noOfPages": 1,
+    "medianOnLoad": null,
+    "ninetyFifthOnLoad": null,
+    "pages": [
+      {
+        "url": "World Fuel Services",
+        "onLoad": null
+      }
+    ]
+  },
+  "requests": {
+    "all": {
+      "noOfRequests": 64,
+      "medianTime": 50,
+      "ninetyFifthTime": 340,
+      "medianTimings": {
+        "blocked": -1,
+        "wait": 36,
+        "receive": 0
+      },
+      "ninetyFifthTimings": {
+        "blocked": 0,
+        "wait": 50,
+        "receive": 50
+      },
+      "bytesTransferred": null,
+      "topUrl": {
+        "url": "https://media-s3-us-east-1.ceros.com/world-kinect-energy-services/images/2022/10/11/a7ba7f7999572d1e493b9e15c56051ed/image.png",
+        "noOfOccurrences": 1
+      },
+      "largest": {
+        "url": "https://media-s3-us-east-1.ceros.com/world-kinect-energy-services/images/2022/10/11/a7ba7f7999572d1e493b9e15c56051ed/image.png",
+        "bytes": 0
+      },
+      "largestCompressed": {
+        "url": "https://68794911.akstat.io/"
+      },
+      "longest": {
+        "url": "https://view.ceros.com/world-kinect-energy-services/air-land-sea-carousel",
+        "time": 502,
+        "timings": {
+          "blocked": 0,
+          "wait": 21,
+          "receive": 0,
+          "connect": 407
+        }
+      }
+    },
+    "document": {
+      "noOfRequests": 0
+    },
+    "font": {
+      "noOfRequests": 0
+    },
+    "image": {
+      "noOfRequests": 0
+    },
+    "style": {
+      "noOfRequests": 0
+    },
+    "script": {
+      "noOfRequests": 0
+    },
+    "xhr": {
+      "noOfRequests": 0
+    },
+    "other": {
+      "noOfRequests": 0
+    }
+  }
+}

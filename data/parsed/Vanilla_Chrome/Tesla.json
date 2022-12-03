@@ -1,0 +1,73 @@
+{
+  "pages": {
+    "noOfPages": 1,
+    "medianOnLoad": null,
+    "ninetyFifthOnLoad": null,
+    "pages": [
+      {
+        "url": "Tesla",
+        "onLoad": null
+      }
+    ]
+  },
+  "requests": {
+    "all": {
+      "noOfRequests": 46,
+      "medianTime": 123,
+      "ninetyFifthTime": 474,
+      "medianTimings": {
+        "blocked": 0,
+        "wait": 32,
+        "receive": 5
+      },
+      "ninetyFifthTimings": {
+        "blocked": 0,
+        "wait": 158,
+        "receive": 153
+      },
+      "bytesTransferred": null,
+      "topUrl": {
+        "url": "https://www.tesla.com/api/tesla/header/v1_1",
+        "noOfOccurrences": 1
+      },
+      "largest": {
+        "url": "https://www.google.com/ads/ga-audiences",
+        "bytes": 0
+      },
+      "largestCompressed": {
+        "url": "https://c.oracleinfinity.io/acs/common/js/1.3.43/common.js"
+      },
+      "longest": {
+        "url": "https://tesla-cdn.thron.com/delivery/public/image/tesla/4a41ec0e-7316-46a8-8ce9-e2f195ba644d/bvlatuR/std/2880x1800/Homepage-SolarRoof-Desktop-Global",
+        "time": 743,
+        "timings": {
+          "blocked": 0,
+          "wait": 303,
+          "receive": 155,
+          "connect": 228
+        }
+      }
+    },
+    "document": {
+      "noOfRequests": 0
+    },
+    "font": {
+      "noOfRequests": 0
+    },
+    "image": {
+      "noOfRequests": 0
+    },
+    "style": {
+      "noOfRequests": 0
+    },
+    "script": {
+      "noOfRequests": 0
+    },
+    "xhr": {
+      "noOfRequests": 0
+    },
+    "other": {
+      "noOfRequests": 0
+    }
+  }
+}

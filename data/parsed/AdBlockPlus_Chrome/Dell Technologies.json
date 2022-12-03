@@ -1,0 +1,73 @@
+{
+  "pages": {
+    "noOfPages": 1,
+    "medianOnLoad": null,
+    "ninetyFifthOnLoad": null,
+    "pages": [
+      {
+        "url": "Dell Technologies",
+        "onLoad": null
+      }
+    ]
+  },
+  "requests": {
+    "all": {
+      "noOfRequests": 93,
+      "medianTime": 107,
+      "ninetyFifthTime": 403,
+      "medianTimings": {
+        "blocked": 0,
+        "wait": 32,
+        "receive": 0
+      },
+      "ninetyFifthTimings": {
+        "blocked": 0,
+        "wait": 127,
+        "receive": 31
+      },
+      "bytesTransferred": null,
+      "topUrl": {
+        "url": "https://www.googletagmanager.com/gtag/js",
+        "noOfOccurrences": 5
+      },
+      "largest": {
+        "url": "https://pixel.mathtag.com/event/js",
+        "bytes": 0
+      },
+      "largestCompressed": {
+        "url": "https://www.dell.com/en-in"
+      },
+      "longest": {
+        "url": "https://app.eu.securiti.ai/core/v1/utils/geo/location",
+        "time": 1016,
+        "timings": {
+          "blocked": 0,
+          "wait": 119,
+          "receive": 0,
+          "connect": 826
+        }
+      }
+    },
+    "document": {
+      "noOfRequests": 0
+    },
+    "font": {
+      "noOfRequests": 0
+    },
+    "image": {
+      "noOfRequests": 0
+    },
+    "style": {
+      "noOfRequests": 0
+    },
+    "script": {
+      "noOfRequests": 0
+    },
+    "xhr": {
+      "noOfRequests": 0
+    },
+    "other": {
+      "noOfRequests": 0
+    }
+  }
+}

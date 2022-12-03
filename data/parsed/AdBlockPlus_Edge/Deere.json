@@ -1,0 +1,73 @@
+{
+  "pages": {
+    "noOfPages": 1,
+    "medianOnLoad": null,
+    "ninetyFifthOnLoad": null,
+    "pages": [
+      {
+        "url": "Deere",
+        "onLoad": null
+      }
+    ]
+  },
+  "requests": {
+    "all": {
+      "noOfRequests": 128,
+      "medianTime": 65,
+      "ninetyFifthTime": 341,
+      "medianTimings": {
+        "blocked": -1,
+        "wait": 33,
+        "receive": 0
+      },
+      "ninetyFifthTimings": {
+        "blocked": 0,
+        "wait": 105,
+        "receive": 29
+      },
+      "bytesTransferred": null,
+      "topUrl": {
+        "url": "https://digitalmarketing.dea-eng-prod.nikecloud.com/nr-proxy",
+        "noOfOccurrences": 9
+      },
+      "largest": {
+        "url": "https://a.tribalfusion.com/pixel/tags/JohnDeereLandingPagePixels/772533/pixel.js",
+        "bytes": 0
+      },
+      "largestCompressed": {
+        "url": "https://digitalmarketing.dea-eng-prod.nikecloud.com/nr-proxy"
+      },
+      "longest": {
+        "url": "https://www.deere.com/en/",
+        "time": 638,
+        "timings": {
+          "blocked": -1,
+          "wait": 637,
+          "receive": 1,
+          "connect": -1
+        }
+      }
+    },
+    "document": {
+      "noOfRequests": 0
+    },
+    "font": {
+      "noOfRequests": 0
+    },
+    "image": {
+      "noOfRequests": 0
+    },
+    "style": {
+      "noOfRequests": 0
+    },
+    "script": {
+      "noOfRequests": 0
+    },
+    "xhr": {
+      "noOfRequests": 0
+    },
+    "other": {
+      "noOfRequests": 0
+    }
+  }
+}

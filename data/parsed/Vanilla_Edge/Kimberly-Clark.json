@@ -1,0 +1,73 @@
+{
+  "pages": {
+    "noOfPages": 1,
+    "medianOnLoad": null,
+    "ninetyFifthOnLoad": null,
+    "pages": [
+      {
+        "url": "Kimberly-Clark",
+        "onLoad": null
+      }
+    ]
+  },
+  "requests": {
+    "all": {
+      "noOfRequests": 111,
+      "medianTime": 90,
+      "ninetyFifthTime": 347,
+      "medianTimings": {
+        "blocked": -1,
+        "wait": 53,
+        "receive": 0
+      },
+      "ninetyFifthTimings": {
+        "blocked": 0,
+        "wait": 158,
+        "receive": 69
+      },
+      "bytesTransferred": null,
+      "topUrl": {
+        "url": "https://edge.microsoft.com/componentupdater/api/v1/update",
+        "noOfOccurrences": 4
+      },
+      "largest": {
+        "url": "https://edge.microsoft.com/componentupdater/api/v1/update",
+        "bytes": 0
+      },
+      "largestCompressed": {
+        "url": "https://edge.microsoft.com/componentupdater/api/v1/update"
+      },
+      "longest": {
+        "url": "http://msedge.b.tlu.dl.delivery.mp.microsoft.com/filestreamingservice/files/edd761a6-cc3b-461d-b903-034034708cc0",
+        "time": 1089,
+        "timings": {
+          "blocked": -1,
+          "wait": 19,
+          "receive": 1070,
+          "connect": -1
+        }
+      }
+    },
+    "document": {
+      "noOfRequests": 0
+    },
+    "font": {
+      "noOfRequests": 0
+    },
+    "image": {
+      "noOfRequests": 0
+    },
+    "style": {
+      "noOfRequests": 0
+    },
+    "script": {
+      "noOfRequests": 0
+    },
+    "xhr": {
+      "noOfRequests": 0
+    },
+    "other": {
+      "noOfRequests": 0
+    }
+  }
+}

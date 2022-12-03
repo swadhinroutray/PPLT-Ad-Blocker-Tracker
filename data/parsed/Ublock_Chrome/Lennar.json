@@ -1,0 +1,73 @@
+{
+  "pages": {
+    "noOfPages": 1,
+    "medianOnLoad": null,
+    "ninetyFifthOnLoad": null,
+    "pages": [
+      {
+        "url": "Lennar",
+        "onLoad": null
+      }
+    ]
+  },
+  "requests": {
+    "all": {
+      "noOfRequests": 61,
+      "medianTime": 38,
+      "ninetyFifthTime": 431,
+      "medianTimings": {
+        "blocked": -1,
+        "wait": 22,
+        "receive": 0
+      },
+      "ninetyFifthTimings": {
+        "blocked": 0,
+        "wait": 225,
+        "receive": 33
+      },
+      "bytesTransferred": null,
+      "topUrl": {
+        "url": "https://www.lennar.com/api/graphql",
+        "noOfOccurrences": 3
+      },
+      "largest": {
+        "url": "https://maps.gstatic.com/mapfiles/transparent.png",
+        "bytes": 0
+      },
+      "largestCompressed": {
+        "url": "https://www.lennar.com/"
+      },
+      "longest": {
+        "url": "https://www.lennar.com/",
+        "time": 650,
+        "timings": {
+          "blocked": 0,
+          "wait": 422,
+          "receive": 0,
+          "connect": 148
+        }
+      }
+    },
+    "document": {
+      "noOfRequests": 0
+    },
+    "font": {
+      "noOfRequests": 0
+    },
+    "image": {
+      "noOfRequests": 0
+    },
+    "style": {
+      "noOfRequests": 0
+    },
+    "script": {
+      "noOfRequests": 0
+    },
+    "xhr": {
+      "noOfRequests": 0
+    },
+    "other": {
+      "noOfRequests": 0
+    }
+  }
+}

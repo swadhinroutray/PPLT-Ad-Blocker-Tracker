@@ -1,0 +1,73 @@
+{
+  "pages": {
+    "noOfPages": 1,
+    "medianOnLoad": null,
+    "ninetyFifthOnLoad": null,
+    "pages": [
+      {
+        "url": "NextEra Energy",
+        "onLoad": null
+      }
+    ]
+  },
+  "requests": {
+    "all": {
+      "noOfRequests": 47,
+      "medianTime": 29,
+      "ninetyFifthTime": 271,
+      "medianTimings": {
+        "blocked": -1,
+        "wait": 24,
+        "receive": 0
+      },
+      "ninetyFifthTimings": {
+        "blocked": 0,
+        "wait": 49,
+        "receive": 24
+      },
+      "bytesTransferred": null,
+      "topUrl": {
+        "url": "https://www.googletagmanager.com/gtag/js",
+        "noOfOccurrences": 1
+      },
+      "largest": {
+        "url": "https://smetrics.fpl.com/b/ss/fplgroup/1/JS-2.22.4-LCUM/s36547935936431",
+        "bytes": 0
+      },
+      "largestCompressed": {
+        "url": "https://www.nexteraenergy.com/"
+      },
+      "longest": {
+        "url": "https://assets.adobedtm.com/18f5b0a47688/066bb0c9578c/launch-EN46059ad88e3e47bf9fe627711d96405d.min.js",
+        "time": 4715,
+        "timings": {
+          "blocked": 0,
+          "wait": 67,
+          "receive": 27,
+          "connect": 4620
+        }
+      }
+    },
+    "document": {
+      "noOfRequests": 0
+    },
+    "font": {
+      "noOfRequests": 0
+    },
+    "image": {
+      "noOfRequests": 0
+    },
+    "style": {
+      "noOfRequests": 0
+    },
+    "script": {
+      "noOfRequests": 0
+    },
+    "xhr": {
+      "noOfRequests": 0
+    },
+    "other": {
+      "noOfRequests": 0
+    }
+  }
+}

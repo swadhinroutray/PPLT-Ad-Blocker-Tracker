@@ -1,0 +1,73 @@
+{
+  "pages": {
+    "noOfPages": 1,
+    "medianOnLoad": null,
+    "ninetyFifthOnLoad": null,
+    "pages": [
+      {
+        "url": "EOG Resources",
+        "onLoad": null
+      }
+    ]
+  },
+  "requests": {
+    "all": {
+      "noOfRequests": 24,
+      "medianTime": 121,
+      "ninetyFifthTime": 473,
+      "medianTimings": {
+        "blocked": -1,
+        "wait": 38,
+        "receive": 1
+      },
+      "ninetyFifthTimings": {
+        "blocked": 0,
+        "wait": 107,
+        "receive": 146
+      },
+      "bytesTransferred": null,
+      "topUrl": {
+        "url": "https://isell.svcapps.eogresources.com/marketprice/stockinfo",
+        "noOfOccurrences": 0
+      },
+      "largest": {
+        "url": "https://isell.svcapps.eogresources.com/marketprice/stockinfo",
+        "bytes": 0
+      },
+      "largestCompressed": {
+        "url": "https://www.eogresources.com/"
+      },
+      "longest": {
+        "url": "https://isell.svcapps.eogresources.com/marketprice/stockinfo",
+        "time": 1576,
+        "timings": {
+          "blocked": 0,
+          "wait": 215,
+          "receive": 151,
+          "connect": 394
+        }
+      }
+    },
+    "document": {
+      "noOfRequests": 0
+    },
+    "font": {
+      "noOfRequests": 0
+    },
+    "image": {
+      "noOfRequests": 0
+    },
+    "style": {
+      "noOfRequests": 0
+    },
+    "script": {
+      "noOfRequests": 0
+    },
+    "xhr": {
+      "noOfRequests": 0
+    },
+    "other": {
+      "noOfRequests": 0
+    }
+  }
+}

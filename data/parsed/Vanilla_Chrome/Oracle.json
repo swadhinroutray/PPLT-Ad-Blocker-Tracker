@@ -1,0 +1,73 @@
+{
+  "pages": {
+    "noOfPages": 1,
+    "medianOnLoad": null,
+    "ninetyFifthOnLoad": null,
+    "pages": [
+      {
+        "url": "Oracle",
+        "onLoad": null
+      }
+    ]
+  },
+  "requests": {
+    "all": {
+      "noOfRequests": 161,
+      "medianTime": 117,
+      "ninetyFifthTime": 424,
+      "medianTimings": {
+        "blocked": 0,
+        "wait": 45,
+        "receive": 0
+      },
+      "ninetyFifthTimings": {
+        "blocked": 0,
+        "wait": 171,
+        "receive": 27
+      },
+      "bytesTransferred": null,
+      "topUrl": {
+        "url": "https://bf40164ces.bf.dynatrace.com/bf",
+        "noOfOccurrences": 4
+      },
+      "largest": {
+        "url": "https://dc.oracleinfinity.io/wh3g12c3gg/dcs.gif",
+        "bytes": 0
+      },
+      "largestCompressed": {
+        "url": "https://client-api.arkoselabs.com/v2/942A102E-8D3A-4F0F-9ED3-13CA6D754952/enforcement.2a9b98c00306023fa20284d326da252e.html"
+      },
+      "longest": {
+        "url": "https://aa.online-metrix.net:3478",
+        "time": 10140,
+        "timings": {
+          "blocked": 0,
+          "wait": 0,
+          "receive": 0,
+          "connect": 10097
+        }
+      }
+    },
+    "document": {
+      "noOfRequests": 0
+    },
+    "font": {
+      "noOfRequests": 0
+    },
+    "image": {
+      "noOfRequests": 0
+    },
+    "style": {
+      "noOfRequests": 0
+    },
+    "script": {
+      "noOfRequests": 0
+    },
+    "xhr": {
+      "noOfRequests": 0
+    },
+    "other": {
+      "noOfRequests": 0
+    }
+  }
+}

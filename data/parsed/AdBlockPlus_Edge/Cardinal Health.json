@@ -1,0 +1,73 @@
+{
+  "pages": {
+    "noOfPages": 1,
+    "medianOnLoad": null,
+    "ninetyFifthOnLoad": null,
+    "pages": [
+      {
+        "url": "Cardinal Health",
+        "onLoad": null
+      }
+    ]
+  },
+  "requests": {
+    "all": {
+      "noOfRequests": 157,
+      "medianTime": 52,
+      "ninetyFifthTime": 365,
+      "medianTimings": {
+        "blocked": -1,
+        "wait": 30,
+        "receive": 0
+      },
+      "ninetyFifthTimings": {
+        "blocked": 0,
+        "wait": 77,
+        "receive": 24
+      },
+      "bytesTransferred": null,
+      "topUrl": {
+        "url": "https://n.clarity.ms/collect",
+        "noOfOccurrences": 3
+      },
+      "largest": {
+        "url": "https://www.cardinalhealth.com/etc/designs/corp/clientlibs/images/mobile-nav-button.svg",
+        "bytes": 0
+      },
+      "largestCompressed": {
+        "url": "https://browser.events.data.microsoft.com/OneCollector/1.0/"
+      },
+      "longest": {
+        "url": "https://www.youtube.com/iframe_api",
+        "time": 608,
+        "timings": {
+          "blocked": 0,
+          "wait": 42,
+          "receive": 0,
+          "connect": 532
+        }
+      }
+    },
+    "document": {
+      "noOfRequests": 0
+    },
+    "font": {
+      "noOfRequests": 0
+    },
+    "image": {
+      "noOfRequests": 0
+    },
+    "style": {
+      "noOfRequests": 0
+    },
+    "script": {
+      "noOfRequests": 0
+    },
+    "xhr": {
+      "noOfRequests": 0
+    },
+    "other": {
+      "noOfRequests": 0
+    }
+  }
+}

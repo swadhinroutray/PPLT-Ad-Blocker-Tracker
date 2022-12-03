@@ -1,0 +1,73 @@
+{
+  "pages": {
+    "noOfPages": 1,
+    "medianOnLoad": null,
+    "ninetyFifthOnLoad": null,
+    "pages": [
+      {
+        "url": "Uber Technologies",
+        "onLoad": null
+      }
+    ]
+  },
+  "requests": {
+    "all": {
+      "noOfRequests": 54,
+      "medianTime": 81,
+      "ninetyFifthTime": 477,
+      "medianTimings": {
+        "blocked": 0,
+        "wait": 24,
+        "receive": 0
+      },
+      "ninetyFifthTimings": {
+        "blocked": 0,
+        "wait": 113,
+        "receive": 27
+      },
+      "bytesTransferred": null,
+      "topUrl": {
+        "url": "https://d3i4yxtzktqr9n.cloudfront.net/uber-sites/99c4bc580c8b57b7.ico",
+        "noOfOccurrences": 1
+      },
+      "largest": {
+        "url": "https://www.uber.com/_translations",
+        "bytes": 0
+      },
+      "largestCompressed": {
+        "url": "https://eb2.3lift.com/xuid"
+      },
+      "longest": {
+        "url": "https://www.uber.com/_uwa",
+        "time": 826,
+        "timings": {
+          "blocked": -1,
+          "wait": 818,
+          "receive": 7,
+          "connect": -1
+        }
+      }
+    },
+    "document": {
+      "noOfRequests": 0
+    },
+    "font": {
+      "noOfRequests": 0
+    },
+    "image": {
+      "noOfRequests": 0
+    },
+    "style": {
+      "noOfRequests": 0
+    },
+    "script": {
+      "noOfRequests": 0
+    },
+    "xhr": {
+      "noOfRequests": 0
+    },
+    "other": {
+      "noOfRequests": 0
+    }
+  }
+}

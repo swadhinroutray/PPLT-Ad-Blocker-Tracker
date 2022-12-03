@@ -1,0 +1,73 @@
+{
+  "pages": {
+    "noOfPages": 1,
+    "medianOnLoad": null,
+    "ninetyFifthOnLoad": null,
+    "pages": [
+      {
+        "url": "Lam Research",
+        "onLoad": null
+      }
+    ]
+  },
+  "requests": {
+    "all": {
+      "noOfRequests": 71,
+      "medianTime": 81,
+      "ninetyFifthTime": 982,
+      "medianTimings": {
+        "blocked": -1,
+        "wait": 32,
+        "receive": 0
+      },
+      "ninetyFifthTimings": {
+        "blocked": 0,
+        "wait": 666,
+        "receive": 114
+      },
+      "bytesTransferred": null,
+      "topUrl": {
+        "url": "https://content-autofill.googleapis.com/v1/pages/ChVDaHJvbWUvMTA3LjAuNTMwNC4xMjESEAkLVg-BfWJJ_xIFDaWTNiQ=",
+        "noOfOccurrences": 0
+      },
+      "largest": {
+        "url": "https://content-autofill.googleapis.com/v1/pages/ChVDaHJvbWUvMTA3LjAuNTMwNC4xMjESEAkLVg-BfWJJ_xIFDaWTNiQ=",
+        "bytes": 0
+      },
+      "largestCompressed": {
+        "url": "https://tags.tiqcdn.com/utag/tiqapp/utag.v.js"
+      },
+      "longest": {
+        "url": "https://lamresearch.wpenginepowered.com/wp-content/uploads/2021/10/Lam_Website-Video_1-1_new.mp4",
+        "time": 2476,
+        "timings": {
+          "blocked": -1,
+          "wait": 34,
+          "receive": 2442,
+          "connect": -1
+        }
+      }
+    },
+    "document": {
+      "noOfRequests": 0
+    },
+    "font": {
+      "noOfRequests": 0
+    },
+    "image": {
+      "noOfRequests": 0
+    },
+    "style": {
+      "noOfRequests": 0
+    },
+    "script": {
+      "noOfRequests": 0
+    },
+    "xhr": {
+      "noOfRequests": 0
+    },
+    "other": {
+      "noOfRequests": 0
+    }
+  }
+}

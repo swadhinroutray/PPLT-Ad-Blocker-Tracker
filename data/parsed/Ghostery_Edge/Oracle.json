@@ -1,0 +1,73 @@
+{
+  "pages": {
+    "noOfPages": 1,
+    "medianOnLoad": null,
+    "ninetyFifthOnLoad": null,
+    "pages": [
+      {
+        "url": "Oracle",
+        "onLoad": null
+      }
+    ]
+  },
+  "requests": {
+    "all": {
+      "noOfRequests": 88,
+      "medianTime": 73,
+      "ninetyFifthTime": 324,
+      "medianTimings": {
+        "blocked": -1,
+        "wait": 46,
+        "receive": 0
+      },
+      "ninetyFifthTimings": {
+        "blocked": 0,
+        "wait": 143,
+        "receive": 31
+      },
+      "bytesTransferred": null,
+      "topUrl": {
+        "url": "https://go.oracle.com/visitor/v200/svrGP",
+        "noOfOccurrences": 1
+      },
+      "largest": {
+        "url": "https://68794911.akstat.io/",
+        "bytes": 0
+      },
+      "largestCompressed": {
+        "url": "https://check3.tiaa.org/RucV-nSoRM8pFrca"
+      },
+      "longest": {
+        "url": "https://tms.oracle.com/main/prod/utag.sync.js",
+        "time": 470,
+        "timings": {
+          "blocked": 0,
+          "wait": 22,
+          "receive": 0,
+          "connect": 406
+        }
+      }
+    },
+    "document": {
+      "noOfRequests": 0
+    },
+    "font": {
+      "noOfRequests": 0
+    },
+    "image": {
+      "noOfRequests": 0
+    },
+    "style": {
+      "noOfRequests": 0
+    },
+    "script": {
+      "noOfRequests": 0
+    },
+    "xhr": {
+      "noOfRequests": 0
+    },
+    "other": {
+      "noOfRequests": 0
+    }
+  }
+}

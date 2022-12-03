@@ -1,0 +1,73 @@
+{
+  "pages": {
+    "noOfPages": 1,
+    "medianOnLoad": null,
+    "ninetyFifthOnLoad": null,
+    "pages": [
+      {
+        "url": "ConocoPhillips",
+        "onLoad": null
+      }
+    ]
+  },
+  "requests": {
+    "all": {
+      "noOfRequests": 101,
+      "medianTime": 45,
+      "ninetyFifthTime": 399,
+      "medianTimings": {
+        "blocked": -1,
+        "wait": 26,
+        "receive": 3
+      },
+      "ninetyFifthTimings": {
+        "blocked": 0,
+        "wait": 50,
+        "receive": 49
+      },
+      "bytesTransferred": null,
+      "topUrl": {
+        "url": "https://fresnel.vimeocdn.com/add/player-stats",
+        "noOfOccurrences": 4
+      },
+      "largest": {
+        "url": "https://113vod-adaptive.akamaized.net/exp=1670020782~acl=%2F9c424f66-234e-403b-97d2-49192390f370%2F%2A~hmac=d37bcd0e9d6dc02b234a5c50128282ff3fbbd39be7fcc992b5db7658cb1252f6/9c424f66-234e-403b-97d2-49192390f370/sep/audio/5a3d5cb1/chop/segment-4.m4s",
+        "bytes": 0
+      },
+      "largestCompressed": {
+        "url": "https://nav-edge.smartscreen.microsoft.com/api/browser/edge/navigate/3"
+      },
+      "longest": {
+        "url": "https://static.conocophillips.com/files/callouts/classic-sml-20220330-mabee-ranch-jt-sizeddown4000.jpg",
+        "time": 663,
+        "timings": {
+          "blocked": 0,
+          "wait": 27,
+          "receive": 19,
+          "connect": 513
+        }
+      }
+    },
+    "document": {
+      "noOfRequests": 0
+    },
+    "font": {
+      "noOfRequests": 0
+    },
+    "image": {
+      "noOfRequests": 0
+    },
+    "style": {
+      "noOfRequests": 0
+    },
+    "script": {
+      "noOfRequests": 0
+    },
+    "xhr": {
+      "noOfRequests": 0
+    },
+    "other": {
+      "noOfRequests": 0
+    }
+  }
+}

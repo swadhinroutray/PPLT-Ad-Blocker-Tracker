@@ -1,0 +1,73 @@
+{
+  "pages": {
+    "noOfPages": 1,
+    "medianOnLoad": null,
+    "ninetyFifthOnLoad": null,
+    "pages": [
+      {
+        "url": "Nike",
+        "onLoad": null
+      }
+    ]
+  },
+  "requests": {
+    "all": {
+      "noOfRequests": 129,
+      "medianTime": 64,
+      "ninetyFifthTime": 409,
+      "medianTimings": {
+        "blocked": -1,
+        "wait": 45,
+        "receive": 0
+      },
+      "ninetyFifthTimings": {
+        "blocked": 0,
+        "wait": 264,
+        "receive": 48
+      },
+      "bytesTransferred": null,
+      "topUrl": {
+        "url": "https://www.nike.com/b--gkK/sdLLX/nktb6/Cg/h5razLbff3/Qk1Q/CgMDQEow/VScB",
+        "noOfOccurrences": 4
+      },
+      "largest": {
+        "url": "https://api.nike.com/buy/carts/v2/US/NIKE/NIKECOM",
+        "bytes": 0
+      },
+      "largestCompressed": {
+        "url": "https://www.bms.com/assets/bms/us/en-us/www/bms.ico"
+      },
+      "longest": {
+        "url": "https://www.nike.com/",
+        "time": 901,
+        "timings": {
+          "blocked": 0,
+          "wait": 635,
+          "receive": 52,
+          "connect": 168
+        }
+      }
+    },
+    "document": {
+      "noOfRequests": 0
+    },
+    "font": {
+      "noOfRequests": 0
+    },
+    "image": {
+      "noOfRequests": 0
+    },
+    "style": {
+      "noOfRequests": 0
+    },
+    "script": {
+      "noOfRequests": 0
+    },
+    "xhr": {
+      "noOfRequests": 0
+    },
+    "other": {
+      "noOfRequests": 0
+    }
+  }
+}

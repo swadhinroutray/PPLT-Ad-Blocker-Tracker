@@ -1,0 +1,73 @@
+{
+  "pages": {
+    "noOfPages": 1,
+    "medianOnLoad": null,
+    "ninetyFifthOnLoad": null,
+    "pages": [
+      {
+        "url": "Avnet",
+        "onLoad": null
+      }
+    ]
+  },
+  "requests": {
+    "all": {
+      "noOfRequests": 117,
+      "medianTime": 121,
+      "ninetyFifthTime": 578,
+      "medianTimings": {
+        "blocked": 0,
+        "wait": 40,
+        "receive": 0
+      },
+      "ninetyFifthTimings": {
+        "blocked": 0,
+        "wait": 142,
+        "receive": 108
+      },
+      "bytesTransferred": null,
+      "topUrl": {
+        "url": "https://r.stripe.com/0",
+        "noOfOccurrences": 12
+      },
+      "largest": {
+        "url": "https://jhwa3pdijorrsy4knnza-p1sb8d-c1f67f68b-clientnsv4-s.akamaihd.net/eum/results.txt",
+        "bytes": 0
+      },
+      "largestCompressed": {
+        "url": "https://ping-edge.smartscreen.microsoft.com/api/browser/edge/actions/3"
+      },
+      "longest": {
+        "url": "https://68794910.akstat.io/",
+        "time": 911,
+        "timings": {
+          "blocked": 0,
+          "wait": 632,
+          "receive": 0,
+          "connect": 258
+        }
+      }
+    },
+    "document": {
+      "noOfRequests": 0
+    },
+    "font": {
+      "noOfRequests": 0
+    },
+    "image": {
+      "noOfRequests": 0
+    },
+    "style": {
+      "noOfRequests": 0
+    },
+    "script": {
+      "noOfRequests": 0
+    },
+    "xhr": {
+      "noOfRequests": 0
+    },
+    "other": {
+      "noOfRequests": 0
+    }
+  }
+}

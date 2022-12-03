@@ -1,0 +1,73 @@
+{
+  "pages": {
+    "noOfPages": 1,
+    "medianOnLoad": null,
+    "ninetyFifthOnLoad": null,
+    "pages": [
+      {
+        "url": "Parker-Hannifin",
+        "onLoad": null
+      }
+    ]
+  },
+  "requests": {
+    "all": {
+      "noOfRequests": 235,
+      "medianTime": 77,
+      "ninetyFifthTime": 403,
+      "medianTimings": {
+        "blocked": -1,
+        "wait": 36,
+        "receive": 0
+      },
+      "ninetyFifthTimings": {
+        "blocked": 0,
+        "wait": 231,
+        "receive": 30
+      },
+      "bytesTransferred": null,
+      "topUrl": {
+        "url": "https://bf59092xlf.bf.dynatrace.com/bf",
+        "noOfOccurrences": 31
+      },
+      "largest": {
+        "url": "https://bf59092xlf.bf.dynatrace.com/bf",
+        "bytes": 0
+      },
+      "largestCompressed": {
+        "url": "https://www.parker.com/"
+      },
+      "longest": {
+        "url": "https://s1819831755.t.eloqua.com/visitor/v200/svrGP",
+        "time": 2315,
+        "timings": {
+          "blocked": 0,
+          "wait": 2014,
+          "receive": 0,
+          "connect": 262
+        }
+      }
+    },
+    "document": {
+      "noOfRequests": 0
+    },
+    "font": {
+      "noOfRequests": 0
+    },
+    "image": {
+      "noOfRequests": 0
+    },
+    "style": {
+      "noOfRequests": 0
+    },
+    "script": {
+      "noOfRequests": 0
+    },
+    "xhr": {
+      "noOfRequests": 0
+    },
+    "other": {
+      "noOfRequests": 0
+    }
+  }
+}

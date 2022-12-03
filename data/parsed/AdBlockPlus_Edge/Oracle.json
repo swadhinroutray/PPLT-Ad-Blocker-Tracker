@@ -1,0 +1,73 @@
+{
+  "pages": {
+    "noOfPages": 1,
+    "medianOnLoad": null,
+    "ninetyFifthOnLoad": null,
+    "pages": [
+      {
+        "url": "Oracle",
+        "onLoad": null
+      }
+    ]
+  },
+  "requests": {
+    "all": {
+      "noOfRequests": 94,
+      "medianTime": 67,
+      "ninetyFifthTime": 340,
+      "medianTimings": {
+        "blocked": -1,
+        "wait": 47,
+        "receive": 0
+      },
+      "ninetyFifthTimings": {
+        "blocked": 0,
+        "wait": 136,
+        "receive": 35
+      },
+      "bytesTransferred": null,
+      "topUrl": {
+        "url": "https://bf40164ces.bf.dynatrace.com/bf",
+        "noOfOccurrences": 2
+      },
+      "largest": {
+        "url": "https://jhwa3pdijorrqy4knb5a-p4jib8-bf1f67076-clientnsv4-s.akamaihd.net/eum/results.txt",
+        "bytes": 0
+      },
+      "largestCompressed": {
+        "url": "https://bf40164ces.bf.dynatrace.com/bf"
+      },
+      "longest": {
+        "url": "https://tms.oracle.com/main/prod/utag.sync.js",
+        "time": 568,
+        "timings": {
+          "blocked": 0,
+          "wait": 24,
+          "receive": 0,
+          "connect": 462
+        }
+      }
+    },
+    "document": {
+      "noOfRequests": 0
+    },
+    "font": {
+      "noOfRequests": 0
+    },
+    "image": {
+      "noOfRequests": 0
+    },
+    "style": {
+      "noOfRequests": 0
+    },
+    "script": {
+      "noOfRequests": 0
+    },
+    "xhr": {
+      "noOfRequests": 0
+    },
+    "other": {
+      "noOfRequests": 0
+    }
+  }
+}

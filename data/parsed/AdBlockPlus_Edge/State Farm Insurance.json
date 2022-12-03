@@ -1,0 +1,73 @@
+{
+  "pages": {
+    "noOfPages": 1,
+    "medianOnLoad": null,
+    "ninetyFifthOnLoad": null,
+    "pages": [
+      {
+        "url": "State Farm Insurance",
+        "onLoad": null
+      }
+    ]
+  },
+  "requests": {
+    "all": {
+      "noOfRequests": 155,
+      "medianTime": 85,
+      "ninetyFifthTime": 363,
+      "medianTimings": {
+        "blocked": -1,
+        "wait": 25,
+        "receive": 0
+      },
+      "ninetyFifthTimings": {
+        "blocked": 0,
+        "wait": 179,
+        "receive": 32
+      },
+      "bytesTransferred": null,
+      "topUrl": {
+        "url": "https://p.tvpixel.com/com.snowplowanalytics.snowplow/tp2",
+        "noOfOccurrences": 1
+      },
+      "largest": {
+        "url": "https://p.tvpixel.com/com.snowplowanalytics.snowplow/tp2",
+        "bytes": 0
+      },
+      "largestCompressed": {
+        "url": "https://connect.secure.wellsfargo.com/AIDO/gateway.html"
+      },
+      "longest": {
+        "url": "https://apps.statefarm.com/sfuidservice/enterprisesfuid",
+        "time": 493,
+        "timings": {
+          "blocked": 0,
+          "wait": 185,
+          "receive": 0,
+          "connect": 235
+        }
+      }
+    },
+    "document": {
+      "noOfRequests": 0
+    },
+    "font": {
+      "noOfRequests": 0
+    },
+    "image": {
+      "noOfRequests": 0
+    },
+    "style": {
+      "noOfRequests": 0
+    },
+    "script": {
+      "noOfRequests": 0
+    },
+    "xhr": {
+      "noOfRequests": 0
+    },
+    "other": {
+      "noOfRequests": 0
+    }
+  }
+}

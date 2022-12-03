@@ -1,0 +1,73 @@
+{
+  "pages": {
+    "noOfPages": 1,
+    "medianOnLoad": null,
+    "ninetyFifthOnLoad": null,
+    "pages": [
+      {
+        "url": "Bank of America",
+        "onLoad": null
+      }
+    ]
+  },
+  "requests": {
+    "all": {
+      "noOfRequests": 42,
+      "medianTime": 27,
+      "ninetyFifthTime": 575,
+      "medianTimings": {
+        "blocked": -1,
+        "wait": 24,
+        "receive": 0
+      },
+      "ninetyFifthTimings": {
+        "blocked": 0,
+        "wait": 172,
+        "receive": 49
+      },
+      "bytesTransferred": null,
+      "topUrl": {
+        "url": "https://www.bankofamerica.com/",
+        "noOfOccurrences": 1
+      },
+      "largest": {
+        "url": "https://www1.bac-assets.com/homepage/spa-assets/images/assets-images-site-hp-assets-mastheads-consumer-cards-en-4-card-bofa_cshsigcm_v_sky.webp",
+        "bytes": 0
+      },
+      "largestCompressed": {
+        "url": "https://www.bankofamerica.com/"
+      },
+      "longest": {
+        "url": "https://www.bankofamerica.com/",
+        "time": 1134,
+        "timings": {
+          "blocked": 0,
+          "wait": 184,
+          "receive": 269,
+          "connect": 584
+        }
+      }
+    },
+    "document": {
+      "noOfRequests": 0
+    },
+    "font": {
+      "noOfRequests": 0
+    },
+    "image": {
+      "noOfRequests": 0
+    },
+    "style": {
+      "noOfRequests": 0
+    },
+    "script": {
+      "noOfRequests": 0
+    },
+    "xhr": {
+      "noOfRequests": 0
+    },
+    "other": {
+      "noOfRequests": 0
+    }
+  }
+}

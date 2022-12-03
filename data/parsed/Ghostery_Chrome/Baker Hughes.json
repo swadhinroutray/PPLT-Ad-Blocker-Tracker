@@ -1,0 +1,73 @@
+{
+  "pages": {
+    "noOfPages": 1,
+    "medianOnLoad": null,
+    "ninetyFifthOnLoad": null,
+    "pages": [
+      {
+        "url": "Baker Hughes",
+        "onLoad": null
+      }
+    ]
+  },
+  "requests": {
+    "all": {
+      "noOfRequests": 77,
+      "medianTime": 27,
+      "ninetyFifthTime": 349,
+      "medianTimings": {
+        "blocked": -1,
+        "wait": 24,
+        "receive": 0
+      },
+      "ninetyFifthTimings": {
+        "blocked": 0,
+        "wait": 58,
+        "receive": 37
+      },
+      "bytesTransferred": null,
+      "topUrl": {
+        "url": "https://www.bakerhughes.com/sites/bakerhughes/files/icons/icon_select_map.svg",
+        "noOfOccurrences": 2
+      },
+      "largest": {
+        "url": "https://cdn.cookielaw.org/scripttemplates/202209.1.0/assets/otFloatingFlat.json",
+        "bytes": 0
+      },
+      "largestCompressed": {
+        "url": "https://www.bakerhughes.com/"
+      },
+      "longest": {
+        "url": "https://www.bakerhughes.com/themes/custom/bh/dist/js/2573-05c6ec.part.js",
+        "time": 1113,
+        "timings": {
+          "blocked": 0,
+          "wait": 34,
+          "receive": 1,
+          "connect": 1077
+        }
+      }
+    },
+    "document": {
+      "noOfRequests": 0
+    },
+    "font": {
+      "noOfRequests": 0
+    },
+    "image": {
+      "noOfRequests": 0
+    },
+    "style": {
+      "noOfRequests": 0
+    },
+    "script": {
+      "noOfRequests": 0
+    },
+    "xhr": {
+      "noOfRequests": 0
+    },
+    "other": {
+      "noOfRequests": 0
+    }
+  }
+}

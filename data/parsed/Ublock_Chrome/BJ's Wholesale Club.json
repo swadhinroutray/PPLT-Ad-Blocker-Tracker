@@ -1,0 +1,73 @@
+{
+  "pages": {
+    "noOfPages": 1,
+    "medianOnLoad": null,
+    "ninetyFifthOnLoad": null,
+    "pages": [
+      {
+        "url": "BJ's Wholesale Club",
+        "onLoad": null
+      }
+    ]
+  },
+  "requests": {
+    "all": {
+      "noOfRequests": 112,
+      "medianTime": 45,
+      "ninetyFifthTime": 173,
+      "medianTimings": {
+        "blocked": -1,
+        "wait": 33,
+        "receive": 0
+      },
+      "ninetyFifthTimings": {
+        "blocked": 0,
+        "wait": 98,
+        "receive": 38
+      },
+      "bytesTransferred": null,
+      "topUrl": {
+        "url": "https://ts-apim-bjs-prod.azure-api.net/request",
+        "noOfOccurrences": 3
+      },
+      "largest": {
+        "url": "https://www.bjs.com/favicon.ico",
+        "bytes": 0
+      },
+      "largestCompressed": {
+        "url": "https://www.gap.com/Asset_Archive/GPWeb/content/0029/635/432/assets/HOL223314_img_DESK.jpg"
+      },
+      "longest": {
+        "url": "https://www.bjs.com/",
+        "time": 456,
+        "timings": {
+          "blocked": 0,
+          "wait": 86,
+          "receive": 49,
+          "connect": 277
+        }
+      }
+    },
+    "document": {
+      "noOfRequests": 0
+    },
+    "font": {
+      "noOfRequests": 0
+    },
+    "image": {
+      "noOfRequests": 0
+    },
+    "style": {
+      "noOfRequests": 0
+    },
+    "script": {
+      "noOfRequests": 0
+    },
+    "xhr": {
+      "noOfRequests": 0
+    },
+    "other": {
+      "noOfRequests": 0
+    }
+  }
+}

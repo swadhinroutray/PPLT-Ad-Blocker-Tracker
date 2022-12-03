@@ -1,0 +1,73 @@
+{
+  "pages": {
+    "noOfPages": 1,
+    "medianOnLoad": null,
+    "ninetyFifthOnLoad": null,
+    "pages": [
+      {
+        "url": "Waste Management",
+        "onLoad": null
+      }
+    ]
+  },
+  "requests": {
+    "all": {
+      "noOfRequests": 289,
+      "medianTime": 75,
+      "ninetyFifthTime": 254,
+      "medianTimings": {
+        "blocked": -1,
+        "wait": 70,
+        "receive": 0
+      },
+      "ninetyFifthTimings": {
+        "blocked": 0,
+        "wait": 91,
+        "receive": 60
+      },
+      "bytesTransferred": null,
+      "topUrl": {
+        "url": "https://fonts.googleapis.com/css",
+        "noOfOccurrences": 9
+      },
+      "largest": {
+        "url": "https://gwcnweb.org/wp-content/uploads/2020/10/cropped-GWCN-color-icon-32x32.png",
+        "bytes": 0
+      },
+      "largestCompressed": {
+        "url": "https://gwcnweb.org/"
+      },
+      "longest": {
+        "url": "https://gwcnweb.org/",
+        "time": 8617,
+        "timings": {
+          "blocked": 0,
+          "wait": 8024,
+          "receive": 68,
+          "connect": 406
+        }
+      }
+    },
+    "document": {
+      "noOfRequests": 0
+    },
+    "font": {
+      "noOfRequests": 0
+    },
+    "image": {
+      "noOfRequests": 0
+    },
+    "style": {
+      "noOfRequests": 0
+    },
+    "script": {
+      "noOfRequests": 0
+    },
+    "xhr": {
+      "noOfRequests": 0
+    },
+    "other": {
+      "noOfRequests": 0
+    }
+  }
+}

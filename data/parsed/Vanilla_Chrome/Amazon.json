@@ -1,0 +1,73 @@
+{
+  "pages": {
+    "noOfPages": 1,
+    "medianOnLoad": null,
+    "ninetyFifthOnLoad": null,
+    "pages": [
+      {
+        "url": "Amazon",
+        "onLoad": null
+      }
+    ]
+  },
+  "requests": {
+    "all": {
+      "noOfRequests": 499,
+      "medianTime": 27,
+      "ninetyFifthTime": 356,
+      "medianTimings": {
+        "blocked": -1,
+        "wait": 25,
+        "receive": 0
+      },
+      "ninetyFifthTimings": {
+        "blocked": 0,
+        "wait": 54,
+        "receive": 2
+      },
+      "bytesTransferred": null,
+      "topUrl": {
+        "url": "https://s.amazon-adsystem.com/ecm3",
+        "noOfOccurrences": 36
+      },
+      "largest": {
+        "url": "https://unagi-na.amazon.com/1/events/com.amazon.eel.amazonlive.metrics.nexus",
+        "bytes": 0
+      },
+      "largestCompressed": {
+        "url": "https://drfdisvc.walmart.com/xvf64sjpy00watg1.js"
+      },
+      "longest": {
+        "url": "https://rtb-csync.smartadserver.com/redir/",
+        "time": 792,
+        "timings": {
+          "blocked": 0,
+          "wait": 82,
+          "receive": 0,
+          "connect": 649
+        }
+      }
+    },
+    "document": {
+      "noOfRequests": 0
+    },
+    "font": {
+      "noOfRequests": 0
+    },
+    "image": {
+      "noOfRequests": 0
+    },
+    "style": {
+      "noOfRequests": 0
+    },
+    "script": {
+      "noOfRequests": 0
+    },
+    "xhr": {
+      "noOfRequests": 0
+    },
+    "other": {
+      "noOfRequests": 0
+    }
+  }
+}

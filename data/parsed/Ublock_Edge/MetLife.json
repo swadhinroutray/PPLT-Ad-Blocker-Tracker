@@ -1,0 +1,73 @@
+{
+  "pages": {
+    "noOfPages": 1,
+    "medianOnLoad": null,
+    "ninetyFifthOnLoad": null,
+    "pages": [
+      {
+        "url": "MetLife",
+        "onLoad": null
+      }
+    ]
+  },
+  "requests": {
+    "all": {
+      "noOfRequests": 98,
+      "medianTime": 28,
+      "ninetyFifthTime": 255,
+      "medianTimings": {
+        "blocked": -1,
+        "wait": 25,
+        "receive": 0
+      },
+      "ninetyFifthTimings": {
+        "blocked": 0,
+        "wait": 34,
+        "receive": 53
+      },
+      "bytesTransferred": null,
+      "topUrl": {
+        "url": "https://www.metlife.com/static/images/icons-metlife.svg",
+        "noOfOccurrences": 1
+      },
+      "largest": {
+        "url": "https://manifest.prod.boltdns.net/manifest/v1/hls/v4/clear/64298592001/cff93b29-2bf1-402d-919b-3494db6b98bf/3dfae6ab-a57c-4bcc-85b7-392001da9819/10s/rendition.m3u8",
+        "bytes": 0
+      },
+      "largestCompressed": {
+        "url": "https://tags.tiqcdn.com/utag/ibm/web/prod/utag.200.js"
+      },
+      "longest": {
+        "url": "https://cf-images.us-east-1.prod.boltdns.net/v1/static/64298592001/cff93b29-2bf1-402d-919b-3494db6b98bf/98372f00-0c7e-4fd7-8f54-705c5180be35/1280x720/match/image.jpg",
+        "time": 395,
+        "timings": {
+          "blocked": 0,
+          "wait": 23,
+          "receive": 44,
+          "connect": 276
+        }
+      }
+    },
+    "document": {
+      "noOfRequests": 0
+    },
+    "font": {
+      "noOfRequests": 0
+    },
+    "image": {
+      "noOfRequests": 0
+    },
+    "style": {
+      "noOfRequests": 0
+    },
+    "script": {
+      "noOfRequests": 0
+    },
+    "xhr": {
+      "noOfRequests": 0
+    },
+    "other": {
+      "noOfRequests": 0
+    }
+  }
+}

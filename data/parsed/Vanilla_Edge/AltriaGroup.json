@@ -1,0 +1,73 @@
+{
+  "pages": {
+    "noOfPages": 1,
+    "medianOnLoad": null,
+    "ninetyFifthOnLoad": null,
+    "pages": [
+      {
+        "url": "AltriaGroup",
+        "onLoad": null
+      }
+    ]
+  },
+  "requests": {
+    "all": {
+      "noOfRequests": 18,
+      "medianTime": 259,
+      "ninetyFifthTime": 438,
+      "medianTimings": {
+        "blocked": 0,
+        "wait": 32,
+        "receive": 0
+      },
+      "ninetyFifthTimings": {
+        "blocked": 0,
+        "wait": 190,
+        "receive": 35
+      },
+      "bytesTransferred": null,
+      "topUrl": {
+        "url": "https://nav-edge.smartscreen.microsoft.com/api/browser/edge/navigate/3",
+        "noOfOccurrences": 1
+      },
+      "largest": {
+        "url": "https://api-js.datadome.co/js/",
+        "bytes": 0
+      },
+      "largestCompressed": {
+        "url": "https://m.addthis.com/live/red_lojson/100eng.json"
+      },
+      "longest": {
+        "url": "https://edge.microsoft.com/autofillservice/v1/pages/ChVDaHJvbWUvMTA3LjAuNTMwNC4xNTASOgkGO5xFovp7nhIFDTdYFzoSBQ2RYZVOEgUNkWGVThIFDZFhlU4SBQ2RYZVOEgUNkWGVThIFDZFhlU4SEAkliL0MY2g9jBIFDTdYFzoSMwn2P1VsFY1tFxIFDZFhlU4SBQ2RYZVOEgUNkWGVThIFDZFhlU4SBQ2RYZVOEgUNkWGVTg==",
+        "time": 732,
+        "timings": {
+          "blocked": -1,
+          "wait": 731,
+          "receive": 0,
+          "connect": -1
+        }
+      }
+    },
+    "document": {
+      "noOfRequests": 0
+    },
+    "font": {
+      "noOfRequests": 0
+    },
+    "image": {
+      "noOfRequests": 0
+    },
+    "style": {
+      "noOfRequests": 0
+    },
+    "script": {
+      "noOfRequests": 0
+    },
+    "xhr": {
+      "noOfRequests": 0
+    },
+    "other": {
+      "noOfRequests": 0
+    }
+  }
+}

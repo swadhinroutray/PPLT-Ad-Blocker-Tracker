@@ -1,0 +1,73 @@
+{
+  "pages": {
+    "noOfPages": 1,
+    "medianOnLoad": null,
+    "ninetyFifthOnLoad": null,
+    "pages": [
+      {
+        "url": "Truist Financial",
+        "onLoad": null
+      }
+    ]
+  },
+  "requests": {
+    "all": {
+      "noOfRequests": 211,
+      "medianTime": 95,
+      "ninetyFifthTime": 383,
+      "medianTimings": {
+        "blocked": 0,
+        "wait": 27,
+        "receive": 0
+      },
+      "ninetyFifthTimings": {
+        "blocked": 0,
+        "wait": 72,
+        "receive": 49
+      },
+      "bytesTransferred": null,
+      "topUrl": {
+        "url": "https://va.v.liveperson.net/api/js/28229424",
+        "noOfOccurrences": 2
+      },
+      "largest": {
+        "url": "https://tr.snapchat.com/cm/p",
+        "bytes": 0
+      },
+      "largestCompressed": {
+        "url": "https://www.truist.com/"
+      },
+      "longest": {
+        "url": "https://dias.bank.truist.com/ui/scripts/truist_common.js",
+        "time": 643,
+        "timings": {
+          "blocked": 0,
+          "wait": 370,
+          "receive": 51,
+          "connect": 168
+        }
+      }
+    },
+    "document": {
+      "noOfRequests": 0
+    },
+    "font": {
+      "noOfRequests": 0
+    },
+    "image": {
+      "noOfRequests": 0
+    },
+    "style": {
+      "noOfRequests": 0
+    },
+    "script": {
+      "noOfRequests": 0
+    },
+    "xhr": {
+      "noOfRequests": 0
+    },
+    "other": {
+      "noOfRequests": 0
+    }
+  }
+}

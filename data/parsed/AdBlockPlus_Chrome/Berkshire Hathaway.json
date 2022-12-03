@@ -1,0 +1,73 @@
+{
+  "pages": {
+    "noOfPages": 1,
+    "medianOnLoad": null,
+    "ninetyFifthOnLoad": null,
+    "pages": [
+      {
+        "url": "Berkshire Hathaway",
+        "onLoad": null
+      }
+    ]
+  },
+  "requests": {
+    "all": {
+      "noOfRequests": 119,
+      "medianTime": 20,
+      "ninetyFifthTime": 69,
+      "medianTimings": {
+        "blocked": -1,
+        "wait": 20,
+        "receive": 0
+      },
+      "ninetyFifthTimings": {
+        "blocked": 0,
+        "wait": 48,
+        "receive": 0
+      },
+      "bytesTransferred": null,
+      "topUrl": {
+        "url": "https://corporate.exxonmobil.com/Assets/component-VX170.bundle-20221118.2.js",
+        "noOfOccurrences": 1
+      },
+      "largest": {
+        "url": "https://corporate.exxonmobil.com/Assets/component-VX10.bundle-20221118.2.js",
+        "bytes": 0
+      },
+      "largestCompressed": {
+        "url": "https://corporate.exxonmobil.com/Assets/component-VX1142.bundle-20221118.2.js"
+      },
+      "longest": {
+        "url": "https://privacyportal.onetrust.com/request/v1/consentreceipts",
+        "time": 474,
+        "timings": {
+          "blocked": 0,
+          "wait": 164,
+          "receive": 0,
+          "connect": 273
+        }
+      }
+    },
+    "document": {
+      "noOfRequests": 0
+    },
+    "font": {
+      "noOfRequests": 0
+    },
+    "image": {
+      "noOfRequests": 0
+    },
+    "style": {
+      "noOfRequests": 0
+    },
+    "script": {
+      "noOfRequests": 0
+    },
+    "xhr": {
+      "noOfRequests": 0
+    },
+    "other": {
+      "noOfRequests": 0
+    }
+  }
+}

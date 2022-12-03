@@ -1,0 +1,73 @@
+{
+  "pages": {
+    "noOfPages": 1,
+    "medianOnLoad": null,
+    "ninetyFifthOnLoad": null,
+    "pages": [
+      {
+        "url": "Target",
+        "onLoad": null
+      }
+    ]
+  },
+  "requests": {
+    "all": {
+      "noOfRequests": 118,
+      "medianTime": 33,
+      "ninetyFifthTime": 303,
+      "medianTimings": {
+        "blocked": -1,
+        "wait": 25,
+        "receive": 0
+      },
+      "ninetyFifthTimings": {
+        "blocked": 0,
+        "wait": 52,
+        "receive": 27
+      },
+      "bytesTransferred": null,
+      "topUrl": {
+        "url": "https://redsky.target.com/redsky_aggregations/v1/web_platform/nearby_stores_v1",
+        "noOfOccurrences": 1
+      },
+      "largest": {
+        "url": "https://redsky.target.com/redsky_aggregations/v1/web_platform/general_recommendations_placement_v1",
+        "bytes": 0
+      },
+      "largestCompressed": {
+        "url": "https://gbxgateway.dell.com/post/WEB/report"
+      },
+      "longest": {
+        "url": "https://target.scene7.com/is/content/Target/GUEST_ad24d0ff-62d6-4c7b-8b24-ae701e51b0f6",
+        "time": 369,
+        "timings": {
+          "blocked": 0,
+          "wait": 34,
+          "receive": 0,
+          "connect": 308
+        }
+      }
+    },
+    "document": {
+      "noOfRequests": 0
+    },
+    "font": {
+      "noOfRequests": 0
+    },
+    "image": {
+      "noOfRequests": 0
+    },
+    "style": {
+      "noOfRequests": 0
+    },
+    "script": {
+      "noOfRequests": 0
+    },
+    "xhr": {
+      "noOfRequests": 0
+    },
+    "other": {
+      "noOfRequests": 0
+    }
+  }
+}

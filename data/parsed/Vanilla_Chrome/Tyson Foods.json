@@ -1,0 +1,73 @@
+{
+  "pages": {
+    "noOfPages": 1,
+    "medianOnLoad": null,
+    "ninetyFifthOnLoad": null,
+    "pages": [
+      {
+        "url": "Tyson Foods",
+        "onLoad": null
+      }
+    ]
+  },
+  "requests": {
+    "all": {
+      "noOfRequests": 83,
+      "medianTime": 88,
+      "ninetyFifthTime": 341,
+      "medianTimings": {
+        "blocked": 0,
+        "wait": 35,
+        "receive": 0
+      },
+      "ninetyFifthTimings": {
+        "blocked": 0,
+        "wait": 82,
+        "receive": 37
+      },
+      "bytesTransferred": null,
+      "topUrl": {
+        "url": "https://www.youtube.com/youtubei/v1/log_event",
+        "noOfOccurrences": 3
+      },
+      "largest": {
+        "url": "https://www.youtube.com/youtubei/v1/log_event",
+        "bytes": 0
+      },
+      "largestCompressed": {
+        "url": "https://celebrus-prod.nationwide.com/6648/3642302763/XBW09WEA78JG/jsEvent.json"
+      },
+      "longest": {
+        "url": "https://cloud.typography.com/7091356/7473192/css/fonts.css",
+        "time": 553,
+        "timings": {
+          "blocked": 0,
+          "wait": 215,
+          "receive": 0,
+          "connect": 267
+        }
+      }
+    },
+    "document": {
+      "noOfRequests": 0
+    },
+    "font": {
+      "noOfRequests": 0
+    },
+    "image": {
+      "noOfRequests": 0
+    },
+    "style": {
+      "noOfRequests": 0
+    },
+    "script": {
+      "noOfRequests": 0
+    },
+    "xhr": {
+      "noOfRequests": 0
+    },
+    "other": {
+      "noOfRequests": 0
+    }
+  }
+}

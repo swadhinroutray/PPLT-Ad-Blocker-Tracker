@@ -1,0 +1,73 @@
+{
+  "pages": {
+    "noOfPages": 1,
+    "medianOnLoad": null,
+    "ninetyFifthOnLoad": null,
+    "pages": [
+      {
+        "url": "Aflac",
+        "onLoad": null
+      }
+    ]
+  },
+  "requests": {
+    "all": {
+      "noOfRequests": 145,
+      "medianTime": 36,
+      "ninetyFifthTime": 329,
+      "medianTimings": {
+        "blocked": -1,
+        "wait": 29,
+        "receive": 0
+      },
+      "ninetyFifthTimings": {
+        "blocked": 0,
+        "wait": 49,
+        "receive": 31
+      },
+      "bytesTransferred": null,
+      "topUrl": {
+        "url": "https://www.googletagmanager.com/gtag/js",
+        "noOfOccurrences": 3
+      },
+      "largest": {
+        "url": "https://cdn-aflac-v2.suth.digital/js/embed.js",
+        "bytes": 0
+      },
+      "largestCompressed": {
+        "url": "https://www.thehartford.com/rb_3905aa6f-4130-439f-b336-dd2af9fa40d4"
+      },
+      "longest": {
+        "url": "https://cdn-aflac-v2.suth.digital/js/embed.js",
+        "time": 412,
+        "timings": {
+          "blocked": 0,
+          "wait": 19,
+          "receive": 0,
+          "connect": 345
+        }
+      }
+    },
+    "document": {
+      "noOfRequests": 0
+    },
+    "font": {
+      "noOfRequests": 0
+    },
+    "image": {
+      "noOfRequests": 0
+    },
+    "style": {
+      "noOfRequests": 0
+    },
+    "script": {
+      "noOfRequests": 0
+    },
+    "xhr": {
+      "noOfRequests": 0
+    },
+    "other": {
+      "noOfRequests": 0
+    }
+  }
+}

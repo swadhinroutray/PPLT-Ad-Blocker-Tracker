@@ -1,0 +1,73 @@
+{
+  "pages": {
+    "noOfPages": 1,
+    "medianOnLoad": null,
+    "ninetyFifthOnLoad": null,
+    "pages": [
+      {
+        "url": "Pfizer",
+        "onLoad": null
+      }
+    ]
+  },
+  "requests": {
+    "all": {
+      "noOfRequests": 144,
+      "medianTime": 101,
+      "ninetyFifthTime": 247,
+      "medianTimings": {
+        "blocked": 0,
+        "wait": 31,
+        "receive": 0
+      },
+      "ninetyFifthTimings": {
+        "blocked": 0,
+        "wait": 77,
+        "receive": 39
+      },
+      "bytesTransferred": null,
+      "topUrl": {
+        "url": "https://secure.adnxs.com/px",
+        "noOfOccurrences": 5
+      },
+      "largest": {
+        "url": "https://pfizer.sc.omtrdc.net/b/ss/pfizeruspccprodpfizercom,pfizerglobalimpatientsprod,pfizerglobalimpatientsdev/1/JS-2.20.0/s33525646130331",
+        "bytes": 0
+      },
+      "largestCompressed": {
+        "url": "https://ddc.statefarm.com/privacy/v1/b/r.rnc"
+      },
+      "longest": {
+        "url": "https://cdn-v3.conductrics.com/ac-fAklXdWcPi/v3/agent-api/js/f-OZdNwLEeFD/dt-KMcFZ8tDyqfL1rUZS7jxuZZj2HQK3l",
+        "time": 534,
+        "timings": {
+          "blocked": 0,
+          "wait": 30,
+          "receive": 88,
+          "connect": 302
+        }
+      }
+    },
+    "document": {
+      "noOfRequests": 0
+    },
+    "font": {
+      "noOfRequests": 0
+    },
+    "image": {
+      "noOfRequests": 0
+    },
+    "style": {
+      "noOfRequests": 0
+    },
+    "script": {
+      "noOfRequests": 0
+    },
+    "xhr": {
+      "noOfRequests": 0
+    },
+    "other": {
+      "noOfRequests": 0
+    }
+  }
+}

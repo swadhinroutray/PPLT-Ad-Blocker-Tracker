@@ -1,0 +1,73 @@
+{
+  "pages": {
+    "noOfPages": 1,
+    "medianOnLoad": null,
+    "ninetyFifthOnLoad": null,
+    "pages": [
+      {
+        "url": "CHS",
+        "onLoad": null
+      }
+    ]
+  },
+  "requests": {
+    "all": {
+      "noOfRequests": 99,
+      "medianTime": 90,
+      "ninetyFifthTime": 574,
+      "medianTimings": {
+        "blocked": -1,
+        "wait": 40,
+        "receive": 0
+      },
+      "ninetyFifthTimings": {
+        "blocked": 0,
+        "wait": 222,
+        "receive": 121
+      },
+      "bytesTransferred": null,
+      "topUrl": {
+        "url": "https://fresnel.vimeocdn.com/add/player-stats",
+        "noOfOccurrences": 3
+      },
+      "largest": {
+        "url": "https://87vod-adaptive.akamaized.net/exp=1669934543~acl=%2Ff00ed657-fa48-4626-85d2-875e661a354e%2F%2A~hmac=80ce91bc9fc2266399668e5a3324c361076b38a350ad2b1bb348bfc61d82aa3c/f00ed657-fa48-4626-85d2-875e661a354e/sep/video/267e93d0/chop/segment-3.m4s",
+        "bytes": 0
+      },
+      "largestCompressed": {
+        "url": "https://www.chsinc.com/"
+      },
+      "longest": {
+        "url": "https://www.chsinc.com/",
+        "time": 1759,
+        "timings": {
+          "blocked": 0,
+          "wait": 204,
+          "receive": 36,
+          "connect": 288
+        }
+      }
+    },
+    "document": {
+      "noOfRequests": 0
+    },
+    "font": {
+      "noOfRequests": 0
+    },
+    "image": {
+      "noOfRequests": 0
+    },
+    "style": {
+      "noOfRequests": 0
+    },
+    "script": {
+      "noOfRequests": 0
+    },
+    "xhr": {
+      "noOfRequests": 0
+    },
+    "other": {
+      "noOfRequests": 0
+    }
+  }
+}

@@ -1,0 +1,73 @@
+{
+  "pages": {
+    "noOfPages": 1,
+    "medianOnLoad": null,
+    "ninetyFifthOnLoad": null,
+    "pages": [
+      {
+        "url": "Phillips 66",
+        "onLoad": null
+      }
+    ]
+  },
+  "requests": {
+    "all": {
+      "noOfRequests": 49,
+      "medianTime": 34,
+      "ninetyFifthTime": 426,
+      "medianTimings": {
+        "blocked": -1,
+        "wait": 24,
+        "receive": 6
+      },
+      "ninetyFifthTimings": {
+        "blocked": 0,
+        "wait": 101,
+        "receive": 37
+      },
+      "bytesTransferred": null,
+      "topUrl": {
+        "url": "https://phillips66.widen.net/content/xykicyrd3z/jpeg/1718_01A7692_hero_CLweb.jpeg",
+        "noOfOccurrences": 1
+      },
+      "largest": {
+        "url": "https://www.phillips66.com/wp-content/themes/phillips66/dist/images/favicon-32x32.png",
+        "bytes": 0
+      },
+      "largestCompressed": {
+        "url": "https://www.phillips66.com/"
+      },
+      "longest": {
+        "url": "https://phillips66.widen.net/content/dkktramowo/mp4/22-0097_5_Homepage-Video-Oct-10-31.mp4",
+        "time": 926,
+        "timings": {
+          "blocked": 0,
+          "wait": 526,
+          "receive": 0,
+          "connect": 344
+        }
+      }
+    },
+    "document": {
+      "noOfRequests": 0
+    },
+    "font": {
+      "noOfRequests": 0
+    },
+    "image": {
+      "noOfRequests": 0
+    },
+    "style": {
+      "noOfRequests": 0
+    },
+    "script": {
+      "noOfRequests": 0
+    },
+    "xhr": {
+      "noOfRequests": 0
+    },
+    "other": {
+      "noOfRequests": 0
+    }
+  }
+}

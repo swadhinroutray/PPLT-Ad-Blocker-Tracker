@@ -1,0 +1,73 @@
+{
+  "pages": {
+    "noOfPages": 1,
+    "medianOnLoad": null,
+    "ninetyFifthOnLoad": null,
+    "pages": [
+      {
+        "url": "DXC Technology",
+        "onLoad": null
+      }
+    ]
+  },
+  "requests": {
+    "all": {
+      "noOfRequests": 156,
+      "medianTime": 40,
+      "ninetyFifthTime": 290,
+      "medianTimings": {
+        "blocked": -1,
+        "wait": 30,
+        "receive": 1
+      },
+      "ninetyFifthTimings": {
+        "blocked": 0,
+        "wait": 171,
+        "receive": 22
+      },
+      "bytesTransferred": null,
+      "topUrl": {
+        "url": "https://dxc.com/content/dam/datafiles/fonts/fonts.css",
+        "noOfOccurrences": 1
+      },
+      "largest": {
+        "url": "https://publish-p31504-e108941.adobeaemcloud.com/etc.clientlibs/dxc/clientlibs/clientlib-site/resources/fonts/open-sans-v34-latin-800.ttf",
+        "bytes": 0
+      },
+      "largestCompressed": {
+        "url": "https://dxc.com/"
+      },
+      "longest": {
+        "url": "https://publish-p31504-e108941.adobeaemcloud.com/etc/cloudsettings.kernel.js/libs/settings/cloudsettings/legacy/contexthub",
+        "time": 4063,
+        "timings": {
+          "blocked": -1,
+          "wait": 3938,
+          "receive": 125,
+          "connect": -1
+        }
+      }
+    },
+    "document": {
+      "noOfRequests": 0
+    },
+    "font": {
+      "noOfRequests": 0
+    },
+    "image": {
+      "noOfRequests": 0
+    },
+    "style": {
+      "noOfRequests": 0
+    },
+    "script": {
+      "noOfRequests": 0
+    },
+    "xhr": {
+      "noOfRequests": 0
+    },
+    "other": {
+      "noOfRequests": 0
+    }
+  }
+}

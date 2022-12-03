@@ -1,0 +1,73 @@
+{
+  "pages": {
+    "noOfPages": 1,
+    "medianOnLoad": null,
+    "ninetyFifthOnLoad": null,
+    "pages": [
+      {
+        "url": "Bank of America",
+        "onLoad": null
+      }
+    ]
+  },
+  "requests": {
+    "all": {
+      "noOfRequests": 167,
+      "medianTime": 49,
+      "ninetyFifthTime": 419,
+      "medianTimings": {
+        "blocked": -1,
+        "wait": 26,
+        "receive": 0
+      },
+      "ninetyFifthTimings": {
+        "blocked": 0,
+        "wait": 91,
+        "receive": 42
+      },
+      "bytesTransferred": null,
+      "topUrl": {
+        "url": "https://target.bankofamerica.com/m2/bankofamerica/mbox/json",
+        "noOfOccurrences": 7
+      },
+      "largest": {
+        "url": "https://awuseb.advanced-web-analytics.com/30306/nuadke.html",
+        "bytes": 0
+      },
+      "largestCompressed": {
+        "url": "https://bat.bing.com/action/0"
+      },
+      "longest": {
+        "url": "https://www.bankofamerica.com/",
+        "time": 726,
+        "timings": {
+          "blocked": 0,
+          "wait": 83,
+          "receive": 130,
+          "connect": 384
+        }
+      }
+    },
+    "document": {
+      "noOfRequests": 0
+    },
+    "font": {
+      "noOfRequests": 0
+    },
+    "image": {
+      "noOfRequests": 0
+    },
+    "style": {
+      "noOfRequests": 0
+    },
+    "script": {
+      "noOfRequests": 0
+    },
+    "xhr": {
+      "noOfRequests": 0
+    },
+    "other": {
+      "noOfRequests": 0
+    }
+  }
+}

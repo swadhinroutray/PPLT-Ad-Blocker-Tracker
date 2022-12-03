@@ -1,0 +1,73 @@
+{
+  "pages": {
+    "noOfPages": 1,
+    "medianOnLoad": null,
+    "ninetyFifthOnLoad": null,
+    "pages": [
+      {
+        "url": "Moderna",
+        "onLoad": null
+      }
+    ]
+  },
+  "requests": {
+    "all": {
+      "noOfRequests": 49,
+      "medianTime": 35,
+      "ninetyFifthTime": 403,
+      "medianTimings": {
+        "blocked": -1,
+        "wait": 29,
+        "receive": 0
+      },
+      "ninetyFifthTimings": {
+        "blocked": 0,
+        "wait": 108,
+        "receive": 40
+      },
+      "bytesTransferred": null,
+      "topUrl": {
+        "url": "https://68794910.akstat.io/",
+        "noOfOccurrences": 1
+      },
+      "largest": {
+        "url": "https://tags.tiqcdn.com/utag/tiqapp/utag.v.js",
+        "bytes": 0
+      },
+      "largestCompressed": {
+        "url": "https://68794910.akstat.io/"
+      },
+      "longest": {
+        "url": "https://www.modernatx.com/",
+        "time": 1008,
+        "timings": {
+          "blocked": 0,
+          "wait": 701,
+          "receive": 44,
+          "connect": 223
+        }
+      }
+    },
+    "document": {
+      "noOfRequests": 0
+    },
+    "font": {
+      "noOfRequests": 0
+    },
+    "image": {
+      "noOfRequests": 0
+    },
+    "style": {
+      "noOfRequests": 0
+    },
+    "script": {
+      "noOfRequests": 0
+    },
+    "xhr": {
+      "noOfRequests": 0
+    },
+    "other": {
+      "noOfRequests": 0
+    }
+  }
+}

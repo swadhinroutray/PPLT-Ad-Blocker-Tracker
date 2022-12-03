@@ -1,0 +1,73 @@
+{
+  "pages": {
+    "noOfPages": 1,
+    "medianOnLoad": null,
+    "ninetyFifthOnLoad": null,
+    "pages": [
+      {
+        "url": "PBF Energy",
+        "onLoad": null
+      }
+    ]
+  },
+  "requests": {
+    "all": {
+      "noOfRequests": 44,
+      "medianTime": 88,
+      "ninetyFifthTime": 374,
+      "medianTimings": {
+        "blocked": -1,
+        "wait": 83,
+        "receive": 0
+      },
+      "ninetyFifthTimings": {
+        "blocked": 0,
+        "wait": 160,
+        "receive": 145
+      },
+      "bytesTransferred": null,
+      "topUrl": {
+        "url": "https://use.typekit.net/af/705e94/00000000000000003b9b3062/27/l",
+        "noOfOccurrences": 1
+      },
+      "largest": {
+        "url": "https://www.pbfenergy.com/wp-content/uploads/2022/01/cropped-PBF-R_2Clr-favicon-32x32.png",
+        "bytes": 0
+      },
+      "largestCompressed": {
+        "url": "https://nav-edge.smartscreen.microsoft.com/api/browser/edge/navigate/3"
+      },
+      "longest": {
+        "url": "https://www.pbfenergy.com/",
+        "time": 1017,
+        "timings": {
+          "blocked": 0,
+          "wait": 494,
+          "receive": 0,
+          "connect": 446
+        }
+      }
+    },
+    "document": {
+      "noOfRequests": 0
+    },
+    "font": {
+      "noOfRequests": 0
+    },
+    "image": {
+      "noOfRequests": 0
+    },
+    "style": {
+      "noOfRequests": 0
+    },
+    "script": {
+      "noOfRequests": 0
+    },
+    "xhr": {
+      "noOfRequests": 0
+    },
+    "other": {
+      "noOfRequests": 0
+    }
+  }
+}

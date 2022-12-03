@@ -1,0 +1,73 @@
+{
+  "pages": {
+    "noOfPages": 1,
+    "medianOnLoad": null,
+    "ninetyFifthOnLoad": null,
+    "pages": [
+      {
+        "url": "AltriaGroup",
+        "onLoad": null
+      }
+    ]
+  },
+  "requests": {
+    "all": {
+      "noOfRequests": 52,
+      "medianTime": 45,
+      "ninetyFifthTime": 245,
+      "medianTimings": {
+        "blocked": -1,
+        "wait": 29,
+        "receive": 4
+      },
+      "ninetyFifthTimings": {
+        "blocked": 0,
+        "wait": 62,
+        "receive": 129
+      },
+      "bytesTransferred": null,
+      "topUrl": {
+        "url": "https://www.altria.com/-/media/Project/Altria/Altria/home/altria-favicon.ico",
+        "noOfOccurrences": 0
+      },
+      "largest": {
+        "url": "https://www.altria.com/-/media/Project/Altria/Altria/home/altria-favicon.ico",
+        "bytes": 0
+      },
+      "largestCompressed": {
+        "url": "https://www.altria.com/"
+      },
+      "longest": {
+        "url": "https://www.altria.com/-/media/Project/Altria/Altria/home/Moving-Beyond-Smoking-hp.mp4",
+        "time": 3271,
+        "timings": {
+          "blocked": -1,
+          "wait": 18,
+          "receive": 3252,
+          "connect": -1
+        }
+      }
+    },
+    "document": {
+      "noOfRequests": 0
+    },
+    "font": {
+      "noOfRequests": 0
+    },
+    "image": {
+      "noOfRequests": 0
+    },
+    "style": {
+      "noOfRequests": 0
+    },
+    "script": {
+      "noOfRequests": 0
+    },
+    "xhr": {
+      "noOfRequests": 0
+    },
+    "other": {
+      "noOfRequests": 0
+    }
+  }
+}

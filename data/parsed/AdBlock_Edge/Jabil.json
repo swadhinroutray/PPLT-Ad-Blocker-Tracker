@@ -1,0 +1,73 @@
+{
+  "pages": {
+    "noOfPages": 1,
+    "medianOnLoad": null,
+    "ninetyFifthOnLoad": null,
+    "pages": [
+      {
+        "url": "Jabil",
+        "onLoad": null
+      }
+    ]
+  },
+  "requests": {
+    "all": {
+      "noOfRequests": 124,
+      "medianTime": 99,
+      "ninetyFifthTime": 421,
+      "medianTimings": {
+        "blocked": -1,
+        "wait": 29,
+        "receive": 0
+      },
+      "ninetyFifthTimings": {
+        "blocked": 0,
+        "wait": 127,
+        "receive": 106
+      },
+      "bytesTransferred": null,
+      "topUrl": {
+        "url": "https://b.6sc.co/v1/beacon/img.gif",
+        "noOfOccurrences": 1
+      },
+      "largest": {
+        "url": "https://b.6sc.co/v1/beacon/img.gif",
+        "bytes": 0
+      },
+      "largestCompressed": {
+        "url": "https://nav-edge.smartscreen.microsoft.com/api/browser/edge/navigate/3"
+      },
+      "longest": {
+        "url": "https://snid.snitcher.com/8414092.js",
+        "time": 929,
+        "timings": {
+          "blocked": 0,
+          "wait": 630,
+          "receive": 0,
+          "connect": 261
+        }
+      }
+    },
+    "document": {
+      "noOfRequests": 0
+    },
+    "font": {
+      "noOfRequests": 0
+    },
+    "image": {
+      "noOfRequests": 0
+    },
+    "style": {
+      "noOfRequests": 0
+    },
+    "script": {
+      "noOfRequests": 0
+    },
+    "xhr": {
+      "noOfRequests": 0
+    },
+    "other": {
+      "noOfRequests": 0
+    }
+  }
+}

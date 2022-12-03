@@ -1,0 +1,73 @@
+{
+  "pages": {
+    "noOfPages": 1,
+    "medianOnLoad": null,
+    "ninetyFifthOnLoad": null,
+    "pages": [
+      {
+        "url": "Freddie Mac",
+        "onLoad": null
+      }
+    ]
+  },
+  "requests": {
+    "all": {
+      "noOfRequests": 34,
+      "medianTime": 91,
+      "ninetyFifthTime": 324,
+      "medianTimings": {
+        "blocked": -1,
+        "wait": 31,
+        "receive": 5
+      },
+      "ninetyFifthTimings": {
+        "blocked": 0,
+        "wait": 93,
+        "receive": 68
+      },
+      "bytesTransferred": null,
+      "topUrl": {
+        "url": "https://www.freddiemac.com/sites/g/files/ynjofi111/themes/site/fm_theme/favicon.ico",
+        "noOfOccurrences": 0
+      },
+      "largest": {
+        "url": "https://www.freddiemac.com/sites/g/files/ynjofi111/themes/site/fm_theme/favicon.ico",
+        "bytes": 0
+      },
+      "largestCompressed": {
+        "url": "https://www.freddiemac.com/"
+      },
+      "longest": {
+        "url": "https://www.freddiemac.com/",
+        "time": 538,
+        "timings": {
+          "blocked": 0,
+          "wait": 46,
+          "receive": 4,
+          "connect": 431
+        }
+      }
+    },
+    "document": {
+      "noOfRequests": 0
+    },
+    "font": {
+      "noOfRequests": 0
+    },
+    "image": {
+      "noOfRequests": 0
+    },
+    "style": {
+      "noOfRequests": 0
+    },
+    "script": {
+      "noOfRequests": 0
+    },
+    "xhr": {
+      "noOfRequests": 0
+    },
+    "other": {
+      "noOfRequests": 0
+    }
+  }
+}

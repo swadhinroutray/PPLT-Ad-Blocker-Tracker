@@ -1,0 +1,73 @@
+{
+  "pages": {
+    "noOfPages": 1,
+    "medianOnLoad": null,
+    "ninetyFifthOnLoad": null,
+    "pages": [
+      {
+        "url": "McDonald's",
+        "onLoad": null
+      }
+    ]
+  },
+  "requests": {
+    "all": {
+      "noOfRequests": 54,
+      "medianTime": 46,
+      "ninetyFifthTime": 283,
+      "medianTimings": {
+        "blocked": -1,
+        "wait": 31,
+        "receive": 0
+      },
+      "ninetyFifthTimings": {
+        "blocked": 0,
+        "wait": 122,
+        "receive": 52
+      },
+      "bytesTransferred": null,
+      "topUrl": {
+        "url": "https://www.mcdonalds.com/ZVNyTC91i/J/W/8BmTMNKAQXepZkKM/YO5ELbXk3GEX/T1ImORN2cQE/MyYTXG/ALCFEB",
+        "noOfOccurrences": 4
+      },
+      "largest": {
+        "url": "https://www.mcdonalds.com/ZVNyTC91i/J/W/8BmTMNKAQXepZkKM/YO5ELbXk3GEX/T1ImORN2cQE/MyYTXG/ALCFEB",
+        "bytes": 0
+      },
+      "largestCompressed": {
+        "url": "https://www.paccar.com/fonts/flexslider-icon.woff"
+      },
+      "longest": {
+        "url": "https://maps.google.com/maps/api/js",
+        "time": 400,
+        "timings": {
+          "blocked": 0,
+          "wait": 46,
+          "receive": 47,
+          "connect": 272
+        }
+      }
+    },
+    "document": {
+      "noOfRequests": 0
+    },
+    "font": {
+      "noOfRequests": 0
+    },
+    "image": {
+      "noOfRequests": 0
+    },
+    "style": {
+      "noOfRequests": 0
+    },
+    "script": {
+      "noOfRequests": 0
+    },
+    "xhr": {
+      "noOfRequests": 0
+    },
+    "other": {
+      "noOfRequests": 0
+    }
+  }
+}

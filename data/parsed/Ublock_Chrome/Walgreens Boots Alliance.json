@@ -1,0 +1,73 @@
+{
+  "pages": {
+    "noOfPages": 1,
+    "medianOnLoad": null,
+    "ninetyFifthOnLoad": null,
+    "pages": [
+      {
+        "url": "Walgreens Boots Alliance",
+        "onLoad": null
+      }
+    ]
+  },
+  "requests": {
+    "all": {
+      "noOfRequests": 41,
+      "medianTime": 44,
+      "ninetyFifthTime": 219,
+      "medianTimings": {
+        "blocked": -1,
+        "wait": 32,
+        "receive": 0
+      },
+      "ninetyFifthTimings": {
+        "blocked": 0,
+        "wait": 92,
+        "receive": 30
+      },
+      "bytesTransferred": null,
+      "topUrl": {
+        "url": "https://www.walgreensbootsalliance.com/sites/www/files/css/css__nWpJQYqUQYQXcfL9L8LYJlE_HYvHzs9P_3EKnq0qVc.css",
+        "noOfOccurrences": 1
+      },
+      "largest": {
+        "url": "https://www.walgreensbootsalliance.com/sites/www/files/css/css__nWpJQYqUQYQXcfL9L8LYJlE_HYvHzs9P_3EKnq0qVc.css",
+        "bytes": 0
+      },
+      "largestCompressed": {
+        "url": "https://images.thdstatic.com/productImages/fbd87bc9-29bc-42aa-8798-bd622cf0b022/svn/dewalt-outdoor-power-batteries-chargers-dcb246ck-64_300.jpg"
+      },
+      "longest": {
+        "url": "https://www.walgreensbootsalliance.com/",
+        "time": 457,
+        "timings": {
+          "blocked": 0,
+          "wait": 46,
+          "receive": 6,
+          "connect": 332
+        }
+      }
+    },
+    "document": {
+      "noOfRequests": 0
+    },
+    "font": {
+      "noOfRequests": 0
+    },
+    "image": {
+      "noOfRequests": 0
+    },
+    "style": {
+      "noOfRequests": 0
+    },
+    "script": {
+      "noOfRequests": 0
+    },
+    "xhr": {
+      "noOfRequests": 0
+    },
+    "other": {
+      "noOfRequests": 0
+    }
+  }
+}

@@ -1,0 +1,73 @@
+{
+  "pages": {
+    "noOfPages": 1,
+    "medianOnLoad": null,
+    "ninetyFifthOnLoad": null,
+    "pages": [
+      {
+        "url": "ConocoPhillips",
+        "onLoad": null
+      }
+    ]
+  },
+  "requests": {
+    "all": {
+      "noOfRequests": 98,
+      "medianTime": 77,
+      "ninetyFifthTime": 1073,
+      "medianTimings": {
+        "blocked": -1,
+        "wait": 27,
+        "receive": 4
+      },
+      "ninetyFifthTimings": {
+        "blocked": 0,
+        "wait": 97,
+        "receive": 60
+      },
+      "bytesTransferred": null,
+      "topUrl": {
+        "url": "https://fresnel.vimeocdn.com/add/player-stats",
+        "noOfOccurrences": 4
+      },
+      "largest": {
+        "url": "https://113vod-adaptive.akamaized.net/exp=1670002634~acl=%2F9c424f66-234e-403b-97d2-49192390f370%2F%2A~hmac=90b36000d293fc0649ef1a9dbeb6c7c22f5451dfff1e4d5fd816b57f38f4c22b/9c424f66-234e-403b-97d2-49192390f370/sep/video/5a3d5cb1/chop/segment-3.m4s",
+        "bytes": 0
+      },
+      "largestCompressed": {
+        "url": "https://www.conocophillips.com/"
+      },
+      "longest": {
+        "url": "https://player.vimeo.com/api/player.js",
+        "time": 1379,
+        "timings": {
+          "blocked": 0,
+          "wait": 42,
+          "receive": 0,
+          "connect": 1336
+        }
+      }
+    },
+    "document": {
+      "noOfRequests": 0
+    },
+    "font": {
+      "noOfRequests": 0
+    },
+    "image": {
+      "noOfRequests": 0
+    },
+    "style": {
+      "noOfRequests": 0
+    },
+    "script": {
+      "noOfRequests": 0
+    },
+    "xhr": {
+      "noOfRequests": 0
+    },
+    "other": {
+      "noOfRequests": 0
+    }
+  }
+}

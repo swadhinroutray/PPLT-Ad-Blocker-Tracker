@@ -1,0 +1,73 @@
+{
+  "pages": {
+    "noOfPages": 1,
+    "medianOnLoad": null,
+    "ninetyFifthOnLoad": null,
+    "pages": [
+      {
+        "url": "CarMax",
+        "onLoad": null
+      }
+    ]
+  },
+  "requests": {
+    "all": {
+      "noOfRequests": 58,
+      "medianTime": 69,
+      "ninetyFifthTime": 2170,
+      "medianTimings": {
+        "blocked": -1,
+        "wait": 37,
+        "receive": 0
+      },
+      "ninetyFifthTimings": {
+        "blocked": 0,
+        "wait": 2042,
+        "receive": 43
+      },
+      "bytesTransferred": null,
+      "topUrl": {
+        "url": "https://www.carmax.com/QpOn09XHdUOr8ZZKIw/5uNupzXi9ziz/dAkaXGd6/emQUaT9o/KREB",
+        "noOfOccurrences": 4
+      },
+      "largest": {
+        "url": "https://www.google.com/ads/ga-audiences",
+        "bytes": 0
+      },
+      "largestCompressed": {
+        "url": "https://accounts.google.com/ListAccounts"
+      },
+      "longest": {
+        "url": "https://content-images.carmax.com/qeontfmijmzv/4nBd3mtNvzynPLY2F1BH0D/5fee78935e51e6f496287011be7f9515/536601_TopUsedCarBuyingFinanceQuestions_Hero-abstract_800x600.jpg",
+        "time": 3146,
+        "timings": {
+          "blocked": 0,
+          "wait": 3049,
+          "receive": 30,
+          "connect": 67
+        }
+      }
+    },
+    "document": {
+      "noOfRequests": 0
+    },
+    "font": {
+      "noOfRequests": 0
+    },
+    "image": {
+      "noOfRequests": 0
+    },
+    "style": {
+      "noOfRequests": 0
+    },
+    "script": {
+      "noOfRequests": 0
+    },
+    "xhr": {
+      "noOfRequests": 0
+    },
+    "other": {
+      "noOfRequests": 0
+    }
+  }
+}

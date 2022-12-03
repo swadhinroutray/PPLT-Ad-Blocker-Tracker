@@ -1,0 +1,73 @@
+{
+  "pages": {
+    "noOfPages": 1,
+    "medianOnLoad": null,
+    "ninetyFifthOnLoad": null,
+    "pages": [
+      {
+        "url": "Johnson & Johnson",
+        "onLoad": null
+      }
+    ]
+  },
+  "requests": {
+    "all": {
+      "noOfRequests": 95,
+      "medianTime": 27,
+      "ninetyFifthTime": 272,
+      "medianTimings": {
+        "blocked": -1,
+        "wait": 25,
+        "receive": 0
+      },
+      "ninetyFifthTimings": {
+        "blocked": 0,
+        "wait": 42,
+        "receive": 60
+      },
+      "bytesTransferred": null,
+      "topUrl": {
+        "url": "https://connect.facebook.net/en_US/sdk.js",
+        "noOfOccurrences": 1
+      },
+      "largest": {
+        "url": "https://www.jnj.com/favicon-32x32.png",
+        "bytes": 0
+      },
+      "largestCompressed": {
+        "url": "https://www.bankofamerica.com/spa/widgets/loader/5.1.2/index.js"
+      },
+      "longest": {
+        "url": "https://secure.bankofamerica.com/login/rest/sas/sparta/v2/iac",
+        "time": 568,
+        "timings": {
+          "blocked": 0,
+          "wait": 36,
+          "receive": 2,
+          "connect": 331
+        }
+      }
+    },
+    "document": {
+      "noOfRequests": 0
+    },
+    "font": {
+      "noOfRequests": 0
+    },
+    "image": {
+      "noOfRequests": 0
+    },
+    "style": {
+      "noOfRequests": 0
+    },
+    "script": {
+      "noOfRequests": 0
+    },
+    "xhr": {
+      "noOfRequests": 0
+    },
+    "other": {
+      "noOfRequests": 0
+    }
+  }
+}
