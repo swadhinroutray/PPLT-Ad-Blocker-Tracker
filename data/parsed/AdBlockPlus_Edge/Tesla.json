@@ -1,0 +1,73 @@
+{
+  "pages": {
+    "noOfPages": 1,
+    "medianOnLoad": null,
+    "ninetyFifthOnLoad": null,
+    "pages": [
+      {
+        "url": "Tesla",
+        "onLoad": null
+      }
+    ]
+  },
+  "requests": {
+    "all": {
+      "noOfRequests": 41,
+      "medianTime": 145,
+      "ninetyFifthTime": 489,
+      "medianTimings": {
+        "blocked": 0,
+        "wait": 34,
+        "receive": 16
+      },
+      "ninetyFifthTimings": {
+        "blocked": 0,
+        "wait": 129,
+        "receive": 158
+      },
+      "bytesTransferred": null,
+      "topUrl": {
+        "url": "https://www.tesla.com/api/tesla/footer/html/v1",
+        "noOfOccurrences": 1
+      },
+      "largest": {
+        "url": "https://www.bing.com/api/shopping/v1/item/search",
+        "bytes": 0
+      },
+      "largestCompressed": {
+        "url": "https://www.dow.com/content/dam/dcc/images/ContentImages/global/global-1/noav-login-address-blur.jpg"
+      },
+      "longest": {
+        "url": "https://tesla-cdn.thron.com/delivery/public/image/tesla/16b04537-a4be-4bf9-8637-86862a858da8/bvlatuR/std/2880x1800/_25-HP-SolarPanels-D",
+        "time": 655,
+        "timings": {
+          "blocked": 0,
+          "wait": 87,
+          "receive": 266,
+          "connect": 240
+        }
+      }
+    },
+    "document": {
+      "noOfRequests": 0
+    },
+    "font": {
+      "noOfRequests": 0
+    },
+    "image": {
+      "noOfRequests": 0
+    },
+    "style": {
+      "noOfRequests": 0
+    },
+    "script": {
+      "noOfRequests": 0
+    },
+    "xhr": {
+      "noOfRequests": 0
+    },
+    "other": {
+      "noOfRequests": 0
+    }
+  }
+}

@@ -1,0 +1,73 @@
+{
+  "pages": {
+    "noOfPages": 1,
+    "medianOnLoad": null,
+    "ninetyFifthOnLoad": null,
+    "pages": [
+      {
+        "url": "Dollar Tree",
+        "onLoad": null
+      }
+    ]
+  },
+  "requests": {
+    "all": {
+      "noOfRequests": 163,
+      "medianTime": 96,
+      "ninetyFifthTime": 364,
+      "medianTimings": {
+        "blocked": -1,
+        "wait": 36,
+        "receive": 0
+      },
+      "ninetyFifthTimings": {
+        "blocked": 0,
+        "wait": 274,
+        "receive": 28
+      },
+      "bytesTransferred": null,
+      "topUrl": {
+        "url": "https://api.slippymap.com/rest",
+        "noOfOccurrences": 1
+      },
+      "largest": {
+        "url": "https://fonts.gstatic.com/s/anton/v23/1Ptgg87LROyAm3Kz-C8CSKlv.woff2",
+        "bytes": 0
+      },
+      "largestCompressed": {
+        "url": "https://www.googleadservices.com/pagead/conversion.js"
+      },
+      "longest": {
+        "url": "https://visit-prod-us.occa.ocs.oraclecloud.com/Visit/js/oracleunifiedvisit.js",
+        "time": 690,
+        "timings": {
+          "blocked": 0,
+          "wait": 205,
+          "receive": 0,
+          "connect": 410
+        }
+      }
+    },
+    "document": {
+      "noOfRequests": 0
+    },
+    "font": {
+      "noOfRequests": 0
+    },
+    "image": {
+      "noOfRequests": 0
+    },
+    "style": {
+      "noOfRequests": 0
+    },
+    "script": {
+      "noOfRequests": 0
+    },
+    "xhr": {
+      "noOfRequests": 0
+    },
+    "other": {
+      "noOfRequests": 0
+    }
+  }
+}

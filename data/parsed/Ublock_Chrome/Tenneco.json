@@ -1,0 +1,73 @@
+{
+  "pages": {
+    "noOfPages": 1,
+    "medianOnLoad": null,
+    "ninetyFifthOnLoad": null,
+    "pages": [
+      {
+        "url": "Tenneco",
+        "onLoad": null
+      }
+    ]
+  },
+  "requests": {
+    "all": {
+      "noOfRequests": 14,
+      "medianTime": 207,
+      "ninetyFifthTime": 891,
+      "medianTimings": {
+        "blocked": 0,
+        "wait": 53,
+        "receive": 22
+      },
+      "ninetyFifthTimings": {
+        "blocked": 0,
+        "wait": 128,
+        "receive": 695
+      },
+      "bytesTransferred": null,
+      "topUrl": {
+        "url": "https://www.tenneco.com/ScriptResource.axd",
+        "noOfOccurrences": 2
+      },
+      "largest": {
+        "url": "https://www.tenneco.com/favicon.ico",
+        "bytes": 0
+      },
+      "largestCompressed": {
+        "url": "https://www.tenneco.com/"
+      },
+      "longest": {
+        "url": "https://www.tenneco.com/images/default-source/backgrounds/news-footer.jpg",
+        "time": 940,
+        "timings": {
+          "blocked": -1,
+          "wait": 61,
+          "receive": 878,
+          "connect": -1
+        }
+      }
+    },
+    "document": {
+      "noOfRequests": 0
+    },
+    "font": {
+      "noOfRequests": 0
+    },
+    "image": {
+      "noOfRequests": 0
+    },
+    "style": {
+      "noOfRequests": 0
+    },
+    "script": {
+      "noOfRequests": 0
+    },
+    "xhr": {
+      "noOfRequests": 0
+    },
+    "other": {
+      "noOfRequests": 0
+    }
+  }
+}

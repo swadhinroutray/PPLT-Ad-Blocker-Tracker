@@ -1,0 +1,73 @@
+{
+  "pages": {
+    "noOfPages": 1,
+    "medianOnLoad": null,
+    "ninetyFifthOnLoad": null,
+    "pages": [
+      {
+        "url": "Tesla",
+        "onLoad": null
+      }
+    ]
+  },
+  "requests": {
+    "all": {
+      "noOfRequests": 25,
+      "medianTime": 66,
+      "ninetyFifthTime": 878,
+      "medianTimings": {
+        "blocked": -1,
+        "wait": 33,
+        "receive": 9
+      },
+      "ninetyFifthTimings": {
+        "blocked": 0,
+        "wait": 339,
+        "receive": 168
+      },
+      "bytesTransferred": null,
+      "topUrl": {
+        "url": "https://www.tesla.com/api/tesla/header/v1_1",
+        "noOfOccurrences": 1
+      },
+      "largest": {
+        "url": "https://www.tesla.com/themes/custom/tesla_frontend/assets/favicons/favicon.ico",
+        "bytes": 0
+      },
+      "largestCompressed": {
+        "url": "https://www.tesla.com/"
+      },
+      "longest": {
+        "url": "https://tesla-cdn.thron.com/delivery/public/image/tesla/8e2df1b9-a4bf-4eb9-beec-2cf5cc77fca0/bvlatuR/std/2880x2400/Desktop-ModelY",
+        "time": 952,
+        "timings": {
+          "blocked": 0,
+          "wait": 368,
+          "receive": 237,
+          "connect": 259
+        }
+      }
+    },
+    "document": {
+      "noOfRequests": 0
+    },
+    "font": {
+      "noOfRequests": 0
+    },
+    "image": {
+      "noOfRequests": 0
+    },
+    "style": {
+      "noOfRequests": 0
+    },
+    "script": {
+      "noOfRequests": 0
+    },
+    "xhr": {
+      "noOfRequests": 0
+    },
+    "other": {
+      "noOfRequests": 0
+    }
+  }
+}

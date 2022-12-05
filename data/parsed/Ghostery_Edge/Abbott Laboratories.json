@@ -1,0 +1,73 @@
+{
+  "pages": {
+    "noOfPages": 1,
+    "medianOnLoad": null,
+    "ninetyFifthOnLoad": null,
+    "pages": [
+      {
+        "url": "Abbott Laboratories",
+        "onLoad": null
+      }
+    ]
+  },
+  "requests": {
+    "all": {
+      "noOfRequests": 184,
+      "medianTime": 60,
+      "ninetyFifthTime": 338,
+      "medianTimings": {
+        "blocked": -1,
+        "wait": 26,
+        "receive": 0
+      },
+      "ninetyFifthTimings": {
+        "blocked": 0,
+        "wait": 50,
+        "receive": 31
+      },
+      "bytesTransferred": null,
+      "topUrl": {
+        "url": "https://abbott.nanorep.co/api/conversation/v2/statement",
+        "noOfOccurrences": 1
+      },
+      "largest": {
+        "url": "https://edge.microsoft.com/autofillservice/v1/pages/ChVDaHJvbWUvMTA3LjAuNTMwNC4xNTASEAkA5dvUImAgnhIFDZFhlU4=",
+        "bytes": 0
+      },
+      "largestCompressed": {
+        "url": "https://tms.americanexpress.com/amex/prod/code/507966378fefe792d5d3027127fd8ae1.js"
+      },
+      "longest": {
+        "url": "https://www.abbott.com/etc/designs/abbott/foreseeprod.min.599bdc6966f7e6292c06d0ff1d38a42b.js",
+        "time": 647,
+        "timings": {
+          "blocked": 0,
+          "wait": 22,
+          "receive": 0,
+          "connect": 432
+        }
+      }
+    },
+    "document": {
+      "noOfRequests": 0
+    },
+    "font": {
+      "noOfRequests": 0
+    },
+    "image": {
+      "noOfRequests": 0
+    },
+    "style": {
+      "noOfRequests": 0
+    },
+    "script": {
+      "noOfRequests": 0
+    },
+    "xhr": {
+      "noOfRequests": 0
+    },
+    "other": {
+      "noOfRequests": 0
+    }
+  }
+}

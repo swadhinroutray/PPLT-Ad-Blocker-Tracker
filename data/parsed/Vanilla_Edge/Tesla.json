@@ -1,0 +1,73 @@
+{
+  "pages": {
+    "noOfPages": 1,
+    "medianOnLoad": null,
+    "ninetyFifthOnLoad": null,
+    "pages": [
+      {
+        "url": "Tesla",
+        "onLoad": null
+      }
+    ]
+  },
+  "requests": {
+    "all": {
+      "noOfRequests": 44,
+      "medianTime": 138,
+      "ninetyFifthTime": 513,
+      "medianTimings": {
+        "blocked": 0,
+        "wait": 41,
+        "receive": 5
+      },
+      "ninetyFifthTimings": {
+        "blocked": 0,
+        "wait": 357,
+        "receive": 147
+      },
+      "bytesTransferred": null,
+      "topUrl": {
+        "url": "https://www.tesla.com/api/tesla/header/v1_1",
+        "noOfOccurrences": 1
+      },
+      "largest": {
+        "url": "https://www.bing.com/api/shopping/v1/item/search",
+        "bytes": 0
+      },
+      "largestCompressed": {
+        "url": "https://www.dow.com/content/dam/dcc/images/heroes/homepage/homepage-3/dow_60033394656-home-recycling-in-store-v2-1200x400.jpg"
+      },
+      "longest": {
+        "url": "https://tesla-cdn.thron.com/delivery/public/image/tesla/ddc135ed-1638-40fb-8ab1-f8045059ecef/bvlatuR/std/4096x2560/Homepage-Model-X-Desktop-LHD",
+        "time": 545,
+        "timings": {
+          "blocked": 0,
+          "wait": 41,
+          "receive": 275,
+          "connect": 167
+        }
+      }
+    },
+    "document": {
+      "noOfRequests": 0
+    },
+    "font": {
+      "noOfRequests": 0
+    },
+    "image": {
+      "noOfRequests": 0
+    },
+    "style": {
+      "noOfRequests": 0
+    },
+    "script": {
+      "noOfRequests": 0
+    },
+    "xhr": {
+      "noOfRequests": 0
+    },
+    "other": {
+      "noOfRequests": 0
+    }
+  }
+}

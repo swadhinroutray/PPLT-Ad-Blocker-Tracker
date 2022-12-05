@@ -1,0 +1,73 @@
+{
+  "pages": {
+    "noOfPages": 1,
+    "medianOnLoad": null,
+    "ninetyFifthOnLoad": null,
+    "pages": [
+      {
+        "url": "American Airlines Group",
+        "onLoad": null
+      }
+    ]
+  },
+  "requests": {
+    "all": {
+      "noOfRequests": 184,
+      "medianTime": 98,
+      "ninetyFifthTime": 365,
+      "medianTimings": {
+        "blocked": -1,
+        "wait": 39,
+        "receive": 0
+      },
+      "ninetyFifthTimings": {
+        "blocked": 0,
+        "wait": 188,
+        "receive": 19
+      },
+      "bytesTransferred": null,
+      "topUrl": {
+        "url": "https://www.aa.com/vjiiY/uH5y8/_ska/6N9l/oM/zi1DmSS9/Awo7OlkB/dls/vHXZ4CWgB",
+        "noOfOccurrences": 4
+      },
+      "largest": {
+        "url": "https://siteintercept.qualtrics.com/WRSiteInterceptEngine/Asset.php",
+        "bytes": 0
+      },
+      "largestCompressed": {
+        "url": "https://fly.delta.com/datacollect"
+      },
+      "longest": {
+        "url": "https://www.aa.com/homePage.do",
+        "time": 774,
+        "timings": {
+          "blocked": -1,
+          "wait": 765,
+          "receive": 8,
+          "connect": -1
+        }
+      }
+    },
+    "document": {
+      "noOfRequests": 0
+    },
+    "font": {
+      "noOfRequests": 0
+    },
+    "image": {
+      "noOfRequests": 0
+    },
+    "style": {
+      "noOfRequests": 0
+    },
+    "script": {
+      "noOfRequests": 0
+    },
+    "xhr": {
+      "noOfRequests": 0
+    },
+    "other": {
+      "noOfRequests": 0
+    }
+  }
+}

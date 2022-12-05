@@ -1,0 +1,73 @@
+{
+  "pages": {
+    "noOfPages": 1,
+    "medianOnLoad": null,
+    "ninetyFifthOnLoad": null,
+    "pages": [
+      {
+        "url": "Albertsons",
+        "onLoad": null
+      }
+    ]
+  },
+  "requests": {
+    "all": {
+      "noOfRequests": 175,
+      "medianTime": 97,
+      "ninetyFifthTime": 385,
+      "medianTimings": {
+        "blocked": -1,
+        "wait": 33,
+        "receive": 0
+      },
+      "ninetyFifthTimings": {
+        "blocked": 0,
+        "wait": 217,
+        "receive": 40
+      },
+      "bytesTransferred": null,
+      "topUrl": {
+        "url": "https://www.googletagmanager.com/gtag/js",
+        "noOfOccurrences": 5
+      },
+      "largest": {
+        "url": "https://edge.microsoft.com/componentupdater/api/v1/update",
+        "bytes": 0
+      },
+      "largestCompressed": {
+        "url": "https://www.prudential.com/dtbeacon/rb_ehj98654"
+      },
+      "longest": {
+        "url": "https://albertsons.okta.com/api/v1/sessions/me/lifecycle/refresh",
+        "time": 591,
+        "timings": {
+          "blocked": 0,
+          "wait": 64,
+          "receive": 0,
+          "connect": 462
+        }
+      }
+    },
+    "document": {
+      "noOfRequests": 0
+    },
+    "font": {
+      "noOfRequests": 0
+    },
+    "image": {
+      "noOfRequests": 0
+    },
+    "style": {
+      "noOfRequests": 0
+    },
+    "script": {
+      "noOfRequests": 0
+    },
+    "xhr": {
+      "noOfRequests": 0
+    },
+    "other": {
+      "noOfRequests": 0
+    }
+  }
+}

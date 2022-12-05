@@ -1,0 +1,73 @@
+{
+  "pages": {
+    "noOfPages": 1,
+    "medianOnLoad": null,
+    "ninetyFifthOnLoad": null,
+    "pages": [
+      {
+        "url": "Chevron",
+        "onLoad": null
+      }
+    ]
+  },
+  "requests": {
+    "all": {
+      "noOfRequests": 65,
+      "medianTime": 34,
+      "ninetyFifthTime": 242,
+      "medianTimings": {
+        "blocked": -1,
+        "wait": 30,
+        "receive": 0
+      },
+      "ninetyFifthTimings": {
+        "blocked": 0,
+        "wait": 53,
+        "receive": 50
+      },
+      "bytesTransferred": null,
+      "topUrl": {
+        "url": "https://edge.microsoft.com/componentupdater/api/v1/update",
+        "noOfOccurrences": 2
+      },
+      "largest": {
+        "url": "https://jnn-pa.googleapis.com/$rpc/google.internal.waa.v1.Waa/GenerateIT",
+        "bytes": 0
+      },
+      "largestCompressed": {
+        "url": "http://msedge.b.tlu.dl.delivery.mp.microsoft.com/filestreamingservice/files/49099ff0-5a5b-4c7a-abdc-ffaf1f58e284"
+      },
+      "longest": {
+        "url": "https://www.chevron.com/",
+        "time": 779,
+        "timings": {
+          "blocked": 0,
+          "wait": 480,
+          "receive": 0,
+          "connect": 254
+        }
+      }
+    },
+    "document": {
+      "noOfRequests": 0
+    },
+    "font": {
+      "noOfRequests": 0
+    },
+    "image": {
+      "noOfRequests": 0
+    },
+    "style": {
+      "noOfRequests": 0
+    },
+    "script": {
+      "noOfRequests": 0
+    },
+    "xhr": {
+      "noOfRequests": 0
+    },
+    "other": {
+      "noOfRequests": 0
+    }
+  }
+}

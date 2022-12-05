@@ -1,0 +1,73 @@
+{
+  "pages": {
+    "noOfPages": 1,
+    "medianOnLoad": null,
+    "ninetyFifthOnLoad": null,
+    "pages": [
+      {
+        "url": "CVS Health",
+        "onLoad": null
+      }
+    ]
+  },
+  "requests": {
+    "all": {
+      "noOfRequests": 81,
+      "medianTime": 82,
+      "ninetyFifthTime": 451,
+      "medianTimings": {
+        "blocked": -1,
+        "wait": 40,
+        "receive": 0
+      },
+      "ninetyFifthTimings": {
+        "blocked": 0,
+        "wait": 218,
+        "receive": 47
+      },
+      "bytesTransferred": null,
+      "topUrl": {
+        "url": "https://update.googleapis.com/service/update2/json",
+        "noOfOccurrences": 2
+      },
+      "largest": {
+        "url": "http://edgedl.me.gvt1.com/edgedl/release2/chrome_component/a6p5tcqvqtfymxyu7fthrubtea_7737/hfnkpimlhhgieaddgfemjhofmfblmnib_7737_all_adajhavc2szua7atvgwe5fc36o2a.crx3",
+        "bytes": 0
+      },
+      "largestCompressed": {
+        "url": "https://www.cvshealth.com/"
+      },
+      "longest": {
+        "url": "https://cvs-health.mautic.net/mtc/event",
+        "time": 1248,
+        "timings": {
+          "blocked": 0,
+          "wait": 1128,
+          "receive": 6,
+          "connect": 114
+        }
+      }
+    },
+    "document": {
+      "noOfRequests": 0
+    },
+    "font": {
+      "noOfRequests": 0
+    },
+    "image": {
+      "noOfRequests": 0
+    },
+    "style": {
+      "noOfRequests": 0
+    },
+    "script": {
+      "noOfRequests": 0
+    },
+    "xhr": {
+      "noOfRequests": 0
+    },
+    "other": {
+      "noOfRequests": 0
+    }
+  }
+}

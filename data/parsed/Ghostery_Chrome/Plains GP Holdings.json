@@ -1,0 +1,73 @@
+{
+  "pages": {
+    "noOfPages": 1,
+    "medianOnLoad": null,
+    "ninetyFifthOnLoad": null,
+    "pages": [
+      {
+        "url": "Plains GP Holdings",
+        "onLoad": null
+      }
+    ]
+  },
+  "requests": {
+    "all": {
+      "noOfRequests": 62,
+      "medianTime": 229,
+      "ninetyFifthTime": 656,
+      "medianTimings": {
+        "blocked": 0,
+        "wait": 81,
+        "receive": 0
+      },
+      "ninetyFifthTimings": {
+        "blocked": 0,
+        "wait": 178,
+        "receive": 162
+      },
+      "bytesTransferred": null,
+      "topUrl": {
+        "url": "https://www.plains.com/ScriptResource.axd",
+        "noOfOccurrences": 6
+      },
+      "largest": {
+        "url": "https://forms.hsforms.com/embed/v3/counters.gif",
+        "bytes": 0
+      },
+      "largestCompressed": {
+        "url": "https://www.youtube.com/youtubei/v1/log_event"
+      },
+      "longest": {
+        "url": "https://www.plains.com/",
+        "time": 2113,
+        "timings": {
+          "blocked": 0,
+          "wait": 1635,
+          "receive": 77,
+          "connect": 359
+        }
+      }
+    },
+    "document": {
+      "noOfRequests": 0
+    },
+    "font": {
+      "noOfRequests": 0
+    },
+    "image": {
+      "noOfRequests": 0
+    },
+    "style": {
+      "noOfRequests": 0
+    },
+    "script": {
+      "noOfRequests": 0
+    },
+    "xhr": {
+      "noOfRequests": 0
+    },
+    "other": {
+      "noOfRequests": 0
+    }
+  }
+}

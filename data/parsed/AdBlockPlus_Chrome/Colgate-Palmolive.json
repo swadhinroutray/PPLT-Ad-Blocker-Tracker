@@ -1,0 +1,73 @@
+{
+  "pages": {
+    "noOfPages": 1,
+    "medianOnLoad": null,
+    "ninetyFifthOnLoad": null,
+    "pages": [
+      {
+        "url": "Colgate-Palmolive",
+        "onLoad": null
+      }
+    ]
+  },
+  "requests": {
+    "all": {
+      "noOfRequests": 109,
+      "medianTime": 37,
+      "ninetyFifthTime": 190,
+      "medianTimings": {
+        "blocked": -1,
+        "wait": 29,
+        "receive": 0
+      },
+      "ninetyFifthTimings": {
+        "blocked": 0,
+        "wait": 100,
+        "receive": 30
+      },
+      "bytesTransferred": null,
+      "topUrl": {
+        "url": "https://cdns.us1.gigya.com/sdk.config.get",
+        "noOfOccurrences": 3
+      },
+      "largest": {
+        "url": "https://www.colgatepalmolive.com/etc/designs/zg/cpcorporate2021/desktop/assets/img/arrow-slider-left-grey.svg",
+        "bytes": 0
+      },
+      "largestCompressed": {
+        "url": "https://www.colgatepalmolive.com/"
+      },
+      "longest": {
+        "url": "https://www.colgatepalmolive.com/",
+        "time": 399,
+        "timings": {
+          "blocked": 0,
+          "wait": 111,
+          "receive": 0,
+          "connect": 202
+        }
+      }
+    },
+    "document": {
+      "noOfRequests": 0
+    },
+    "font": {
+      "noOfRequests": 0
+    },
+    "image": {
+      "noOfRequests": 0
+    },
+    "style": {
+      "noOfRequests": 0
+    },
+    "script": {
+      "noOfRequests": 0
+    },
+    "xhr": {
+      "noOfRequests": 0
+    },
+    "other": {
+      "noOfRequests": 0
+    }
+  }
+}

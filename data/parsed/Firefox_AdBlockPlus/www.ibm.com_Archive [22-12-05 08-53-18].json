@@ -1,0 +1,72 @@
+{
+  "pages": {
+    "noOfPages": 1,
+    "medianOnLoad": 1897,
+    "ninetyFifthOnLoad": 1897,
+    "pages": [
+      {
+        "url": "IBM - United States",
+        "onLoad": 1897
+      }
+    ]
+  },
+  "requests": {
+    "all": {
+      "noOfRequests": 224,
+      "medianTime": 38,
+      "ninetyFifthTime": 135,
+      "medianTimings": {
+        "blocked": 0,
+        "wait": 37,
+        "receive": 0
+      },
+      "ninetyFifthTimings": {
+        "blocked": 119,
+        "wait": 313,
+        "receive": 48
+      },
+      "bytesTransferred": null,
+      "topUrl": {
+        "url": "https://udc-neb.kampyle.com/egw/5/qceuv8449dzg58ptt1bhda9g8ue19c7s/track/__cool.gif",
+        "noOfOccurrences": 2
+      },
+      "largest": {
+        "url": "https://api.segment.io/v1/p"
+      },
+      "largestCompressed": {
+        "url": "https://k-aus1.contentsquare.net/v2/recording"
+      },
+      "longest": {
+        "url": "https://ushp-tool.lan2rya65da.us-east.codeengine.appdomain.cloud/api/newsflash.json",
+        "time": 393,
+        "timings": {
+          "blocked": 96,
+          "wait": 198,
+          "receive": 0,
+          "connect": 26
+        }
+      }
+    },
+    "document": {
+      "noOfRequests": 0
+    },
+    "font": {
+      "noOfRequests": 0
+    },
+    "image": {
+      "noOfRequests": 0
+    },
+    "style": {
+      "noOfRequests": 0
+    },
+    "script": {
+      "noOfRequests": 0
+    },
+    "xhr": {
+      "noOfRequests": 0
+    },
+    "other": {
+      "noOfRequests": 0
+    }
+  }
+}

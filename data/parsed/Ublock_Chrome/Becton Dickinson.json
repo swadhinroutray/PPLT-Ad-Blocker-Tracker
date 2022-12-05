@@ -1,0 +1,73 @@
+{
+  "pages": {
+    "noOfPages": 1,
+    "medianOnLoad": null,
+    "ninetyFifthOnLoad": null,
+    "pages": [
+      {
+        "url": "Becton Dickinson",
+        "onLoad": null
+      }
+    ]
+  },
+  "requests": {
+    "all": {
+      "noOfRequests": 94,
+      "medianTime": 93,
+      "ninetyFifthTime": 336,
+      "medianTimings": {
+        "blocked": -1,
+        "wait": 30,
+        "receive": 0
+      },
+      "ninetyFifthTimings": {
+        "blocked": 0,
+        "wait": 150,
+        "receive": 29
+      },
+      "bytesTransferred": null,
+      "topUrl": {
+        "url": "https://edge.api.brightcove.com/playback/v1/accounts/81909694001/videos/6286228883001",
+        "noOfOccurrences": 1
+      },
+      "largest": {
+        "url": "https://www.bd.com/etc.clientlibs/bd-com/clientlibs/clientlib-site/resources/image/favicon/favicon_32.png",
+        "bytes": 0
+      },
+      "largestCompressed": {
+        "url": "https://www.bd.com/"
+      },
+      "longest": {
+        "url": "https://api.userway.org/api/tunings/9HoHn5ks2A",
+        "time": 473,
+        "timings": {
+          "blocked": 0,
+          "wait": 78,
+          "receive": 0,
+          "connect": 367
+        }
+      }
+    },
+    "document": {
+      "noOfRequests": 0
+    },
+    "font": {
+      "noOfRequests": 0
+    },
+    "image": {
+      "noOfRequests": 0
+    },
+    "style": {
+      "noOfRequests": 0
+    },
+    "script": {
+      "noOfRequests": 0
+    },
+    "xhr": {
+      "noOfRequests": 0
+    },
+    "other": {
+      "noOfRequests": 0
+    }
+  }
+}

@@ -33,7 +33,7 @@ class CreateHar(object):
     def __start_driver(self):
         """prepare and start driver"""
         options = webdriver.ChromeOptions()
-        # options.add_extension('../plugins/Adblock_5.3.0_0.crx')
+        options.add_extension('../plugins/Ghostery_extension_8_9_6_0.crx')
         options.add_argument('--ignore-ssl-errors=yes')
         options.add_argument('--ignore-certificate-errors')
         # profile = webdriver.Chrome()
@@ -49,9 +49,9 @@ class CreateHar(object):
     def create_har(self, title, url):
         """start request and parse response"""
         self.proxy.new_har(title)
-        time.sleep(1)
+        # time.sleep(10)
         self.driver.get(url)
-        time.sleep(5)
+        time.sleep(2)
         result = json.dumps(self.proxy.har, ensure_ascii=False)
         self.__store_into_file(title, result)
 
@@ -64,9 +64,9 @@ class CreateHar(object):
 if __name__ == '__main__':
     path = "./browsermob-proxy-2.1.4/bin/browsermob-proxy"
     RUN = CreateHar(path)
+    RUN.start_all()
     with open(web_filename, 'r') as csvfile:
         datareader = csv.reader(csvfile)
         for row in datareader:
-            RUN.start_all()
             RUN.create_har(row[1], row[2])
-            RUN.stop_all()
+    RUN.stop_all()

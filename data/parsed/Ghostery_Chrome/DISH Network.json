@@ -1,0 +1,73 @@
+{
+  "pages": {
+    "noOfPages": 1,
+    "medianOnLoad": null,
+    "ninetyFifthOnLoad": null,
+    "pages": [
+      {
+        "url": "DISH Network",
+        "onLoad": null
+      }
+    ]
+  },
+  "requests": {
+    "all": {
+      "noOfRequests": 198,
+      "medianTime": 41,
+      "ninetyFifthTime": 289,
+      "medianTimings": {
+        "blocked": -1,
+        "wait": 33,
+        "receive": 0
+      },
+      "ninetyFifthTimings": {
+        "blocked": 0,
+        "wait": 95,
+        "receive": 25
+      },
+      "bytesTransferred": null,
+      "topUrl": {
+        "url": "https://smetrics.dish.com/ee/va6/v1/interact",
+        "noOfOccurrences": 2
+      },
+      "largest": {
+        "url": "https://d.ghostery.com/install_complete/all",
+        "bytes": 0
+      },
+      "largestCompressed": {
+        "url": "https://privacyportal-de.onetrust.com/request/v1/consentreceipts"
+      },
+      "longest": {
+        "url": "https://sc.dish.com/shared/images/station-logos/D101.png",
+        "time": 611,
+        "timings": {
+          "blocked": 0,
+          "wait": 76,
+          "receive": 0,
+          "connect": 453
+        }
+      }
+    },
+    "document": {
+      "noOfRequests": 0
+    },
+    "font": {
+      "noOfRequests": 0
+    },
+    "image": {
+      "noOfRequests": 0
+    },
+    "style": {
+      "noOfRequests": 0
+    },
+    "script": {
+      "noOfRequests": 0
+    },
+    "xhr": {
+      "noOfRequests": 0
+    },
+    "other": {
+      "noOfRequests": 0
+    }
+  }
+}

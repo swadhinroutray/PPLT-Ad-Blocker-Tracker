@@ -1,0 +1,73 @@
+{
+  "pages": {
+    "noOfPages": 1,
+    "medianOnLoad": null,
+    "ninetyFifthOnLoad": null,
+    "pages": [
+      {
+        "url": "EOG Resources",
+        "onLoad": null
+      }
+    ]
+  },
+  "requests": {
+    "all": {
+      "noOfRequests": 22,
+      "medianTime": 34,
+      "ninetyFifthTime": 699,
+      "medianTimings": {
+        "blocked": -1,
+        "wait": 28,
+        "receive": 1
+      },
+      "ninetyFifthTimings": {
+        "blocked": 0,
+        "wait": 68,
+        "receive": 58
+      },
+      "bytesTransferred": null,
+      "topUrl": {
+        "url": "https://www.eogresources.com/favicon.ico",
+        "noOfOccurrences": 0
+      },
+      "largest": {
+        "url": "https://www.eogresources.com/favicon.ico",
+        "bytes": 0
+      },
+      "largestCompressed": {
+        "url": "https://www.eogresources.com/"
+      },
+      "longest": {
+        "url": "https://www.eogresources.com/",
+        "time": 738,
+        "timings": {
+          "blocked": 0,
+          "wait": 99,
+          "receive": 23,
+          "connect": 382
+        }
+      }
+    },
+    "document": {
+      "noOfRequests": 0
+    },
+    "font": {
+      "noOfRequests": 0
+    },
+    "image": {
+      "noOfRequests": 0
+    },
+    "style": {
+      "noOfRequests": 0
+    },
+    "script": {
+      "noOfRequests": 0
+    },
+    "xhr": {
+      "noOfRequests": 0
+    },
+    "other": {
+      "noOfRequests": 0
+    }
+  }
+}

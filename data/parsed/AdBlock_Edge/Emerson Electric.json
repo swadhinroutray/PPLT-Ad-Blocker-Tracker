@@ -1,0 +1,73 @@
+{
+  "pages": {
+    "noOfPages": 1,
+    "medianOnLoad": null,
+    "ninetyFifthOnLoad": null,
+    "pages": [
+      {
+        "url": "Emerson Electric",
+        "onLoad": null
+      }
+    ]
+  },
+  "requests": {
+    "all": {
+      "noOfRequests": 156,
+      "medianTime": 35,
+      "ninetyFifthTime": 380,
+      "medianTimings": {
+        "blocked": -1,
+        "wait": 27,
+        "receive": 0
+      },
+      "ninetyFifthTimings": {
+        "blocked": 0,
+        "wait": 118,
+        "receive": 22
+      },
+      "bytesTransferred": null,
+      "topUrl": {
+        "url": "https://cdn.linkedin.oribi.io/partner/3174737/domain/emerson.com/token",
+        "noOfOccurrences": 3
+      },
+      "largest": {
+        "url": "https://bam.nr-data.net/events/1/NRJS-28b474c5f3a70d93003",
+        "bytes": 0
+      },
+      "largestCompressed": {
+        "url": "https://visitor-service-us-east-1.tealiumiq.com/ti/main/0184d49bb3af008c0708ac38d20805087001307f00bd0"
+      },
+      "longest": {
+        "url": "https://c.jabmo.app/com.snowplowanalytics.snowplow/tp2",
+        "time": 662,
+        "timings": {
+          "blocked": 0,
+          "wait": 113,
+          "receive": 0,
+          "connect": 474
+        }
+      }
+    },
+    "document": {
+      "noOfRequests": 0
+    },
+    "font": {
+      "noOfRequests": 0
+    },
+    "image": {
+      "noOfRequests": 0
+    },
+    "style": {
+      "noOfRequests": 0
+    },
+    "script": {
+      "noOfRequests": 0
+    },
+    "xhr": {
+      "noOfRequests": 0
+    },
+    "other": {
+      "noOfRequests": 0
+    }
+  }
+}

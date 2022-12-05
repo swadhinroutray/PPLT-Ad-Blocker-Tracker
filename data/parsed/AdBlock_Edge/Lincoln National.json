@@ -1,0 +1,73 @@
+{
+  "pages": {
+    "noOfPages": 1,
+    "medianOnLoad": null,
+    "ninetyFifthOnLoad": null,
+    "pages": [
+      {
+        "url": "Lincoln National",
+        "onLoad": null
+      }
+    ]
+  },
+  "requests": {
+    "all": {
+      "noOfRequests": 73,
+      "medianTime": 63,
+      "ninetyFifthTime": 362,
+      "medianTimings": {
+        "blocked": -1,
+        "wait": 29,
+        "receive": 0
+      },
+      "ninetyFifthTimings": {
+        "blocked": 0,
+        "wait": 228,
+        "receive": 27
+      },
+      "bytesTransferred": null,
+      "topUrl": {
+        "url": "https://fonts.googleapis.com/css2",
+        "noOfOccurrences": 3
+      },
+      "largest": {
+        "url": "https://cdn.pdst.fm/ping.min.js",
+        "bytes": 0
+      },
+      "largestCompressed": {
+        "url": "https://www.lincolnfinancial.com/"
+      },
+      "longest": {
+        "url": "https://www.lincolnfinancial.com/pbl-static/image/desktop/Market-Volatility---home-page---callout-image.jpg",
+        "time": 814,
+        "timings": {
+          "blocked": -1,
+          "wait": 813,
+          "receive": 0,
+          "connect": -1
+        }
+      }
+    },
+    "document": {
+      "noOfRequests": 0
+    },
+    "font": {
+      "noOfRequests": 0
+    },
+    "image": {
+      "noOfRequests": 0
+    },
+    "style": {
+      "noOfRequests": 0
+    },
+    "script": {
+      "noOfRequests": 0
+    },
+    "xhr": {
+      "noOfRequests": 0
+    },
+    "other": {
+      "noOfRequests": 0
+    }
+  }
+}

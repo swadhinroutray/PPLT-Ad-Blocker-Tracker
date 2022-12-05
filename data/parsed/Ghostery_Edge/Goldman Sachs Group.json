@@ -1,0 +1,73 @@
+{
+  "pages": {
+    "noOfPages": 1,
+    "medianOnLoad": null,
+    "ninetyFifthOnLoad": null,
+    "pages": [
+      {
+        "url": "Goldman Sachs Group",
+        "onLoad": null
+      }
+    ]
+  },
+  "requests": {
+    "all": {
+      "noOfRequests": 141,
+      "medianTime": 46,
+      "ninetyFifthTime": 315,
+      "medianTimings": {
+        "blocked": -1,
+        "wait": 37,
+        "receive": 0
+      },
+      "ninetyFifthTimings": {
+        "blocked": 0,
+        "wait": 108,
+        "receive": 17
+      },
+      "bytesTransferred": null,
+      "topUrl": {
+        "url": "https://bs.serving-sys.com/BurstingPipe/ActivityServer.bs",
+        "noOfOccurrences": 1
+      },
+      "largest": {
+        "url": "https://jhwa3pdijorrsy4kn4na-pqkj3e-189060d90-clientnsv4-s.akamaihd.net/eum/results.txt",
+        "bytes": 0
+      },
+      "largestCompressed": {
+        "url": "https://nav-edge.smartscreen.microsoft.com/api/browser/edge/navigate/3"
+      },
+      "longest": {
+        "url": "https://www.goldmansachs.com/",
+        "time": 821,
+        "timings": {
+          "blocked": 0,
+          "wait": 572,
+          "receive": 0,
+          "connect": 175
+        }
+      }
+    },
+    "document": {
+      "noOfRequests": 0
+    },
+    "font": {
+      "noOfRequests": 0
+    },
+    "image": {
+      "noOfRequests": 0
+    },
+    "style": {
+      "noOfRequests": 0
+    },
+    "script": {
+      "noOfRequests": 0
+    },
+    "xhr": {
+      "noOfRequests": 0
+    },
+    "other": {
+      "noOfRequests": 0
+    }
+  }
+}

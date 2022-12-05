@@ -1,0 +1,73 @@
+{
+  "pages": {
+    "noOfPages": 1,
+    "medianOnLoad": null,
+    "ninetyFifthOnLoad": null,
+    "pages": [
+      {
+        "url": "Dow",
+        "onLoad": null
+      }
+    ]
+  },
+  "requests": {
+    "all": {
+      "noOfRequests": 136,
+      "medianTime": 80,
+      "ninetyFifthTime": 394,
+      "medianTimings": {
+        "blocked": -1,
+        "wait": 40,
+        "receive": 0
+      },
+      "ninetyFifthTimings": {
+        "blocked": 0,
+        "wait": 243,
+        "receive": 40
+      },
+      "bytesTransferred": null,
+      "topUrl": {
+        "url": "https://www.dow.com/PWUGnYeIu/wG/Ei/hZQmlqtYreGITQ/V7i7pcSm/aS12AxAB/MVRY/BzwDFiAB",
+        "noOfOccurrences": 3
+      },
+      "largest": {
+        "url": "https://edge.microsoft.com/autofillservice/v1/pages/ChVDaHJvbWUvMTA3LjAuNTMwNC4xNTASHglek5xmx0akdhIFDZFhlU4SBQ2RYZVOEgUNpZM2JA==",
+        "bytes": 0
+      },
+      "largestCompressed": {
+        "url": "https://www.dow.com/"
+      },
+      "longest": {
+        "url": "https://assets.adobedtm.com/55f90c612c0d/2acf0140a023/launch-2ebde260da45.min.js",
+        "time": 1523,
+        "timings": {
+          "blocked": 0,
+          "wait": 44,
+          "receive": 82,
+          "connect": 1396
+        }
+      }
+    },
+    "document": {
+      "noOfRequests": 0
+    },
+    "font": {
+      "noOfRequests": 0
+    },
+    "image": {
+      "noOfRequests": 0
+    },
+    "style": {
+      "noOfRequests": 0
+    },
+    "script": {
+      "noOfRequests": 0
+    },
+    "xhr": {
+      "noOfRequests": 0
+    },
+    "other": {
+      "noOfRequests": 0
+    }
+  }
+}

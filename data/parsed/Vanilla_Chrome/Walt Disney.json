@@ -1,0 +1,73 @@
+{
+  "pages": {
+    "noOfPages": 1,
+    "medianOnLoad": null,
+    "ninetyFifthOnLoad": null,
+    "pages": [
+      {
+        "url": "Walt Disney",
+        "onLoad": null
+      }
+    ]
+  },
+  "requests": {
+    "all": {
+      "noOfRequests": 59,
+      "medianTime": 116,
+      "ninetyFifthTime": 490,
+      "medianTimings": {
+        "blocked": 0,
+        "wait": 27,
+        "receive": 0
+      },
+      "ninetyFifthTimings": {
+        "blocked": 0,
+        "wait": 91,
+        "receive": 44
+      },
+      "bytesTransferred": null,
+      "topUrl": {
+        "url": "https://di-dtaectolog-us-prod-1.appspot.com/cto/v2/web",
+        "noOfOccurrences": 3
+      },
+      "largest": {
+        "url": "https://bam.nr-data.net/1/129fe16bc0",
+        "bytes": 0
+      },
+      "largestCompressed": {
+        "url": "https://thewaltdisneycompany.com/"
+      },
+      "longest": {
+        "url": "https://fast.fonts.net/t/1.css",
+        "time": 704,
+        "timings": {
+          "blocked": 0,
+          "wait": 40,
+          "receive": 0,
+          "connect": 377
+        }
+      }
+    },
+    "document": {
+      "noOfRequests": 0
+    },
+    "font": {
+      "noOfRequests": 0
+    },
+    "image": {
+      "noOfRequests": 0
+    },
+    "style": {
+      "noOfRequests": 0
+    },
+    "script": {
+      "noOfRequests": 0
+    },
+    "xhr": {
+      "noOfRequests": 0
+    },
+    "other": {
+      "noOfRequests": 0
+    }
+  }
+}

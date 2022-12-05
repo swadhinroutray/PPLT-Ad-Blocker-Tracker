@@ -1,0 +1,73 @@
+{
+  "pages": {
+    "noOfPages": 1,
+    "medianOnLoad": null,
+    "ninetyFifthOnLoad": null,
+    "pages": [
+      {
+        "url": "UnitedHealth Group",
+        "onLoad": null
+      }
+    ]
+  },
+  "requests": {
+    "all": {
+      "noOfRequests": 138,
+      "medianTime": 86,
+      "ninetyFifthTime": 326,
+      "medianTimings": {
+        "blocked": -1,
+        "wait": 37,
+        "receive": 0
+      },
+      "ninetyFifthTimings": {
+        "blocked": 0,
+        "wait": 109,
+        "receive": 33
+      },
+      "bytesTransferred": null,
+      "topUrl": {
+        "url": "https://www.googletagmanager.com/gtag/js",
+        "noOfOccurrences": 6
+      },
+      "largest": {
+        "url": "https://az1.qualtrics.com/WRQualtricsSiteIntercept/Graphic.php",
+        "bytes": 0
+      },
+      "largestCompressed": {
+        "url": "https://m.addthis.com/live/red_lojson/100eng.json"
+      },
+      "longest": {
+        "url": "https://p.adsymptotic.com/d/px/",
+        "time": 605,
+        "timings": {
+          "blocked": 0,
+          "wait": 37,
+          "receive": 0,
+          "connect": 538
+        }
+      }
+    },
+    "document": {
+      "noOfRequests": 0
+    },
+    "font": {
+      "noOfRequests": 0
+    },
+    "image": {
+      "noOfRequests": 0
+    },
+    "style": {
+      "noOfRequests": 0
+    },
+    "script": {
+      "noOfRequests": 0
+    },
+    "xhr": {
+      "noOfRequests": 0
+    },
+    "other": {
+      "noOfRequests": 0
+    }
+  }
+}

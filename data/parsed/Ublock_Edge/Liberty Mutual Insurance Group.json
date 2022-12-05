@@ -1,0 +1,73 @@
+{
+  "pages": {
+    "noOfPages": 1,
+    "medianOnLoad": null,
+    "ninetyFifthOnLoad": null,
+    "pages": [
+      {
+        "url": "Liberty Mutual Insurance Group",
+        "onLoad": null
+      }
+    ]
+  },
+  "requests": {
+    "all": {
+      "noOfRequests": 48,
+      "medianTime": 49,
+      "ninetyFifthTime": 324,
+      "medianTimings": {
+        "blocked": -1,
+        "wait": 37,
+        "receive": 0
+      },
+      "ninetyFifthTimings": {
+        "blocked": 0,
+        "wait": 148,
+        "receive": 25
+      },
+      "bytesTransferred": null,
+      "topUrl": {
+        "url": "https://www.libertymutualgroup.com/sites/lmg/files/styles/crop_16_9/public/2019-11/Corp-Over-CO2-5.jpg",
+        "noOfOccurrences": 1
+      },
+      "largest": {
+        "url": "https://www.libertymutualgroup.com/themes/custom/zurb_foundation_lmg/favicon.ico",
+        "bytes": 0
+      },
+      "largestCompressed": {
+        "url": "https://113vod-adaptive.akamaized.net/exp=1670024371~acl=%2F9c424f66-234e-403b-97d2-49192390f370%2F%2A~hmac=77eb08b648da68489b80afe957be3da98d0b6ae76ed2a8ea840580e409cb0e5e/9c424f66-234e-403b-97d2-49192390f370/sep/audio/5a3d5cb1/chop/segment-4.m4s"
+      },
+      "longest": {
+        "url": "https://www.libertymutualgroup.com/",
+        "time": 533,
+        "timings": {
+          "blocked": 0,
+          "wait": 169,
+          "receive": 0,
+          "connect": 235
+        }
+      }
+    },
+    "document": {
+      "noOfRequests": 0
+    },
+    "font": {
+      "noOfRequests": 0
+    },
+    "image": {
+      "noOfRequests": 0
+    },
+    "style": {
+      "noOfRequests": 0
+    },
+    "script": {
+      "noOfRequests": 0
+    },
+    "xhr": {
+      "noOfRequests": 0
+    },
+    "other": {
+      "noOfRequests": 0
+    }
+  }
+}

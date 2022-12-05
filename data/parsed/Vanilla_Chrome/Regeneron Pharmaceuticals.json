@@ -1,0 +1,73 @@
+{
+  "pages": {
+    "noOfPages": 1,
+    "medianOnLoad": null,
+    "ninetyFifthOnLoad": null,
+    "pages": [
+      {
+        "url": "Regeneron Pharmaceuticals",
+        "onLoad": null
+      }
+    ]
+  },
+  "requests": {
+    "all": {
+      "noOfRequests": 106,
+      "medianTime": 50,
+      "ninetyFifthTime": 294,
+      "medianTimings": {
+        "blocked": -1,
+        "wait": 33,
+        "receive": 0
+      },
+      "ninetyFifthTimings": {
+        "blocked": 0,
+        "wait": 58,
+        "receive": 36
+      },
+      "bytesTransferred": null,
+      "topUrl": {
+        "url": "https://content-autofill.googleapis.com/v1/pages/ChRDaHJvbWUvMTA4LjAuNTM1OS43MRIQCc0I5QPKjN12EgUNkWGVTg==",
+        "noOfOccurrences": 2
+      },
+      "largest": {
+        "url": "https://content-autofill.googleapis.com/v1/pages/ChRDaHJvbWUvMTA4LjAuNTM1OS43MRIQCc0I5QPKjN12EgUNkWGVTg==",
+        "bytes": 0
+      },
+      "largestCompressed": {
+        "url": "https://www.regeneron.com/"
+      },
+      "longest": {
+        "url": "https://www.regeneron.com/Content/media/video/homepage-tinted-vid.com.mp4",
+        "time": 1811,
+        "timings": {
+          "blocked": -1,
+          "wait": 32,
+          "receive": 1779,
+          "connect": -1
+        }
+      }
+    },
+    "document": {
+      "noOfRequests": 0
+    },
+    "font": {
+      "noOfRequests": 0
+    },
+    "image": {
+      "noOfRequests": 0
+    },
+    "style": {
+      "noOfRequests": 0
+    },
+    "script": {
+      "noOfRequests": 0
+    },
+    "xhr": {
+      "noOfRequests": 0
+    },
+    "other": {
+      "noOfRequests": 0
+    }
+  }
+}

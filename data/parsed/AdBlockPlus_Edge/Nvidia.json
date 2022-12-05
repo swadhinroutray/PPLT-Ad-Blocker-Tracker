@@ -1,0 +1,73 @@
+{
+  "pages": {
+    "noOfPages": 1,
+    "medianOnLoad": null,
+    "ninetyFifthOnLoad": null,
+    "pages": [
+      {
+        "url": "Nvidia",
+        "onLoad": null
+      }
+    ]
+  },
+  "requests": {
+    "all": {
+      "noOfRequests": 215,
+      "medianTime": 98,
+      "ninetyFifthTime": 327,
+      "medianTimings": {
+        "blocked": 0,
+        "wait": 30,
+        "receive": 0
+      },
+      "ninetyFifthTimings": {
+        "blocked": 0,
+        "wait": 102,
+        "receive": 41
+      },
+      "bytesTransferred": null,
+      "topUrl": {
+        "url": "https://www.google.com/pagead/1p-user-list/1041695361/",
+        "noOfOccurrences": 5
+      },
+      "largest": {
+        "url": "https://k-aeu1.contentsquare.net/v2/recording",
+        "bytes": 0
+      },
+      "largestCompressed": {
+        "url": "https://www.google-analytics.com/analytics.js"
+      },
+      "longest": {
+        "url": "https://560-nbs-753.mktoresp.com/webevents/visitWebPage",
+        "time": 592,
+        "timings": {
+          "blocked": 0,
+          "wait": 76,
+          "receive": 0,
+          "connect": 398
+        }
+      }
+    },
+    "document": {
+      "noOfRequests": 0
+    },
+    "font": {
+      "noOfRequests": 0
+    },
+    "image": {
+      "noOfRequests": 0
+    },
+    "style": {
+      "noOfRequests": 0
+    },
+    "script": {
+      "noOfRequests": 0
+    },
+    "xhr": {
+      "noOfRequests": 0
+    },
+    "other": {
+      "noOfRequests": 0
+    }
+  }
+}

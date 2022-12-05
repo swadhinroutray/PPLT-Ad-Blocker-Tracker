@@ -1,0 +1,73 @@
+{
+  "pages": {
+    "noOfPages": 1,
+    "medianOnLoad": null,
+    "ninetyFifthOnLoad": null,
+    "pages": [
+      {
+        "url": "Microsoft",
+        "onLoad": null
+      }
+    ]
+  },
+  "requests": {
+    "all": {
+      "noOfRequests": 109,
+      "medianTime": 72,
+      "ninetyFifthTime": 398,
+      "medianTimings": {
+        "blocked": -1,
+        "wait": 44,
+        "receive": 0
+      },
+      "ninetyFifthTimings": {
+        "blocked": 0,
+        "wait": 319,
+        "receive": 16
+      },
+      "bytesTransferred": null,
+      "topUrl": {
+        "url": "https://www.att.com/ssaf/ssafc/v1/controllerdata",
+        "noOfOccurrences": 1
+      },
+      "largest": {
+        "url": "https://mem.gfx.ms/me/mecache",
+        "bytes": 0
+      },
+      "largestCompressed": {
+        "url": "https://www.att.com/ui/global_all_cms_globalnav/web-components/2.0/attwc-globalnav/p-5c67d4dd.js"
+      },
+      "longest": {
+        "url": "https://www.microsoft.com/en-in",
+        "time": 1377,
+        "timings": {
+          "blocked": 0,
+          "wait": 1082,
+          "receive": 12,
+          "connect": 256
+        }
+      }
+    },
+    "document": {
+      "noOfRequests": 0
+    },
+    "font": {
+      "noOfRequests": 0
+    },
+    "image": {
+      "noOfRequests": 0
+    },
+    "style": {
+      "noOfRequests": 0
+    },
+    "script": {
+      "noOfRequests": 0
+    },
+    "xhr": {
+      "noOfRequests": 0
+    },
+    "other": {
+      "noOfRequests": 0
+    }
+  }
+}

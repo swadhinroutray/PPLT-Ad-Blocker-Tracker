@@ -1,0 +1,73 @@
+{
+  "pages": {
+    "noOfPages": 1,
+    "medianOnLoad": null,
+    "ninetyFifthOnLoad": null,
+    "pages": [
+      {
+        "url": "Penske Automotive Group",
+        "onLoad": null
+      }
+    ]
+  },
+  "requests": {
+    "all": {
+      "noOfRequests": 50,
+      "medianTime": 112,
+      "ninetyFifthTime": 362,
+      "medianTimings": {
+        "blocked": -1,
+        "wait": 39,
+        "receive": 0
+      },
+      "ninetyFifthTimings": {
+        "blocked": 0,
+        "wait": 153,
+        "receive": 83
+      },
+      "bytesTransferred": null,
+      "topUrl": {
+        "url": "https://s27.q4cdn.com/478094565/files/favicon.ico",
+        "noOfOccurrences": 1
+      },
+      "largest": {
+        "url": "https://s27.q4cdn.com/478094565/files/favicon.ico",
+        "bytes": 0
+      },
+      "largestCompressed": {
+        "url": "https://www.penskeautomotive.com/"
+      },
+      "longest": {
+        "url": "https://www.penskeautomotive.com/",
+        "time": 443,
+        "timings": {
+          "blocked": 0,
+          "wait": 188,
+          "receive": 0,
+          "connect": 180
+        }
+      }
+    },
+    "document": {
+      "noOfRequests": 0
+    },
+    "font": {
+      "noOfRequests": 0
+    },
+    "image": {
+      "noOfRequests": 0
+    },
+    "style": {
+      "noOfRequests": 0
+    },
+    "script": {
+      "noOfRequests": 0
+    },
+    "xhr": {
+      "noOfRequests": 0
+    },
+    "other": {
+      "noOfRequests": 0
+    }
+  }
+}

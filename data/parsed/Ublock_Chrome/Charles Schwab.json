@@ -1,0 +1,73 @@
+{
+  "pages": {
+    "noOfPages": 1,
+    "medianOnLoad": null,
+    "ninetyFifthOnLoad": null,
+    "pages": [
+      {
+        "url": "Charles Schwab",
+        "onLoad": null
+      }
+    ]
+  },
+  "requests": {
+    "all": {
+      "noOfRequests": 80,
+      "medianTime": 44,
+      "ninetyFifthTime": 263,
+      "medianTimings": {
+        "blocked": -1,
+        "wait": 32,
+        "receive": 0
+      },
+      "ninetyFifthTimings": {
+        "blocked": 0,
+        "wait": 114,
+        "receive": 23
+      },
+      "bytesTransferred": null,
+      "topUrl": {
+        "url": "https://www.googletagmanager.com/gtag/js",
+        "noOfOccurrences": 3
+      },
+      "largest": {
+        "url": "https://www.googletagmanager.com/gtag/js",
+        "bytes": 0
+      },
+      "largestCompressed": {
+        "url": "https://www.lincolnfinancial.com/pbl-static/image/tablet/ICON-FIXED-RED---FAQs.svg"
+      },
+      "longest": {
+        "url": "https://www.schwab.com/",
+        "time": 506,
+        "timings": {
+          "blocked": 0,
+          "wait": 42,
+          "receive": 26,
+          "connect": 393
+        }
+      }
+    },
+    "document": {
+      "noOfRequests": 0
+    },
+    "font": {
+      "noOfRequests": 0
+    },
+    "image": {
+      "noOfRequests": 0
+    },
+    "style": {
+      "noOfRequests": 0
+    },
+    "script": {
+      "noOfRequests": 0
+    },
+    "xhr": {
+      "noOfRequests": 0
+    },
+    "other": {
+      "noOfRequests": 0
+    }
+  }
+}

@@ -1,0 +1,73 @@
+{
+  "pages": {
+    "noOfPages": 1,
+    "medianOnLoad": null,
+    "ninetyFifthOnLoad": null,
+    "pages": [
+      {
+        "url": "Amgen",
+        "onLoad": null
+      }
+    ]
+  },
+  "requests": {
+    "all": {
+      "noOfRequests": 114,
+      "medianTime": 152,
+      "ninetyFifthTime": 767,
+      "medianTimings": {
+        "blocked": -1,
+        "wait": 140,
+        "receive": 0
+      },
+      "ninetyFifthTimings": {
+        "blocked": 0,
+        "wait": 577,
+        "receive": 116
+      },
+      "bytesTransferred": null,
+      "topUrl": {
+        "url": "https://www.google-analytics.com/collect",
+        "noOfOccurrences": 2
+      },
+      "largest": {
+        "url": "https://www.amgen.com/favicon.ico",
+        "bytes": 0
+      },
+      "largestCompressed": {
+        "url": "https://nav-edge.smartscreen.microsoft.com/api/browser/edge/navigate/3"
+      },
+      "longest": {
+        "url": "https://www.amgen.com/-/media/Themes/CorporateAffairs/amgen-com/amgen-com/images/amgencommigration/stories/2022/11-22-Thanksgiving-in-Kentucky-Brings-Gratitude-for-Psoriasis-Patient/PA-2294415_047_1440x570.jpg",
+        "time": 6034,
+        "timings": {
+          "blocked": -1,
+          "wait": 1157,
+          "receive": 4876,
+          "connect": -1
+        }
+      }
+    },
+    "document": {
+      "noOfRequests": 0
+    },
+    "font": {
+      "noOfRequests": 0
+    },
+    "image": {
+      "noOfRequests": 0
+    },
+    "style": {
+      "noOfRequests": 0
+    },
+    "script": {
+      "noOfRequests": 0
+    },
+    "xhr": {
+      "noOfRequests": 0
+    },
+    "other": {
+      "noOfRequests": 0
+    }
+  }
+}

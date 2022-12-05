@@ -1,0 +1,73 @@
+{
+  "pages": {
+    "noOfPages": 1,
+    "medianOnLoad": null,
+    "ninetyFifthOnLoad": null,
+    "pages": [
+      {
+        "url": "Bank of America",
+        "onLoad": null
+      }
+    ]
+  },
+  "requests": {
+    "all": {
+      "noOfRequests": 76,
+      "medianTime": 44,
+      "ninetyFifthTime": 382,
+      "medianTimings": {
+        "blocked": -1,
+        "wait": 24,
+        "receive": 0
+      },
+      "ninetyFifthTimings": {
+        "blocked": 0,
+        "wait": 115,
+        "receive": 31
+      },
+      "bytesTransferred": null,
+      "topUrl": {
+        "url": "https://target.bankofamerica.com/m2/bankofamerica/mbox/json",
+        "noOfOccurrences": 7
+      },
+      "largest": {
+        "url": "https://www1.bac-assets.com/hp-assets/spa-assets/images/assets-images-site-hp-assets-mastheads-consumer-other-en-fc_mh_cgm_4929264_1440_gc_f.webp",
+        "bytes": 0
+      },
+      "largestCompressed": {
+        "url": "https://www.lowes.com/gauge/link/baymax"
+      },
+      "longest": {
+        "url": "https://www.bankofamerica.com/",
+        "time": 1333,
+        "timings": {
+          "blocked": 0,
+          "wait": 183,
+          "receive": 242,
+          "connect": 739
+        }
+      }
+    },
+    "document": {
+      "noOfRequests": 0
+    },
+    "font": {
+      "noOfRequests": 0
+    },
+    "image": {
+      "noOfRequests": 0
+    },
+    "style": {
+      "noOfRequests": 0
+    },
+    "script": {
+      "noOfRequests": 0
+    },
+    "xhr": {
+      "noOfRequests": 0
+    },
+    "other": {
+      "noOfRequests": 0
+    }
+  }
+}

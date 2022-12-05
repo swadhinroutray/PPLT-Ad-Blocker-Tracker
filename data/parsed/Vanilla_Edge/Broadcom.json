@@ -1,0 +1,73 @@
+{
+  "pages": {
+    "noOfPages": 1,
+    "medianOnLoad": null,
+    "ninetyFifthOnLoad": null,
+    "pages": [
+      {
+        "url": "Broadcom",
+        "onLoad": null
+      }
+    ]
+  },
+  "requests": {
+    "all": {
+      "noOfRequests": 83,
+      "medianTime": 60,
+      "ninetyFifthTime": 335,
+      "medianTimings": {
+        "blocked": -1,
+        "wait": 54,
+        "receive": 0
+      },
+      "ninetyFifthTimings": {
+        "blocked": 0,
+        "wait": 221,
+        "receive": 24
+      },
+      "bytesTransferred": null,
+      "topUrl": {
+        "url": "https://www.broadcom.com/media/blt4ac44e0e6c6d8341/blt37d2d2da07c776e8/61b243761bdbe25709ba6f37/_wwwHero_CPO-Homepage_1920x455-2.jpg",
+        "noOfOccurrences": 3
+      },
+      "largest": {
+        "url": "https://s2.content.video.llnw.net/smedia/582dd700945f4a7aa6a7bb6f0d70aead/En/N4egHLv0WeBxTForxpbPvAHbaHKtmAGdKYYZuBerM/brcm_corp_video_2019_hires_1920x1080-20191015-c981586cd1a219fa56a88838e5d0adfaeba9e5b2.m3u8",
+        "bytes": 0
+      },
+      "largestCompressed": {
+        "url": "https://analytics.twitter.com/i/adsct"
+      },
+      "longest": {
+        "url": "https://edge.microsoft.com/autofillservice/v1/pages/ChVDaHJvbWUvMTA3LjAuNTMwNC4xNTASEAnXAyavwRrnzxIFDT0fUzw=",
+        "time": 1156,
+        "timings": {
+          "blocked": 0,
+          "wait": 1065,
+          "receive": 0,
+          "connect": 90
+        }
+      }
+    },
+    "document": {
+      "noOfRequests": 0
+    },
+    "font": {
+      "noOfRequests": 0
+    },
+    "image": {
+      "noOfRequests": 0
+    },
+    "style": {
+      "noOfRequests": 0
+    },
+    "script": {
+      "noOfRequests": 0
+    },
+    "xhr": {
+      "noOfRequests": 0
+    },
+    "other": {
+      "noOfRequests": 0
+    }
+  }
+}

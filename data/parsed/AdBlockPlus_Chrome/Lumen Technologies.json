@@ -1,0 +1,73 @@
+{
+  "pages": {
+    "noOfPages": 1,
+    "medianOnLoad": null,
+    "ninetyFifthOnLoad": null,
+    "pages": [
+      {
+        "url": "Lumen Technologies",
+        "onLoad": null
+      }
+    ]
+  },
+  "requests": {
+    "all": {
+      "noOfRequests": 272,
+      "medianTime": 105,
+      "ninetyFifthTime": 356,
+      "medianTimings": {
+        "blocked": 0,
+        "wait": 32,
+        "receive": 0
+      },
+      "ninetyFifthTimings": {
+        "blocked": 0,
+        "wait": 121,
+        "receive": 30
+      },
+      "bytesTransferred": null,
+      "topUrl": {
+        "url": "https://pages.lumentech.com/index.php/form/getForm",
+        "noOfOccurrences": 16
+      },
+      "largest": {
+        "url": "https://idsync.rlcdn.com/448836.gif",
+        "bytes": 0
+      },
+      "largestCompressed": {
+        "url": "https://www.u47.pnc.com/783807/FJ6O.html"
+      },
+      "longest": {
+        "url": "https://lib.lumen.com/chi/5.6.0/chi.css",
+        "time": 649,
+        "timings": {
+          "blocked": 0,
+          "wait": 27,
+          "receive": 37,
+          "connect": 504
+        }
+      }
+    },
+    "document": {
+      "noOfRequests": 0
+    },
+    "font": {
+      "noOfRequests": 0
+    },
+    "image": {
+      "noOfRequests": 0
+    },
+    "style": {
+      "noOfRequests": 0
+    },
+    "script": {
+      "noOfRequests": 0
+    },
+    "xhr": {
+      "noOfRequests": 0
+    },
+    "other": {
+      "noOfRequests": 0
+    }
+  }
+}

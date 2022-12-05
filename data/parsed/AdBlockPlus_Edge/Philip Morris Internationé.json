@@ -1,0 +1,73 @@
+{
+  "pages": {
+    "noOfPages": 1,
+    "medianOnLoad": null,
+    "ninetyFifthOnLoad": null,
+    "pages": [
+      {
+        "url": "Philip Morris Internationé",
+        "onLoad": null
+      }
+    ]
+  },
+  "requests": {
+    "all": {
+      "noOfRequests": 76,
+      "medianTime": 65,
+      "ninetyFifthTime": 248,
+      "medianTimings": {
+        "blocked": -1,
+        "wait": 40,
+        "receive": 0
+      },
+      "ninetyFifthTimings": {
+        "blocked": 0,
+        "wait": 114,
+        "receive": 62
+      },
+      "bytesTransferred": null,
+      "topUrl": {
+        "url": "https://www.pmi.com/resources/videos/default-source/default-video-library/the-future-reimagined---hero-web-edit---1-min-20-sec---with-subs.mp4",
+        "noOfOccurrences": 1
+      },
+      "largest": {
+        "url": "https://www.pmi.com/resources/images/default-source/transformation/bonds-article-thumbnail.jpg",
+        "bytes": 0
+      },
+      "largestCompressed": {
+        "url": "https://nav-edge.smartscreen.microsoft.com/api/browser/edge/navigate/3"
+      },
+      "longest": {
+        "url": "https://www.pmi.com/",
+        "time": 496,
+        "timings": {
+          "blocked": 0,
+          "wait": 92,
+          "receive": 14,
+          "connect": 238
+        }
+      }
+    },
+    "document": {
+      "noOfRequests": 0
+    },
+    "font": {
+      "noOfRequests": 0
+    },
+    "image": {
+      "noOfRequests": 0
+    },
+    "style": {
+      "noOfRequests": 0
+    },
+    "script": {
+      "noOfRequests": 0
+    },
+    "xhr": {
+      "noOfRequests": 0
+    },
+    "other": {
+      "noOfRequests": 0
+    }
+  }
+}

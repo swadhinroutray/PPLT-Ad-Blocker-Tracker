@@ -1,0 +1,73 @@
+{
+  "pages": {
+    "noOfPages": 1,
+    "medianOnLoad": null,
+    "ninetyFifthOnLoad": null,
+    "pages": [
+      {
+        "url": "Amazon",
+        "onLoad": null
+      }
+    ]
+  },
+  "requests": {
+    "all": {
+      "noOfRequests": 370,
+      "medianTime": 26,
+      "ninetyFifthTime": 247,
+      "medianTimings": {
+        "blocked": -1,
+        "wait": 25,
+        "receive": 0
+      },
+      "ninetyFifthTimings": {
+        "blocked": 0,
+        "wait": 50,
+        "receive": 5
+      },
+      "bytesTransferred": null,
+      "topUrl": {
+        "url": "https://unagi-na.amazon.com/1/events/com.amazon.eel.amazonlive.metrics.nexus",
+        "noOfOccurrences": 4
+      },
+      "largest": {
+        "url": "https://fls-na.amazon.com/1/batch/1/OE/",
+        "bytes": 0
+      },
+      "largestCompressed": {
+        "url": "https://collector-pxu6b0qd2s.px-cloud.net/assets/js/bundle"
+      },
+      "longest": {
+        "url": "https://www.amazon.com/",
+        "time": 667,
+        "timings": {
+          "blocked": 0,
+          "wait": 80,
+          "receive": 313,
+          "connect": 248
+        }
+      }
+    },
+    "document": {
+      "noOfRequests": 0
+    },
+    "font": {
+      "noOfRequests": 0
+    },
+    "image": {
+      "noOfRequests": 0
+    },
+    "style": {
+      "noOfRequests": 0
+    },
+    "script": {
+      "noOfRequests": 0
+    },
+    "xhr": {
+      "noOfRequests": 0
+    },
+    "other": {
+      "noOfRequests": 0
+    }
+  }
+}

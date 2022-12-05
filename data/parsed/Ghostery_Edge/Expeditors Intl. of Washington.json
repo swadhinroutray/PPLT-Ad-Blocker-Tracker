@@ -1,0 +1,73 @@
+{
+  "pages": {
+    "noOfPages": 1,
+    "medianOnLoad": null,
+    "ninetyFifthOnLoad": null,
+    "pages": [
+      {
+        "url": "Expeditors Intl. of Washington",
+        "onLoad": null
+      }
+    ]
+  },
+  "requests": {
+    "all": {
+      "noOfRequests": 51,
+      "medianTime": 38,
+      "ninetyFifthTime": 907,
+      "medianTimings": {
+        "blocked": -1,
+        "wait": 27,
+        "receive": 0
+      },
+      "ninetyFifthTimings": {
+        "blocked": 0,
+        "wait": 314,
+        "receive": 30
+      },
+      "bytesTransferred": null,
+      "topUrl": {
+        "url": "https://www.expeditors.com/sbbi/",
+        "noOfOccurrences": 3
+      },
+      "largest": {
+        "url": "https://web.expeditors.com/legal/css/cookieBanner.css",
+        "bytes": 0
+      },
+      "largestCompressed": {
+        "url": "https://www.expeditors.com/"
+      },
+      "longest": {
+        "url": "https://edge.microsoft.com/autofillservice/v1/pages/ChVDaHJvbWUvMTA3LjAuNTMwNC4xNTASFwlH4p-eQ938JxIFDQq5VDQSBQ1nz9gO",
+        "time": 1438,
+        "timings": {
+          "blocked": 0,
+          "wait": 1322,
+          "receive": 0,
+          "connect": 116
+        }
+      }
+    },
+    "document": {
+      "noOfRequests": 0
+    },
+    "font": {
+      "noOfRequests": 0
+    },
+    "image": {
+      "noOfRequests": 0
+    },
+    "style": {
+      "noOfRequests": 0
+    },
+    "script": {
+      "noOfRequests": 0
+    },
+    "xhr": {
+      "noOfRequests": 0
+    },
+    "other": {
+      "noOfRequests": 0
+    }
+  }
+}

@@ -1,0 +1,73 @@
+{
+  "pages": {
+    "noOfPages": 1,
+    "medianOnLoad": null,
+    "ninetyFifthOnLoad": null,
+    "pages": [
+      {
+        "url": "Parker-Hannifin",
+        "onLoad": null
+      }
+    ]
+  },
+  "requests": {
+    "all": {
+      "noOfRequests": 282,
+      "medianTime": 95,
+      "ninetyFifthTime": 354,
+      "medianTimings": {
+        "blocked": -1,
+        "wait": 40,
+        "receive": 0
+      },
+      "ninetyFifthTimings": {
+        "blocked": 0,
+        "wait": 198,
+        "receive": 23
+      },
+      "bytesTransferred": null,
+      "topUrl": {
+        "url": "https://siteintercept.qualtrics.com/WRSiteInterceptEngine/Asset.php",
+        "noOfOccurrences": 27
+      },
+      "largest": {
+        "url": "https://siteintercept.qualtrics.com/WRSiteInterceptEngine/Asset.php",
+        "bytes": 0
+      },
+      "largestCompressed": {
+        "url": "https://www.parker.com/"
+      },
+      "longest": {
+        "url": "https://www.parker.com/",
+        "time": 1029,
+        "timings": {
+          "blocked": 0,
+          "wait": 565,
+          "receive": 0,
+          "connect": 360
+        }
+      }
+    },
+    "document": {
+      "noOfRequests": 0
+    },
+    "font": {
+      "noOfRequests": 0
+    },
+    "image": {
+      "noOfRequests": 0
+    },
+    "style": {
+      "noOfRequests": 0
+    },
+    "script": {
+      "noOfRequests": 0
+    },
+    "xhr": {
+      "noOfRequests": 0
+    },
+    "other": {
+      "noOfRequests": 0
+    }
+  }
+}

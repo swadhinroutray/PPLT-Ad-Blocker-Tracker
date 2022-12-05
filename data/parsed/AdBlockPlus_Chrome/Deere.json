@@ -1,0 +1,73 @@
+{
+  "pages": {
+    "noOfPages": 1,
+    "medianOnLoad": null,
+    "ninetyFifthOnLoad": null,
+    "pages": [
+      {
+        "url": "Deere",
+        "onLoad": null
+      }
+    ]
+  },
+  "requests": {
+    "all": {
+      "noOfRequests": 149,
+      "medianTime": 103,
+      "ninetyFifthTime": 345,
+      "medianTimings": {
+        "blocked": 0,
+        "wait": 33,
+        "receive": 0
+      },
+      "ninetyFifthTimings": {
+        "blocked": 0,
+        "wait": 125,
+        "receive": 31
+      },
+      "bytesTransferred": null,
+      "topUrl": {
+        "url": "https://digitalmarketing.dea-eng-prod.nikecloud.com/nr-proxy",
+        "noOfOccurrences": 15
+      },
+      "largest": {
+        "url": "https://somni.deere.com/b/ss/deerersddc/10/JS-2.23.0-LCXS/s32150081485057",
+        "bytes": 0
+      },
+      "largestCompressed": {
+        "url": "https://stats.g.doubleclick.net/g/collect"
+      },
+      "longest": {
+        "url": "https://www.deere.com/en/",
+        "time": 974,
+        "timings": {
+          "blocked": -1,
+          "wait": 974,
+          "receive": 0,
+          "connect": -1
+        }
+      }
+    },
+    "document": {
+      "noOfRequests": 0
+    },
+    "font": {
+      "noOfRequests": 0
+    },
+    "image": {
+      "noOfRequests": 0
+    },
+    "style": {
+      "noOfRequests": 0
+    },
+    "script": {
+      "noOfRequests": 0
+    },
+    "xhr": {
+      "noOfRequests": 0
+    },
+    "other": {
+      "noOfRequests": 0
+    }
+  }
+}

@@ -1,0 +1,73 @@
+{
+  "pages": {
+    "noOfPages": 1,
+    "medianOnLoad": null,
+    "ninetyFifthOnLoad": null,
+    "pages": [
+      {
+        "url": "Rite Aid",
+        "onLoad": null
+      }
+    ]
+  },
+  "requests": {
+    "all": {
+      "noOfRequests": 264,
+      "medianTime": 76,
+      "ninetyFifthTime": 370,
+      "medianTimings": {
+        "blocked": -1,
+        "wait": 33,
+        "receive": 0
+      },
+      "ninetyFifthTimings": {
+        "blocked": 0,
+        "wait": 84,
+        "receive": 34
+      },
+      "bytesTransferred": null,
+      "topUrl": {
+        "url": "https://update.googleapis.com/service/update2/json",
+        "noOfOccurrences": 8
+      },
+      "largest": {
+        "url": "https://prod-east-alweb-mt.rfksrv.com/rfkj/1/11304-149436981/an",
+        "bytes": 0
+      },
+      "largestCompressed": {
+        "url": "https://www.riteaid.com/"
+      },
+      "longest": {
+        "url": "https://notification.adblockplus.org/notification.json",
+        "time": 875,
+        "timings": {
+          "blocked": 0,
+          "wait": 146,
+          "receive": 0,
+          "connect": 696
+        }
+      }
+    },
+    "document": {
+      "noOfRequests": 0
+    },
+    "font": {
+      "noOfRequests": 0
+    },
+    "image": {
+      "noOfRequests": 0
+    },
+    "style": {
+      "noOfRequests": 0
+    },
+    "script": {
+      "noOfRequests": 0
+    },
+    "xhr": {
+      "noOfRequests": 0
+    },
+    "other": {
+      "noOfRequests": 0
+    }
+  }
+}

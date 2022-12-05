@@ -1,0 +1,73 @@
+{
+  "pages": {
+    "noOfPages": 1,
+    "medianOnLoad": null,
+    "ninetyFifthOnLoad": null,
+    "pages": [
+      {
+        "url": "Ford Motor",
+        "onLoad": null
+      }
+    ]
+  },
+  "requests": {
+    "all": {
+      "noOfRequests": 104,
+      "medianTime": 57,
+      "ninetyFifthTime": 375,
+      "medianTimings": {
+        "blocked": -1,
+        "wait": 40,
+        "receive": 0
+      },
+      "ninetyFifthTimings": {
+        "blocked": 0,
+        "wait": 186,
+        "receive": 32
+      },
+      "bytesTransferred": null,
+      "topUrl": {
+        "url": "https://www.ford.com/cxservices/products/ModelSlices.json",
+        "noOfOccurrences": 4
+      },
+      "largest": {
+        "url": "https://fps-prod-na-frontdoor.z01.azurefd.net/fps/api/personalization_1_8/set",
+        "bytes": 0
+      },
+      "largestCompressed": {
+        "url": "https://www.kroger.com/cdn/@kroger/amp-products-components/src/components/CmsProductList.64bcd3b725.css"
+      },
+      "longest": {
+        "url": "https://pgl.yoyo.org/adservers/serverlist.php",
+        "time": 952,
+        "timings": {
+          "blocked": 0,
+          "wait": 200,
+          "receive": 99,
+          "connect": 428
+        }
+      }
+    },
+    "document": {
+      "noOfRequests": 0
+    },
+    "font": {
+      "noOfRequests": 0
+    },
+    "image": {
+      "noOfRequests": 0
+    },
+    "style": {
+      "noOfRequests": 0
+    },
+    "script": {
+      "noOfRequests": 0
+    },
+    "xhr": {
+      "noOfRequests": 0
+    },
+    "other": {
+      "noOfRequests": 0
+    }
+  }
+}

@@ -1,0 +1,73 @@
+{
+  "pages": {
+    "noOfPages": 1,
+    "medianOnLoad": null,
+    "ninetyFifthOnLoad": null,
+    "pages": [
+      {
+        "url": "Goodyear Tire & Rubber",
+        "onLoad": null
+      }
+    ]
+  },
+  "requests": {
+    "all": {
+      "noOfRequests": 161,
+      "medianTime": 39,
+      "ninetyFifthTime": 309,
+      "medianTimings": {
+        "blocked": -1,
+        "wait": 32,
+        "receive": 0
+      },
+      "ninetyFifthTimings": {
+        "blocked": 0,
+        "wait": 159,
+        "receive": 33
+      },
+      "bytesTransferred": null,
+      "topUrl": {
+        "url": "https://www.goodyear.com/en-US/cart/miniCart/isMiniCartFull",
+        "noOfOccurrences": 1
+      },
+      "largest": {
+        "url": "https://assets.adobedtm.com/12256112e774/179751483745/c7cec4f2705a/RC6609b9cb68ac484eab391679aff6a265-source.min.js",
+        "bytes": 0
+      },
+      "largestCompressed": {
+        "url": "https://www.goodyear.com/"
+      },
+      "longest": {
+        "url": "https://www.goodyear.com/",
+        "time": 2480,
+        "timings": {
+          "blocked": 0,
+          "wait": 2125,
+          "receive": 94,
+          "connect": 202
+        }
+      }
+    },
+    "document": {
+      "noOfRequests": 0
+    },
+    "font": {
+      "noOfRequests": 0
+    },
+    "image": {
+      "noOfRequests": 0
+    },
+    "style": {
+      "noOfRequests": 0
+    },
+    "script": {
+      "noOfRequests": 0
+    },
+    "xhr": {
+      "noOfRequests": 0
+    },
+    "other": {
+      "noOfRequests": 0
+    }
+  }
+}

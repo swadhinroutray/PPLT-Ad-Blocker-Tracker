@@ -1,0 +1,73 @@
+{
+  "pages": {
+    "noOfPages": 1,
+    "medianOnLoad": null,
+    "ninetyFifthOnLoad": null,
+    "pages": [
+      {
+        "url": "New York Life Insurance",
+        "onLoad": null
+      }
+    ]
+  },
+  "requests": {
+    "all": {
+      "noOfRequests": 141,
+      "medianTime": 98,
+      "ninetyFifthTime": 417,
+      "medianTimings": {
+        "blocked": 0,
+        "wait": 36,
+        "receive": 0
+      },
+      "ninetyFifthTimings": {
+        "blocked": 0,
+        "wait": 91,
+        "receive": 22
+      },
+      "bytesTransferred": null,
+      "topUrl": {
+        "url": "https://www.googletagmanager.com/gtag/js",
+        "noOfOccurrences": 6
+      },
+      "largest": {
+        "url": "https://st.newyorklife.com/b/ss/nylaemassetsinsightsprod/10/JS-2.22.4-LCXS/s02583266886575",
+        "bytes": 0
+      },
+      "largestCompressed": {
+        "url": "https://www.newyorklife.com/"
+      },
+      "longest": {
+        "url": "https://newyorklifeinsurance.tt.omtrdc.net/rest/v1/delivery",
+        "time": 533,
+        "timings": {
+          "blocked": 0,
+          "wait": 43,
+          "receive": 0,
+          "connect": 371
+        }
+      }
+    },
+    "document": {
+      "noOfRequests": 0
+    },
+    "font": {
+      "noOfRequests": 0
+    },
+    "image": {
+      "noOfRequests": 0
+    },
+    "style": {
+      "noOfRequests": 0
+    },
+    "script": {
+      "noOfRequests": 0
+    },
+    "xhr": {
+      "noOfRequests": 0
+    },
+    "other": {
+      "noOfRequests": 0
+    }
+  }
+}

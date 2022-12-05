@@ -1,0 +1,73 @@
+{
+  "pages": {
+    "noOfPages": 1,
+    "medianOnLoad": null,
+    "ninetyFifthOnLoad": null,
+    "pages": [
+      {
+        "url": "Charles Schwab",
+        "onLoad": null
+      }
+    ]
+  },
+  "requests": {
+    "all": {
+      "noOfRequests": 181,
+      "medianTime": 114,
+      "ninetyFifthTime": 354,
+      "medianTimings": {
+        "blocked": 0,
+        "wait": 34,
+        "receive": 0
+      },
+      "ninetyFifthTimings": {
+        "blocked": 0,
+        "wait": 151,
+        "receive": 28
+      },
+      "bytesTransferred": null,
+      "topUrl": {
+        "url": "https://sws-gateway.schwab.com/1DW4Z2hMb/eH6R7n_kU/I8RLI/gJEI/Y13QJXSrD1L1/Fg8HLDlFNw/Yx/NgJApEGQUC",
+        "noOfOccurrences": 4
+      },
+      "largest": {
+        "url": "https://68794910.akstat.io/",
+        "bytes": 0
+      },
+      "largestCompressed": {
+        "url": "https://www.lincolnfinancial.com/pbl-static-ui/8544-es2015.b4f6835d42c3a21d651c.js"
+      },
+      "longest": {
+        "url": "https://sws-gateway.schwab.com/ui/host/",
+        "time": 797,
+        "timings": {
+          "blocked": 0,
+          "wait": 486,
+          "receive": 22,
+          "connect": 245
+        }
+      }
+    },
+    "document": {
+      "noOfRequests": 0
+    },
+    "font": {
+      "noOfRequests": 0
+    },
+    "image": {
+      "noOfRequests": 0
+    },
+    "style": {
+      "noOfRequests": 0
+    },
+    "script": {
+      "noOfRequests": 0
+    },
+    "xhr": {
+      "noOfRequests": 0
+    },
+    "other": {
+      "noOfRequests": 0
+    }
+  }
+}

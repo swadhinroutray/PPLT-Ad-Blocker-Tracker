@@ -1,0 +1,73 @@
+{
+  "pages": {
+    "noOfPages": 1,
+    "medianOnLoad": null,
+    "ninetyFifthOnLoad": null,
+    "pages": [
+      {
+        "url": "Sysco",
+        "onLoad": null
+      }
+    ]
+  },
+  "requests": {
+    "all": {
+      "noOfRequests": 87,
+      "medianTime": 103,
+      "ninetyFifthTime": 325,
+      "medianTimings": {
+        "blocked": 0,
+        "wait": 32,
+        "receive": 0
+      },
+      "ninetyFifthTimings": {
+        "blocked": 0,
+        "wait": 92,
+        "receive": 71
+      },
+      "bytesTransferred": null,
+      "topUrl": {
+        "url": "https://p.adsymptotic.com/d/px/",
+        "noOfOccurrences": 1
+      },
+      "largest": {
+        "url": "https://nexus-websocket-a.intercom.io/pubsub/5-_Z6D73AR9H80CXt6-WWYONCKwbUuVGYtq5b4XjeyhQ4YueeHN6zX0gGTw23YdygdhjzXm4vaQIgRNPDfcL1rK-rZhwGzn1iMzZhR",
+        "bytes": 0
+      },
+      "largestCompressed": {
+        "url": "https://www.sysco.com/"
+      },
+      "longest": {
+        "url": "https://api-iam.intercom.io/messenger/web/ping",
+        "time": 1051,
+        "timings": {
+          "blocked": 0,
+          "wait": 439,
+          "receive": 0,
+          "connect": 591
+        }
+      }
+    },
+    "document": {
+      "noOfRequests": 0
+    },
+    "font": {
+      "noOfRequests": 0
+    },
+    "image": {
+      "noOfRequests": 0
+    },
+    "style": {
+      "noOfRequests": 0
+    },
+    "script": {
+      "noOfRequests": 0
+    },
+    "xhr": {
+      "noOfRequests": 0
+    },
+    "other": {
+      "noOfRequests": 0
+    }
+  }
+}

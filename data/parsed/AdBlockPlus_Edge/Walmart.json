@@ -1,0 +1,73 @@
+{
+  "pages": {
+    "noOfPages": 1,
+    "medianOnLoad": null,
+    "ninetyFifthOnLoad": null,
+    "pages": [
+      {
+        "url": "Walmart",
+        "onLoad": null
+      }
+    ]
+  },
+  "requests": {
+    "all": {
+      "noOfRequests": 256,
+      "medianTime": 39,
+      "ninetyFifthTime": 615,
+      "medianTimings": {
+        "blocked": -1,
+        "wait": 25,
+        "receive": 0
+      },
+      "ninetyFifthTimings": {
+        "blocked": 0,
+        "wait": 121,
+        "receive": 34
+      },
+      "bytesTransferred": null,
+      "topUrl": {
+        "url": "https://r.stripe.com/0",
+        "noOfOccurrences": 12
+      },
+      "largest": {
+        "url": "https://i5.walmartimages.com/dfw/4ff9c6c9-d9a0/k2-_66e7fff8-b096-45d0-8ec5-70e5787386e9.v1.js",
+        "bytes": 0
+      },
+      "largestCompressed": {
+        "url": "https://www.googleapis.com/chromewebstore/v1.1/items/verify"
+      },
+      "longest": {
+        "url": "https://easylist-downloads.adblockplus.org/easylist.txt",
+        "time": 1821,
+        "timings": {
+          "blocked": 0,
+          "wait": 112,
+          "receive": 554,
+          "connect": 1128
+        }
+      }
+    },
+    "document": {
+      "noOfRequests": 0
+    },
+    "font": {
+      "noOfRequests": 0
+    },
+    "image": {
+      "noOfRequests": 0
+    },
+    "style": {
+      "noOfRequests": 0
+    },
+    "script": {
+      "noOfRequests": 0
+    },
+    "xhr": {
+      "noOfRequests": 0
+    },
+    "other": {
+      "noOfRequests": 0
+    }
+  }
+}

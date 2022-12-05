@@ -1,0 +1,73 @@
+{
+  "pages": {
+    "noOfPages": 1,
+    "medianOnLoad": null,
+    "ninetyFifthOnLoad": null,
+    "pages": [
+      {
+        "url": "Lowe's",
+        "onLoad": null
+      }
+    ]
+  },
+  "requests": {
+    "all": {
+      "noOfRequests": 105,
+      "medianTime": 102,
+      "ninetyFifthTime": 423,
+      "medianTimings": {
+        "blocked": 0,
+        "wait": 34,
+        "receive": 0
+      },
+      "ninetyFifthTimings": {
+        "blocked": 0,
+        "wait": 215,
+        "receive": 33
+      },
+      "bytesTransferred": null,
+      "topUrl": {
+        "url": "https://dpm.demdex.net/id",
+        "noOfOccurrences": 5
+      },
+      "largest": {
+        "url": "https://ct.pinterest.com/v3/",
+        "bytes": 0
+      },
+      "largestCompressed": {
+        "url": "https://siteintercept.qualtrics.com/WRSiteInterceptEngine/"
+      },
+      "longest": {
+        "url": "https://www.lowes.com/",
+        "time": 639,
+        "timings": {
+          "blocked": 0,
+          "wait": 267,
+          "receive": 20,
+          "connect": 325
+        }
+      }
+    },
+    "document": {
+      "noOfRequests": 0
+    },
+    "font": {
+      "noOfRequests": 0
+    },
+    "image": {
+      "noOfRequests": 0
+    },
+    "style": {
+      "noOfRequests": 0
+    },
+    "script": {
+      "noOfRequests": 0
+    },
+    "xhr": {
+      "noOfRequests": 0
+    },
+    "other": {
+      "noOfRequests": 0
+    }
+  }
+}

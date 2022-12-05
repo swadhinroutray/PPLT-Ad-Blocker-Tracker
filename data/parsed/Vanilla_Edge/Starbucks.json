@@ -1,0 +1,73 @@
+{
+  "pages": {
+    "noOfPages": 1,
+    "medianOnLoad": null,
+    "ninetyFifthOnLoad": null,
+    "pages": [
+      {
+        "url": "Starbucks",
+        "onLoad": null
+      }
+    ]
+  },
+  "requests": {
+    "all": {
+      "noOfRequests": 50,
+      "medianTime": 87,
+      "ninetyFifthTime": 269,
+      "medianTimings": {
+        "blocked": -1,
+        "wait": 30,
+        "receive": 0
+      },
+      "ninetyFifthTimings": {
+        "blocked": 0,
+        "wait": 99,
+        "receive": 71
+      },
+      "bytesTransferred": null,
+      "topUrl": {
+        "url": "https://www.google-analytics.com/collect",
+        "noOfOccurrences": 1
+      },
+      "largest": {
+        "url": "https://bam.nr-data.net/events/1/671cca5e0f",
+        "bytes": 0
+      },
+      "largestCompressed": {
+        "url": "https://snid.snitcher.com/verify"
+      },
+      "longest": {
+        "url": "https://www.starbucks.com/_next/static/css/1d39403a548cd998.css",
+        "time": 342,
+        "timings": {
+          "blocked": 0,
+          "wait": 93,
+          "receive": 0,
+          "connect": 185
+        }
+      }
+    },
+    "document": {
+      "noOfRequests": 0
+    },
+    "font": {
+      "noOfRequests": 0
+    },
+    "image": {
+      "noOfRequests": 0
+    },
+    "style": {
+      "noOfRequests": 0
+    },
+    "script": {
+      "noOfRequests": 0
+    },
+    "xhr": {
+      "noOfRequests": 0
+    },
+    "other": {
+      "noOfRequests": 0
+    }
+  }
+}

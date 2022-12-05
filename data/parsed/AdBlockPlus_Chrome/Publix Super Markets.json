@@ -1,0 +1,73 @@
+{
+  "pages": {
+    "noOfPages": 1,
+    "medianOnLoad": null,
+    "ninetyFifthOnLoad": null,
+    "pages": [
+      {
+        "url": "Publix Super Markets",
+        "onLoad": null
+      }
+    ]
+  },
+  "requests": {
+    "all": {
+      "noOfRequests": 183,
+      "medianTime": 92,
+      "ninetyFifthTime": 1389,
+      "medianTimings": {
+        "blocked": -1,
+        "wait": 30,
+        "receive": 0
+      },
+      "ninetyFifthTimings": {
+        "blocked": 0,
+        "wait": 1388,
+        "receive": 25
+      },
+      "bytesTransferred": null,
+      "topUrl": {
+        "url": "https://www.publix.com/geyILPiTW/myo/xm7/_WJT33Mlvrwk/Q9cEptzE5t/LWMgAQ/YnIbX/F4mTUAB",
+        "noOfOccurrences": 4
+      },
+      "largest": {
+        "url": "https://www.google-analytics.com/g/collect",
+        "bytes": 0
+      },
+      "largestCompressed": {
+        "url": "https://www.publix.com/"
+      },
+      "longest": {
+        "url": "https://www.publix.com/-/media/images/publix/icons/menu_giftcard.svg",
+        "time": 3037,
+        "timings": {
+          "blocked": -1,
+          "wait": 3036,
+          "receive": 0,
+          "connect": -1
+        }
+      }
+    },
+    "document": {
+      "noOfRequests": 0
+    },
+    "font": {
+      "noOfRequests": 0
+    },
+    "image": {
+      "noOfRequests": 0
+    },
+    "style": {
+      "noOfRequests": 0
+    },
+    "script": {
+      "noOfRequests": 0
+    },
+    "xhr": {
+      "noOfRequests": 0
+    },
+    "other": {
+      "noOfRequests": 0
+    }
+  }
+}

@@ -1,0 +1,73 @@
+{
+  "pages": {
+    "noOfPages": 1,
+    "medianOnLoad": null,
+    "ninetyFifthOnLoad": null,
+    "pages": [
+      {
+        "url": "Energy Transfer",
+        "onLoad": null
+      }
+    ]
+  },
+  "requests": {
+    "all": {
+      "noOfRequests": 70,
+      "medianTime": 159,
+      "ninetyFifthTime": 770,
+      "medianTimings": {
+        "blocked": -1,
+        "wait": 84,
+        "receive": 15
+      },
+      "ninetyFifthTimings": {
+        "blocked": 0,
+        "wait": 331,
+        "receive": 340
+      },
+      "bytesTransferred": null,
+      "topUrl": {
+        "url": "https://www.energytransfer.com/static/fonts/ec91c4e8-bae8-4c5f-968c-912a29db69f2.woff2",
+        "noOfOccurrences": 1
+      },
+      "largest": {
+        "url": "https://www.energytransfer.com/static/img/favicons/favicon-32x32.png",
+        "bytes": 0
+      },
+      "largestCompressed": {
+        "url": "https://www.energytransfer.com/"
+      },
+      "longest": {
+        "url": "https://energytransfer.com/wp-content/uploads/2021/02/Cushing2.jpg",
+        "time": 2005,
+        "timings": {
+          "blocked": 0,
+          "wait": 310,
+          "receive": 1398,
+          "connect": 266
+        }
+      }
+    },
+    "document": {
+      "noOfRequests": 0
+    },
+    "font": {
+      "noOfRequests": 0
+    },
+    "image": {
+      "noOfRequests": 0
+    },
+    "style": {
+      "noOfRequests": 0
+    },
+    "script": {
+      "noOfRequests": 0
+    },
+    "xhr": {
+      "noOfRequests": 0
+    },
+    "other": {
+      "noOfRequests": 0
+    }
+  }
+}

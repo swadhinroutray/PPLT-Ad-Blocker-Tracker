@@ -1,0 +1,73 @@
+{
+  "pages": {
+    "noOfPages": 1,
+    "medianOnLoad": null,
+    "ninetyFifthOnLoad": null,
+    "pages": [
+      {
+        "url": "Gap",
+        "onLoad": null
+      }
+    ]
+  },
+  "requests": {
+    "all": {
+      "noOfRequests": 126,
+      "medianTime": 54,
+      "ninetyFifthTime": 387,
+      "medianTimings": {
+        "blocked": -1,
+        "wait": 46,
+        "receive": 0
+      },
+      "ninetyFifthTimings": {
+        "blocked": 0,
+        "wait": 222,
+        "receive": 14
+      },
+      "bytesTransferred": null,
+      "topUrl": {
+        "url": "https://www.gap.com/rvSQOF-5dZEDi4hmGyz5/aiOcNmYhOf/Elk8RmwD/aT/Z6QDsxNlYB",
+        "noOfOccurrences": 2
+      },
+      "largest": {
+        "url": "https://content.gap.com/fp/tags.js",
+        "bytes": 0
+      },
+      "largestCompressed": {
+        "url": "https://www.youtube.com/youtubei/v1/log_event"
+      },
+      "longest": {
+        "url": "https://www.gap.com/optimizely_snippets/gap_us_home.js",
+        "time": 1523,
+        "timings": {
+          "blocked": -1,
+          "wait": 792,
+          "receive": 730,
+          "connect": -1
+        }
+      }
+    },
+    "document": {
+      "noOfRequests": 0
+    },
+    "font": {
+      "noOfRequests": 0
+    },
+    "image": {
+      "noOfRequests": 0
+    },
+    "style": {
+      "noOfRequests": 0
+    },
+    "script": {
+      "noOfRequests": 0
+    },
+    "xhr": {
+      "noOfRequests": 0
+    },
+    "other": {
+      "noOfRequests": 0
+    }
+  }
+}

@@ -1,0 +1,73 @@
+{
+  "pages": {
+    "noOfPages": 1,
+    "medianOnLoad": null,
+    "ninetyFifthOnLoad": null,
+    "pages": [
+      {
+        "url": "Avnet",
+        "onLoad": null
+      }
+    ]
+  },
+  "requests": {
+    "all": {
+      "noOfRequests": 156,
+      "medianTime": 79,
+      "ninetyFifthTime": 515,
+      "medianTimings": {
+        "blocked": -1,
+        "wait": 49,
+        "receive": 0
+      },
+      "ninetyFifthTimings": {
+        "blocked": 0,
+        "wait": 326,
+        "receive": 58
+      },
+      "bytesTransferred": null,
+      "topUrl": {
+        "url": "https://www.avnet.com/5H7468/-HTn/7e/ZVzJ/Sk770-wh/LY1Vm4fD/SixucGdeLAQ/Vi4GdkE/9dCkB",
+        "noOfOccurrences": 7
+      },
+      "largest": {
+        "url": "https://www.avnet.com/5H7468/-HTn/7e/ZVzJ/Sk770-wh/LY1Vm4fD/SixucGdeLAQ/Vi4GdkE/9dCkB",
+        "bytes": 0
+      },
+      "largestCompressed": {
+        "url": "https://www.avnet.com/"
+      },
+      "longest": {
+        "url": "https://www.avnet.com/wps/wcm/connect/onesite/71b31903-d1c8-4694-a105-2e3c128de3b5/industrial-iot-ethernet.jpg",
+        "time": 1475,
+        "timings": {
+          "blocked": -1,
+          "wait": 1460,
+          "receive": 15,
+          "connect": -1
+        }
+      }
+    },
+    "document": {
+      "noOfRequests": 0
+    },
+    "font": {
+      "noOfRequests": 0
+    },
+    "image": {
+      "noOfRequests": 0
+    },
+    "style": {
+      "noOfRequests": 0
+    },
+    "script": {
+      "noOfRequests": 0
+    },
+    "xhr": {
+      "noOfRequests": 0
+    },
+    "other": {
+      "noOfRequests": 0
+    }
+  }
+}

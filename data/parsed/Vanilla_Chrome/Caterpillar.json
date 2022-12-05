@@ -1,0 +1,73 @@
+{
+  "pages": {
+    "noOfPages": 1,
+    "medianOnLoad": null,
+    "ninetyFifthOnLoad": null,
+    "pages": [
+      {
+        "url": "Caterpillar",
+        "onLoad": null
+      }
+    ]
+  },
+  "requests": {
+    "all": {
+      "noOfRequests": 85,
+      "medianTime": 77,
+      "ninetyFifthTime": 228,
+      "medianTimings": {
+        "blocked": -1,
+        "wait": 28,
+        "receive": 0
+      },
+      "ninetyFifthTimings": {
+        "blocked": 0,
+        "wait": 99,
+        "receive": 57
+      },
+      "bytesTransferred": null,
+      "topUrl": {
+        "url": "https://www.caterpillar.com/",
+        "noOfOccurrences": 2
+      },
+      "largest": {
+        "url": "https://www.caterpillar.com/content/dam/favicons/favicon.ico",
+        "bytes": 0
+      },
+      "largestCompressed": {
+        "url": "https://conv-pix.adstk.io/ad/ord=1669998677672"
+      },
+      "longest": {
+        "url": "https://pdx-col.eum-appdynamics.com/eumcollector/beacons/browser/v1/AD-AAB-ABD-GKC/adrum",
+        "time": 554,
+        "timings": {
+          "blocked": 0,
+          "wait": 77,
+          "receive": 0,
+          "connect": 418
+        }
+      }
+    },
+    "document": {
+      "noOfRequests": 0
+    },
+    "font": {
+      "noOfRequests": 0
+    },
+    "image": {
+      "noOfRequests": 0
+    },
+    "style": {
+      "noOfRequests": 0
+    },
+    "script": {
+      "noOfRequests": 0
+    },
+    "xhr": {
+      "noOfRequests": 0
+    },
+    "other": {
+      "noOfRequests": 0
+    }
+  }
+}

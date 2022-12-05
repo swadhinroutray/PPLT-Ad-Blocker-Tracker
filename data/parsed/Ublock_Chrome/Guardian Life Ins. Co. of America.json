@@ -1,0 +1,73 @@
+{
+  "pages": {
+    "noOfPages": 1,
+    "medianOnLoad": null,
+    "ninetyFifthOnLoad": null,
+    "pages": [
+      {
+        "url": "Guardian Life Ins. Co. of America",
+        "onLoad": null
+      }
+    ]
+  },
+  "requests": {
+    "all": {
+      "noOfRequests": 66,
+      "medianTime": 51,
+      "ninetyFifthTime": 156,
+      "medianTimings": {
+        "blocked": -1,
+        "wait": 28,
+        "receive": 9
+      },
+      "ninetyFifthTimings": {
+        "blocked": 0,
+        "wait": 47,
+        "receive": 50
+      },
+      "bytesTransferred": null,
+      "topUrl": {
+        "url": "https://www.guardianlife.com/_Incapsula_Resource",
+        "noOfOccurrences": 1
+      },
+      "largest": {
+        "url": "https://fast.wistia.com/assets/external/allIntegrations.js",
+        "bytes": 0
+      },
+      "largestCompressed": {
+        "url": "https://www.guardianlife.com/"
+      },
+      "longest": {
+        "url": "https://embed-ssl.wistia.com/deliveries/6c936a21cea98b47d41d77b9e32a2759.webp",
+        "time": 401,
+        "timings": {
+          "blocked": 0,
+          "wait": 152,
+          "receive": 47,
+          "connect": 179
+        }
+      }
+    },
+    "document": {
+      "noOfRequests": 0
+    },
+    "font": {
+      "noOfRequests": 0
+    },
+    "image": {
+      "noOfRequests": 0
+    },
+    "style": {
+      "noOfRequests": 0
+    },
+    "script": {
+      "noOfRequests": 0
+    },
+    "xhr": {
+      "noOfRequests": 0
+    },
+    "other": {
+      "noOfRequests": 0
+    }
+  }
+}

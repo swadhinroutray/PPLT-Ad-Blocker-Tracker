@@ -1,0 +1,73 @@
+{
+  "pages": {
+    "noOfPages": 1,
+    "medianOnLoad": null,
+    "ninetyFifthOnLoad": null,
+    "pages": [
+      {
+        "url": "Duke Energy",
+        "onLoad": null
+      }
+    ]
+  },
+  "requests": {
+    "all": {
+      "noOfRequests": 137,
+      "medianTime": 113,
+      "ninetyFifthTime": 400,
+      "medianTimings": {
+        "blocked": 0,
+        "wait": 32,
+        "receive": 0
+      },
+      "ninetyFifthTimings": {
+        "blocked": 0,
+        "wait": 95,
+        "receive": 27
+      },
+      "bytesTransferred": null,
+      "topUrl": {
+        "url": "https://cdn.linkedin.oribi.io/partner/431714/domain/duke-energy.com/token",
+        "noOfOccurrences": 11
+      },
+      "largest": {
+        "url": "https://co1.qualtrics.com/WRQualtricsSiteIntercept/Graphic.php",
+        "bytes": 0
+      },
+      "largestCompressed": {
+        "url": "https://68794910.akstat.io/"
+      },
+      "longest": {
+        "url": "https://www.duke-energy.com/home",
+        "time": 3764,
+        "timings": {
+          "blocked": -1,
+          "wait": 3733,
+          "receive": 31,
+          "connect": -1
+        }
+      }
+    },
+    "document": {
+      "noOfRequests": 0
+    },
+    "font": {
+      "noOfRequests": 0
+    },
+    "image": {
+      "noOfRequests": 0
+    },
+    "style": {
+      "noOfRequests": 0
+    },
+    "script": {
+      "noOfRequests": 0
+    },
+    "xhr": {
+      "noOfRequests": 0
+    },
+    "other": {
+      "noOfRequests": 0
+    }
+  }
+}

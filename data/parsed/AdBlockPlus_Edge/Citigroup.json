@@ -1,0 +1,73 @@
+{
+  "pages": {
+    "noOfPages": 1,
+    "medianOnLoad": null,
+    "ninetyFifthOnLoad": null,
+    "pages": [
+      {
+        "url": "Citigroup",
+        "onLoad": null
+      }
+    ]
+  },
+  "requests": {
+    "all": {
+      "noOfRequests": 114,
+      "medianTime": 128,
+      "ninetyFifthTime": 356,
+      "medianTimings": {
+        "blocked": -1,
+        "wait": 53,
+        "receive": 0
+      },
+      "ninetyFifthTimings": {
+        "blocked": 0,
+        "wait": 227,
+        "receive": 27
+      },
+      "bytesTransferred": null,
+      "topUrl": {
+        "url": "https://www.googletagmanager.com/gtag/js",
+        "noOfOccurrences": 13
+      },
+      "largest": {
+        "url": "https://www.citigroup.com/citi/favicon.ico",
+        "bytes": 0
+      },
+      "largestCompressed": {
+        "url": "https://bam.nr-data.net/events/1/NRBR-58cc51f227a56b7479d"
+      },
+      "longest": {
+        "url": "https://www.citigroup.com/citi/",
+        "time": 725,
+        "timings": {
+          "blocked": -1,
+          "wait": 724,
+          "receive": 0,
+          "connect": -1
+        }
+      }
+    },
+    "document": {
+      "noOfRequests": 0
+    },
+    "font": {
+      "noOfRequests": 0
+    },
+    "image": {
+      "noOfRequests": 0
+    },
+    "style": {
+      "noOfRequests": 0
+    },
+    "script": {
+      "noOfRequests": 0
+    },
+    "xhr": {
+      "noOfRequests": 0
+    },
+    "other": {
+      "noOfRequests": 0
+    }
+  }
+}

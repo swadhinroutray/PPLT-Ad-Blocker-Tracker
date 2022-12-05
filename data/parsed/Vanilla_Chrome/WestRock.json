@@ -1,0 +1,73 @@
+{
+  "pages": {
+    "noOfPages": 1,
+    "medianOnLoad": null,
+    "ninetyFifthOnLoad": null,
+    "pages": [
+      {
+        "url": "WestRock",
+        "onLoad": null
+      }
+    ]
+  },
+  "requests": {
+    "all": {
+      "noOfRequests": 154,
+      "medianTime": 61,
+      "ninetyFifthTime": 421,
+      "medianTimings": {
+        "blocked": -1,
+        "wait": 39,
+        "receive": 1
+      },
+      "ninetyFifthTimings": {
+        "blocked": 0,
+        "wait": 120,
+        "receive": 120
+      },
+      "bytesTransferred": null,
+      "topUrl": {
+        "url": "https://update.googleapis.com/service/update2/json",
+        "noOfOccurrences": 15
+      },
+      "largest": {
+        "url": "http://edgedl.me.gvt1.com/edgedl/release2/chrome_component/APhHMzuprJvS7ixvnAk_gdI_1/anGnv31dmOJhheXBnYQ3gw",
+        "bytes": 0
+      },
+      "largestCompressed": {
+        "url": "https://www.westrock.com/"
+      },
+      "longest": {
+        "url": "https://www.westrock.com/-/media/images/products/automation/meta-duo/metaduo-175-dpi-png.png",
+        "time": 1931,
+        "timings": {
+          "blocked": -1,
+          "wait": 93,
+          "receive": 1838,
+          "connect": -1
+        }
+      }
+    },
+    "document": {
+      "noOfRequests": 0
+    },
+    "font": {
+      "noOfRequests": 0
+    },
+    "image": {
+      "noOfRequests": 0
+    },
+    "style": {
+      "noOfRequests": 0
+    },
+    "script": {
+      "noOfRequests": 0
+    },
+    "xhr": {
+      "noOfRequests": 0
+    },
+    "other": {
+      "noOfRequests": 0
+    }
+  }
+}

@@ -1,0 +1,73 @@
+{
+  "pages": {
+    "noOfPages": 1,
+    "medianOnLoad": null,
+    "ninetyFifthOnLoad": null,
+    "pages": [
+      {
+        "url": "Target",
+        "onLoad": null
+      }
+    ]
+  },
+  "requests": {
+    "all": {
+      "noOfRequests": 90,
+      "medianTime": 31,
+      "ninetyFifthTime": 249,
+      "medianTimings": {
+        "blocked": -1,
+        "wait": 23,
+        "receive": 1
+      },
+      "ninetyFifthTimings": {
+        "blocked": 0,
+        "wait": 54,
+        "receive": 30
+      },
+      "bytesTransferred": null,
+      "topUrl": {
+        "url": "https://gsp.target.com/gsp/oauth_tokens/v2/client_tokens",
+        "noOfOccurrences": 1
+      },
+      "largest": {
+        "url": "https://assets.targetimg1.com/static/images/favicon-32x32.png",
+        "bytes": 0
+      },
+      "largestCompressed": {
+        "url": "https://www.target.com/"
+      },
+      "longest": {
+        "url": "https://assets.targetimg1.com/ui/fonts/99ecc614-958b-457a-be15-01e00c53057A.woff2",
+        "time": 374,
+        "timings": {
+          "blocked": 0,
+          "wait": 36,
+          "receive": 8,
+          "connect": 271
+        }
+      }
+    },
+    "document": {
+      "noOfRequests": 0
+    },
+    "font": {
+      "noOfRequests": 0
+    },
+    "image": {
+      "noOfRequests": 0
+    },
+    "style": {
+      "noOfRequests": 0
+    },
+    "script": {
+      "noOfRequests": 0
+    },
+    "xhr": {
+      "noOfRequests": 0
+    },
+    "other": {
+      "noOfRequests": 0
+    }
+  }
+}

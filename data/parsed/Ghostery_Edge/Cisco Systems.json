@@ -1,0 +1,73 @@
+{
+  "pages": {
+    "noOfPages": 1,
+    "medianOnLoad": null,
+    "ninetyFifthOnLoad": null,
+    "pages": [
+      {
+        "url": "Cisco Systems",
+        "onLoad": null
+      }
+    ]
+  },
+  "requests": {
+    "all": {
+      "noOfRequests": 196,
+      "medianTime": 50,
+      "ninetyFifthTime": 313,
+      "medianTimings": {
+        "blocked": -1,
+        "wait": 33,
+        "receive": 0
+      },
+      "ninetyFifthTimings": {
+        "blocked": 0,
+        "wait": 83,
+        "receive": 21
+      },
+      "bytesTransferred": null,
+      "topUrl": {
+        "url": "https://www.facebook.com/tr/",
+        "noOfOccurrences": 2
+      },
+      "largest": {
+        "url": "https://rtb.adgrx.com/segments/mwe4klhChmNkhMkwB2MuHEfOx3L0iUh_BNpSva5IQb4=/52484.gif",
+        "bytes": 0
+      },
+      "largestCompressed": {
+        "url": "https://privacyportal.onetrust.com/request/v1/consentreceipts"
+      },
+      "longest": {
+        "url": "https://www.cisco.com/web/fw/co/i/s.gif",
+        "time": 805,
+        "timings": {
+          "blocked": -1,
+          "wait": 805,
+          "receive": 0,
+          "connect": -1
+        }
+      }
+    },
+    "document": {
+      "noOfRequests": 0
+    },
+    "font": {
+      "noOfRequests": 0
+    },
+    "image": {
+      "noOfRequests": 0
+    },
+    "style": {
+      "noOfRequests": 0
+    },
+    "script": {
+      "noOfRequests": 0
+    },
+    "xhr": {
+      "noOfRequests": 0
+    },
+    "other": {
+      "noOfRequests": 0
+    }
+  }
+}

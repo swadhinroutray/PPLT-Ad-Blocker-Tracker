@@ -1,0 +1,73 @@
+{
+  "pages": {
+    "noOfPages": 1,
+    "medianOnLoad": null,
+    "ninetyFifthOnLoad": null,
+    "pages": [
+      {
+        "url": "IBM",
+        "onLoad": null
+      }
+    ]
+  },
+  "requests": {
+    "all": {
+      "noOfRequests": 200,
+      "medianTime": 26,
+      "ninetyFifthTime": 264,
+      "medianTimings": {
+        "blocked": -1,
+        "wait": 23,
+        "receive": 0
+      },
+      "ninetyFifthTimings": {
+        "blocked": 0,
+        "wait": 164,
+        "receive": 19
+      },
+      "bytesTransferred": null,
+      "topUrl": {
+        "url": "https://www.ibm.com/b4iG_lsm/x46/5hR/0XjRBngQA-/kOEYmhGw/KmVoZEZJ/QB/wGGyhVcVMB",
+        "noOfOccurrences": 3
+      },
+      "largest": {
+        "url": "https://1.www.s81c.com/common/fonts/plex/v1/ibmplexsans-semibold.woff2",
+        "bytes": 0
+      },
+      "largestCompressed": {
+        "url": "https://www.ibm.com/"
+      },
+      "longest": {
+        "url": "https://www.ibm.com/us-en/_next/static/chunks/commons.e5f598b92e04294eff62.js",
+        "time": 1095,
+        "timings": {
+          "blocked": 0,
+          "wait": 1055,
+          "receive": 0,
+          "connect": 39
+        }
+      }
+    },
+    "document": {
+      "noOfRequests": 0
+    },
+    "font": {
+      "noOfRequests": 0
+    },
+    "image": {
+      "noOfRequests": 0
+    },
+    "style": {
+      "noOfRequests": 0
+    },
+    "script": {
+      "noOfRequests": 0
+    },
+    "xhr": {
+      "noOfRequests": 0
+    },
+    "other": {
+      "noOfRequests": 0
+    }
+  }
+}

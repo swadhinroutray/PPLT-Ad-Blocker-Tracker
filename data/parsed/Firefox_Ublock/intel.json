@@ -1,0 +1,73 @@
+{
+  "pages": {
+    "noOfPages": 1,
+    "medianOnLoad": 2044,
+    "ninetyFifthOnLoad": 2044,
+    "pages": [
+      {
+        "url": "Intel | Data Center Solutions, IoT, and PC Innovation",
+        "onLoad": 2044
+      }
+    ]
+  },
+  "requests": {
+    "all": {
+      "noOfRequests": 65,
+      "medianTime": 216,
+      "ninetyFifthTime": 646,
+      "medianTimings": {
+        "blocked": -1,
+        "wait": 258,
+        "receive": 1
+      },
+      "ninetyFifthTimings": {
+        "blocked": null,
+        "wait": null,
+        "receive": null
+      },
+      "bytesTransferred": null,
+      "topUrl": {
+        "url": "https://www.intel.com/eOdX6zjXzwLoziBnDQ/Ow3pJtNLG7aO/URFBPSwC/UkBUGGI/wEmYB",
+        "noOfOccurrences": 2
+      },
+      "largest": {
+        "url": "https://www.intel.com/etc.clientlibs/settings/wcm/designs/ver/221120/intel/clientlibs/pages/intc-core.min.js",
+        "bytes": 713869
+      },
+      "largestCompressed": {
+        "url": "https://intel.com/"
+      },
+      "longest": {
+        "url": "https://www.intel.com/etc.clientlibs/settings/wcm/designs/ver/221120/intel/clientlibs/pages/homepageresourcesbar.min.js",
+        "time": 722,
+        "timings": {
+          "blocked": -1,
+          "wait": 722,
+          "receive": 0,
+          "connect": 0
+        }
+      }
+    },
+    "document": {
+      "noOfRequests": 0
+    },
+    "font": {
+      "noOfRequests": 0
+    },
+    "image": {
+      "noOfRequests": 0
+    },
+    "style": {
+      "noOfRequests": 0
+    },
+    "script": {
+      "noOfRequests": 0
+    },
+    "xhr": {
+      "noOfRequests": 0
+    },
+    "other": {
+      "noOfRequests": 0
+    }
+  }
+}

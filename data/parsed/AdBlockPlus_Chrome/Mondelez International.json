@@ -1,0 +1,73 @@
+{
+  "pages": {
+    "noOfPages": 1,
+    "medianOnLoad": null,
+    "ninetyFifthOnLoad": null,
+    "pages": [
+      {
+        "url": "Mondelez International",
+        "onLoad": null
+      }
+    ]
+  },
+  "requests": {
+    "all": {
+      "noOfRequests": 160,
+      "medianTime": 108,
+      "ninetyFifthTime": 355,
+      "medianTimings": {
+        "blocked": -1,
+        "wait": 35,
+        "receive": 0
+      },
+      "ninetyFifthTimings": {
+        "blocked": 0,
+        "wait": 174,
+        "receive": 66
+      },
+      "bytesTransferred": null,
+      "topUrl": {
+        "url": "https://cdn.linkedin.oribi.io/partner/3528330,3571140/domain/mondelezinternational.com/token",
+        "noOfOccurrences": 5
+      },
+      "largest": {
+        "url": "https://content-autofill.googleapis.com/v1/pages/ChVDaHJvbWUvMTA3LjAuNTMwNC4xMjESXQlOv2DHs6ZDOxIFDT-l2RkSBQ2lkzYkEgUN7HoNJhIFDQrmXFkSBQ1PzsyfEgUNlnWrVRIFDUjPAOcSBQ3seg0mEgUNCuZcWRIFDU_OzJ8SBQ2WdatVEgUNSM8A5w==",
+        "bytes": 0
+      },
+      "largestCompressed": {
+        "url": "https://www.mondelezinternational.com/"
+      },
+      "longest": {
+        "url": "https://www.mondelezinternational.com/",
+        "time": 892,
+        "timings": {
+          "blocked": 0,
+          "wait": 582,
+          "receive": 0,
+          "connect": 196
+        }
+      }
+    },
+    "document": {
+      "noOfRequests": 0
+    },
+    "font": {
+      "noOfRequests": 0
+    },
+    "image": {
+      "noOfRequests": 0
+    },
+    "style": {
+      "noOfRequests": 0
+    },
+    "script": {
+      "noOfRequests": 0
+    },
+    "xhr": {
+      "noOfRequests": 0
+    },
+    "other": {
+      "noOfRequests": 0
+    }
+  }
+}

@@ -1,0 +1,73 @@
+{
+  "pages": {
+    "noOfPages": 1,
+    "medianOnLoad": null,
+    "ninetyFifthOnLoad": null,
+    "pages": [
+      {
+        "url": "Reinsurance Group of",
+        "onLoad": null
+      }
+    ]
+  },
+  "requests": {
+    "all": {
+      "noOfRequests": 89,
+      "medianTime": 121,
+      "ninetyFifthTime": 2495,
+      "medianTimings": {
+        "blocked": -1,
+        "wait": 99,
+        "receive": 0
+      },
+      "ninetyFifthTimings": {
+        "blocked": 0,
+        "wait": 154,
+        "receive": 1821
+      },
+      "bytesTransferred": null,
+      "topUrl": {
+        "url": "https://www.google-analytics.com/collect",
+        "noOfOccurrences": 2
+      },
+      "largest": {
+        "url": "https://www.rgare.com/favicon.ico",
+        "bytes": 0
+      },
+      "largestCompressed": {
+        "url": "https://mjca-yijws.global.ssl.fastly.net/BJPCNV224_SE.js"
+      },
+      "longest": {
+        "url": "https://www.rgare.com/images/default-source/banners/pivot-extra-long.png",
+        "time": 12830,
+        "timings": {
+          "blocked": -1,
+          "wait": 166,
+          "receive": 12663,
+          "connect": -1
+        }
+      }
+    },
+    "document": {
+      "noOfRequests": 0
+    },
+    "font": {
+      "noOfRequests": 0
+    },
+    "image": {
+      "noOfRequests": 0
+    },
+    "style": {
+      "noOfRequests": 0
+    },
+    "script": {
+      "noOfRequests": 0
+    },
+    "xhr": {
+      "noOfRequests": 0
+    },
+    "other": {
+      "noOfRequests": 0
+    }
+  }
+}

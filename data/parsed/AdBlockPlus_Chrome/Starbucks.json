@@ -1,0 +1,73 @@
+{
+  "pages": {
+    "noOfPages": 1,
+    "medianOnLoad": null,
+    "ninetyFifthOnLoad": null,
+    "pages": [
+      {
+        "url": "Starbucks",
+        "onLoad": null
+      }
+    ]
+  },
+  "requests": {
+    "all": {
+      "noOfRequests": 61,
+      "medianTime": 100,
+      "ninetyFifthTime": 359,
+      "medianTimings": {
+        "blocked": 0,
+        "wait": 24,
+        "receive": 0
+      },
+      "ninetyFifthTimings": {
+        "blocked": 0,
+        "wait": 113,
+        "receive": 61
+      },
+      "bytesTransferred": null,
+      "topUrl": {
+        "url": "https://consent.trustarc.com/get",
+        "noOfOccurrences": 1
+      },
+      "largest": {
+        "url": "https://bam.nr-data.net/events/1/671cca5e0f",
+        "bytes": 0
+      },
+      "largestCompressed": {
+        "url": "https://syndication.twitter.com/i/jot"
+      },
+      "longest": {
+        "url": "https://abs-0.twimg.com/emoji/v2/svg/1f4e6.svg",
+        "time": 496,
+        "timings": {
+          "blocked": 0,
+          "wait": 24,
+          "receive": 0,
+          "connect": 426
+        }
+      }
+    },
+    "document": {
+      "noOfRequests": 0
+    },
+    "font": {
+      "noOfRequests": 0
+    },
+    "image": {
+      "noOfRequests": 0
+    },
+    "style": {
+      "noOfRequests": 0
+    },
+    "script": {
+      "noOfRequests": 0
+    },
+    "xhr": {
+      "noOfRequests": 0
+    },
+    "other": {
+      "noOfRequests": 0
+    }
+  }
+}

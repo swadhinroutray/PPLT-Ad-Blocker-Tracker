@@ -1,0 +1,73 @@
+{
+  "pages": {
+    "noOfPages": 1,
+    "medianOnLoad": 417,
+    "ninetyFifthOnLoad": 417,
+    "pages": [
+      {
+        "url": "Procter & Gamble Company",
+        "onLoad": 417
+      }
+    ]
+  },
+  "requests": {
+    "all": {
+      "noOfRequests": 157,
+      "medianTime": 0,
+      "ninetyFifthTime": 7,
+      "medianTimings": {
+        "blocked": 0,
+        "wait": 0,
+        "receive": 0
+      },
+      "ninetyFifthTimings": {
+        "blocked": null,
+        "wait": null,
+        "receive": null
+      },
+      "bytesTransferred": null,
+      "topUrl": {
+        "url": "https://fonts.gstatic.com/s/montserrat/v25/JTUSjIg1_i6t8kCHKm459WlhyyTh89Y.woff2",
+        "noOfOccurrences": 3
+      },
+      "largest": {
+        "url": "https://cdn.cookielaw.org/scripttemplates/202210.1.0/otBannerSdk.js",
+        "bytes": 390260
+      },
+      "largestCompressed": {
+        "url": "https://images.ctfassets.net/zyvr84rwvj68/4dg0EOcTbiQ0g8cAcWUC8/5b00beea667d747ca038d7a56789a5db/icon-facebook.svg"
+      },
+      "longest": {
+        "url": "https://www.googletagmanager.com/gtm.js",
+        "time": 292,
+        "timings": {
+          "blocked": 109,
+          "wait": 31,
+          "receive": 44,
+          "connect": 20
+        }
+      }
+    },
+    "document": {
+      "noOfRequests": 0
+    },
+    "font": {
+      "noOfRequests": 0
+    },
+    "image": {
+      "noOfRequests": 0
+    },
+    "style": {
+      "noOfRequests": 0
+    },
+    "script": {
+      "noOfRequests": 0
+    },
+    "xhr": {
+      "noOfRequests": 0
+    },
+    "other": {
+      "noOfRequests": 0
+    }
+  }
+}

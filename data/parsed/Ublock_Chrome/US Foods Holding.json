@@ -1,0 +1,73 @@
+{
+  "pages": {
+    "noOfPages": 1,
+    "medianOnLoad": null,
+    "ninetyFifthOnLoad": null,
+    "pages": [
+      {
+        "url": "US Foods Holding",
+        "onLoad": null
+      }
+    ]
+  },
+  "requests": {
+    "all": {
+      "noOfRequests": 55,
+      "medianTime": 57,
+      "ninetyFifthTime": 205,
+      "medianTimings": {
+        "blocked": -1,
+        "wait": 26,
+        "receive": 1
+      },
+      "ninetyFifthTimings": {
+        "blocked": 0,
+        "wait": 51,
+        "receive": 51
+      },
+      "bytesTransferred": null,
+      "topUrl": {
+        "url": "https://www.usfoods.com/content/usfoods-dce/favicon.ico",
+        "noOfOccurrences": 1
+      },
+      "largest": {
+        "url": "https://content-autofill.googleapis.com/v1/pages/ChVDaHJvbWUvMTA3LjAuNTMwNC4xMjESEAlgM-09sYipURIFDaWTNiQ=",
+        "bytes": 0
+      },
+      "largestCompressed": {
+        "url": "https://www.usfoods.com/"
+      },
+      "longest": {
+        "url": "https://www.usfoods.com/content/usfoods-dce/en/jcr:content/slideshow-container/slider-container/slide-4/market-content.market-info.json",
+        "time": 386,
+        "timings": {
+          "blocked": -1,
+          "wait": 385,
+          "receive": 0,
+          "connect": -1
+        }
+      }
+    },
+    "document": {
+      "noOfRequests": 0
+    },
+    "font": {
+      "noOfRequests": 0
+    },
+    "image": {
+      "noOfRequests": 0
+    },
+    "style": {
+      "noOfRequests": 0
+    },
+    "script": {
+      "noOfRequests": 0
+    },
+    "xhr": {
+      "noOfRequests": 0
+    },
+    "other": {
+      "noOfRequests": 0
+    }
+  }
+}

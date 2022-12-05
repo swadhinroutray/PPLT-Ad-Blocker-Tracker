@@ -1,0 +1,73 @@
+{
+  "pages": {
+    "noOfPages": 1,
+    "medianOnLoad": null,
+    "ninetyFifthOnLoad": null,
+    "pages": [
+      {
+        "url": "Synchrony Financial",
+        "onLoad": null
+      }
+    ]
+  },
+  "requests": {
+    "all": {
+      "noOfRequests": 148,
+      "medianTime": 101,
+      "ninetyFifthTime": 318,
+      "medianTimings": {
+        "blocked": 0,
+        "wait": 32,
+        "receive": 0
+      },
+      "ninetyFifthTimings": {
+        "blocked": 0,
+        "wait": 67,
+        "receive": 44
+      },
+      "bytesTransferred": null,
+      "topUrl": {
+        "url": "https://analytics.synchrony.com/error/e.gif",
+        "noOfOccurrences": 2
+      },
+      "largest": {
+        "url": "https://async-px.dynamicyield.com/uia",
+        "bytes": 0
+      },
+      "largestCompressed": {
+        "url": "https://sstats.adobe.com/b/ss/adbadobenonacdcprod,adbadobeprototype/1/JS-2.22.4-LCXS/s01818667903167"
+      },
+      "longest": {
+        "url": "https://maxcdn.bootstrapcdn.com/font-awesome/4.5.0/css/font-awesome.min.css",
+        "time": 439,
+        "timings": {
+          "blocked": 0,
+          "wait": 31,
+          "receive": 1,
+          "connect": 377
+        }
+      }
+    },
+    "document": {
+      "noOfRequests": 0
+    },
+    "font": {
+      "noOfRequests": 0
+    },
+    "image": {
+      "noOfRequests": 0
+    },
+    "style": {
+      "noOfRequests": 0
+    },
+    "script": {
+      "noOfRequests": 0
+    },
+    "xhr": {
+      "noOfRequests": 0
+    },
+    "other": {
+      "noOfRequests": 0
+    }
+  }
+}

@@ -1,0 +1,73 @@
+{
+  "pages": {
+    "noOfPages": 1,
+    "medianOnLoad": null,
+    "ninetyFifthOnLoad": null,
+    "pages": [
+      {
+        "url": "Merck",
+        "onLoad": null
+      }
+    ]
+  },
+  "requests": {
+    "all": {
+      "noOfRequests": 82,
+      "medianTime": 25,
+      "ninetyFifthTime": 161,
+      "medianTimings": {
+        "blocked": -1,
+        "wait": 23,
+        "receive": 0
+      },
+      "ninetyFifthTimings": {
+        "blocked": 0,
+        "wait": 34,
+        "receive": 24
+      },
+      "bytesTransferred": null,
+      "topUrl": {
+        "url": "https://www.merck.com/wp-content/uploads/sites/5/2020/02/oncology.jpeg",
+        "noOfOccurrences": 1
+      },
+      "largest": {
+        "url": "https://edge.microsoft.com/autofillservice/v1/pages/ChVDaHJvbWUvMTA3LjAuNTMwNC4xNTASEAmVxXzw3EihVhIFDaWTNiQ=",
+        "bytes": 0
+      },
+      "largestCompressed": {
+        "url": "https://www.merck.com/"
+      },
+      "longest": {
+        "url": "https://www.merck.com/",
+        "time": 289,
+        "timings": {
+          "blocked": 0,
+          "wait": 20,
+          "receive": 18,
+          "connect": 186
+        }
+      }
+    },
+    "document": {
+      "noOfRequests": 0
+    },
+    "font": {
+      "noOfRequests": 0
+    },
+    "image": {
+      "noOfRequests": 0
+    },
+    "style": {
+      "noOfRequests": 0
+    },
+    "script": {
+      "noOfRequests": 0
+    },
+    "xhr": {
+      "noOfRequests": 0
+    },
+    "other": {
+      "noOfRequests": 0
+    }
+  }
+}

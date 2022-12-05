@@ -1,0 +1,73 @@
+{
+  "pages": {
+    "noOfPages": 1,
+    "medianOnLoad": null,
+    "ninetyFifthOnLoad": null,
+    "pages": [
+      {
+        "url": "Home Depot",
+        "onLoad": null
+      }
+    ]
+  },
+  "requests": {
+    "all": {
+      "noOfRequests": 115,
+      "medianTime": 106,
+      "ninetyFifthTime": 453,
+      "medianTimings": {
+        "blocked": -1,
+        "wait": 27,
+        "receive": 0
+      },
+      "ninetyFifthTimings": {
+        "blocked": 0,
+        "wait": 168,
+        "receive": 55
+      },
+      "bytesTransferred": null,
+      "topUrl": {
+        "url": "https://www.homedepot.com/federation-gateway/graphql",
+        "noOfOccurrences": 3
+      },
+      "largest": {
+        "url": "https://images.thdstatic.com/productImages/c0373998-760f-5783-811a-8fc244b420e6/svn/energizer-aaa-batteries-e92sbp30h-64_300.jpg",
+        "bytes": 0
+      },
+      "largestCompressed": {
+        "url": "https://www.google-analytics.com/j/collect"
+      },
+      "longest": {
+        "url": "https://localization.thdws.com/LocalizationService/v1/localstore.jsonp",
+        "time": 536,
+        "timings": {
+          "blocked": 0,
+          "wait": 464,
+          "receive": 0,
+          "connect": 71
+        }
+      }
+    },
+    "document": {
+      "noOfRequests": 0
+    },
+    "font": {
+      "noOfRequests": 0
+    },
+    "image": {
+      "noOfRequests": 0
+    },
+    "style": {
+      "noOfRequests": 0
+    },
+    "script": {
+      "noOfRequests": 0
+    },
+    "xhr": {
+      "noOfRequests": 0
+    },
+    "other": {
+      "noOfRequests": 0
+    }
+  }
+}

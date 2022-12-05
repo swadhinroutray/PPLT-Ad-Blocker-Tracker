@@ -1,0 +1,73 @@
+{
+  "pages": {
+    "noOfPages": 1,
+    "medianOnLoad": null,
+    "ninetyFifthOnLoad": null,
+    "pages": [
+      {
+        "url": "United Natural Foods",
+        "onLoad": null
+      }
+    ]
+  },
+  "requests": {
+    "all": {
+      "noOfRequests": 117,
+      "medianTime": 49,
+      "ninetyFifthTime": 162,
+      "medianTimings": {
+        "blocked": -1,
+        "wait": 38,
+        "receive": 0
+      },
+      "ninetyFifthTimings": {
+        "blocked": 0,
+        "wait": 62,
+        "receive": 37
+      },
+      "bytesTransferred": null,
+      "topUrl": {
+        "url": "https://www.unfi.com/_Incapsula_Resource",
+        "noOfOccurrences": 4
+      },
+      "largest": {
+        "url": "https://www.unfi.com/sites/default/files/favicon_0.ico",
+        "bytes": 0
+      },
+      "largestCompressed": {
+        "url": "https://scatec.io/collect"
+      },
+      "longest": {
+        "url": "https://www.unfi.com/_Incapsula_Resource",
+        "time": 353,
+        "timings": {
+          "blocked": 0,
+          "wait": 29,
+          "receive": 22,
+          "connect": 231
+        }
+      }
+    },
+    "document": {
+      "noOfRequests": 0
+    },
+    "font": {
+      "noOfRequests": 0
+    },
+    "image": {
+      "noOfRequests": 0
+    },
+    "style": {
+      "noOfRequests": 0
+    },
+    "script": {
+      "noOfRequests": 0
+    },
+    "xhr": {
+      "noOfRequests": 0
+    },
+    "other": {
+      "noOfRequests": 0
+    }
+  }
+}

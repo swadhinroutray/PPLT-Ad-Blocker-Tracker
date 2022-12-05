@@ -1,0 +1,73 @@
+{
+  "pages": {
+    "noOfPages": 1,
+    "medianOnLoad": null,
+    "ninetyFifthOnLoad": null,
+    "pages": [
+      {
+        "url": "Microsoft",
+        "onLoad": null
+      }
+    ]
+  },
+  "requests": {
+    "all": {
+      "noOfRequests": 81,
+      "medianTime": 64,
+      "ninetyFifthTime": 427,
+      "medianTimings": {
+        "blocked": -1,
+        "wait": 42,
+        "receive": 0
+      },
+      "ninetyFifthTimings": {
+        "blocked": 0,
+        "wait": 172,
+        "receive": 19
+      },
+      "bytesTransferred": null,
+      "topUrl": {
+        "url": "https://browser.events.data.microsoft.com/OneCollector/1.0/",
+        "noOfOccurrences": 2
+      },
+      "largest": {
+        "url": "https://browser.events.data.microsoft.com/OneCollector/1.0/",
+        "bytes": 0
+      },
+      "largestCompressed": {
+        "url": "https://www.att.com/scripts/adobe/prod/mktg-rules/global/eComm_Universal_AppNexus.js"
+      },
+      "longest": {
+        "url": "https://www.microsoft.com/en-in",
+        "time": 892,
+        "timings": {
+          "blocked": 0,
+          "wait": 679,
+          "receive": 8,
+          "connect": 165
+        }
+      }
+    },
+    "document": {
+      "noOfRequests": 0
+    },
+    "font": {
+      "noOfRequests": 0
+    },
+    "image": {
+      "noOfRequests": 0
+    },
+    "style": {
+      "noOfRequests": 0
+    },
+    "script": {
+      "noOfRequests": 0
+    },
+    "xhr": {
+      "noOfRequests": 0
+    },
+    "other": {
+      "noOfRequests": 0
+    }
+  }
+}

@@ -1,0 +1,73 @@
+{
+  "pages": {
+    "noOfPages": 1,
+    "medianOnLoad": null,
+    "ninetyFifthOnLoad": null,
+    "pages": [
+      {
+        "url": "Procter & Gamble",
+        "onLoad": null
+      }
+    ]
+  },
+  "requests": {
+    "all": {
+      "noOfRequests": 80,
+      "medianTime": 27,
+      "ninetyFifthTime": 165,
+      "medianTimings": {
+        "blocked": -1,
+        "wait": 26,
+        "receive": 0
+      },
+      "ninetyFifthTimings": {
+        "blocked": 0,
+        "wait": 40,
+        "receive": 35
+      },
+      "bytesTransferred": null,
+      "topUrl": {
+        "url": "https://images.ctfassets.net/zyvr84rwvj68/3ebf449phLnmkrkOZOTtYt/99015655f4b0303acbe68bb88acf9d38/NE_report_blog.jpg.png",
+        "noOfOccurrences": 0
+      },
+      "largest": {
+        "url": "https://images.ctfassets.net/zyvr84rwvj68/3ebf449phLnmkrkOZOTtYt/99015655f4b0303acbe68bb88acf9d38/NE_report_blog.jpg.png",
+        "bytes": 0
+      },
+      "largestCompressed": {
+        "url": "https://nav-edge.smartscreen.microsoft.com/api/browser/edge/navigate/3"
+      },
+      "longest": {
+        "url": "https://www.pg.co.uk/",
+        "time": 795,
+        "timings": {
+          "blocked": 0,
+          "wait": 104,
+          "receive": 92,
+          "connect": 314
+        }
+      }
+    },
+    "document": {
+      "noOfRequests": 0
+    },
+    "font": {
+      "noOfRequests": 0
+    },
+    "image": {
+      "noOfRequests": 0
+    },
+    "style": {
+      "noOfRequests": 0
+    },
+    "script": {
+      "noOfRequests": 0
+    },
+    "xhr": {
+      "noOfRequests": 0
+    },
+    "other": {
+      "noOfRequests": 0
+    }
+  }
+}

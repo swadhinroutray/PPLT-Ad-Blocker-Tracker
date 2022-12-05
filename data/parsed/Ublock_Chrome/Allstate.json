@@ -1,0 +1,73 @@
+{
+  "pages": {
+    "noOfPages": 1,
+    "medianOnLoad": null,
+    "ninetyFifthOnLoad": null,
+    "pages": [
+      {
+        "url": "Allstate",
+        "onLoad": null
+      }
+    ]
+  },
+  "requests": {
+    "all": {
+      "noOfRequests": 82,
+      "medianTime": 92,
+      "ninetyFifthTime": 548,
+      "medianTimings": {
+        "blocked": -1,
+        "wait": 52,
+        "receive": 0
+      },
+      "ninetyFifthTimings": {
+        "blocked": 0,
+        "wait": 351,
+        "receive": 86
+      },
+      "bytesTransferred": null,
+      "topUrl": {
+        "url": "https://www.allstate.com/jucU/85mO/LIsO3/Z/fodg/YkOaV6DXzaXO/ChhnPnsWAg/ViA9/G3QdbwIC",
+        "noOfOccurrences": 4
+      },
+      "largest": {
+        "url": "https://data.allstate.com/529001/Ppfr//",
+        "bytes": 0
+      },
+      "largestCompressed": {
+        "url": "https://www.allstate.com/"
+      },
+      "longest": {
+        "url": "https://lpcdn.lpsnmedia.net/le_unified_window/10.23.0.0-release_5549/desktopEmbedded.js",
+        "time": 821,
+        "timings": {
+          "blocked": -1,
+          "wait": 163,
+          "receive": 658,
+          "connect": -1
+        }
+      }
+    },
+    "document": {
+      "noOfRequests": 0
+    },
+    "font": {
+      "noOfRequests": 0
+    },
+    "image": {
+      "noOfRequests": 0
+    },
+    "style": {
+      "noOfRequests": 0
+    },
+    "script": {
+      "noOfRequests": 0
+    },
+    "xhr": {
+      "noOfRequests": 0
+    },
+    "other": {
+      "noOfRequests": 0
+    }
+  }
+}

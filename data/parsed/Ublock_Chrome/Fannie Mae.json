@@ -1,0 +1,73 @@
+{
+  "pages": {
+    "noOfPages": 1,
+    "medianOnLoad": null,
+    "ninetyFifthOnLoad": null,
+    "pages": [
+      {
+        "url": "Fannie Mae",
+        "onLoad": null
+      }
+    ]
+  },
+  "requests": {
+    "all": {
+      "noOfRequests": 34,
+      "medianTime": 74,
+      "ninetyFifthTime": 235,
+      "medianTimings": {
+        "blocked": -1,
+        "wait": 36,
+        "receive": 3
+      },
+      "ninetyFifthTimings": {
+        "blocked": 0,
+        "wait": 68,
+        "receive": 70
+      },
+      "bytesTransferred": null,
+      "topUrl": {
+        "url": "https://fonts.googleapis.com/css",
+        "noOfOccurrences": 1
+      },
+      "largest": {
+        "url": "https://content-autofill.googleapis.com/v1/pages/ChVDaHJvbWUvMTA3LjAuNTMwNC4xMjESEAnBKgu5RzH9-hIFDZFhlU4=",
+        "bytes": 0
+      },
+      "largestCompressed": {
+        "url": "https://api.target.com/location_fulfillment_aggregations/v1/preferred_stores"
+      },
+      "longest": {
+        "url": "https://www.fanniemae.com/",
+        "time": 273,
+        "timings": {
+          "blocked": 0,
+          "wait": 48,
+          "receive": 4,
+          "connect": 174
+        }
+      }
+    },
+    "document": {
+      "noOfRequests": 0
+    },
+    "font": {
+      "noOfRequests": 0
+    },
+    "image": {
+      "noOfRequests": 0
+    },
+    "style": {
+      "noOfRequests": 0
+    },
+    "script": {
+      "noOfRequests": 0
+    },
+    "xhr": {
+      "noOfRequests": 0
+    },
+    "other": {
+      "noOfRequests": 0
+    }
+  }
+}

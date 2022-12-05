@@ -1,0 +1,73 @@
+{
+  "pages": {
+    "noOfPages": 1,
+    "medianOnLoad": null,
+    "ninetyFifthOnLoad": null,
+    "pages": [
+      {
+        "url": "Honeywell International",
+        "onLoad": null
+      }
+    ]
+  },
+  "requests": {
+    "all": {
+      "noOfRequests": 169,
+      "medianTime": 35,
+      "ninetyFifthTime": 228,
+      "medianTimings": {
+        "blocked": -1,
+        "wait": 30,
+        "receive": 0
+      },
+      "ninetyFifthTimings": {
+        "blocked": 0,
+        "wait": 78,
+        "receive": 21
+      },
+      "bytesTransferred": null,
+      "topUrl": {
+        "url": "https://bat.bing.com/actionp/0",
+        "noOfOccurrences": 2
+      },
+      "largest": {
+        "url": "https://jhwa3pdijorrsy4kncza-pbr74a-c05ef27cc-clientnsv4-s.akamaihd.net/eum/results.txt",
+        "bytes": 0
+      },
+      "largestCompressed": {
+        "url": "https://173bf10e.akstat.io/"
+      },
+      "longest": {
+        "url": "https://honeywell.satmetrix.com/satmetrix/enterprise/honeywell/app/cx/resources/datacollection/honeywell_6637/popup/honeywell_6637_11501/popupsurvey_honeywell_6637_11501.js",
+        "time": 459,
+        "timings": {
+          "blocked": 0,
+          "wait": 25,
+          "receive": 0,
+          "connect": 344
+        }
+      }
+    },
+    "document": {
+      "noOfRequests": 0
+    },
+    "font": {
+      "noOfRequests": 0
+    },
+    "image": {
+      "noOfRequests": 0
+    },
+    "style": {
+      "noOfRequests": 0
+    },
+    "script": {
+      "noOfRequests": 0
+    },
+    "xhr": {
+      "noOfRequests": 0
+    },
+    "other": {
+      "noOfRequests": 0
+    }
+  }
+}

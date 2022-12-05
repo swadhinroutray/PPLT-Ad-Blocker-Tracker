@@ -1,0 +1,73 @@
+{
+  "pages": {
+    "noOfPages": 1,
+    "medianOnLoad": null,
+    "ninetyFifthOnLoad": null,
+    "pages": [
+      {
+        "url": "American Airlines Group",
+        "onLoad": null
+      }
+    ]
+  },
+  "requests": {
+    "all": {
+      "noOfRequests": 174,
+      "medianTime": 55,
+      "ninetyFifthTime": 301,
+      "medianTimings": {
+        "blocked": -1,
+        "wait": 40,
+        "receive": 0
+      },
+      "ninetyFifthTimings": {
+        "blocked": 0,
+        "wait": 117,
+        "receive": 19
+      },
+      "bytesTransferred": null,
+      "topUrl": {
+        "url": "https://aa-app.quantummetric.com/",
+        "noOfOccurrences": 3
+      },
+      "largest": {
+        "url": "https://www.aa.com/content/images/chrome/rebrand/shadow-vertical-150.png",
+        "bytes": 0
+      },
+      "largestCompressed": {
+        "url": "https://content.delta.com/content/dam/delta-applications/fresh-air-core/22.7.0/images/carot-red.svg"
+      },
+      "longest": {
+        "url": "https://www.aa.com/homePage.do",
+        "time": 548,
+        "timings": {
+          "blocked": -1,
+          "wait": 541,
+          "receive": 6,
+          "connect": -1
+        }
+      }
+    },
+    "document": {
+      "noOfRequests": 0
+    },
+    "font": {
+      "noOfRequests": 0
+    },
+    "image": {
+      "noOfRequests": 0
+    },
+    "style": {
+      "noOfRequests": 0
+    },
+    "script": {
+      "noOfRequests": 0
+    },
+    "xhr": {
+      "noOfRequests": 0
+    },
+    "other": {
+      "noOfRequests": 0
+    }
+  }
+}

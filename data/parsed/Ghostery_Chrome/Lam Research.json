@@ -1,0 +1,73 @@
+{
+  "pages": {
+    "noOfPages": 1,
+    "medianOnLoad": null,
+    "ninetyFifthOnLoad": null,
+    "pages": [
+      {
+        "url": "Lam Research",
+        "onLoad": null
+      }
+    ]
+  },
+  "requests": {
+    "all": {
+      "noOfRequests": 95,
+      "medianTime": 122,
+      "ninetyFifthTime": 449,
+      "medianTimings": {
+        "blocked": 0,
+        "wait": 32,
+        "receive": 0
+      },
+      "ninetyFifthTimings": {
+        "blocked": 0,
+        "wait": 102,
+        "receive": 86
+      },
+      "bytesTransferred": null,
+      "topUrl": {
+        "url": "https://www.googletagmanager.com/gtag/js",
+        "noOfOccurrences": 1
+      },
+      "largest": {
+        "url": "https://www.google.com/pagead/1p-user-list/10884129259/",
+        "bytes": 0
+      },
+      "largestCompressed": {
+        "url": "https://www.autozone.com/rb_bf98037mjd"
+      },
+      "longest": {
+        "url": "https://lamresearch.wpenginepowered.com/wp-content/uploads/2021/10/Lam_Website-Video_1-1_new.mp4",
+        "time": 2713,
+        "timings": {
+          "blocked": -1,
+          "wait": 38,
+          "receive": 2674,
+          "connect": -1
+        }
+      }
+    },
+    "document": {
+      "noOfRequests": 0
+    },
+    "font": {
+      "noOfRequests": 0
+    },
+    "image": {
+      "noOfRequests": 0
+    },
+    "style": {
+      "noOfRequests": 0
+    },
+    "script": {
+      "noOfRequests": 0
+    },
+    "xhr": {
+      "noOfRequests": 0
+    },
+    "other": {
+      "noOfRequests": 0
+    }
+  }
+}

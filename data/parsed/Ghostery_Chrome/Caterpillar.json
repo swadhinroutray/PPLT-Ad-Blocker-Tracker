@@ -1,0 +1,73 @@
+{
+  "pages": {
+    "noOfPages": 1,
+    "medianOnLoad": null,
+    "ninetyFifthOnLoad": null,
+    "pages": [
+      {
+        "url": "Caterpillar",
+        "onLoad": null
+      }
+    ]
+  },
+  "requests": {
+    "all": {
+      "noOfRequests": 84,
+      "medianTime": 49,
+      "ninetyFifthTime": 248,
+      "medianTimings": {
+        "blocked": -1,
+        "wait": 35,
+        "receive": 0
+      },
+      "ninetyFifthTimings": {
+        "blocked": 0,
+        "wait": 115,
+        "receive": 59
+      },
+      "bytesTransferred": null,
+      "topUrl": {
+        "url": "https://www.caterpillar.com/",
+        "noOfOccurrences": 2
+      },
+      "largest": {
+        "url": "https://cdn.cookielaw.org/logos/static/powered_by_logo.svg",
+        "bytes": 0
+      },
+      "largestCompressed": {
+        "url": "https://conv-pix.adstk.io/ad/ord=1670022380942"
+      },
+      "longest": {
+        "url": "https://www.caterpillar.com/etc.clientlibs/deg/clientlibs/clientlib-dependencies.min.b3831809e8121a681429a6009141e47d.js",
+        "time": 599,
+        "timings": {
+          "blocked": 0,
+          "wait": 102,
+          "receive": 109,
+          "connect": 225
+        }
+      }
+    },
+    "document": {
+      "noOfRequests": 0
+    },
+    "font": {
+      "noOfRequests": 0
+    },
+    "image": {
+      "noOfRequests": 0
+    },
+    "style": {
+      "noOfRequests": 0
+    },
+    "script": {
+      "noOfRequests": 0
+    },
+    "xhr": {
+      "noOfRequests": 0
+    },
+    "other": {
+      "noOfRequests": 0
+    }
+  }
+}

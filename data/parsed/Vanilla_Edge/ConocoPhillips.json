@@ -1,0 +1,73 @@
+{
+  "pages": {
+    "noOfPages": 1,
+    "medianOnLoad": null,
+    "ninetyFifthOnLoad": null,
+    "pages": [
+      {
+        "url": "ConocoPhillips",
+        "onLoad": null
+      }
+    ]
+  },
+  "requests": {
+    "all": {
+      "noOfRequests": 102,
+      "medianTime": 61,
+      "ninetyFifthTime": 343,
+      "medianTimings": {
+        "blocked": -1,
+        "wait": 27,
+        "receive": 3
+      },
+      "ninetyFifthTimings": {
+        "blocked": 0,
+        "wait": 83,
+        "receive": 51
+      },
+      "bytesTransferred": null,
+      "topUrl": {
+        "url": "https://fresnel.vimeocdn.com/add/player-stats",
+        "noOfOccurrences": 4
+      },
+      "largest": {
+        "url": "https://113vod-adaptive.akamaized.net/exp=1670014536~acl=%2F9c424f66-234e-403b-97d2-49192390f370%2F%2A~hmac=68403131d2a246ec9eca24a61d7201ebf577d0ac4540185ae6a9af313af6b714/9c424f66-234e-403b-97d2-49192390f370/sep/audio/5a3d5cb1/chop/segment-4.m4s",
+        "bytes": 0
+      },
+      "largestCompressed": {
+        "url": "https://www.publix.com/-/media/images/publix/favicons/googletv-favicon-96x96.png"
+      },
+      "longest": {
+        "url": "https://edge.microsoft.com/autofillservice/v1/pages/ChVDaHJvbWUvMTA3LjAuNTMwNC4xNTASHgl3QQvzGqFWzhIFDZFhlU4SBQ2150xEEgUNpZM2JBIQCc0I5QPKjN12EgUNkWGVThIXCQdodRzT7nYkEgUNtedMRBIFDaWTNiQ=",
+        "time": 737,
+        "timings": {
+          "blocked": -1,
+          "wait": 736,
+          "receive": 0,
+          "connect": -1
+        }
+      }
+    },
+    "document": {
+      "noOfRequests": 0
+    },
+    "font": {
+      "noOfRequests": 0
+    },
+    "image": {
+      "noOfRequests": 0
+    },
+    "style": {
+      "noOfRequests": 0
+    },
+    "script": {
+      "noOfRequests": 0
+    },
+    "xhr": {
+      "noOfRequests": 0
+    },
+    "other": {
+      "noOfRequests": 0
+    }
+  }
+}

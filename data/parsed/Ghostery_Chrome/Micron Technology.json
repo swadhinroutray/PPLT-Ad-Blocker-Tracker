@@ -1,0 +1,73 @@
+{
+  "pages": {
+    "noOfPages": 1,
+    "medianOnLoad": null,
+    "ninetyFifthOnLoad": null,
+    "pages": [
+      {
+        "url": "Micron Technology",
+        "onLoad": null
+      }
+    ]
+  },
+  "requests": {
+    "all": {
+      "noOfRequests": 93,
+      "medianTime": 143,
+      "ninetyFifthTime": 660,
+      "medianTimings": {
+        "blocked": 0,
+        "wait": 35,
+        "receive": 0
+      },
+      "ninetyFifthTimings": {
+        "blocked": 0,
+        "wait": 382,
+        "receive": 81
+      },
+      "bytesTransferred": null,
+      "topUrl": {
+        "url": "https://www.facebook.com/tr/",
+        "noOfOccurrences": 1
+      },
+      "largest": {
+        "url": "https://sync.navdmp.com/sync",
+        "bytes": 0
+      },
+      "largestCompressed": {
+        "url": "https://www.micron.com/"
+      },
+      "longest": {
+        "url": "https://www.micron.com/Micron/Styles/Shared/Shared-4a83d0548a.min.css",
+        "time": 1382,
+        "timings": {
+          "blocked": -1,
+          "wait": 671,
+          "receive": 710,
+          "connect": -1
+        }
+      }
+    },
+    "document": {
+      "noOfRequests": 0
+    },
+    "font": {
+      "noOfRequests": 0
+    },
+    "image": {
+      "noOfRequests": 0
+    },
+    "style": {
+      "noOfRequests": 0
+    },
+    "script": {
+      "noOfRequests": 0
+    },
+    "xhr": {
+      "noOfRequests": 0
+    },
+    "other": {
+      "noOfRequests": 0
+    }
+  }
+}

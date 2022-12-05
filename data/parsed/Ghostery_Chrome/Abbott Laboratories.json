@@ -1,0 +1,73 @@
+{
+  "pages": {
+    "noOfPages": 1,
+    "medianOnLoad": null,
+    "ninetyFifthOnLoad": null,
+    "pages": [
+      {
+        "url": "Abbott Laboratories",
+        "onLoad": null
+      }
+    ]
+  },
+  "requests": {
+    "all": {
+      "noOfRequests": 151,
+      "medianTime": 57,
+      "ninetyFifthTime": 355,
+      "medianTimings": {
+        "blocked": -1,
+        "wait": 26,
+        "receive": 0
+      },
+      "ninetyFifthTimings": {
+        "blocked": 0,
+        "wait": 73,
+        "receive": 38
+      },
+      "bytesTransferred": null,
+      "topUrl": {
+        "url": "https://functions.americanexpress.com/ReadScriptRegistry.v1",
+        "noOfOccurrences": 4
+      },
+      "largest": {
+        "url": "https://abbott.nanorep.co/api/conversation/v3/create",
+        "bytes": 0
+      },
+      "largestCompressed": {
+        "url": "https://www.americanexpress.com/content/dam/amex/en-us/homepage/banners/pzn_generic_offer_banner.jpg"
+      },
+      "longest": {
+        "url": "https://smetrics.abbott/b/ss/abt-csg-90152200-us-inter/1/JS-2.22.2-LCXS/s14532773888871",
+        "time": 643,
+        "timings": {
+          "blocked": 0,
+          "wait": 31,
+          "receive": 0,
+          "connect": 441
+        }
+      }
+    },
+    "document": {
+      "noOfRequests": 0
+    },
+    "font": {
+      "noOfRequests": 0
+    },
+    "image": {
+      "noOfRequests": 0
+    },
+    "style": {
+      "noOfRequests": 0
+    },
+    "script": {
+      "noOfRequests": 0
+    },
+    "xhr": {
+      "noOfRequests": 0
+    },
+    "other": {
+      "noOfRequests": 0
+    }
+  }
+}

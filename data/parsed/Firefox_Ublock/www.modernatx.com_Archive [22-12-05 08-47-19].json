@@ -1,0 +1,72 @@
+{
+  "pages": {
+    "noOfPages": 1,
+    "medianOnLoad": 1986,
+    "ninetyFifthOnLoad": 1986,
+    "pages": [
+      {
+        "url": "Pioneering mRNA technology - Moderna",
+        "onLoad": 1986
+      }
+    ]
+  },
+  "requests": {
+    "all": {
+      "noOfRequests": 54,
+      "medianTime": 54,
+      "ninetyFifthTime": 203,
+      "medianTimings": {
+        "blocked": -1,
+        "wait": 54,
+        "receive": 0
+      },
+      "ninetyFifthTimings": {
+        "blocked": null,
+        "wait": null,
+        "receive": null
+      },
+      "bytesTransferred": null,
+      "topUrl": {
+        "url": "https://www.modernatx.com/_next/image",
+        "noOfOccurrences": 4
+      },
+      "largest": {
+        "url": "https://www.modernatx.com/assets/images/homepherostrand-l.svg"
+      },
+      "largestCompressed": {
+        "url": "https://tags.tiqcdn.com/utag/tiqapp/utag.v.js"
+      },
+      "longest": {
+        "url": "https://www.modernatx.com/",
+        "time": 991,
+        "timings": {
+          "blocked": 0,
+          "wait": 910,
+          "receive": 0,
+          "connect": 18
+        }
+      }
+    },
+    "document": {
+      "noOfRequests": 0
+    },
+    "font": {
+      "noOfRequests": 0
+    },
+    "image": {
+      "noOfRequests": 0
+    },
+    "style": {
+      "noOfRequests": 0
+    },
+    "script": {
+      "noOfRequests": 0
+    },
+    "xhr": {
+      "noOfRequests": 0
+    },
+    "other": {
+      "noOfRequests": 0
+    }
+  }
+}

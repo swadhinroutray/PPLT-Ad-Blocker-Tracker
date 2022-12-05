@@ -1,0 +1,73 @@
+{
+  "pages": {
+    "noOfPages": 1,
+    "medianOnLoad": null,
+    "ninetyFifthOnLoad": null,
+    "pages": [
+      {
+        "url": "TIAA",
+        "onLoad": null
+      }
+    ]
+  },
+  "requests": {
+    "all": {
+      "noOfRequests": 57,
+      "medianTime": 99,
+      "ninetyFifthTime": 412,
+      "medianTimings": {
+        "blocked": -1,
+        "wait": 41,
+        "receive": 0
+      },
+      "ninetyFifthTimings": {
+        "blocked": 0,
+        "wait": 256,
+        "receive": 59
+      },
+      "bytesTransferred": null,
+      "topUrl": {
+        "url": "https://www.tiaa.org/qby6bgim6m1XWLy0VA/aEE7QLiS5p9Q/Lg88Mg/VnEjTgkm/Ok4B",
+        "noOfOccurrences": 4
+      },
+      "largest": {
+        "url": "https://client-api.arkoselabs.com/cdn/fc/js/db789d54b682f05d1b13f0f17392f5efe2aee45a/standard/funcaptcha_api.js",
+        "bytes": 0
+      },
+      "largestCompressed": {
+        "url": "https://www.tiaa.org/"
+      },
+      "longest": {
+        "url": "https://check3.tiaa.org/p1lyjyeo62y4bew7.js",
+        "time": 1400,
+        "timings": {
+          "blocked": 0,
+          "wait": 909,
+          "receive": 75,
+          "connect": 327
+        }
+      }
+    },
+    "document": {
+      "noOfRequests": 0
+    },
+    "font": {
+      "noOfRequests": 0
+    },
+    "image": {
+      "noOfRequests": 0
+    },
+    "style": {
+      "noOfRequests": 0
+    },
+    "script": {
+      "noOfRequests": 0
+    },
+    "xhr": {
+      "noOfRequests": 0
+    },
+    "other": {
+      "noOfRequests": 0
+    }
+  }
+}

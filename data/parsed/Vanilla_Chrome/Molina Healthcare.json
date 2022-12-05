@@ -1,0 +1,73 @@
+{
+  "pages": {
+    "noOfPages": 1,
+    "medianOnLoad": null,
+    "ninetyFifthOnLoad": null,
+    "pages": [
+      {
+        "url": "Molina Healthcare",
+        "onLoad": null
+      }
+    ]
+  },
+  "requests": {
+    "all": {
+      "noOfRequests": 108,
+      "medianTime": 117,
+      "ninetyFifthTime": 457,
+      "medianTimings": {
+        "blocked": 0,
+        "wait": 31,
+        "receive": 0
+      },
+      "ninetyFifthTimings": {
+        "blocked": 0,
+        "wait": 141,
+        "receive": 44
+      },
+      "bytesTransferred": null,
+      "topUrl": {
+        "url": "https://www.facebook.com/tr/",
+        "noOfOccurrences": 2
+      },
+      "largest": {
+        "url": "https://68794910.akstat.io/",
+        "bytes": 0
+      },
+      "largestCompressed": {
+        "url": "https://67vod-adaptive.akamaized.net/exp=1670003523~acl=%2F0fba26c4-24ac-4407-bf0c-96651a412f92%2F%2A~hmac=fd139abc1409ec343c5595688ee5c5ab5a32d54c64efae241c51227c20b80f96/0fba26c4-24ac-4407-bf0c-96651a412f92/sep/video/96f64057/chop/segment-3.m4s"
+      },
+      "longest": {
+        "url": "http://www.molinahealthcare.com/",
+        "time": 1323,
+        "timings": {
+          "blocked": 0,
+          "wait": 1209,
+          "receive": 0,
+          "connect": 23
+        }
+      }
+    },
+    "document": {
+      "noOfRequests": 0
+    },
+    "font": {
+      "noOfRequests": 0
+    },
+    "image": {
+      "noOfRequests": 0
+    },
+    "style": {
+      "noOfRequests": 0
+    },
+    "script": {
+      "noOfRequests": 0
+    },
+    "xhr": {
+      "noOfRequests": 0
+    },
+    "other": {
+      "noOfRequests": 0
+    }
+  }
+}

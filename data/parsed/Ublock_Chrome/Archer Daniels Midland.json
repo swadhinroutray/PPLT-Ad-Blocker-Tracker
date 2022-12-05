@@ -1,0 +1,73 @@
+{
+  "pages": {
+    "noOfPages": 1,
+    "medianOnLoad": null,
+    "ninetyFifthOnLoad": null,
+    "pages": [
+      {
+        "url": "Archer Daniels Midland",
+        "onLoad": null
+      }
+    ]
+  },
+  "requests": {
+    "all": {
+      "noOfRequests": 59,
+      "medianTime": 39,
+      "ninetyFifthTime": 234,
+      "medianTimings": {
+        "blocked": -1,
+        "wait": 35,
+        "receive": 0
+      },
+      "ninetyFifthTimings": {
+        "blocked": 0,
+        "wait": 74,
+        "receive": 21
+      },
+      "bytesTransferred": null,
+      "topUrl": {
+        "url": "https://www.adm.com/Static/dist/images/ADM_Primary_favicon_32x32.png",
+        "noOfOccurrences": 0
+      },
+      "largest": {
+        "url": "https://www.adm.com/Static/dist/images/ADM_Primary_favicon_32x32.png",
+        "bytes": 0
+      },
+      "largestCompressed": {
+        "url": "https://www.adm.com/"
+      },
+      "longest": {
+        "url": "https://www.adm.com/",
+        "time": 519,
+        "timings": {
+          "blocked": 0,
+          "wait": 220,
+          "receive": 1,
+          "connect": 185
+        }
+      }
+    },
+    "document": {
+      "noOfRequests": 0
+    },
+    "font": {
+      "noOfRequests": 0
+    },
+    "image": {
+      "noOfRequests": 0
+    },
+    "style": {
+      "noOfRequests": 0
+    },
+    "script": {
+      "noOfRequests": 0
+    },
+    "xhr": {
+      "noOfRequests": 0
+    },
+    "other": {
+      "noOfRequests": 0
+    }
+  }
+}

@@ -1,0 +1,73 @@
+{
+  "pages": {
+    "noOfPages": 1,
+    "medianOnLoad": null,
+    "ninetyFifthOnLoad": null,
+    "pages": [
+      {
+        "url": "Target",
+        "onLoad": null
+      }
+    ]
+  },
+  "requests": {
+    "all": {
+      "noOfRequests": 287,
+      "medianTime": 53,
+      "ninetyFifthTime": 277,
+      "medianTimings": {
+        "blocked": -1,
+        "wait": 28,
+        "receive": 0
+      },
+      "ninetyFifthTimings": {
+        "blocked": 0,
+        "wait": 58,
+        "receive": 27
+      },
+      "bytesTransferred": null,
+      "topUrl": {
+        "url": "https://api.target.com/web_analytics/v1",
+        "noOfOccurrences": 13
+      },
+      "largest": {
+        "url": "https://tpsc-ue1.doubleverify.com/event.png",
+        "bytes": 0
+      },
+      "largestCompressed": {
+        "url": "https://vt.myvisualiq.net/2/uBF%2BndJT7n0r9WysNI1Vww%3D%3D/vt-298.js"
+      },
+      "longest": {
+        "url": "https://dell-gcm.appspot.com/g/collect",
+        "time": 712,
+        "timings": {
+          "blocked": 0,
+          "wait": 494,
+          "receive": 0,
+          "connect": 170
+        }
+      }
+    },
+    "document": {
+      "noOfRequests": 0
+    },
+    "font": {
+      "noOfRequests": 0
+    },
+    "image": {
+      "noOfRequests": 0
+    },
+    "style": {
+      "noOfRequests": 0
+    },
+    "script": {
+      "noOfRequests": 0
+    },
+    "xhr": {
+      "noOfRequests": 0
+    },
+    "other": {
+      "noOfRequests": 0
+    }
+  }
+}

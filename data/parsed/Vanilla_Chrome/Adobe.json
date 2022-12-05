@@ -1,0 +1,73 @@
+{
+  "pages": {
+    "noOfPages": 1,
+    "medianOnLoad": null,
+    "ninetyFifthOnLoad": null,
+    "pages": [
+      {
+        "url": "Adobe",
+        "onLoad": null
+      }
+    ]
+  },
+  "requests": {
+    "all": {
+      "noOfRequests": 69,
+      "medianTime": 85,
+      "ninetyFifthTime": 322,
+      "medianTimings": {
+        "blocked": -1,
+        "wait": 26,
+        "receive": 0
+      },
+      "ninetyFifthTimings": {
+        "blocked": 0,
+        "wait": 63,
+        "receive": 59
+      },
+      "bytesTransferred": null,
+      "topUrl": {
+        "url": "https://www.adobe.com/favicon.ico",
+        "noOfOccurrences": 1
+      },
+      "largest": {
+        "url": "https://cdn.cookielaw.org/consent/7a5eb705-95ed-4cc4-a11d-0cc5760e93db/7a5eb705-95ed-4cc4-a11d-0cc5760e93db.json",
+        "bytes": 0
+      },
+      "largestCompressed": {
+        "url": "https://www.southwest.com/__imp_apg__/api/imp/v1.0/report/"
+      },
+      "longest": {
+        "url": "https://images-tv.adobe.com/mpcv3/1041/04d9e4f1-bf35-41c5-b364-61f87a9d64ee_1634080421.1280x720at2000_h264.mp4",
+        "time": 444,
+        "timings": {
+          "blocked": 0,
+          "wait": 17,
+          "receive": 67,
+          "connect": 168
+        }
+      }
+    },
+    "document": {
+      "noOfRequests": 0
+    },
+    "font": {
+      "noOfRequests": 0
+    },
+    "image": {
+      "noOfRequests": 0
+    },
+    "style": {
+      "noOfRequests": 0
+    },
+    "script": {
+      "noOfRequests": 0
+    },
+    "xhr": {
+      "noOfRequests": 0
+    },
+    "other": {
+      "noOfRequests": 0
+    }
+  }
+}

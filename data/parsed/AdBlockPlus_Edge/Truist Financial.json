@@ -1,0 +1,73 @@
+{
+  "pages": {
+    "noOfPages": 1,
+    "medianOnLoad": null,
+    "ninetyFifthOnLoad": null,
+    "pages": [
+      {
+        "url": "Truist Financial",
+        "onLoad": null
+      }
+    ]
+  },
+  "requests": {
+    "all": {
+      "noOfRequests": 220,
+      "medianTime": 83,
+      "ninetyFifthTime": 329,
+      "medianTimings": {
+        "blocked": -1,
+        "wait": 28,
+        "receive": 0
+      },
+      "ninetyFifthTimings": {
+        "blocked": 0,
+        "wait": 66,
+        "receive": 44
+      },
+      "bytesTransferred": null,
+      "topUrl": {
+        "url": "https://cm.g.doubleclick.net/pixel",
+        "noOfOccurrences": 13
+      },
+      "largest": {
+        "url": "https://va.v.liveperson.net/api/js/28229424",
+        "bytes": 0
+      },
+      "largestCompressed": {
+        "url": "https://www.truist.com/"
+      },
+      "longest": {
+        "url": "https://search.truist.com/truistheader/build.js",
+        "time": 499,
+        "timings": {
+          "blocked": 0,
+          "wait": 30,
+          "receive": 138,
+          "connect": 249
+        }
+      }
+    },
+    "document": {
+      "noOfRequests": 0
+    },
+    "font": {
+      "noOfRequests": 0
+    },
+    "image": {
+      "noOfRequests": 0
+    },
+    "style": {
+      "noOfRequests": 0
+    },
+    "script": {
+      "noOfRequests": 0
+    },
+    "xhr": {
+      "noOfRequests": 0
+    },
+    "other": {
+      "noOfRequests": 0
+    }
+  }
+}

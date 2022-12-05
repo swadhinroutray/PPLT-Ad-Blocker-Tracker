@@ -1,0 +1,73 @@
+{
+  "pages": {
+    "noOfPages": 1,
+    "medianOnLoad": null,
+    "ninetyFifthOnLoad": null,
+    "pages": [
+      {
+        "url": "Prudential Financial",
+        "onLoad": null
+      }
+    ]
+  },
+  "requests": {
+    "all": {
+      "noOfRequests": 221,
+      "medianTime": 92,
+      "ninetyFifthTime": 370,
+      "medianTimings": {
+        "blocked": -1,
+        "wait": 28,
+        "receive": 0
+      },
+      "ninetyFifthTimings": {
+        "blocked": 0,
+        "wait": 82,
+        "receive": 36
+      },
+      "bytesTransferred": null,
+      "topUrl": {
+        "url": "https://nexus.ensighten.com/error/e.gif",
+        "noOfOccurrences": 12
+      },
+      "largest": {
+        "url": "https://adservice.google.com/ddm/fls/i/dc_pre=CJyly_vZ2_sCFV8EaAgdM88C5Q;src=2988838;type=global;cat=corp_00;ord=6136978769085;gtm=2odbu0;auiddc=101450002.1670010511;~oref=https%3A%2F%2Fwww.prudential.com%2F",
+        "bytes": 0
+      },
+      "largestCompressed": {
+        "url": "https://www.prudential.com/"
+      },
+      "longest": {
+        "url": "https://metrics.responsetap.com/infinity/info",
+        "time": 612,
+        "timings": {
+          "blocked": 0,
+          "wait": 142,
+          "receive": 0,
+          "connect": 435
+        }
+      }
+    },
+    "document": {
+      "noOfRequests": 0
+    },
+    "font": {
+      "noOfRequests": 0
+    },
+    "image": {
+      "noOfRequests": 0
+    },
+    "style": {
+      "noOfRequests": 0
+    },
+    "script": {
+      "noOfRequests": 0
+    },
+    "xhr": {
+      "noOfRequests": 0
+    },
+    "other": {
+      "noOfRequests": 0
+    }
+  }
+}

@@ -1,0 +1,73 @@
+{
+  "pages": {
+    "noOfPages": 1,
+    "medianOnLoad": null,
+    "ninetyFifthOnLoad": null,
+    "pages": [
+      {
+        "url": "Amazon",
+        "onLoad": null
+      }
+    ]
+  },
+  "requests": {
+    "all": {
+      "noOfRequests": 337,
+      "medianTime": 24,
+      "ninetyFifthTime": 207,
+      "medianTimings": {
+        "blocked": -1,
+        "wait": 22,
+        "receive": 0
+      },
+      "ninetyFifthTimings": {
+        "blocked": 0,
+        "wait": 47,
+        "receive": 4
+      },
+      "bytesTransferred": null,
+      "topUrl": {
+        "url": "https://www.amazon.com/rd/uedata",
+        "noOfOccurrences": 8
+      },
+      "largest": {
+        "url": "https://fls-na.amazon.com/1/batch/1/OP/ATVPDKIKX0DER:133-1407221-6217643:1ABD8M5TXE6F48RBF63R$uedata=s:%2Frd%2Fuedata%3Fld%26v%3D0.232430.0%26id%3D1ABD8M5TXE6F48RBF63R%26ctb%3D1%26sc0%3DAmazonLiveReact%26bb0%3D619%26be0%3D13741%26pc0%3D14036%26ld0%3D14036%26t0%3D1669928428459%26pty%3DGateway%26spty%3Ddesktop%26pti%3Ddesktop%26tid%3D1ABD8M5TXE6F48RBF63R%26aftb%3D1:14032",
+        "bytes": 0
+      },
+      "largestCompressed": {
+        "url": "https://collector-pxu6b0qd2s.px-cloud.net/api/v2/collector/beacon"
+      },
+      "longest": {
+        "url": "https://aa.online-metrix.net:3478",
+        "time": 10132,
+        "timings": {
+          "blocked": 0,
+          "wait": 0,
+          "receive": 0,
+          "connect": 10107
+        }
+      }
+    },
+    "document": {
+      "noOfRequests": 0
+    },
+    "font": {
+      "noOfRequests": 0
+    },
+    "image": {
+      "noOfRequests": 0
+    },
+    "style": {
+      "noOfRequests": 0
+    },
+    "script": {
+      "noOfRequests": 0
+    },
+    "xhr": {
+      "noOfRequests": 0
+    },
+    "other": {
+      "noOfRequests": 0
+    }
+  }
+}

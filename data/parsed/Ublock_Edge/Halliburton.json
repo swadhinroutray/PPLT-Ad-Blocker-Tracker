@@ -1,0 +1,73 @@
+{
+  "pages": {
+    "noOfPages": 1,
+    "medianOnLoad": null,
+    "ninetyFifthOnLoad": null,
+    "pages": [
+      {
+        "url": "Halliburton",
+        "onLoad": null
+      }
+    ]
+  },
+  "requests": {
+    "all": {
+      "noOfRequests": 53,
+      "medianTime": 96,
+      "ninetyFifthTime": 401,
+      "medianTimings": {
+        "blocked": -1,
+        "wait": 27,
+        "receive": 0
+      },
+      "ninetyFifthTimings": {
+        "blocked": 0,
+        "wait": 278,
+        "receive": 73
+      },
+      "bytesTransferred": null,
+      "topUrl": {
+        "url": "https://cdn.brandfolder.io/3I2CY2XL/as/ttqvsvbm46pcrm38bncstf/favicon.ico",
+        "noOfOccurrences": 1
+      },
+      "largest": {
+        "url": "https://cdn.brandfolder.io/3I2CY2XL/as/ttqvsvbm46pcrm38bncstf/favicon.ico",
+        "bytes": 0
+      },
+      "largestCompressed": {
+        "url": "https://www.halliburton.com/"
+      },
+      "longest": {
+        "url": "https://www.halliburton.com/etc.clientlibs/halliburton/clientlibs/clientlib-site/resources/photos/footer-animation.jpg",
+        "time": 636,
+        "timings": {
+          "blocked": -1,
+          "wait": 341,
+          "receive": 295,
+          "connect": -1
+        }
+      }
+    },
+    "document": {
+      "noOfRequests": 0
+    },
+    "font": {
+      "noOfRequests": 0
+    },
+    "image": {
+      "noOfRequests": 0
+    },
+    "style": {
+      "noOfRequests": 0
+    },
+    "script": {
+      "noOfRequests": 0
+    },
+    "xhr": {
+      "noOfRequests": 0
+    },
+    "other": {
+      "noOfRequests": 0
+    }
+  }
+}

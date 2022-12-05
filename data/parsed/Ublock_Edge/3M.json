@@ -1,0 +1,73 @@
+{
+  "pages": {
+    "noOfPages": 1,
+    "medianOnLoad": null,
+    "ninetyFifthOnLoad": null,
+    "pages": [
+      {
+        "url": "3M",
+        "onLoad": null
+      }
+    ]
+  },
+  "requests": {
+    "all": {
+      "noOfRequests": 64,
+      "medianTime": 42,
+      "ninetyFifthTime": 331,
+      "medianTimings": {
+        "blocked": -1,
+        "wait": 29,
+        "receive": 0
+      },
+      "ninetyFifthTimings": {
+        "blocked": 0,
+        "wait": 97,
+        "receive": 48
+      },
+      "bytesTransferred": null,
+      "topUrl": {
+        "url": "https://ui.mkpl.3m.com/scripts/3M-mini-apps/cart-webservice/cart-webservice.js",
+        "noOfOccurrences": 0
+      },
+      "largest": {
+        "url": "https://ui.mkpl.3m.com/scripts/3M-mini-apps/cart-webservice/cart-webservice.js",
+        "bytes": 0
+      },
+      "largestCompressed": {
+        "url": "https://www.3m.com/"
+      },
+      "longest": {
+        "url": "https://ui.mkpl.3m.com/scripts/3M-mini-apps/cart-webservice/cart-webservice.js",
+        "time": 485,
+        "timings": {
+          "blocked": 0,
+          "wait": 24,
+          "receive": 40,
+          "connect": 275
+        }
+      }
+    },
+    "document": {
+      "noOfRequests": 0
+    },
+    "font": {
+      "noOfRequests": 0
+    },
+    "image": {
+      "noOfRequests": 0
+    },
+    "style": {
+      "noOfRequests": 0
+    },
+    "script": {
+      "noOfRequests": 0
+    },
+    "xhr": {
+      "noOfRequests": 0
+    },
+    "other": {
+      "noOfRequests": 0
+    }
+  }
+}

@@ -1,0 +1,73 @@
+{
+  "pages": {
+    "noOfPages": 1,
+    "medianOnLoad": null,
+    "ninetyFifthOnLoad": null,
+    "pages": [
+      {
+        "url": "Micron Technology",
+        "onLoad": null
+      }
+    ]
+  },
+  "requests": {
+    "all": {
+      "noOfRequests": 44,
+      "medianTime": 127,
+      "ninetyFifthTime": 514,
+      "medianTimings": {
+        "blocked": 0,
+        "wait": 39,
+        "receive": 2
+      },
+      "ninetyFifthTimings": {
+        "blocked": 0,
+        "wait": 344,
+        "receive": 77
+      },
+      "bytesTransferred": null,
+      "topUrl": {
+        "url": "https://ublockorigin.pages.dev/ublock/assets.json",
+        "noOfOccurrences": 0
+      },
+      "largest": {
+        "url": "https://ublockorigin.pages.dev/ublock/assets.json",
+        "bytes": 0
+      },
+      "largestCompressed": {
+        "url": "https://www.micron.com/"
+      },
+      "longest": {
+        "url": "https://www.micron.com/",
+        "time": 907,
+        "timings": {
+          "blocked": 0,
+          "wait": 618,
+          "receive": 2,
+          "connect": 185
+        }
+      }
+    },
+    "document": {
+      "noOfRequests": 0
+    },
+    "font": {
+      "noOfRequests": 0
+    },
+    "image": {
+      "noOfRequests": 0
+    },
+    "style": {
+      "noOfRequests": 0
+    },
+    "script": {
+      "noOfRequests": 0
+    },
+    "xhr": {
+      "noOfRequests": 0
+    },
+    "other": {
+      "noOfRequests": 0
+    }
+  }
+}

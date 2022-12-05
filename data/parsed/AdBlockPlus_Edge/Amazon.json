@@ -1,0 +1,73 @@
+{
+  "pages": {
+    "noOfPages": 1,
+    "medianOnLoad": null,
+    "ninetyFifthOnLoad": null,
+    "pages": [
+      {
+        "url": "Amazon",
+        "onLoad": null
+      }
+    ]
+  },
+  "requests": {
+    "all": {
+      "noOfRequests": 378,
+      "medianTime": 27,
+      "ninetyFifthTime": 255,
+      "medianTimings": {
+        "blocked": -1,
+        "wait": 25,
+        "receive": 0
+      },
+      "ninetyFifthTimings": {
+        "blocked": 0,
+        "wait": 52,
+        "receive": 2
+      },
+      "bytesTransferred": null,
+      "topUrl": {
+        "url": "https://unagi-na.amazon.com/1/events/com.amazon.eel.amazonlive.metrics.nexus",
+        "noOfOccurrences": 6
+      },
+      "largest": {
+        "url": "https://fls-na.amazon.com/1/batch/1/OP/ATVPDKIKX0DER:136-8005203-7383530:3EMXJ6EZ9GQA9KCAKBQQ$uedata=s:%2Frd%2Fuedata%3Fld%26v%3D0.233339.0%26id%3D3EMXJ6EZ9GQA9KCAKBQQ%26ctb%3D1%26sc0%3Dadplacements%3APollingSfImpression%3A73950e1c-6f66-4784-b2d9-e5d5693a4353%26bb0%3D821%26pc0%3D4233%26ld0%3D4232%26t0%3D1670014714554%26pty%3DGateway%26spty%3Ddesktop%26pti%3Ddesktop%26tid%3D3EMXJ6EZ9GQA9KCAKBQQ%26aftb%3D1:4232",
+        "bytes": 0
+      },
+      "largestCompressed": {
+        "url": "https://js.stripe.com/v3/fingerprinted/js/trusted-types-checker-239db17d86d6320632b024ca9e43ba9c.js"
+      },
+      "longest": {
+        "url": "https://www.amazon.com/",
+        "time": 707,
+        "timings": {
+          "blocked": 0,
+          "wait": 105,
+          "receive": 337,
+          "connect": 197
+        }
+      }
+    },
+    "document": {
+      "noOfRequests": 0
+    },
+    "font": {
+      "noOfRequests": 0
+    },
+    "image": {
+      "noOfRequests": 0
+    },
+    "style": {
+      "noOfRequests": 0
+    },
+    "script": {
+      "noOfRequests": 0
+    },
+    "xhr": {
+      "noOfRequests": 0
+    },
+    "other": {
+      "noOfRequests": 0
+    }
+  }
+}

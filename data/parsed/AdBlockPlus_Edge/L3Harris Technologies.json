@@ -1,0 +1,73 @@
+{
+  "pages": {
+    "noOfPages": 1,
+    "medianOnLoad": null,
+    "ninetyFifthOnLoad": null,
+    "pages": [
+      {
+        "url": "L3Harris Technologies",
+        "onLoad": null
+      }
+    ]
+  },
+  "requests": {
+    "all": {
+      "noOfRequests": 65,
+      "medianTime": 76,
+      "ninetyFifthTime": 475,
+      "medianTimings": {
+        "blocked": -1,
+        "wait": 33,
+        "receive": 0
+      },
+      "ninetyFifthTimings": {
+        "blocked": 0,
+        "wait": 96,
+        "receive": 275
+      },
+      "bytesTransferred": null,
+      "topUrl": {
+        "url": "https://dishmarketing-app.quantummetric.com/",
+        "noOfOccurrences": 1
+      },
+      "largest": {
+        "url": "https://bam.nr-data.net/1/NRJS-3663c681d0d61555b65",
+        "bytes": 0
+      },
+      "largestCompressed": {
+        "url": "https://rl.quantummetric.com/dishmarketing/hash-check"
+      },
+      "longest": {
+        "url": "https://acsbapp.com/apps/app/dist/js/app.js",
+        "time": 682,
+        "timings": {
+          "blocked": 0,
+          "wait": 75,
+          "receive": 330,
+          "connect": 274
+        }
+      }
+    },
+    "document": {
+      "noOfRequests": 0
+    },
+    "font": {
+      "noOfRequests": 0
+    },
+    "image": {
+      "noOfRequests": 0
+    },
+    "style": {
+      "noOfRequests": 0
+    },
+    "script": {
+      "noOfRequests": 0
+    },
+    "xhr": {
+      "noOfRequests": 0
+    },
+    "other": {
+      "noOfRequests": 0
+    }
+  }
+}

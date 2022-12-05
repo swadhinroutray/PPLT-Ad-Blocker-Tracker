@@ -1,0 +1,73 @@
+{
+  "pages": {
+    "noOfPages": 1,
+    "medianOnLoad": null,
+    "ninetyFifthOnLoad": null,
+    "pages": [
+      {
+        "url": "Corteva",
+        "onLoad": null
+      }
+    ]
+  },
+  "requests": {
+    "all": {
+      "noOfRequests": 31,
+      "medianTime": 93,
+      "ninetyFifthTime": 393,
+      "medianTimings": {
+        "blocked": -1,
+        "wait": 36,
+        "receive": 0
+      },
+      "ninetyFifthTimings": {
+        "blocked": 0,
+        "wait": 115,
+        "receive": 44
+      },
+      "bytesTransferred": null,
+      "topUrl": {
+        "url": "https://assets.corteva.com/is/image/Corteva/IMG-tomato-bunch_714x486-Global",
+        "noOfOccurrences": 0
+      },
+      "largest": {
+        "url": "https://assets.corteva.com/is/image/Corteva/IMG-tomato-bunch_714x486-Global",
+        "bytes": 0
+      },
+      "largestCompressed": {
+        "url": "https://nav-edge.smartscreen.microsoft.com/api/browser/edge/navigate/3"
+      },
+      "longest": {
+        "url": "https://www.corteva.com/",
+        "time": 410,
+        "timings": {
+          "blocked": 0,
+          "wait": 17,
+          "receive": 2,
+          "connect": 301
+        }
+      }
+    },
+    "document": {
+      "noOfRequests": 0
+    },
+    "font": {
+      "noOfRequests": 0
+    },
+    "image": {
+      "noOfRequests": 0
+    },
+    "style": {
+      "noOfRequests": 0
+    },
+    "script": {
+      "noOfRequests": 0
+    },
+    "xhr": {
+      "noOfRequests": 0
+    },
+    "other": {
+      "noOfRequests": 0
+    }
+  }
+}

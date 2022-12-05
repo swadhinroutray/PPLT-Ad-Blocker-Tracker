@@ -1,0 +1,73 @@
+{
+  "pages": {
+    "noOfPages": 1,
+    "medianOnLoad": null,
+    "ninetyFifthOnLoad": null,
+    "pages": [
+      {
+        "url": "Humana",
+        "onLoad": null
+      }
+    ]
+  },
+  "requests": {
+    "all": {
+      "noOfRequests": 40,
+      "medianTime": 60,
+      "ninetyFifthTime": 317,
+      "medianTimings": {
+        "blocked": -1,
+        "wait": 33,
+        "receive": 0
+      },
+      "ninetyFifthTimings": {
+        "blocked": 0,
+        "wait": 191,
+        "receive": 40
+      },
+      "bytesTransferred": null,
+      "topUrl": {
+        "url": "https://humanacom.mpeasylink.com/mpel/mpel_storage.html",
+        "noOfOccurrences": 1
+      },
+      "largest": {
+        "url": "https://www.humana.com/-/media/Humana/Tenants/HumanaCom-Tenant/HumanaCom/Homepage-Rebrand/Update---App-promotion---20220620/Unknown/Roadmap-to-Medicare/Homepage_Roadmap-to-Medicare_20220714_1x1.jpg",
+        "bytes": 0
+      },
+      "largestCompressed": {
+        "url": "https://www.humana.com/"
+      },
+      "longest": {
+        "url": "https://www.humana.com/",
+        "time": 674,
+        "timings": {
+          "blocked": 0,
+          "wait": 475,
+          "receive": 0,
+          "connect": 152
+        }
+      }
+    },
+    "document": {
+      "noOfRequests": 0
+    },
+    "font": {
+      "noOfRequests": 0
+    },
+    "image": {
+      "noOfRequests": 0
+    },
+    "style": {
+      "noOfRequests": 0
+    },
+    "script": {
+      "noOfRequests": 0
+    },
+    "xhr": {
+      "noOfRequests": 0
+    },
+    "other": {
+      "noOfRequests": 0
+    }
+  }
+}

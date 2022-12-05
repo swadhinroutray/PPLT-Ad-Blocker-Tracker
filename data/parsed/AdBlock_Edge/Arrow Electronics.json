@@ -1,0 +1,73 @@
+{
+  "pages": {
+    "noOfPages": 1,
+    "medianOnLoad": null,
+    "ninetyFifthOnLoad": null,
+    "pages": [
+      {
+        "url": "Arrow Electronics",
+        "onLoad": null
+      }
+    ]
+  },
+  "requests": {
+    "all": {
+      "noOfRequests": 152,
+      "medianTime": 124,
+      "ninetyFifthTime": 408,
+      "medianTimings": {
+        "blocked": 0,
+        "wait": 34,
+        "receive": 0
+      },
+      "ninetyFifthTimings": {
+        "blocked": 0,
+        "wait": 139,
+        "receive": 23
+      },
+      "bytesTransferred": null,
+      "topUrl": {
+        "url": "https://cdn.linkedin.oribi.io/partner/3700890,471828/domain/arrow.com/token",
+        "noOfOccurrences": 5
+      },
+      "largest": {
+        "url": "https://beacon.krxd.net/optout_check",
+        "bytes": 0
+      },
+      "largestCompressed": {
+        "url": "https://lib-us-2.brilliantcollector.com/collector/collectorPost"
+      },
+      "longest": {
+        "url": "https://wcs.naver.com/m",
+        "time": 1442,
+        "timings": {
+          "blocked": 0,
+          "wait": 250,
+          "receive": 0,
+          "connect": 913
+        }
+      }
+    },
+    "document": {
+      "noOfRequests": 0
+    },
+    "font": {
+      "noOfRequests": 0
+    },
+    "image": {
+      "noOfRequests": 0
+    },
+    "style": {
+      "noOfRequests": 0
+    },
+    "script": {
+      "noOfRequests": 0
+    },
+    "xhr": {
+      "noOfRequests": 0
+    },
+    "other": {
+      "noOfRequests": 0
+    }
+  }
+}

@@ -1,0 +1,73 @@
+{
+  "pages": {
+    "noOfPages": 1,
+    "medianOnLoad": null,
+    "ninetyFifthOnLoad": null,
+    "pages": [
+      {
+        "url": "Cigna",
+        "onLoad": null
+      }
+    ]
+  },
+  "requests": {
+    "all": {
+      "noOfRequests": 127,
+      "medianTime": 79,
+      "ninetyFifthTime": 338,
+      "medianTimings": {
+        "blocked": -1,
+        "wait": 33,
+        "receive": 0
+      },
+      "ninetyFifthTimings": {
+        "blocked": 0,
+        "wait": 92,
+        "receive": 21
+      },
+      "bytesTransferred": null,
+      "topUrl": {
+        "url": "https://match.adsrvr.org/track/cmf/generic",
+        "noOfOccurrences": 2
+      },
+      "largest": {
+        "url": "https://c212.net/c/sync",
+        "bytes": 0
+      },
+      "largestCompressed": {
+        "url": "https://d.us.criteo.com/delivery/retailmedia"
+      },
+      "longest": {
+        "url": "https://pixel.mathtag.com/sync/js",
+        "time": 405,
+        "timings": {
+          "blocked": 0,
+          "wait": 204,
+          "receive": 0,
+          "connect": 173
+        }
+      }
+    },
+    "document": {
+      "noOfRequests": 0
+    },
+    "font": {
+      "noOfRequests": 0
+    },
+    "image": {
+      "noOfRequests": 0
+    },
+    "style": {
+      "noOfRequests": 0
+    },
+    "script": {
+      "noOfRequests": 0
+    },
+    "xhr": {
+      "noOfRequests": 0
+    },
+    "other": {
+      "noOfRequests": 0
+    }
+  }
+}

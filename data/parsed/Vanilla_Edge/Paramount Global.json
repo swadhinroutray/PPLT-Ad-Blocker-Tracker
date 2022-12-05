@@ -1,0 +1,73 @@
+{
+  "pages": {
+    "noOfPages": 1,
+    "medianOnLoad": null,
+    "ninetyFifthOnLoad": null,
+    "pages": [
+      {
+        "url": "Paramount Global",
+        "onLoad": null
+      }
+    ]
+  },
+  "requests": {
+    "all": {
+      "noOfRequests": 259,
+      "medianTime": 22,
+      "ninetyFifthTime": 216,
+      "medianTimings": {
+        "blocked": -1,
+        "wait": 22,
+        "receive": 0
+      },
+      "ninetyFifthTimings": {
+        "blocked": 0,
+        "wait": 45,
+        "receive": 16
+      },
+      "bytesTransferred": null,
+      "topUrl": {
+        "url": "https://www.paramount.com/sites/g/files/dxjhpe226/files/ViacomCBSDotCom/BrandPage/Images/Updated%20Brand%20Logos/New%20Logos/30_VH1NEW.svg",
+        "noOfOccurrences": 6
+      },
+      "largest": {
+        "url": "https://p1.parsely.com/px/",
+        "bytes": 0
+      },
+      "largestCompressed": {
+        "url": "https://www.netflix.com/personalization/cl2"
+      },
+      "longest": {
+        "url": "https://d1z2jf7jlzjs58.cloudfront.net/keys/viacomcbs.com/p.js",
+        "time": 496,
+        "timings": {
+          "blocked": 0,
+          "wait": 23,
+          "receive": 3,
+          "connect": 390
+        }
+      }
+    },
+    "document": {
+      "noOfRequests": 0
+    },
+    "font": {
+      "noOfRequests": 0
+    },
+    "image": {
+      "noOfRequests": 0
+    },
+    "style": {
+      "noOfRequests": 0
+    },
+    "script": {
+      "noOfRequests": 0
+    },
+    "xhr": {
+      "noOfRequests": 0
+    },
+    "other": {
+      "noOfRequests": 0
+    }
+  }
+}

@@ -1,0 +1,73 @@
+{
+  "pages": {
+    "noOfPages": 1,
+    "medianOnLoad": null,
+    "ninetyFifthOnLoad": null,
+    "pages": [
+      {
+        "url": "Pioneer Natural Resources",
+        "onLoad": null
+      }
+    ]
+  },
+  "requests": {
+    "all": {
+      "noOfRequests": 53,
+      "medianTime": 45,
+      "ninetyFifthTime": 332,
+      "medianTimings": {
+        "blocked": -1,
+        "wait": 25,
+        "receive": 0
+      },
+      "ninetyFifthTimings": {
+        "blocked": 0,
+        "wait": 101,
+        "receive": 100
+      },
+      "bytesTransferred": null,
+      "topUrl": {
+        "url": "https://static.addtoany.com/menu/sm.24.html",
+        "noOfOccurrences": 1
+      },
+      "largest": {
+        "url": "https://bam.nr-data.net/events/1/NRJS-c2e7126e35ff0ed6545",
+        "bytes": 0
+      },
+      "largestCompressed": {
+        "url": "https://uipglob.semasio.net/dbm/1/info"
+      },
+      "longest": {
+        "url": "https://www.pxd.com/sites/default/files/hero-banner/pxd-home-hero-mobile.mp4",
+        "time": 672,
+        "timings": {
+          "blocked": -1,
+          "wait": 26,
+          "receive": 646,
+          "connect": -1
+        }
+      }
+    },
+    "document": {
+      "noOfRequests": 0
+    },
+    "font": {
+      "noOfRequests": 0
+    },
+    "image": {
+      "noOfRequests": 0
+    },
+    "style": {
+      "noOfRequests": 0
+    },
+    "script": {
+      "noOfRequests": 0
+    },
+    "xhr": {
+      "noOfRequests": 0
+    },
+    "other": {
+      "noOfRequests": 0
+    }
+  }
+}

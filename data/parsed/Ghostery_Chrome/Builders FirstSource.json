@@ -1,0 +1,73 @@
+{
+  "pages": {
+    "noOfPages": 1,
+    "medianOnLoad": null,
+    "ninetyFifthOnLoad": null,
+    "pages": [
+      {
+        "url": "Builders FirstSource",
+        "onLoad": null
+      }
+    ]
+  },
+  "requests": {
+    "all": {
+      "noOfRequests": 116,
+      "medianTime": 71,
+      "ninetyFifthTime": 306,
+      "medianTimings": {
+        "blocked": -1,
+        "wait": 26,
+        "receive": 0
+      },
+      "ninetyFifthTimings": {
+        "blocked": 0,
+        "wait": 108,
+        "receive": 36
+      },
+      "bytesTransferred": null,
+      "topUrl": {
+        "url": "https://info.bldr.com/analytics",
+        "noOfOccurrences": 1
+      },
+      "largest": {
+        "url": "https://www.bldr.com/_ui/responsive/theme-bldr/images/favicon.ico",
+        "bytes": 0
+      },
+      "largestCompressed": {
+        "url": "https://report.swp.gbqofs.io/reporting/e364031c-502a-5789-a561-6e32f935d970/cls_report"
+      },
+      "longest": {
+        "url": "https://px.ads.linkedin.com/collect",
+        "time": 606,
+        "timings": {
+          "blocked": 0,
+          "wait": 448,
+          "receive": 0,
+          "connect": 120
+        }
+      }
+    },
+    "document": {
+      "noOfRequests": 0
+    },
+    "font": {
+      "noOfRequests": 0
+    },
+    "image": {
+      "noOfRequests": 0
+    },
+    "style": {
+      "noOfRequests": 0
+    },
+    "script": {
+      "noOfRequests": 0
+    },
+    "xhr": {
+      "noOfRequests": 0
+    },
+    "other": {
+      "noOfRequests": 0
+    }
+  }
+}

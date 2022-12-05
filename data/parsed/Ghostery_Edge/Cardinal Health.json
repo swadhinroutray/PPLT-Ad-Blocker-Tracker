@@ -1,0 +1,73 @@
+{
+  "pages": {
+    "noOfPages": 1,
+    "medianOnLoad": null,
+    "ninetyFifthOnLoad": null,
+    "pages": [
+      {
+        "url": "Cardinal Health",
+        "onLoad": null
+      }
+    ]
+  },
+  "requests": {
+    "all": {
+      "noOfRequests": 160,
+      "medianTime": 127,
+      "ninetyFifthTime": 542,
+      "medianTimings": {
+        "blocked": -1,
+        "wait": 58,
+        "receive": 0
+      },
+      "ninetyFifthTimings": {
+        "blocked": 0,
+        "wait": 206,
+        "receive": 55
+      },
+      "bytesTransferred": null,
+      "topUrl": {
+        "url": "https://n.clarity.ms/collect",
+        "noOfOccurrences": 3
+      },
+      "largest": {
+        "url": "https://www.cardinalhealth.com/etc/designs/corp/clientlibs/images/sign-in-ebebeb-triangle.png",
+        "bytes": 0
+      },
+      "largestCompressed": {
+        "url": "https://browser.events.data.microsoft.com/OneCollector/1.0/"
+      },
+      "longest": {
+        "url": "https://edge.microsoft.com/autofillservice/v1/pages/ChVDaHJvbWUvMTA3LjAuNTMwNC4xNTASHgmcV-IGEMG8eRIFDZFhlU4SBQ2RYZVOEgUNpZM2JA==",
+        "time": 1303,
+        "timings": {
+          "blocked": -1,
+          "wait": 1302,
+          "receive": 0,
+          "connect": -1
+        }
+      }
+    },
+    "document": {
+      "noOfRequests": 0
+    },
+    "font": {
+      "noOfRequests": 0
+    },
+    "image": {
+      "noOfRequests": 0
+    },
+    "style": {
+      "noOfRequests": 0
+    },
+    "script": {
+      "noOfRequests": 0
+    },
+    "xhr": {
+      "noOfRequests": 0
+    },
+    "other": {
+      "noOfRequests": 0
+    }
+  }
+}

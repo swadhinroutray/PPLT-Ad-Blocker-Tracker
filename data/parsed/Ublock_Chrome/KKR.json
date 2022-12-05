@@ -1,0 +1,73 @@
+{
+  "pages": {
+    "noOfPages": 1,
+    "medianOnLoad": null,
+    "ninetyFifthOnLoad": null,
+    "pages": [
+      {
+        "url": "KKR",
+        "onLoad": null
+      }
+    ]
+  },
+  "requests": {
+    "all": {
+      "noOfRequests": 58,
+      "medianTime": 76,
+      "ninetyFifthTime": 235,
+      "medianTimings": {
+        "blocked": -1,
+        "wait": 37,
+        "receive": 0
+      },
+      "ninetyFifthTimings": {
+        "blocked": 0,
+        "wait": 234,
+        "receive": 14
+      },
+      "bytesTransferred": null,
+      "topUrl": {
+        "url": "https://www.kkr.com/sites/default/files/favicon_0.png",
+        "noOfOccurrences": 0
+      },
+      "largest": {
+        "url": "https://www.kkr.com/sites/default/files/favicon_0.png",
+        "bytes": 0
+      },
+      "largestCompressed": {
+        "url": "https://www.dollartree.com/file/globalconfigfiles/text-security-disc.min.css"
+      },
+      "longest": {
+        "url": "https://www.kkr.com/",
+        "time": 1225,
+        "timings": {
+          "blocked": 0,
+          "wait": 930,
+          "receive": 0,
+          "connect": 214
+        }
+      }
+    },
+    "document": {
+      "noOfRequests": 0
+    },
+    "font": {
+      "noOfRequests": 0
+    },
+    "image": {
+      "noOfRequests": 0
+    },
+    "style": {
+      "noOfRequests": 0
+    },
+    "script": {
+      "noOfRequests": 0
+    },
+    "xhr": {
+      "noOfRequests": 0
+    },
+    "other": {
+      "noOfRequests": 0
+    }
+  }
+}

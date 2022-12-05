@@ -1,0 +1,73 @@
+{
+  "pages": {
+    "noOfPages": 1,
+    "medianOnLoad": null,
+    "ninetyFifthOnLoad": null,
+    "pages": [
+      {
+        "url": "USAA",
+        "onLoad": null
+      }
+    ]
+  },
+  "requests": {
+    "all": {
+      "noOfRequests": 92,
+      "medianTime": 86,
+      "ninetyFifthTime": 289,
+      "medianTimings": {
+        "blocked": 0,
+        "wait": 32,
+        "receive": 0
+      },
+      "ninetyFifthTimings": {
+        "blocked": 0,
+        "wait": 69,
+        "receive": 45
+      },
+      "bytesTransferred": null,
+      "topUrl": {
+        "url": "https://api.usaa.com/enterprise/wcm/v2/public/objects",
+        "noOfOccurrences": 1
+      },
+      "largest": {
+        "url": "https://datacloud.tealiumiq.com/usaa/main/2/i.gif",
+        "bytes": 0
+      },
+      "largestCompressed": {
+        "url": "https://privacyportal.onetrust.com/request/v1/consentreceipts"
+      },
+      "longest": {
+        "url": "https://api.usaa.com/v1/presentation/page-templates/enterprise/ecid-generator/v1/ecid",
+        "time": 441,
+        "timings": {
+          "blocked": 0,
+          "wait": 210,
+          "receive": 0,
+          "connect": 183
+        }
+      }
+    },
+    "document": {
+      "noOfRequests": 0
+    },
+    "font": {
+      "noOfRequests": 0
+    },
+    "image": {
+      "noOfRequests": 0
+    },
+    "style": {
+      "noOfRequests": 0
+    },
+    "script": {
+      "noOfRequests": 0
+    },
+    "xhr": {
+      "noOfRequests": 0
+    },
+    "other": {
+      "noOfRequests": 0
+    }
+  }
+}

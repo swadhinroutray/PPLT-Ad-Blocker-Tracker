@@ -1,0 +1,73 @@
+{
+  "pages": {
+    "noOfPages": 1,
+    "medianOnLoad": null,
+    "ninetyFifthOnLoad": null,
+    "pages": [
+      {
+        "url": "Macy's",
+        "onLoad": null
+      }
+    ]
+  },
+  "requests": {
+    "all": {
+      "noOfRequests": 139,
+      "medianTime": 47,
+      "ninetyFifthTime": 287,
+      "medianTimings": {
+        "blocked": -1,
+        "wait": 32,
+        "receive": 0
+      },
+      "ninetyFifthTimings": {
+        "blocked": 0,
+        "wait": 118,
+        "receive": 24
+      },
+      "bytesTransferred": null,
+      "topUrl": {
+        "url": "https://www.macys.com/SZvHVo4NdmIzV/LGFdYtbwnZB/Ibw/YrOVLNrh9m/MhAfDQE/BF0X/VDEfeAkC",
+        "noOfOccurrences": 3
+      },
+      "largest": {
+        "url": "https://preview.bambuser.io/live/eyJyZXNvdXJjZVVyaSI6Imh0dHBzOlwvXC9jZG4uYmFtYnVzZXIubmV0XC9icm9hZGNhc3RzXC9mMzU2MzdhZS03MzFiLTRmYWItODA4ZC01OWUyZDM2YWE2NjAifQ==/preview.jpg",
+        "bytes": 0
+      },
+      "largestCompressed": {
+        "url": "https://t.paypal.com/ts"
+      },
+      "longest": {
+        "url": "https://www.macys.com/xapi/bag/v1/meta",
+        "time": 657,
+        "timings": {
+          "blocked": 0,
+          "wait": 608,
+          "receive": 0,
+          "connect": 48
+        }
+      }
+    },
+    "document": {
+      "noOfRequests": 0
+    },
+    "font": {
+      "noOfRequests": 0
+    },
+    "image": {
+      "noOfRequests": 0
+    },
+    "style": {
+      "noOfRequests": 0
+    },
+    "script": {
+      "noOfRequests": 0
+    },
+    "xhr": {
+      "noOfRequests": 0
+    },
+    "other": {
+      "noOfRequests": 0
+    }
+  }
+}

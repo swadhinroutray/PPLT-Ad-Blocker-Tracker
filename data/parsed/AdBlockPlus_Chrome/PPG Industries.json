@@ -1,0 +1,73 @@
+{
+  "pages": {
+    "noOfPages": 1,
+    "medianOnLoad": null,
+    "ninetyFifthOnLoad": null,
+    "pages": [
+      {
+        "url": "PPG Industries",
+        "onLoad": null
+      }
+    ]
+  },
+  "requests": {
+    "all": {
+      "noOfRequests": 60,
+      "medianTime": 94,
+      "ninetyFifthTime": 511,
+      "medianTimings": {
+        "blocked": -1,
+        "wait": 43,
+        "receive": 0
+      },
+      "ninetyFifthTimings": {
+        "blocked": 0,
+        "wait": 141,
+        "receive": 78
+      },
+      "bytesTransferred": null,
+      "topUrl": {
+        "url": "https://www.google-analytics.com/collect",
+        "noOfOccurrences": 2
+      },
+      "largest": {
+        "url": "https://www.ppg.com/Content/images/favicon.png",
+        "bytes": 0
+      },
+      "largestCompressed": {
+        "url": "https://www.westerndigital.com/content/dam/store/en-us/portal-assets/logos/shop-fav-icon.ico"
+      },
+      "longest": {
+        "url": "https://www.ppg.com/",
+        "time": 550,
+        "timings": {
+          "blocked": 0,
+          "wait": 315,
+          "receive": 20,
+          "connect": 180
+        }
+      }
+    },
+    "document": {
+      "noOfRequests": 0
+    },
+    "font": {
+      "noOfRequests": 0
+    },
+    "image": {
+      "noOfRequests": 0
+    },
+    "style": {
+      "noOfRequests": 0
+    },
+    "script": {
+      "noOfRequests": 0
+    },
+    "xhr": {
+      "noOfRequests": 0
+    },
+    "other": {
+      "noOfRequests": 0
+    }
+  }
+}

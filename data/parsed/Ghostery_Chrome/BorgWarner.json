@@ -1,0 +1,73 @@
+{
+  "pages": {
+    "noOfPages": 1,
+    "medianOnLoad": null,
+    "ninetyFifthOnLoad": null,
+    "pages": [
+      {
+        "url": "BorgWarner",
+        "onLoad": null
+      }
+    ]
+  },
+  "requests": {
+    "all": {
+      "noOfRequests": 51,
+      "medianTime": 67,
+      "ninetyFifthTime": 366,
+      "medianTimings": {
+        "blocked": -1,
+        "wait": 38,
+        "receive": 0
+      },
+      "ninetyFifthTimings": {
+        "blocked": 0,
+        "wait": 182,
+        "receive": 30
+      },
+      "bytesTransferred": null,
+      "topUrl": {
+        "url": "https://www.borgwarner.com/Telerik.Web.UI.WebResource.axd",
+        "noOfOccurrences": 3
+      },
+      "largest": {
+        "url": "https://cdn.borgwarner.com/Assets/Icons/icons.bundle.js",
+        "bytes": 0
+      },
+      "largestCompressed": {
+        "url": "https://www.edison.com/media/sites/406/images/favicon.ico"
+      },
+      "longest": {
+        "url": "https://www.borgwarner.com/home",
+        "time": 984,
+        "timings": {
+          "blocked": -1,
+          "wait": 984,
+          "receive": 0,
+          "connect": -1
+        }
+      }
+    },
+    "document": {
+      "noOfRequests": 0
+    },
+    "font": {
+      "noOfRequests": 0
+    },
+    "image": {
+      "noOfRequests": 0
+    },
+    "style": {
+      "noOfRequests": 0
+    },
+    "script": {
+      "noOfRequests": 0
+    },
+    "xhr": {
+      "noOfRequests": 0
+    },
+    "other": {
+      "noOfRequests": 0
+    }
+  }
+}

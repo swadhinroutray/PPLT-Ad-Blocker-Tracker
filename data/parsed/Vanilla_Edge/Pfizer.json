@@ -1,0 +1,73 @@
+{
+  "pages": {
+    "noOfPages": 1,
+    "medianOnLoad": null,
+    "ninetyFifthOnLoad": null,
+    "pages": [
+      {
+        "url": "Pfizer",
+        "onLoad": null
+      }
+    ]
+  },
+  "requests": {
+    "all": {
+      "noOfRequests": 172,
+      "medianTime": 88,
+      "ninetyFifthTime": 303,
+      "medianTimings": {
+        "blocked": -1,
+        "wait": 30,
+        "receive": 0
+      },
+      "ninetyFifthTimings": {
+        "blocked": 0,
+        "wait": 85,
+        "receive": 35
+      },
+      "bytesTransferred": null,
+      "topUrl": {
+        "url": "https://secure.adnxs.com/bounce",
+        "noOfOccurrences": 5
+      },
+      "largest": {
+        "url": "https://www.google-analytics.com/j/collect",
+        "bytes": 0
+      },
+      "largestCompressed": {
+        "url": "https://apps.statefarm.com/sfuidservice/digitalevent"
+      },
+      "longest": {
+        "url": "https://px.ads.linkedin.com/collect",
+        "time": 616,
+        "timings": {
+          "blocked": 0,
+          "wait": 532,
+          "receive": 0,
+          "connect": 83
+        }
+      }
+    },
+    "document": {
+      "noOfRequests": 0
+    },
+    "font": {
+      "noOfRequests": 0
+    },
+    "image": {
+      "noOfRequests": 0
+    },
+    "style": {
+      "noOfRequests": 0
+    },
+    "script": {
+      "noOfRequests": 0
+    },
+    "xhr": {
+      "noOfRequests": 0
+    },
+    "other": {
+      "noOfRequests": 0
+    }
+  }
+}

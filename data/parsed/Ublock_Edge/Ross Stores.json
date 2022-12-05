@@ -1,0 +1,73 @@
+{
+  "pages": {
+    "noOfPages": 1,
+    "medianOnLoad": null,
+    "ninetyFifthOnLoad": null,
+    "pages": [
+      {
+        "url": "Ross Stores",
+        "onLoad": null
+      }
+    ]
+  },
+  "requests": {
+    "all": {
+      "noOfRequests": 33,
+      "medianTime": 49,
+      "ninetyFifthTime": 291,
+      "medianTimings": {
+        "blocked": -1,
+        "wait": 36,
+        "receive": 1
+      },
+      "ninetyFifthTimings": {
+        "blocked": 0,
+        "wait": 72,
+        "receive": 26
+      },
+      "bytesTransferred": null,
+      "topUrl": {
+        "url": "https://edge.microsoft.com/autofillservice/v1/pages/ChVDaHJvbWUvMTA3LjAuNTMwNC4xNTASEAlce91M5iFFRhIFDaWTNiQ=",
+        "noOfOccurrences": 0
+      },
+      "largest": {
+        "url": "https://edge.microsoft.com/autofillservice/v1/pages/ChVDaHJvbWUvMTA3LjAuNTMwNC4xNTASEAlce91M5iFFRhIFDaWTNiQ=",
+        "bytes": 0
+      },
+      "largestCompressed": {
+        "url": "https://nav-edge.smartscreen.microsoft.com/api/browser/edge/navigate/3"
+      },
+      "longest": {
+        "url": "https://www.rossstores.com/",
+        "time": 371,
+        "timings": {
+          "blocked": 0,
+          "wait": 60,
+          "receive": 0,
+          "connect": 233
+        }
+      }
+    },
+    "document": {
+      "noOfRequests": 0
+    },
+    "font": {
+      "noOfRequests": 0
+    },
+    "image": {
+      "noOfRequests": 0
+    },
+    "style": {
+      "noOfRequests": 0
+    },
+    "script": {
+      "noOfRequests": 0
+    },
+    "xhr": {
+      "noOfRequests": 0
+    },
+    "other": {
+      "noOfRequests": 0
+    }
+  }
+}

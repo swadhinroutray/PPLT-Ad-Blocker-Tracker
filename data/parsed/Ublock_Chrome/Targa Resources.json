@@ -1,0 +1,73 @@
+{
+  "pages": {
+    "noOfPages": 1,
+    "medianOnLoad": null,
+    "ninetyFifthOnLoad": null,
+    "pages": [
+      {
+        "url": "Targa Resources",
+        "onLoad": null
+      }
+    ]
+  },
+  "requests": {
+    "all": {
+      "noOfRequests": 38,
+      "medianTime": 151,
+      "ninetyFifthTime": 582,
+      "medianTimings": {
+        "blocked": -1,
+        "wait": 72,
+        "receive": 0
+      },
+      "ninetyFifthTimings": {
+        "blocked": 0,
+        "wait": 450,
+        "receive": 51
+      },
+      "bytesTransferred": null,
+      "topUrl": {
+        "url": "https://www.targaresources.com/sites/g/files/knoqqb79441/files/favicon_0.ico",
+        "noOfOccurrences": 0
+      },
+      "largest": {
+        "url": "https://www.targaresources.com/sites/g/files/knoqqb79441/files/favicon_0.ico",
+        "bytes": 0
+      },
+      "largestCompressed": {
+        "url": "https://www.targaresources.com/"
+      },
+      "longest": {
+        "url": "https://www.targaresources.com/system/files-encrypted/nasdaq_kms/inline-images/option1_0.jpg",
+        "time": 1702,
+        "timings": {
+          "blocked": -1,
+          "wait": 1666,
+          "receive": 36,
+          "connect": -1
+        }
+      }
+    },
+    "document": {
+      "noOfRequests": 0
+    },
+    "font": {
+      "noOfRequests": 0
+    },
+    "image": {
+      "noOfRequests": 0
+    },
+    "style": {
+      "noOfRequests": 0
+    },
+    "script": {
+      "noOfRequests": 0
+    },
+    "xhr": {
+      "noOfRequests": 0
+    },
+    "other": {
+      "noOfRequests": 0
+    }
+  }
+}

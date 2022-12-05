@@ -1,0 +1,73 @@
+{
+  "pages": {
+    "noOfPages": 1,
+    "medianOnLoad": null,
+    "ninetyFifthOnLoad": null,
+    "pages": [
+      {
+        "url": "PNC Financial Services",
+        "onLoad": null
+      }
+    ]
+  },
+  "requests": {
+    "all": {
+      "noOfRequests": 110,
+      "medianTime": 67,
+      "ninetyFifthTime": 334,
+      "medianTimings": {
+        "blocked": -1,
+        "wait": 33,
+        "receive": 0
+      },
+      "ninetyFifthTimings": {
+        "blocked": 0,
+        "wait": 139,
+        "receive": 47
+      },
+      "bytesTransferred": null,
+      "topUrl": {
+        "url": "https://www.pnc.com/SaO4nMQup_20SP9UK7TQ/w51YLfEYh37L/W2poWkgCAw/cXBhA/xZsUjMB",
+        "noOfOccurrences": 3
+      },
+      "largest": {
+        "url": "https://www.u47.pnc.com/783807/FJ6O.html",
+        "bytes": 0
+      },
+      "largestCompressed": {
+        "url": "https://www.pnc.com/en/personal-banking.html"
+      },
+      "longest": {
+        "url": "https://www.pnc.com/en/personal-banking.html",
+        "time": 668,
+        "timings": {
+          "blocked": 0,
+          "wait": 384,
+          "receive": 16,
+          "connect": 228
+        }
+      }
+    },
+    "document": {
+      "noOfRequests": 0
+    },
+    "font": {
+      "noOfRequests": 0
+    },
+    "image": {
+      "noOfRequests": 0
+    },
+    "style": {
+      "noOfRequests": 0
+    },
+    "script": {
+      "noOfRequests": 0
+    },
+    "xhr": {
+      "noOfRequests": 0
+    },
+    "other": {
+      "noOfRequests": 0
+    }
+  }
+}

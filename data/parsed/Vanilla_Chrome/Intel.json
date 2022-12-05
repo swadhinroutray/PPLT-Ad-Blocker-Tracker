@@ -1,0 +1,73 @@
+{
+  "pages": {
+    "noOfPages": 1,
+    "medianOnLoad": null,
+    "ninetyFifthOnLoad": null,
+    "pages": [
+      {
+        "url": "Intel",
+        "onLoad": null
+      }
+    ]
+  },
+  "requests": {
+    "all": {
+      "noOfRequests": 70,
+      "medianTime": 48,
+      "ninetyFifthTime": 324,
+      "medianTimings": {
+        "blocked": -1,
+        "wait": 39,
+        "receive": 0
+      },
+      "ninetyFifthTimings": {
+        "blocked": 0,
+        "wait": 154,
+        "receive": 17
+      },
+      "bytesTransferred": null,
+      "topUrl": {
+        "url": "https://www.intel.com/MxPROQ/Dn2v/oTKS/vGCE/5kiYv8/uwG9p44LEX/Zmp6JgE/a1ZGb0/9ReEgB",
+        "noOfOccurrences": 3
+      },
+      "largest": {
+        "url": "https://cdn.cookielaw.org/scripttemplates/otSDKStub.js",
+        "bytes": 0
+      },
+      "largestCompressed": {
+        "url": "https://www.intel.com/"
+      },
+      "longest": {
+        "url": "https://sfederation.intel.com/federation/status.asp",
+        "time": 1033,
+        "timings": {
+          "blocked": 0,
+          "wait": 92,
+          "receive": 0,
+          "connect": 344
+        }
+      }
+    },
+    "document": {
+      "noOfRequests": 0
+    },
+    "font": {
+      "noOfRequests": 0
+    },
+    "image": {
+      "noOfRequests": 0
+    },
+    "style": {
+      "noOfRequests": 0
+    },
+    "script": {
+      "noOfRequests": 0
+    },
+    "xhr": {
+      "noOfRequests": 0
+    },
+    "other": {
+      "noOfRequests": 0
+    }
+  }
+}

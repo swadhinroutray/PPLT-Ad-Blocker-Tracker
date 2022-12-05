@@ -1,0 +1,73 @@
+{
+  "pages": {
+    "noOfPages": 1,
+    "medianOnLoad": null,
+    "ninetyFifthOnLoad": null,
+    "pages": [
+      {
+        "url": "Lennar",
+        "onLoad": null
+      }
+    ]
+  },
+  "requests": {
+    "all": {
+      "noOfRequests": 208,
+      "medianTime": 85,
+      "ninetyFifthTime": 448,
+      "medianTimings": {
+        "blocked": 0,
+        "wait": 26,
+        "receive": 0
+      },
+      "ninetyFifthTimings": {
+        "blocked": 0,
+        "wait": 117,
+        "receive": 34
+      },
+      "bytesTransferred": null,
+      "topUrl": {
+        "url": "https://jssdks.mparticle.com/v1/JS/us1-0579633ea8846a43abee653a45ea4049/Forwarding",
+        "noOfOccurrences": 28
+      },
+      "largest": {
+        "url": "https://rs.fullstory.com/rec/bundle",
+        "bytes": 0
+      },
+      "largestCompressed": {
+        "url": "https://www.lennar.com/"
+      },
+      "longest": {
+        "url": "https://cdn.optimizely.com/js/20139847744.js",
+        "time": 879,
+        "timings": {
+          "blocked": 0,
+          "wait": 204,
+          "receive": 69,
+          "connect": 535
+        }
+      }
+    },
+    "document": {
+      "noOfRequests": 0
+    },
+    "font": {
+      "noOfRequests": 0
+    },
+    "image": {
+      "noOfRequests": 0
+    },
+    "style": {
+      "noOfRequests": 0
+    },
+    "script": {
+      "noOfRequests": 0
+    },
+    "xhr": {
+      "noOfRequests": 0
+    },
+    "other": {
+      "noOfRequests": 0
+    }
+  }
+}

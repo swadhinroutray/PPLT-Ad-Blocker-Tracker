@@ -1,0 +1,73 @@
+{
+  "pages": {
+    "noOfPages": 1,
+    "medianOnLoad": null,
+    "ninetyFifthOnLoad": null,
+    "pages": [
+      {
+        "url": "Fidelity National Financial",
+        "onLoad": null
+      }
+    ]
+  },
+  "requests": {
+    "all": {
+      "noOfRequests": 37,
+      "medianTime": 34,
+      "ninetyFifthTime": 194,
+      "medianTimings": {
+        "blocked": -1,
+        "wait": 32,
+        "receive": 0
+      },
+      "ninetyFifthTimings": {
+        "blocked": 0,
+        "wait": 63,
+        "receive": 57
+      },
+      "bytesTransferred": null,
+      "topUrl": {
+        "url": "https://fnf.com/CMSPages/GetResource.ashx",
+        "noOfOccurrences": 4
+      },
+      "largest": {
+        "url": "https://fnf.com/FNF/media/media/favicon.ico",
+        "bytes": 0
+      },
+      "largestCompressed": {
+        "url": "https://fnf.com/"
+      },
+      "longest": {
+        "url": "https://fnf.com/",
+        "time": 539,
+        "timings": {
+          "blocked": 0,
+          "wait": 152,
+          "receive": 23,
+          "connect": 316
+        }
+      }
+    },
+    "document": {
+      "noOfRequests": 0
+    },
+    "font": {
+      "noOfRequests": 0
+    },
+    "image": {
+      "noOfRequests": 0
+    },
+    "style": {
+      "noOfRequests": 0
+    },
+    "script": {
+      "noOfRequests": 0
+    },
+    "xhr": {
+      "noOfRequests": 0
+    },
+    "other": {
+      "noOfRequests": 0
+    }
+  }
+}

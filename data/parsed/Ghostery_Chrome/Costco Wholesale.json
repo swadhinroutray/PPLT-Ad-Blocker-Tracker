@@ -1,0 +1,73 @@
+{
+  "pages": {
+    "noOfPages": 1,
+    "medianOnLoad": null,
+    "ninetyFifthOnLoad": null,
+    "pages": [
+      {
+        "url": "Costco Wholesale",
+        "onLoad": null
+      }
+    ]
+  },
+  "requests": {
+    "all": {
+      "noOfRequests": 421,
+      "medianTime": 50,
+      "ninetyFifthTime": 322,
+      "medianTimings": {
+        "blocked": -1,
+        "wait": 35,
+        "receive": 0
+      },
+      "ninetyFifthTimings": {
+        "blocked": 0,
+        "wait": 100,
+        "receive": 26
+      },
+      "bytesTransferred": null,
+      "topUrl": {
+        "url": "https://images.costco-static.com/ImageDelivery/imageService",
+        "noOfOccurrences": 50
+      },
+      "largest": {
+        "url": "https://x.dlx.addthis.com/e/bk_sync.xgi",
+        "bytes": 0
+      },
+      "largestCompressed": {
+        "url": "https://pippio.com/api/sync"
+      },
+      "longest": {
+        "url": "https://tg.socdm.com/aux/idsync",
+        "time": 972,
+        "timings": {
+          "blocked": 0,
+          "wait": 184,
+          "receive": 0,
+          "connect": 749
+        }
+      }
+    },
+    "document": {
+      "noOfRequests": 0
+    },
+    "font": {
+      "noOfRequests": 0
+    },
+    "image": {
+      "noOfRequests": 0
+    },
+    "style": {
+      "noOfRequests": 0
+    },
+    "script": {
+      "noOfRequests": 0
+    },
+    "xhr": {
+      "noOfRequests": 0
+    },
+    "other": {
+      "noOfRequests": 0
+    }
+  }
+}

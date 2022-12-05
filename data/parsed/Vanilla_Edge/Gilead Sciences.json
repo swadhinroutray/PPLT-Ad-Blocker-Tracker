@@ -1,0 +1,73 @@
+{
+  "pages": {
+    "noOfPages": 1,
+    "medianOnLoad": null,
+    "ninetyFifthOnLoad": null,
+    "pages": [
+      {
+        "url": "Gilead Sciences",
+        "onLoad": null
+      }
+    ]
+  },
+  "requests": {
+    "all": {
+      "noOfRequests": 80,
+      "medianTime": 124,
+      "ninetyFifthTime": 414,
+      "medianTimings": {
+        "blocked": 0,
+        "wait": 32,
+        "receive": 0
+      },
+      "ninetyFifthTimings": {
+        "blocked": 0,
+        "wait": 238,
+        "receive": 50
+      },
+      "bytesTransferred": null,
+      "topUrl": {
+        "url": "https://www.gilead.com/-/media/gilead-corporate/images/global/gilead-create-possible-svg.svg",
+        "noOfOccurrences": 1
+      },
+      "largest": {
+        "url": "https://pbs.twimg.com/profile_images/1542903986608517120/Sp9Fzv8d_x96.png",
+        "bytes": 0
+      },
+      "largestCompressed": {
+        "url": "https://privacyportal.onetrust.com/request/v1/consentreceipts"
+      },
+      "longest": {
+        "url": "https://www.gilead.com/",
+        "time": 4584,
+        "timings": {
+          "blocked": 0,
+          "wait": 4249,
+          "receive": 7,
+          "connect": 232
+        }
+      }
+    },
+    "document": {
+      "noOfRequests": 0
+    },
+    "font": {
+      "noOfRequests": 0
+    },
+    "image": {
+      "noOfRequests": 0
+    },
+    "style": {
+      "noOfRequests": 0
+    },
+    "script": {
+      "noOfRequests": 0
+    },
+    "xhr": {
+      "noOfRequests": 0
+    },
+    "other": {
+      "noOfRequests": 0
+    }
+  }
+}

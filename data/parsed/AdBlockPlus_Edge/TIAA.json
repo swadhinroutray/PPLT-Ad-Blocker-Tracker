@@ -1,0 +1,73 @@
+{
+  "pages": {
+    "noOfPages": 1,
+    "medianOnLoad": null,
+    "ninetyFifthOnLoad": null,
+    "pages": [
+      {
+        "url": "TIAA",
+        "onLoad": null
+      }
+    ]
+  },
+  "requests": {
+    "all": {
+      "noOfRequests": 157,
+      "medianTime": 127,
+      "ninetyFifthTime": 485,
+      "medianTimings": {
+        "blocked": 0,
+        "wait": 38,
+        "receive": 0
+      },
+      "ninetyFifthTimings": {
+        "blocked": 0,
+        "wait": 123,
+        "receive": 43
+      },
+      "bytesTransferred": null,
+      "topUrl": {
+        "url": "https://siteintercept.qualtrics.com/WRSiteInterceptEngine/Asset.php",
+        "noOfOccurrences": 5
+      },
+      "largest": {
+        "url": "https://ma2xw01y7qk5qd35k64bn4ffj4zpmp5omd7gfwk4345cf1dee41bfe6bsac.d.aa.online-metrix.net/BoxoRaR5tQkkRoXB",
+        "bytes": 0
+      },
+      "largestCompressed": {
+        "url": "https://www.tiaa.org/"
+      },
+      "longest": {
+        "url": "https://api.genesyscloud.com/gcb/cobrowse/js/gcb.min.js",
+        "time": 1001,
+        "timings": {
+          "blocked": 0,
+          "wait": 254,
+          "receive": 160,
+          "connect": 475
+        }
+      }
+    },
+    "document": {
+      "noOfRequests": 0
+    },
+    "font": {
+      "noOfRequests": 0
+    },
+    "image": {
+      "noOfRequests": 0
+    },
+    "style": {
+      "noOfRequests": 0
+    },
+    "script": {
+      "noOfRequests": 0
+    },
+    "xhr": {
+      "noOfRequests": 0
+    },
+    "other": {
+      "noOfRequests": 0
+    }
+  }
+}

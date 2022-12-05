@@ -1,0 +1,73 @@
+{
+  "pages": {
+    "noOfPages": 1,
+    "medianOnLoad": null,
+    "ninetyFifthOnLoad": null,
+    "pages": [
+      {
+        "url": "Ford Motor",
+        "onLoad": null
+      }
+    ]
+  },
+  "requests": {
+    "all": {
+      "noOfRequests": 159,
+      "medianTime": 103,
+      "ninetyFifthTime": 340,
+      "medianTimings": {
+        "blocked": -1,
+        "wait": 36,
+        "receive": 0
+      },
+      "ninetyFifthTimings": {
+        "blocked": 0,
+        "wait": 164,
+        "receive": 30
+      },
+      "bytesTransferred": null,
+      "topUrl": {
+        "url": "https://www.ford.com/cxservices/products/ModelSlices.json",
+        "noOfOccurrences": 4
+      },
+      "largest": {
+        "url": "https://www.ford.com/cmslibs/content/dam/brand_ford/en_us/brand/re-hp/desktop/Gear_Up_Desktop.jpg/jcr:content/renditions/cq5dam.web.768.768.jpeg",
+        "bytes": 0
+      },
+      "largestCompressed": {
+        "url": "https://privacyportal.onetrust.com/request/v1/consentreceipts"
+      },
+      "longest": {
+        "url": "https://www.ford.com/",
+        "time": 736,
+        "timings": {
+          "blocked": 0,
+          "wait": 416,
+          "receive": 29,
+          "connect": 233
+        }
+      }
+    },
+    "document": {
+      "noOfRequests": 0
+    },
+    "font": {
+      "noOfRequests": 0
+    },
+    "image": {
+      "noOfRequests": 0
+    },
+    "style": {
+      "noOfRequests": 0
+    },
+    "script": {
+      "noOfRequests": 0
+    },
+    "xhr": {
+      "noOfRequests": 0
+    },
+    "other": {
+      "noOfRequests": 0
+    }
+  }
+}

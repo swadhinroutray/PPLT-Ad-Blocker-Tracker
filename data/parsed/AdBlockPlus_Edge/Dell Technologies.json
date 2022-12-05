@@ -1,0 +1,73 @@
+{
+  "pages": {
+    "noOfPages": 1,
+    "medianOnLoad": null,
+    "ninetyFifthOnLoad": null,
+    "pages": [
+      {
+        "url": "Dell Technologies",
+        "onLoad": null
+      }
+    ]
+  },
+  "requests": {
+    "all": {
+      "noOfRequests": 153,
+      "medianTime": 113,
+      "ninetyFifthTime": 455,
+      "medianTimings": {
+        "blocked": 0,
+        "wait": 31,
+        "receive": 0
+      },
+      "ninetyFifthTimings": {
+        "blocked": 0,
+        "wait": 161,
+        "receive": 30
+      },
+      "bytesTransferred": null,
+      "topUrl": {
+        "url": "https://www.googletagmanager.com/gtag/js",
+        "noOfOccurrences": 6
+      },
+      "largest": {
+        "url": "https://cdn.krxd.net/ctjs/controltag.js.d58f47095e6041e576ee04944cca45da",
+        "bytes": 0
+      },
+      "largestCompressed": {
+        "url": "https://www.dell.com/en-in"
+      },
+      "longest": {
+        "url": "https://www.bing.com/api/shopping/v1/item/search",
+        "time": 940,
+        "timings": {
+          "blocked": 0,
+          "wait": 810,
+          "receive": 1,
+          "connect": 95
+        }
+      }
+    },
+    "document": {
+      "noOfRequests": 0
+    },
+    "font": {
+      "noOfRequests": 0
+    },
+    "image": {
+      "noOfRequests": 0
+    },
+    "style": {
+      "noOfRequests": 0
+    },
+    "script": {
+      "noOfRequests": 0
+    },
+    "xhr": {
+      "noOfRequests": 0
+    },
+    "other": {
+      "noOfRequests": 0
+    }
+  }
+}

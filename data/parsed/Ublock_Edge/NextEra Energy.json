@@ -1,0 +1,73 @@
+{
+  "pages": {
+    "noOfPages": 1,
+    "medianOnLoad": null,
+    "ninetyFifthOnLoad": null,
+    "pages": [
+      {
+        "url": "NextEra Energy",
+        "onLoad": null
+      }
+    ]
+  },
+  "requests": {
+    "all": {
+      "noOfRequests": 33,
+      "medianTime": 29,
+      "ninetyFifthTime": 280,
+      "medianTimings": {
+        "blocked": -1,
+        "wait": 26,
+        "receive": 0
+      },
+      "ninetyFifthTimings": {
+        "blocked": 0,
+        "wait": 36,
+        "receive": 28
+      },
+      "bytesTransferred": null,
+      "topUrl": {
+        "url": "https://www.nexteraenergy.com/etc.clientlibs/nee-mobility/clientlibs/clientlib-base/resources/favicon.ico",
+        "noOfOccurrences": 1
+      },
+      "largest": {
+        "url": "https://www.nexteraenergy.com/etc.clientlibs/nee-mobility/clientlibs/clientlib-base/resources/favicon.ico",
+        "bytes": 0
+      },
+      "largestCompressed": {
+        "url": "https://nav-edge.smartscreen.microsoft.com/api/browser/edge/navigate/3"
+      },
+      "longest": {
+        "url": "https://edge.microsoft.com/autofillservice/v1/pages/ChVDaHJvbWUvMTA3LjAuNTMwNC4xNTASFwmxT1EplyyE8RIFDVMRwccSBQ2CM81t",
+        "time": 963,
+        "timings": {
+          "blocked": 0,
+          "wait": 838,
+          "receive": 0,
+          "connect": 123
+        }
+      }
+    },
+    "document": {
+      "noOfRequests": 0
+    },
+    "font": {
+      "noOfRequests": 0
+    },
+    "image": {
+      "noOfRequests": 0
+    },
+    "style": {
+      "noOfRequests": 0
+    },
+    "script": {
+      "noOfRequests": 0
+    },
+    "xhr": {
+      "noOfRequests": 0
+    },
+    "other": {
+      "noOfRequests": 0
+    }
+  }
+}

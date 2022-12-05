@@ -1,0 +1,73 @@
+{
+  "pages": {
+    "noOfPages": 1,
+    "medianOnLoad": null,
+    "ninetyFifthOnLoad": null,
+    "pages": [
+      {
+        "url": "Freeport-McMoRan",
+        "onLoad": null
+      }
+    ]
+  },
+  "requests": {
+    "all": {
+      "noOfRequests": 66,
+      "medianTime": 81,
+      "ninetyFifthTime": 463,
+      "medianTimings": {
+        "blocked": -1,
+        "wait": 77,
+        "receive": 0
+      },
+      "ninetyFifthTimings": {
+        "blocked": 0,
+        "wait": 125,
+        "receive": 81
+      },
+      "bytesTransferred": null,
+      "topUrl": {
+        "url": "https://freeport2017ir.q4web.com/feed/Event.svc/GetEventList",
+        "noOfOccurrences": 0
+      },
+      "largest": {
+        "url": "https://freeport2017ir.q4web.com/feed/Event.svc/GetEventList",
+        "bytes": 0
+      },
+      "largestCompressed": {
+        "url": "https://nav-edge.smartscreen.microsoft.com/api/browser/edge/navigate/3"
+      },
+      "longest": {
+        "url": "https://www.fcx.com/",
+        "time": 635,
+        "timings": {
+          "blocked": 0,
+          "wait": 151,
+          "receive": 5,
+          "connect": 384
+        }
+      }
+    },
+    "document": {
+      "noOfRequests": 0
+    },
+    "font": {
+      "noOfRequests": 0
+    },
+    "image": {
+      "noOfRequests": 0
+    },
+    "style": {
+      "noOfRequests": 0
+    },
+    "script": {
+      "noOfRequests": 0
+    },
+    "xhr": {
+      "noOfRequests": 0
+    },
+    "other": {
+      "noOfRequests": 0
+    }
+  }
+}

@@ -1,0 +1,73 @@
+{
+  "pages": {
+    "noOfPages": 1,
+    "medianOnLoad": null,
+    "ninetyFifthOnLoad": null,
+    "pages": [
+      {
+        "url": "Bristol-Myers Squibb",
+        "onLoad": null
+      }
+    ]
+  },
+  "requests": {
+    "all": {
+      "noOfRequests": 50,
+      "medianTime": 37,
+      "ninetyFifthTime": 246,
+      "medianTimings": {
+        "blocked": -1,
+        "wait": 27,
+        "receive": 1
+      },
+      "ninetyFifthTimings": {
+        "blocked": 0,
+        "wait": 54,
+        "receive": 47
+      },
+      "bytesTransferred": null,
+      "topUrl": {
+        "url": "https://edge.api.brightcove.com/playback/v1/accounts/1892432924001/videos/6312700266112",
+        "noOfOccurrences": 1
+      },
+      "largest": {
+        "url": "https://manifest.prod.boltdns.net/manifest/v1/hls/v4/clear/1892432924001/41a43ae7-2c23-4ac9-b869-136640167c34/9e6ce9ff-bb4b-477d-baf1-4894e78bdcb8/10s/rendition.m3u8",
+        "bytes": 0
+      },
+      "largestCompressed": {
+        "url": "https://www.bms.com/"
+      },
+      "longest": {
+        "url": "https://edge.microsoft.com/autofillservice/v1/pages/ChVDaHJvbWUvMTA3LjAuNTMwNC4xNTASVgnqWp6M4a7ZHxIFDZFhlU4SBQ2RYZVOEgUNlJCS-hIFDZSQkvoSBQ2UkJL6EgUNlJCS-hIFDZSQkvoSBQ2UkJL6EgUNlJCS-hIFDZSQkvoSBQ2UkJL6",
+        "time": 1429,
+        "timings": {
+          "blocked": 0,
+          "wait": 1302,
+          "receive": 0,
+          "connect": 126
+        }
+      }
+    },
+    "document": {
+      "noOfRequests": 0
+    },
+    "font": {
+      "noOfRequests": 0
+    },
+    "image": {
+      "noOfRequests": 0
+    },
+    "style": {
+      "noOfRequests": 0
+    },
+    "script": {
+      "noOfRequests": 0
+    },
+    "xhr": {
+      "noOfRequests": 0
+    },
+    "other": {
+      "noOfRequests": 0
+    }
+  }
+}

@@ -1,0 +1,73 @@
+{
+  "pages": {
+    "noOfPages": 1,
+    "medianOnLoad": null,
+    "ninetyFifthOnLoad": null,
+    "pages": [
+      {
+        "url": "Molina Healthcare",
+        "onLoad": null
+      }
+    ]
+  },
+  "requests": {
+    "all": {
+      "noOfRequests": 102,
+      "medianTime": 120,
+      "ninetyFifthTime": 359,
+      "medianTimings": {
+        "blocked": 0,
+        "wait": 29,
+        "receive": 0
+      },
+      "ninetyFifthTimings": {
+        "blocked": 0,
+        "wait": 83,
+        "receive": 43
+      },
+      "bytesTransferred": null,
+      "topUrl": {
+        "url": "https://www.facebook.com/tr/",
+        "noOfOccurrences": 2
+      },
+      "largest": {
+        "url": "https://68794907.akstat.io/",
+        "bytes": 0
+      },
+      "largestCompressed": {
+        "url": "https://67vod-adaptive.akamaized.net/exp=1670027054~acl=%2F0fba26c4-24ac-4407-bf0c-96651a412f92%2F%2A~hmac=4baac4e7a88a8be3a637b75b750ab7e2cc7fe28497b1a76ae9835f0bb58c88ee/0fba26c4-24ac-4407-bf0c-96651a412f92/sep/audio/2ff8ab31/chop/segment-4.m4s"
+      },
+      "longest": {
+        "url": "https://pdx-col.eum-appdynamics.com/eumcollector/beacons/browser/v1/AD-AAB-ABH-SFN/adrum",
+        "time": 630,
+        "timings": {
+          "blocked": 0,
+          "wait": 77,
+          "receive": 0,
+          "connect": 498
+        }
+      }
+    },
+    "document": {
+      "noOfRequests": 0
+    },
+    "font": {
+      "noOfRequests": 0
+    },
+    "image": {
+      "noOfRequests": 0
+    },
+    "style": {
+      "noOfRequests": 0
+    },
+    "script": {
+      "noOfRequests": 0
+    },
+    "xhr": {
+      "noOfRequests": 0
+    },
+    "other": {
+      "noOfRequests": 0
+    }
+  }
+}

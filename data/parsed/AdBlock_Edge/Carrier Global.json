@@ -1,0 +1,73 @@
+{
+  "pages": {
+    "noOfPages": 1,
+    "medianOnLoad": null,
+    "ninetyFifthOnLoad": null,
+    "pages": [
+      {
+        "url": "Carrier Global",
+        "onLoad": null
+      }
+    ]
+  },
+  "requests": {
+    "all": {
+      "noOfRequests": 52,
+      "medianTime": 91,
+      "ninetyFifthTime": 333,
+      "medianTimings": {
+        "blocked": -1,
+        "wait": 31,
+        "receive": 0
+      },
+      "ninetyFifthTimings": {
+        "blocked": 0,
+        "wait": 92,
+        "receive": 12
+      },
+      "bytesTransferred": null,
+      "topUrl": {
+        "url": "https://images.carriercms.com/video/upload/v1619124719/carrier-corp/home/Confidence-video.mp4",
+        "noOfOccurrences": 1
+      },
+      "largest": {
+        "url": "https://images.carriercms.com/video/upload/v1619124719/carrier-corp/home/Confidence-video.mp4",
+        "bytes": 0
+      },
+      "largestCompressed": {
+        "url": "https://cdn.linkedin.oribi.io/partner/85729,9306/domain/pgecorp.com/token"
+      },
+      "longest": {
+        "url": "https://www.corporate.carrier.com/",
+        "time": 732,
+        "timings": {
+          "blocked": 0,
+          "wait": 481,
+          "receive": 7,
+          "connect": 215
+        }
+      }
+    },
+    "document": {
+      "noOfRequests": 0
+    },
+    "font": {
+      "noOfRequests": 0
+    },
+    "image": {
+      "noOfRequests": 0
+    },
+    "style": {
+      "noOfRequests": 0
+    },
+    "script": {
+      "noOfRequests": 0
+    },
+    "xhr": {
+      "noOfRequests": 0
+    },
+    "other": {
+      "noOfRequests": 0
+    }
+  }
+}

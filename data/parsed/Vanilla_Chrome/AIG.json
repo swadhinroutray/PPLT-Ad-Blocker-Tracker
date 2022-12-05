@@ -1,0 +1,73 @@
+{
+  "pages": {
+    "noOfPages": 1,
+    "medianOnLoad": null,
+    "ninetyFifthOnLoad": null,
+    "pages": [
+      {
+        "url": "AIG",
+        "onLoad": null
+      }
+    ]
+  },
+  "requests": {
+    "all": {
+      "noOfRequests": 65,
+      "medianTime": 38,
+      "ninetyFifthTime": 244,
+      "medianTimings": {
+        "blocked": -1,
+        "wait": 26,
+        "receive": 0
+      },
+      "ninetyFifthTimings": {
+        "blocked": 0,
+        "wait": 52,
+        "receive": 43
+      },
+      "bytesTransferred": null,
+      "topUrl": {
+        "url": "https://www.aig.com/_Incapsula_Resource",
+        "noOfOccurrences": 1
+      },
+      "largest": {
+        "url": "https://www-172.aig.com/b/ss/aig.us,aig.global/1/JS-2.22.2-LCXS/s93686691880807",
+        "bytes": 0
+      },
+      "largestCompressed": {
+        "url": "https://data.allstate.com/529001/nyQ6"
+      },
+      "longest": {
+        "url": "https://www-172.aig.com/b/ss/aig.us,aig.global/1/JS-2.22.2-LCXS/s93686691880807",
+        "time": 468,
+        "timings": {
+          "blocked": 0,
+          "wait": 30,
+          "receive": 0,
+          "connect": 312
+        }
+      }
+    },
+    "document": {
+      "noOfRequests": 0
+    },
+    "font": {
+      "noOfRequests": 0
+    },
+    "image": {
+      "noOfRequests": 0
+    },
+    "style": {
+      "noOfRequests": 0
+    },
+    "script": {
+      "noOfRequests": 0
+    },
+    "xhr": {
+      "noOfRequests": 0
+    },
+    "other": {
+      "noOfRequests": 0
+    }
+  }
+}

@@ -1,0 +1,73 @@
+{
+  "pages": {
+    "noOfPages": 1,
+    "medianOnLoad": null,
+    "ninetyFifthOnLoad": null,
+    "pages": [
+      {
+        "url": "Automatic Data Processing",
+        "onLoad": null
+      }
+    ]
+  },
+  "requests": {
+    "all": {
+      "noOfRequests": 194,
+      "medianTime": 52,
+      "ninetyFifthTime": 327,
+      "medianTimings": {
+        "blocked": -1,
+        "wait": 25,
+        "receive": 0
+      },
+      "ninetyFifthTimings": {
+        "blocked": 0,
+        "wait": 92,
+        "receive": 25
+      },
+      "bytesTransferred": null,
+      "topUrl": {
+        "url": "https://a.idio.co/ia.gif",
+        "noOfOccurrences": 2
+      },
+      "largest": {
+        "url": "https://pnapi.invoca.net/1728/na.jsonp",
+        "bytes": 0
+      },
+      "largestCompressed": {
+        "url": "https://www.adp.com/"
+      },
+      "longest": {
+        "url": "https://www.adp.com/",
+        "time": 557,
+        "timings": {
+          "blocked": 0,
+          "wait": 189,
+          "receive": 26,
+          "connect": 298
+        }
+      }
+    },
+    "document": {
+      "noOfRequests": 0
+    },
+    "font": {
+      "noOfRequests": 0
+    },
+    "image": {
+      "noOfRequests": 0
+    },
+    "style": {
+      "noOfRequests": 0
+    },
+    "script": {
+      "noOfRequests": 0
+    },
+    "xhr": {
+      "noOfRequests": 0
+    },
+    "other": {
+      "noOfRequests": 0
+    }
+  }
+}

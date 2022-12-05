@@ -1,0 +1,73 @@
+{
+  "pages": {
+    "noOfPages": 1,
+    "medianOnLoad": null,
+    "ninetyFifthOnLoad": null,
+    "pages": [
+      {
+        "url": "Northrop Grumman",
+        "onLoad": null
+      }
+    ]
+  },
+  "requests": {
+    "all": {
+      "noOfRequests": 134,
+      "medianTime": 68,
+      "ninetyFifthTime": 211,
+      "medianTimings": {
+        "blocked": -1,
+        "wait": 27,
+        "receive": 0
+      },
+      "ninetyFifthTimings": {
+        "blocked": 0,
+        "wait": 76,
+        "receive": 27
+      },
+      "bytesTransferred": null,
+      "topUrl": {
+        "url": "https://www.northropgrumman.com/_static/",
+        "noOfOccurrences": 10
+      },
+      "largest": {
+        "url": "https://match.adsrvr.org/track/upb/",
+        "bytes": 0
+      },
+      "largestCompressed": {
+        "url": "https://173bf108.akstat.io/"
+      },
+      "longest": {
+        "url": "https://9421678.fls.doubleclick.net/activityi;src=9421678;type=landi0;cat=north00;ord=1;num=9790628559773;gtm=2wgbu0;auiddc=1597545171.1670010741;~oref=https%3A%2F%2Fwww.northropgrumman.com%2F",
+        "time": 294,
+        "timings": {
+          "blocked": 0,
+          "wait": 44,
+          "receive": 0,
+          "connect": 228
+        }
+      }
+    },
+    "document": {
+      "noOfRequests": 0
+    },
+    "font": {
+      "noOfRequests": 0
+    },
+    "image": {
+      "noOfRequests": 0
+    },
+    "style": {
+      "noOfRequests": 0
+    },
+    "script": {
+      "noOfRequests": 0
+    },
+    "xhr": {
+      "noOfRequests": 0
+    },
+    "other": {
+      "noOfRequests": 0
+    }
+  }
+}

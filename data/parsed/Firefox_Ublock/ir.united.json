@@ -1,0 +1,72 @@
+{
+  "pages": {
+    "noOfPages": 1,
+    "medianOnLoad": 1016,
+    "ninetyFifthOnLoad": 1016,
+    "pages": [
+      {
+        "url": "Investor Relations - United Airlines Holdings, Inc.",
+        "onLoad": 1016
+      }
+    ]
+  },
+  "requests": {
+    "all": {
+      "noOfRequests": 49,
+      "medianTime": 137,
+      "ninetyFifthTime": 250,
+      "medianTimings": {
+        "blocked": 34,
+        "wait": 38,
+        "receive": 1
+      },
+      "ninetyFifthTimings": {
+        "blocked": null,
+        "wait": null,
+        "receive": null
+      },
+      "bytesTransferred": null,
+      "topUrl": {
+        "url": "https://fonts.gstatic.com/s/opensans/v34/memvYaGs126MiZpBA-UvWbX2vVnXBbObj2OVTS-mu0SC55I.woff2",
+        "noOfOccurrences": 3
+      },
+      "largest": {
+        "url": "https://js-agent.newrelic.com/552.2d6a2503-1220.js"
+      },
+      "largestCompressed": {
+        "url": "https://ir.united.com/sites/g/files/knoqqb38751/files/js/js_FKLFWqsyJMe5NwPQjg4_WZYV6OflqhJNZDK5MqJ-zEU.js"
+      },
+      "longest": {
+        "url": "https://ir.united.com/system/files-encrypted/nasdaq_kms/inline-images/rss-blue.png",
+        "time": 286,
+        "timings": {
+          "blocked": 169,
+          "wait": 114,
+          "receive": 3,
+          "connect": 0
+        }
+      }
+    },
+    "document": {
+      "noOfRequests": 0
+    },
+    "font": {
+      "noOfRequests": 0
+    },
+    "image": {
+      "noOfRequests": 0
+    },
+    "style": {
+      "noOfRequests": 0
+    },
+    "script": {
+      "noOfRequests": 0
+    },
+    "xhr": {
+      "noOfRequests": 0
+    },
+    "other": {
+      "noOfRequests": 0
+    }
+  }
+}

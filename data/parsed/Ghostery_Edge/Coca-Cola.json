@@ -1,0 +1,73 @@
+{
+  "pages": {
+    "noOfPages": 1,
+    "medianOnLoad": null,
+    "ninetyFifthOnLoad": null,
+    "pages": [
+      {
+        "url": "Coca-Cola",
+        "onLoad": null
+      }
+    ]
+  },
+  "requests": {
+    "all": {
+      "noOfRequests": 97,
+      "medianTime": 82,
+      "ninetyFifthTime": 356,
+      "medianTimings": {
+        "blocked": -1,
+        "wait": 37,
+        "receive": 0
+      },
+      "ninetyFifthTimings": {
+        "blocked": 0,
+        "wait": 74,
+        "receive": 38
+      },
+      "bytesTransferred": null,
+      "topUrl": {
+        "url": "https://www.facebook.com/tr/",
+        "noOfOccurrences": 2
+      },
+      "largest": {
+        "url": "https://edge.adobedc.net/ee/va6/v1/interact",
+        "bytes": 0
+      },
+      "largestCompressed": {
+        "url": "https://b.6sc.co/v1/beacon/img.gif"
+      },
+      "longest": {
+        "url": "https://api.userway.org/api/tunings/P3pDlQucOz",
+        "time": 520,
+        "timings": {
+          "blocked": 0,
+          "wait": 79,
+          "receive": 0,
+          "connect": 419
+        }
+      }
+    },
+    "document": {
+      "noOfRequests": 0
+    },
+    "font": {
+      "noOfRequests": 0
+    },
+    "image": {
+      "noOfRequests": 0
+    },
+    "style": {
+      "noOfRequests": 0
+    },
+    "script": {
+      "noOfRequests": 0
+    },
+    "xhr": {
+      "noOfRequests": 0
+    },
+    "other": {
+      "noOfRequests": 0
+    }
+  }
+}

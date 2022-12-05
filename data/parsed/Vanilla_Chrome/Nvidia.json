@@ -1,0 +1,73 @@
+{
+  "pages": {
+    "noOfPages": 1,
+    "medianOnLoad": null,
+    "ninetyFifthOnLoad": null,
+    "pages": [
+      {
+        "url": "Nvidia",
+        "onLoad": null
+      }
+    ]
+  },
+  "requests": {
+    "all": {
+      "noOfRequests": 175,
+      "medianTime": 94,
+      "ninetyFifthTime": 320,
+      "medianTimings": {
+        "blocked": 0,
+        "wait": 28,
+        "receive": 0
+      },
+      "ninetyFifthTimings": {
+        "blocked": 0,
+        "wait": 81,
+        "receive": 44
+      },
+      "bytesTransferred": null,
+      "topUrl": {
+        "url": "https://analytics.twitter.com/i/adsct",
+        "noOfOccurrences": 9
+      },
+      "largest": {
+        "url": "https://c.contentsquare.net/dvar",
+        "bytes": 0
+      },
+      "largestCompressed": {
+        "url": "https://www.nvidia.com/"
+      },
+      "longest": {
+        "url": "https://app.hushly.com/runtime/widget.js",
+        "time": 707,
+        "timings": {
+          "blocked": 0,
+          "wait": 88,
+          "receive": 0,
+          "connect": 527
+        }
+      }
+    },
+    "document": {
+      "noOfRequests": 0
+    },
+    "font": {
+      "noOfRequests": 0
+    },
+    "image": {
+      "noOfRequests": 0
+    },
+    "style": {
+      "noOfRequests": 0
+    },
+    "script": {
+      "noOfRequests": 0
+    },
+    "xhr": {
+      "noOfRequests": 0
+    },
+    "other": {
+      "noOfRequests": 0
+    }
+  }
+}

@@ -1,0 +1,73 @@
+{
+  "pages": {
+    "noOfPages": 1,
+    "medianOnLoad": null,
+    "ninetyFifthOnLoad": null,
+    "pages": [
+      {
+        "url": "CarMax",
+        "onLoad": null
+      }
+    ]
+  },
+  "requests": {
+    "all": {
+      "noOfRequests": 43,
+      "medianTime": 113,
+      "ninetyFifthTime": 401,
+      "medianTimings": {
+        "blocked": -1,
+        "wait": 37,
+        "receive": 0
+      },
+      "ninetyFifthTimings": {
+        "blocked": 0,
+        "wait": 187,
+        "receive": 29
+      },
+      "bytesTransferred": null,
+      "topUrl": {
+        "url": "https://www.carmax.com/QpOn09XHdUOr8ZZKIw/5uNupzXi9ziz/dAkaXGd6/emQUaT9o/KREB",
+        "noOfOccurrences": 4
+      },
+      "largest": {
+        "url": "https://jhwa3pdijorrqy4krkha-p2inon-0a1a5f594-clientnsv4-s.akamaihd.net/eum/results.txt",
+        "bytes": 0
+      },
+      "largestCompressed": {
+        "url": "https://173bf105.akstat.io/"
+      },
+      "longest": {
+        "url": "https://www.carmax.com/pre-qual-gateway/api/rates",
+        "time": 459,
+        "timings": {
+          "blocked": -1,
+          "wait": 458,
+          "receive": 0,
+          "connect": -1
+        }
+      }
+    },
+    "document": {
+      "noOfRequests": 0
+    },
+    "font": {
+      "noOfRequests": 0
+    },
+    "image": {
+      "noOfRequests": 0
+    },
+    "style": {
+      "noOfRequests": 0
+    },
+    "script": {
+      "noOfRequests": 0
+    },
+    "xhr": {
+      "noOfRequests": 0
+    },
+    "other": {
+      "noOfRequests": 0
+    }
+  }
+}

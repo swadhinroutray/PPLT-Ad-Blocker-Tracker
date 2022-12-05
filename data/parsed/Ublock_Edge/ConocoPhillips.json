@@ -1,0 +1,73 @@
+{
+  "pages": {
+    "noOfPages": 1,
+    "medianOnLoad": null,
+    "ninetyFifthOnLoad": null,
+    "pages": [
+      {
+        "url": "ConocoPhillips",
+        "onLoad": null
+      }
+    ]
+  },
+  "requests": {
+    "all": {
+      "noOfRequests": 85,
+      "medianTime": 42,
+      "ninetyFifthTime": 265,
+      "medianTimings": {
+        "blocked": -1,
+        "wait": 25,
+        "receive": 2
+      },
+      "ninetyFifthTimings": {
+        "blocked": 0,
+        "wait": 67,
+        "receive": 49
+      },
+      "bytesTransferred": null,
+      "topUrl": {
+        "url": "https://113vod-adaptive.akamaized.net/exp=1670024371~acl=%2F9c424f66-234e-403b-97d2-49192390f370%2F%2A~hmac=77eb08b648da68489b80afe957be3da98d0b6ae76ed2a8ea840580e409cb0e5e/9c424f66-234e-403b-97d2-49192390f370/sep/video/8bede956/chop/segment-4.m4s",
+        "noOfOccurrences": 0
+      },
+      "largest": {
+        "url": "https://113vod-adaptive.akamaized.net/exp=1670024371~acl=%2F9c424f66-234e-403b-97d2-49192390f370%2F%2A~hmac=77eb08b648da68489b80afe957be3da98d0b6ae76ed2a8ea840580e409cb0e5e/9c424f66-234e-403b-97d2-49192390f370/sep/video/8bede956/chop/segment-4.m4s",
+        "bytes": 0
+      },
+      "largestCompressed": {
+        "url": "https://nav-edge.smartscreen.microsoft.com/api/browser/edge/navigate/3"
+      },
+      "longest": {
+        "url": "https://www.conocophillips.com/",
+        "time": 387,
+        "timings": {
+          "blocked": 0,
+          "wait": 68,
+          "receive": 20,
+          "connect": 196
+        }
+      }
+    },
+    "document": {
+      "noOfRequests": 0
+    },
+    "font": {
+      "noOfRequests": 0
+    },
+    "image": {
+      "noOfRequests": 0
+    },
+    "style": {
+      "noOfRequests": 0
+    },
+    "script": {
+      "noOfRequests": 0
+    },
+    "xhr": {
+      "noOfRequests": 0
+    },
+    "other": {
+      "noOfRequests": 0
+    }
+  }
+}

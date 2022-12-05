@@ -1,0 +1,73 @@
+{
+  "pages": {
+    "noOfPages": 1,
+    "medianOnLoad": null,
+    "ninetyFifthOnLoad": null,
+    "pages": [
+      {
+        "url": "Centene",
+        "onLoad": null
+      }
+    ]
+  },
+  "requests": {
+    "all": {
+      "noOfRequests": 75,
+      "medianTime": 53,
+      "ninetyFifthTime": 378,
+      "medianTimings": {
+        "blocked": -1,
+        "wait": 42,
+        "receive": 0
+      },
+      "ninetyFifthTimings": {
+        "blocked": 0,
+        "wait": 55,
+        "receive": 133
+      },
+      "bytesTransferred": null,
+      "topUrl": {
+        "url": "https://www.google.com/ads/ga-audiences",
+        "noOfOccurrences": 1
+      },
+      "largest": {
+        "url": "https://www.centene.com/etc.clientlibs/centenedotcom/clientlibs/clientlibs-main/resources/images/favicon.ico",
+        "bytes": 0
+      },
+      "largestCompressed": {
+        "url": "https://collection.decibelinsight.net/i/12251/da/"
+      },
+      "longest": {
+        "url": "https://www.gstatic.com/cv/js/sender/v1/cast_sender.js",
+        "time": 622,
+        "timings": {
+          "blocked": 0,
+          "wait": 553,
+          "receive": 2,
+          "connect": 54
+        }
+      }
+    },
+    "document": {
+      "noOfRequests": 0
+    },
+    "font": {
+      "noOfRequests": 0
+    },
+    "image": {
+      "noOfRequests": 0
+    },
+    "style": {
+      "noOfRequests": 0
+    },
+    "script": {
+      "noOfRequests": 0
+    },
+    "xhr": {
+      "noOfRequests": 0
+    },
+    "other": {
+      "noOfRequests": 0
+    }
+  }
+}

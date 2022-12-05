@@ -1,0 +1,73 @@
+{
+  "pages": {
+    "noOfPages": 1,
+    "medianOnLoad": null,
+    "ninetyFifthOnLoad": null,
+    "pages": [
+      {
+        "url": "Texas Instruments",
+        "onLoad": null
+      }
+    ]
+  },
+  "requests": {
+    "all": {
+      "noOfRequests": 139,
+      "medianTime": 85,
+      "ninetyFifthTime": 385,
+      "medianTimings": {
+        "blocked": -1,
+        "wait": 53,
+        "receive": 0
+      },
+      "ninetyFifthTimings": {
+        "blocked": 0,
+        "wait": 278,
+        "receive": 17
+      },
+      "bytesTransferred": null,
+      "topUrl": {
+        "url": "https://www.ti.com/AFU-ydZZtOdm/rROR8y/h0E2BA/5Y3tLLQra5/Fg8HLDlFNw/eRwjW/xkScAwC",
+        "noOfOccurrences": 4
+      },
+      "largest": {
+        "url": "https://collector-pxdl82i3ui.px-cloud.net/api/v2/collector",
+        "bytes": 0
+      },
+      "largestCompressed": {
+        "url": "https://www.ti.com/"
+      },
+      "longest": {
+        "url": "https://www.ti.com/",
+        "time": 1526,
+        "timings": {
+          "blocked": 0,
+          "wait": 961,
+          "receive": 0,
+          "connect": 387
+        }
+      }
+    },
+    "document": {
+      "noOfRequests": 0
+    },
+    "font": {
+      "noOfRequests": 0
+    },
+    "image": {
+      "noOfRequests": 0
+    },
+    "style": {
+      "noOfRequests": 0
+    },
+    "script": {
+      "noOfRequests": 0
+    },
+    "xhr": {
+      "noOfRequests": 0
+    },
+    "other": {
+      "noOfRequests": 0
+    }
+  }
+}

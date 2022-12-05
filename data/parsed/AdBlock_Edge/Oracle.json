@@ -1,0 +1,73 @@
+{
+  "pages": {
+    "noOfPages": 1,
+    "medianOnLoad": null,
+    "ninetyFifthOnLoad": null,
+    "pages": [
+      {
+        "url": "Oracle",
+        "onLoad": null
+      }
+    ]
+  },
+  "requests": {
+    "all": {
+      "noOfRequests": 91,
+      "medianTime": 66,
+      "ninetyFifthTime": 341,
+      "medianTimings": {
+        "blocked": -1,
+        "wait": 40,
+        "receive": 0
+      },
+      "ninetyFifthTimings": {
+        "blocked": 0,
+        "wait": 194,
+        "receive": 32
+      },
+      "bytesTransferred": null,
+      "topUrl": {
+        "url": "https://go.oracle.com/visitor/v200/svrGP",
+        "noOfOccurrences": 1
+      },
+      "largest": {
+        "url": "https://jhwa3pdijorrsy4kmd3a-p2s9zk-f703ab628-clientnsv4-s.akamaihd.net/eum/results.txt",
+        "bytes": 0
+      },
+      "largestCompressed": {
+        "url": "https://www.tiaa.org/public/text/pmt.gif"
+      },
+      "longest": {
+        "url": "https://c.go-mpulse.net/api/config.json",
+        "time": 1043,
+        "timings": {
+          "blocked": 0,
+          "wait": 962,
+          "receive": 0,
+          "connect": 56
+        }
+      }
+    },
+    "document": {
+      "noOfRequests": 0
+    },
+    "font": {
+      "noOfRequests": 0
+    },
+    "image": {
+      "noOfRequests": 0
+    },
+    "style": {
+      "noOfRequests": 0
+    },
+    "script": {
+      "noOfRequests": 0
+    },
+    "xhr": {
+      "noOfRequests": 0
+    },
+    "other": {
+      "noOfRequests": 0
+    }
+  }
+}

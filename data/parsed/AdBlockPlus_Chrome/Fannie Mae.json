@@ -1,0 +1,73 @@
+{
+  "pages": {
+    "noOfPages": 1,
+    "medianOnLoad": null,
+    "ninetyFifthOnLoad": null,
+    "pages": [
+      {
+        "url": "Fannie Mae",
+        "onLoad": null
+      }
+    ]
+  },
+  "requests": {
+    "all": {
+      "noOfRequests": 85,
+      "medianTime": 85,
+      "ninetyFifthTime": 309,
+      "medianTimings": {
+        "blocked": 0,
+        "wait": 34,
+        "receive": 0
+      },
+      "ninetyFifthTimings": {
+        "blocked": 0,
+        "wait": 72,
+        "receive": 39
+      },
+      "bytesTransferred": null,
+      "topUrl": {
+        "url": "https://api.target.com/rum_analytics/v1",
+        "noOfOccurrences": 5
+      },
+      "largest": {
+        "url": "https://usageanalytics.coveo.com/rest/v15/analytics/view",
+        "bytes": 0
+      },
+      "largestCompressed": {
+        "url": "https://redsky.target.com/redsky_aggregations/v1/web_platform/nearby_stores_v1"
+      },
+      "longest": {
+        "url": "https://zneyacbe5ssam93lx-fanniemae.siteintercept.qualtrics.com/SIE/",
+        "time": 358,
+        "timings": {
+          "blocked": 0,
+          "wait": 60,
+          "receive": 0,
+          "connect": 264
+        }
+      }
+    },
+    "document": {
+      "noOfRequests": 0
+    },
+    "font": {
+      "noOfRequests": 0
+    },
+    "image": {
+      "noOfRequests": 0
+    },
+    "style": {
+      "noOfRequests": 0
+    },
+    "script": {
+      "noOfRequests": 0
+    },
+    "xhr": {
+      "noOfRequests": 0
+    },
+    "other": {
+      "noOfRequests": 0
+    }
+  }
+}

@@ -1,0 +1,73 @@
+{
+  "pages": {
+    "noOfPages": 1,
+    "medianOnLoad": null,
+    "ninetyFifthOnLoad": null,
+    "pages": [
+      {
+        "url": "Best Buy",
+        "onLoad": null
+      }
+    ]
+  },
+  "requests": {
+    "all": {
+      "noOfRequests": 357,
+      "medianTime": 63,
+      "ninetyFifthTime": 371,
+      "medianTimings": {
+        "blocked": -1,
+        "wait": 35,
+        "receive": 0
+      },
+      "ninetyFifthTimings": {
+        "blocked": 0,
+        "wait": 154,
+        "receive": 18
+      },
+      "bytesTransferred": null,
+      "topUrl": {
+        "url": "https://www.bestbuy.com/GpyY1u5OTsCqhAbNAmkr/aNaO2hbp/XCItclc/QRRVb/QM-Yy8B",
+        "noOfOccurrences": 8
+      },
+      "largest": {
+        "url": "https://match.prod.bidr.io/cookie-sync/stv",
+        "bytes": 0
+      },
+      "largestCompressed": {
+        "url": "https://www.bestbuy.com/"
+      },
+      "longest": {
+        "url": "https://www.bestbuy.com/",
+        "time": 1289,
+        "timings": {
+          "blocked": 0,
+          "wait": 922,
+          "receive": 93,
+          "connect": 228
+        }
+      }
+    },
+    "document": {
+      "noOfRequests": 0
+    },
+    "font": {
+      "noOfRequests": 0
+    },
+    "image": {
+      "noOfRequests": 0
+    },
+    "style": {
+      "noOfRequests": 0
+    },
+    "script": {
+      "noOfRequests": 0
+    },
+    "xhr": {
+      "noOfRequests": 0
+    },
+    "other": {
+      "noOfRequests": 0
+    }
+  }
+}

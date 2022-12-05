@@ -1,0 +1,73 @@
+{
+  "pages": {
+    "noOfPages": 1,
+    "medianOnLoad": null,
+    "ninetyFifthOnLoad": null,
+    "pages": [
+      {
+        "url": "Freeport-McMoRan",
+        "onLoad": null
+      }
+    ]
+  },
+  "requests": {
+    "all": {
+      "noOfRequests": 65,
+      "medianTime": 81,
+      "ninetyFifthTime": 405,
+      "medianTimings": {
+        "blocked": -1,
+        "wait": 78,
+        "receive": 0
+      },
+      "ninetyFifthTimings": {
+        "blocked": 0,
+        "wait": 157,
+        "receive": 242
+      },
+      "bytesTransferred": null,
+      "topUrl": {
+        "url": "https://www.fcx.com/themes/fcx/favicon.ico",
+        "noOfOccurrences": 0
+      },
+      "largest": {
+        "url": "https://www.fcx.com/themes/fcx/favicon.ico",
+        "bytes": 0
+      },
+      "largestCompressed": {
+        "url": "https://www.fcx.com/"
+      },
+      "longest": {
+        "url": "https://www.fcx.com/",
+        "time": 852,
+        "timings": {
+          "blocked": 0,
+          "wait": 154,
+          "receive": 4,
+          "connect": 625
+        }
+      }
+    },
+    "document": {
+      "noOfRequests": 0
+    },
+    "font": {
+      "noOfRequests": 0
+    },
+    "image": {
+      "noOfRequests": 0
+    },
+    "style": {
+      "noOfRequests": 0
+    },
+    "script": {
+      "noOfRequests": 0
+    },
+    "xhr": {
+      "noOfRequests": 0
+    },
+    "other": {
+      "noOfRequests": 0
+    }
+  }
+}

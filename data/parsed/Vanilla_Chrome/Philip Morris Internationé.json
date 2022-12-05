@@ -1,0 +1,73 @@
+{
+  "pages": {
+    "noOfPages": 1,
+    "medianOnLoad": null,
+    "ninetyFifthOnLoad": null,
+    "pages": [
+      {
+        "url": "Philip Morris Internationé",
+        "onLoad": null
+      }
+    ]
+  },
+  "requests": {
+    "all": {
+      "noOfRequests": 64,
+      "medianTime": 76,
+      "ninetyFifthTime": 435,
+      "medianTimings": {
+        "blocked": -1,
+        "wait": 41,
+        "receive": 0
+      },
+      "ninetyFifthTimings": {
+        "blocked": 0,
+        "wait": 371,
+        "receive": 38
+      },
+      "bytesTransferred": null,
+      "topUrl": {
+        "url": "https://68794911.akstat.io/",
+        "noOfOccurrences": 0
+      },
+      "largest": {
+        "url": "https://68794911.akstat.io/",
+        "bytes": 0
+      },
+      "largestCompressed": {
+        "url": "https://www.pmi.com/"
+      },
+      "longest": {
+        "url": "https://www.pmi.com/",
+        "time": 782,
+        "timings": {
+          "blocked": 0,
+          "wait": 480,
+          "receive": 17,
+          "connect": 283
+        }
+      }
+    },
+    "document": {
+      "noOfRequests": 0
+    },
+    "font": {
+      "noOfRequests": 0
+    },
+    "image": {
+      "noOfRequests": 0
+    },
+    "style": {
+      "noOfRequests": 0
+    },
+    "script": {
+      "noOfRequests": 0
+    },
+    "xhr": {
+      "noOfRequests": 0
+    },
+    "other": {
+      "noOfRequests": 0
+    }
+  }
+}

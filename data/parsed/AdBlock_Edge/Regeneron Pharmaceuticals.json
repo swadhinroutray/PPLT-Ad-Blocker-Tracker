@@ -1,0 +1,73 @@
+{
+  "pages": {
+    "noOfPages": 1,
+    "medianOnLoad": null,
+    "ninetyFifthOnLoad": null,
+    "pages": [
+      {
+        "url": "Regeneron Pharmaceuticals",
+        "onLoad": null
+      }
+    ]
+  },
+  "requests": {
+    "all": {
+      "noOfRequests": 105,
+      "medianTime": 53,
+      "ninetyFifthTime": 381,
+      "medianTimings": {
+        "blocked": -1,
+        "wait": 35,
+        "receive": 0
+      },
+      "ninetyFifthTimings": {
+        "blocked": 0,
+        "wait": 72,
+        "receive": 41
+      },
+      "bytesTransferred": null,
+      "topUrl": {
+        "url": "https://f.vimeocdn.com/js_opt/modules/utils/vuid.min.js",
+        "noOfOccurrences": 2
+      },
+      "largest": {
+        "url": "https://edge.microsoft.com/autofillservice/v1/pages/ChVDaHJvbWUvMTA3LjAuNTMwNC4xNTASJQldzxa7OE7VShIFDZFhlU4SBQ2RYZVOEgUNkWGVThIFDaWTNiQSHgnNCOUDyozddhIFDZFhlU4SBQ2RYZVOEgUNkWGVThIQCfFQs0UB1DKtEgUNpZM2JA==",
+        "bytes": 0
+      },
+      "largestCompressed": {
+        "url": "https://nav-edge.smartscreen.microsoft.com/api/browser/edge/navigate/3"
+      },
+      "longest": {
+        "url": "https://edge.microsoft.com/autofillservice/v1/pages/ChVDaHJvbWUvMTA3LjAuNTMwNC4xNTASFwkvj5E5weSaBBIFDZFhlU4SBQ2RYZVOEhcJzQjlA8qM3XYSBQ2RYZVOEgUNkWGVTg==",
+        "time": 1355,
+        "timings": {
+          "blocked": 0,
+          "wait": 1202,
+          "receive": 0,
+          "connect": 118
+        }
+      }
+    },
+    "document": {
+      "noOfRequests": 0
+    },
+    "font": {
+      "noOfRequests": 0
+    },
+    "image": {
+      "noOfRequests": 0
+    },
+    "style": {
+      "noOfRequests": 0
+    },
+    "script": {
+      "noOfRequests": 0
+    },
+    "xhr": {
+      "noOfRequests": 0
+    },
+    "other": {
+      "noOfRequests": 0
+    }
+  }
+}

@@ -1,0 +1,73 @@
+{
+  "pages": {
+    "noOfPages": 1,
+    "medianOnLoad": null,
+    "ninetyFifthOnLoad": null,
+    "pages": [
+      {
+        "url": "Albertsons",
+        "onLoad": null
+      }
+    ]
+  },
+  "requests": {
+    "all": {
+      "noOfRequests": 78,
+      "medianTime": 104,
+      "ninetyFifthTime": 464,
+      "medianTimings": {
+        "blocked": -1,
+        "wait": 57,
+        "receive": 0
+      },
+      "ninetyFifthTimings": {
+        "blocked": 0,
+        "wait": 462,
+        "receive": 44
+      },
+      "bytesTransferred": null,
+      "topUrl": {
+        "url": "https://www.albertsons.com/l-be-vnty-one-Padocking-But-must-But-worst-A-fea",
+        "noOfOccurrences": 1
+      },
+      "largest": {
+        "url": "https://www.albertsons.com/l-be-vnty-one-Padocking-But-must-But-worst-A-fea",
+        "bytes": 0
+      },
+      "largestCompressed": {
+        "url": "https://cdn.pficdn.com/pru-com-fed/22.22.1104/evo/scripts/components/evo-card-component-es2015.min.js"
+      },
+      "longest": {
+        "url": "https://www.albertsons.com/bin/safeway/unified/userinfo",
+        "time": 739,
+        "timings": {
+          "blocked": -1,
+          "wait": 739,
+          "receive": 0,
+          "connect": -1
+        }
+      }
+    },
+    "document": {
+      "noOfRequests": 0
+    },
+    "font": {
+      "noOfRequests": 0
+    },
+    "image": {
+      "noOfRequests": 0
+    },
+    "style": {
+      "noOfRequests": 0
+    },
+    "script": {
+      "noOfRequests": 0
+    },
+    "xhr": {
+      "noOfRequests": 0
+    },
+    "other": {
+      "noOfRequests": 0
+    }
+  }
+}

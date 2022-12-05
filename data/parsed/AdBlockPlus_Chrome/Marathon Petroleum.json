@@ -1,0 +1,73 @@
+{
+  "pages": {
+    "noOfPages": 1,
+    "medianOnLoad": null,
+    "ninetyFifthOnLoad": null,
+    "pages": [
+      {
+        "url": "Marathon Petroleum",
+        "onLoad": null
+      }
+    ]
+  },
+  "requests": {
+    "all": {
+      "noOfRequests": 30,
+      "medianTime": 59,
+      "ninetyFifthTime": 541,
+      "medianTimings": {
+        "blocked": -1,
+        "wait": 30,
+        "receive": 0
+      },
+      "ninetyFifthTimings": {
+        "blocked": 0,
+        "wait": 213,
+        "receive": 16
+      },
+      "bytesTransferred": null,
+      "topUrl": {
+        "url": "https://www.marathonpetroleum.com/favicon.ico",
+        "noOfOccurrences": 1
+      },
+      "largest": {
+        "url": "https://www.marathonpetroleum.com/cdn-cgi/challenge-platform/h/g/pat/772ed95a0e73064a/1669929442119/1b921796b79696049f4399d5e14c186e308e76453281c667a1116e609021d889/tl93ienxgWn4Ct9",
+        "bytes": 0
+      },
+      "largestCompressed": {
+        "url": "https://www.walgreensbootsalliance.com/themes/custom/wba/favicons/favicon.ico"
+      },
+      "longest": {
+        "url": "https://ws25.hotjar.com/api/v2/sites/2411840/recordings/content",
+        "time": 1193,
+        "timings": {
+          "blocked": 0,
+          "wait": 609,
+          "receive": 0,
+          "connect": 559
+        }
+      }
+    },
+    "document": {
+      "noOfRequests": 0
+    },
+    "font": {
+      "noOfRequests": 0
+    },
+    "image": {
+      "noOfRequests": 0
+    },
+    "style": {
+      "noOfRequests": 0
+    },
+    "script": {
+      "noOfRequests": 0
+    },
+    "xhr": {
+      "noOfRequests": 0
+    },
+    "other": {
+      "noOfRequests": 0
+    }
+  }
+}

@@ -1,0 +1,73 @@
+{
+  "pages": {
+    "noOfPages": 1,
+    "medianOnLoad": null,
+    "ninetyFifthOnLoad": null,
+    "pages": [
+      {
+        "url": "Avnet",
+        "onLoad": null
+      }
+    ]
+  },
+  "requests": {
+    "all": {
+      "noOfRequests": 70,
+      "medianTime": 134,
+      "ninetyFifthTime": 440,
+      "medianTimings": {
+        "blocked": 0,
+        "wait": 30,
+        "receive": 0
+      },
+      "ninetyFifthTimings": {
+        "blocked": 0,
+        "wait": 129,
+        "receive": 29
+      },
+      "bytesTransferred": null,
+      "topUrl": {
+        "url": "https://www.avnet.com/5H7468/-HTn/7e/ZVzJ/Sk770-wh/LY1Vm4fD/SixucGdeLAQ/Vi4GdkE/9dCkB",
+        "noOfOccurrences": 4
+      },
+      "largest": {
+        "url": "https://68794906.akstat.io/",
+        "bytes": 0
+      },
+      "largestCompressed": {
+        "url": "https://t.contentsquare.net/uxa/31c5892c-0834-4705-9963-6ce6c5f92ca2.js"
+      },
+      "longest": {
+        "url": "https://t.contentsquare.net/uxa/31c5892c-0834-4705-9963-6ce6c5f92ca2.js",
+        "time": 507,
+        "timings": {
+          "blocked": 0,
+          "wait": 28,
+          "receive": 40,
+          "connect": 378
+        }
+      }
+    },
+    "document": {
+      "noOfRequests": 0
+    },
+    "font": {
+      "noOfRequests": 0
+    },
+    "image": {
+      "noOfRequests": 0
+    },
+    "style": {
+      "noOfRequests": 0
+    },
+    "script": {
+      "noOfRequests": 0
+    },
+    "xhr": {
+      "noOfRequests": 0
+    },
+    "other": {
+      "noOfRequests": 0
+    }
+  }
+}

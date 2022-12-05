@@ -1,0 +1,73 @@
+{
+  "pages": {
+    "noOfPages": 1,
+    "medianOnLoad": null,
+    "ninetyFifthOnLoad": null,
+    "pages": [
+      {
+        "url": "Stanley Black & Decker",
+        "onLoad": null
+      }
+    ]
+  },
+  "requests": {
+    "all": {
+      "noOfRequests": 100,
+      "medianTime": 94,
+      "ninetyFifthTime": 366,
+      "medianTimings": {
+        "blocked": -1,
+        "wait": 33,
+        "receive": 0
+      },
+      "ninetyFifthTimings": {
+        "blocked": 0,
+        "wait": 110,
+        "receive": 55
+      },
+      "bytesTransferred": null,
+      "topUrl": {
+        "url": "https://nav-edge.smartscreen.microsoft.com/api/browser/edge/navigate/3",
+        "noOfOccurrences": 2
+      },
+      "largest": {
+        "url": "https://www.youtube.com/youtubei/v1/log_event",
+        "bytes": 0
+      },
+      "largestCompressed": {
+        "url": "https://api.levelaccess.net/analytics/3.0/results"
+      },
+      "longest": {
+        "url": "https://www.stanleyblackanddecker.com/",
+        "time": 515,
+        "timings": {
+          "blocked": 0,
+          "wait": 238,
+          "receive": 2,
+          "connect": 133
+        }
+      }
+    },
+    "document": {
+      "noOfRequests": 0
+    },
+    "font": {
+      "noOfRequests": 0
+    },
+    "image": {
+      "noOfRequests": 0
+    },
+    "style": {
+      "noOfRequests": 0
+    },
+    "script": {
+      "noOfRequests": 0
+    },
+    "xhr": {
+      "noOfRequests": 0
+    },
+    "other": {
+      "noOfRequests": 0
+    }
+  }
+}

@@ -1,0 +1,73 @@
+{
+  "pages": {
+    "noOfPages": 1,
+    "medianOnLoad": null,
+    "ninetyFifthOnLoad": null,
+    "pages": [
+      {
+        "url": "Travelers",
+        "onLoad": null
+      }
+    ]
+  },
+  "requests": {
+    "all": {
+      "noOfRequests": 157,
+      "medianTime": 72,
+      "ninetyFifthTime": 320,
+      "medianTimings": {
+        "blocked": -1,
+        "wait": 27,
+        "receive": 0
+      },
+      "ninetyFifthTimings": {
+        "blocked": 0,
+        "wait": 72,
+        "receive": 27
+      },
+      "bytesTransferred": null,
+      "topUrl": {
+        "url": "https://lib-us-2.brilliantcollector.com/collector/collectorPost",
+        "noOfOccurrences": 3
+      },
+      "largest": {
+        "url": "https://siteintercept.qualtrics.com/WRSiteInterceptEngine/Asset.php",
+        "bytes": 0
+      },
+      "largestCompressed": {
+        "url": "https://173bf10c.akstat.io/"
+      },
+      "longest": {
+        "url": "https://www.travelers.com/videos/tcom_homepage_video.mp4",
+        "time": 1475,
+        "timings": {
+          "blocked": -1,
+          "wait": 27,
+          "receive": 1447,
+          "connect": -1
+        }
+      }
+    },
+    "document": {
+      "noOfRequests": 0
+    },
+    "font": {
+      "noOfRequests": 0
+    },
+    "image": {
+      "noOfRequests": 0
+    },
+    "style": {
+      "noOfRequests": 0
+    },
+    "script": {
+      "noOfRequests": 0
+    },
+    "xhr": {
+      "noOfRequests": 0
+    },
+    "other": {
+      "noOfRequests": 0
+    }
+  }
+}

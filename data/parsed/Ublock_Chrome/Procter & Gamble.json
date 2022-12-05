@@ -1,0 +1,73 @@
+{
+  "pages": {
+    "noOfPages": 1,
+    "medianOnLoad": null,
+    "ninetyFifthOnLoad": null,
+    "pages": [
+      {
+        "url": "Procter & Gamble",
+        "onLoad": null
+      }
+    ]
+  },
+  "requests": {
+    "all": {
+      "noOfRequests": 81,
+      "medianTime": 26,
+      "ninetyFifthTime": 182,
+      "medianTimings": {
+        "blocked": -1,
+        "wait": 24,
+        "receive": 0
+      },
+      "ninetyFifthTimings": {
+        "blocked": 0,
+        "wait": 42,
+        "receive": 42
+      },
+      "bytesTransferred": null,
+      "topUrl": {
+        "url": "https://images.ctfassets.net/zyvr84rwvj68/6nbWi5aQ15Qapdu4iLzWqL/1d5e58ce1a73ca1d7335f288f19bf35c/Tom_Moody103__1_.jpg.png",
+        "noOfOccurrences": 0
+      },
+      "largest": {
+        "url": "https://images.ctfassets.net/zyvr84rwvj68/6nbWi5aQ15Qapdu4iLzWqL/1d5e58ce1a73ca1d7335f288f19bf35c/Tom_Moody103__1_.jpg.png",
+        "bytes": 0
+      },
+      "largestCompressed": {
+        "url": "https://www.pg.co.uk/"
+      },
+      "longest": {
+        "url": "https://www.pg.co.uk/",
+        "time": 855,
+        "timings": {
+          "blocked": 0,
+          "wait": 84,
+          "receive": 75,
+          "connect": 312
+        }
+      }
+    },
+    "document": {
+      "noOfRequests": 0
+    },
+    "font": {
+      "noOfRequests": 0
+    },
+    "image": {
+      "noOfRequests": 0
+    },
+    "style": {
+      "noOfRequests": 0
+    },
+    "script": {
+      "noOfRequests": 0
+    },
+    "xhr": {
+      "noOfRequests": 0
+    },
+    "other": {
+      "noOfRequests": 0
+    }
+  }
+}

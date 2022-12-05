@@ -1,0 +1,73 @@
+{
+  "pages": {
+    "noOfPages": 1,
+    "medianOnLoad": null,
+    "ninetyFifthOnLoad": null,
+    "pages": [
+      {
+        "url": "Bristol-Myers Squibb",
+        "onLoad": null
+      }
+    ]
+  },
+  "requests": {
+    "all": {
+      "noOfRequests": 94,
+      "medianTime": 90,
+      "ninetyFifthTime": 347,
+      "medianTimings": {
+        "blocked": 0,
+        "wait": 29,
+        "receive": 0
+      },
+      "ninetyFifthTimings": {
+        "blocked": 0,
+        "wait": 52,
+        "receive": 66
+      },
+      "bytesTransferred": null,
+      "topUrl": {
+        "url": "https://metrics.brightcove.com/v2/tracker",
+        "noOfOccurrences": 4
+      },
+      "largest": {
+        "url": "https://siteintercept.qualtrics.com/dxjsmodule/1.8ce69394dfc154e65174.chunk.js",
+        "bytes": 0
+      },
+      "largestCompressed": {
+        "url": "https://www.youtube.com/youtubei/v1/log_event"
+      },
+      "longest": {
+        "url": "https://cf-images.us-east-1.prod.boltdns.net/v1/static/1892432924001/41a43ae7-2c23-4ac9-b869-136640167c34/8fed6ca4-fde7-448f-af27-5217972d8552/1280x720/match/image.jpg",
+        "time": 422,
+        "timings": {
+          "blocked": 0,
+          "wait": 25,
+          "receive": 72,
+          "connect": 243
+        }
+      }
+    },
+    "document": {
+      "noOfRequests": 0
+    },
+    "font": {
+      "noOfRequests": 0
+    },
+    "image": {
+      "noOfRequests": 0
+    },
+    "style": {
+      "noOfRequests": 0
+    },
+    "script": {
+      "noOfRequests": 0
+    },
+    "xhr": {
+      "noOfRequests": 0
+    },
+    "other": {
+      "noOfRequests": 0
+    }
+  }
+}

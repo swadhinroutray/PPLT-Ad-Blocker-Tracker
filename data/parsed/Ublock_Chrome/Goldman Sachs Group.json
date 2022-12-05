@@ -1,0 +1,73 @@
+{
+  "pages": {
+    "noOfPages": 1,
+    "medianOnLoad": null,
+    "ninetyFifthOnLoad": null,
+    "pages": [
+      {
+        "url": "Goldman Sachs Group",
+        "onLoad": null
+      }
+    ]
+  },
+  "requests": {
+    "all": {
+      "noOfRequests": 113,
+      "medianTime": 35,
+      "ninetyFifthTime": 104,
+      "medianTimings": {
+        "blocked": -1,
+        "wait": 31,
+        "receive": 0
+      },
+      "ninetyFifthTimings": {
+        "blocked": 0,
+        "wait": 80,
+        "receive": 18
+      },
+      "bytesTransferred": null,
+      "topUrl": {
+        "url": "https://www.goldmansachs.com/navigation/nav.json",
+        "noOfOccurrences": 1
+      },
+      "largest": {
+        "url": "https://www.goldmansachs.com/favicon.ico",
+        "bytes": 0
+      },
+      "largestCompressed": {
+        "url": "https://www.goldmansachs.com/"
+      },
+      "longest": {
+        "url": "https://www.goldmansachs.com/",
+        "time": 875,
+        "timings": {
+          "blocked": 0,
+          "wait": 536,
+          "receive": 0,
+          "connect": 208
+        }
+      }
+    },
+    "document": {
+      "noOfRequests": 0
+    },
+    "font": {
+      "noOfRequests": 0
+    },
+    "image": {
+      "noOfRequests": 0
+    },
+    "style": {
+      "noOfRequests": 0
+    },
+    "script": {
+      "noOfRequests": 0
+    },
+    "xhr": {
+      "noOfRequests": 0
+    },
+    "other": {
+      "noOfRequests": 0
+    }
+  }
+}

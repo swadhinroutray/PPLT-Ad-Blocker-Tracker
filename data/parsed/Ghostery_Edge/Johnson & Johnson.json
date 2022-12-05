@@ -1,0 +1,73 @@
+{
+  "pages": {
+    "noOfPages": 1,
+    "medianOnLoad": null,
+    "ninetyFifthOnLoad": null,
+    "pages": [
+      {
+        "url": "Johnson & Johnson",
+        "onLoad": null
+      }
+    ]
+  },
+  "requests": {
+    "all": {
+      "noOfRequests": 124,
+      "medianTime": 27,
+      "ninetyFifthTime": 199,
+      "medianTimings": {
+        "blocked": -1,
+        "wait": 25,
+        "receive": 0
+      },
+      "ninetyFifthTimings": {
+        "blocked": 0,
+        "wait": 39,
+        "receive": 40
+      },
+      "bytesTransferred": null,
+      "topUrl": {
+        "url": "https://www.facebook.com/tr/",
+        "noOfOccurrences": 1
+      },
+      "largest": {
+        "url": "https://www.facebook.com/tr/",
+        "bytes": 0
+      },
+      "largestCompressed": {
+        "url": "https://www1.bac-assets.com/homepage/spa-assets/images/assets-images-site-homepage-icons-ent_edu_bac_4953168_icon_gc_a-CSX60f66bca.svg"
+      },
+      "longest": {
+        "url": "https://app.bowencraggs.com/scripts/a686ddca-58a7-4bcb-9cce-fb56de49020c.js",
+        "time": 840,
+        "timings": {
+          "blocked": 0,
+          "wait": 196,
+          "receive": 101,
+          "connect": 388
+        }
+      }
+    },
+    "document": {
+      "noOfRequests": 0
+    },
+    "font": {
+      "noOfRequests": 0
+    },
+    "image": {
+      "noOfRequests": 0
+    },
+    "style": {
+      "noOfRequests": 0
+    },
+    "script": {
+      "noOfRequests": 0
+    },
+    "xhr": {
+      "noOfRequests": 0
+    },
+    "other": {
+      "noOfRequests": 0
+    }
+  }
+}

@@ -1,0 +1,73 @@
+{
+  "pages": {
+    "noOfPages": 1,
+    "medianOnLoad": null,
+    "ninetyFifthOnLoad": null,
+    "pages": [
+      {
+        "url": "Berkshire Hathaway",
+        "onLoad": null
+      }
+    ]
+  },
+  "requests": {
+    "all": {
+      "noOfRequests": 80,
+      "medianTime": 20,
+      "ninetyFifthTime": 62,
+      "medianTimings": {
+        "blocked": -1,
+        "wait": 19,
+        "receive": 0
+      },
+      "ninetyFifthTimings": {
+        "blocked": -1,
+        "wait": 54,
+        "receive": 1
+      },
+      "bytesTransferred": null,
+      "topUrl": {
+        "url": "https://update.googleapis.com/service/update2/json",
+        "noOfOccurrences": 1
+      },
+      "largest": {
+        "url": "https://update.googleapis.com/service/update2/json",
+        "bytes": 0
+      },
+      "largestCompressed": {
+        "url": "https://corporate.exxonmobil.com/Assets/main.css"
+      },
+      "longest": {
+        "url": "https://www.berkshirehathaway.com/",
+        "time": 490,
+        "timings": {
+          "blocked": 0,
+          "wait": 42,
+          "receive": 1,
+          "connect": 358
+        }
+      }
+    },
+    "document": {
+      "noOfRequests": 0
+    },
+    "font": {
+      "noOfRequests": 0
+    },
+    "image": {
+      "noOfRequests": 0
+    },
+    "style": {
+      "noOfRequests": 0
+    },
+    "script": {
+      "noOfRequests": 0
+    },
+    "xhr": {
+      "noOfRequests": 0
+    },
+    "other": {
+      "noOfRequests": 0
+    }
+  }
+}

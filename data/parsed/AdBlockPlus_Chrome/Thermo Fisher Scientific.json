@@ -1,0 +1,73 @@
+{
+  "pages": {
+    "noOfPages": 1,
+    "medianOnLoad": null,
+    "ninetyFifthOnLoad": null,
+    "pages": [
+      {
+        "url": "Thermo Fisher Scientific",
+        "onLoad": null
+      }
+    ]
+  },
+  "requests": {
+    "all": {
+      "noOfRequests": 235,
+      "medianTime": 70,
+      "ninetyFifthTime": 273,
+      "medianTimings": {
+        "blocked": -1,
+        "wait": 37,
+        "receive": 0
+      },
+      "ninetyFifthTimings": {
+        "blocked": 0,
+        "wait": 187,
+        "receive": 14
+      },
+      "bytesTransferred": null,
+      "topUrl": {
+        "url": "https://www.thermofisher.com/apps/brightcove/clientlibs/cq-shared.min.css",
+        "noOfOccurrences": 9
+      },
+      "largest": {
+        "url": "https://www.thermofisher.com/store/cartlet/fonts/n-a.woff",
+        "bytes": 0
+      },
+      "largestCompressed": {
+        "url": "https://173bf10c.akstat.io/"
+      },
+      "longest": {
+        "url": "https://www.thermofisher.com/etc/designs/brightcove/shared.min.css",
+        "time": 882,
+        "timings": {
+          "blocked": -1,
+          "wait": 882,
+          "receive": 0,
+          "connect": -1
+        }
+      }
+    },
+    "document": {
+      "noOfRequests": 0
+    },
+    "font": {
+      "noOfRequests": 0
+    },
+    "image": {
+      "noOfRequests": 0
+    },
+    "style": {
+      "noOfRequests": 0
+    },
+    "script": {
+      "noOfRequests": 0
+    },
+    "xhr": {
+      "noOfRequests": 0
+    },
+    "other": {
+      "noOfRequests": 0
+    }
+  }
+}

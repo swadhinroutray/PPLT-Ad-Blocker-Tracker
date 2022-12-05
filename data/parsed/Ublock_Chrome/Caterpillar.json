@@ -1,0 +1,73 @@
+{
+  "pages": {
+    "noOfPages": 1,
+    "medianOnLoad": null,
+    "ninetyFifthOnLoad": null,
+    "pages": [
+      {
+        "url": "Caterpillar",
+        "onLoad": null
+      }
+    ]
+  },
+  "requests": {
+    "all": {
+      "noOfRequests": 79,
+      "medianTime": 111,
+      "ninetyFifthTime": 278,
+      "medianTimings": {
+        "blocked": -1,
+        "wait": 30,
+        "receive": 0
+      },
+      "ninetyFifthTimings": {
+        "blocked": 0,
+        "wait": 214,
+        "receive": 57
+      },
+      "bytesTransferred": null,
+      "topUrl": {
+        "url": "https://www.caterpillar.com/",
+        "noOfOccurrences": 2
+      },
+      "largest": {
+        "url": "https://www.caterpillar.com/content/dam/favicons/favicon.ico",
+        "bytes": 0
+      },
+      "largestCompressed": {
+        "url": "https://www.caterpillar.com/"
+      },
+      "longest": {
+        "url": "https://www.caterpillar.com/etc.clientlibs/deg/clientlibs/clientlib-site/css/resources/fonts/21decb60-b395-4de2-bd04-e38eb2a56d2f.woff",
+        "time": 551,
+        "timings": {
+          "blocked": -1,
+          "wait": 548,
+          "receive": 2,
+          "connect": -1
+        }
+      }
+    },
+    "document": {
+      "noOfRequests": 0
+    },
+    "font": {
+      "noOfRequests": 0
+    },
+    "image": {
+      "noOfRequests": 0
+    },
+    "style": {
+      "noOfRequests": 0
+    },
+    "script": {
+      "noOfRequests": 0
+    },
+    "xhr": {
+      "noOfRequests": 0
+    },
+    "other": {
+      "noOfRequests": 0
+    }
+  }
+}

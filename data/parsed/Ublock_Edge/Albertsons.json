@@ -1,0 +1,73 @@
+{
+  "pages": {
+    "noOfPages": 1,
+    "medianOnLoad": null,
+    "ninetyFifthOnLoad": null,
+    "pages": [
+      {
+        "url": "Albertsons",
+        "onLoad": null
+      }
+    ]
+  },
+  "requests": {
+    "all": {
+      "noOfRequests": 49,
+      "medianTime": 85,
+      "ninetyFifthTime": 1220,
+      "medianTimings": {
+        "blocked": -1,
+        "wait": 38,
+        "receive": 0
+      },
+      "ninetyFifthTimings": {
+        "blocked": 0,
+        "wait": 245,
+        "receive": 58
+      },
+      "bytesTransferred": null,
+      "topUrl": {
+        "url": "https://www.albertsons.com/abs/pub/xapi/storeresolver/storeaddress",
+        "noOfOccurrences": 1
+      },
+      "largest": {
+        "url": "https://www.albertsons.com/favicon.ico",
+        "bytes": 0
+      },
+      "largestCompressed": {
+        "url": "https://cdn.pficdn.com/pru-com-fed/22.22.1104/evo/scripts/components/evo-jumpoff-component-es2015.min.js"
+      },
+      "longest": {
+        "url": "https://www.albertsons.com/",
+        "time": 1607,
+        "timings": {
+          "blocked": 0,
+          "wait": 29,
+          "receive": 24,
+          "connect": 438
+        }
+      }
+    },
+    "document": {
+      "noOfRequests": 0
+    },
+    "font": {
+      "noOfRequests": 0
+    },
+    "image": {
+      "noOfRequests": 0
+    },
+    "style": {
+      "noOfRequests": 0
+    },
+    "script": {
+      "noOfRequests": 0
+    },
+    "xhr": {
+      "noOfRequests": 0
+    },
+    "other": {
+      "noOfRequests": 0
+    }
+  }
+}

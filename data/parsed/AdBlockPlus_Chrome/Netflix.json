@@ -1,0 +1,73 @@
+{
+  "pages": {
+    "noOfPages": 1,
+    "medianOnLoad": null,
+    "ninetyFifthOnLoad": null,
+    "pages": [
+      {
+        "url": "Netflix",
+        "onLoad": null
+      }
+    ]
+  },
+  "requests": {
+    "all": {
+      "noOfRequests": 43,
+      "medianTime": 130,
+      "ninetyFifthTime": 319,
+      "medianTimings": {
+        "blocked": 0,
+        "wait": 28,
+        "receive": 0
+      },
+      "ninetyFifthTimings": {
+        "blocked": 0,
+        "wait": 125,
+        "receive": 84
+      },
+      "bytesTransferred": null,
+      "topUrl": {
+        "url": "https://assets.nflxext.com/ffe/siteui/acquisition/ourStory/fuji/desktop/mobile-0819.jpg",
+        "noOfOccurrences": 1
+      },
+      "largest": {
+        "url": "https://cdn.cookielaw.org/scripttemplates/6.6.0/assets/otPcTab.json",
+        "bytes": 0
+      },
+      "largestCompressed": {
+        "url": "https://siteintercept.qualtrics.com/dxjsmodule/4.a5c0de52a5fc4b1cbc4b.chunk.js"
+      },
+      "longest": {
+        "url": "https://www.netflix.com/",
+        "time": 634,
+        "timings": {
+          "blocked": 0,
+          "wait": 407,
+          "receive": 29,
+          "connect": 173
+        }
+      }
+    },
+    "document": {
+      "noOfRequests": 0
+    },
+    "font": {
+      "noOfRequests": 0
+    },
+    "image": {
+      "noOfRequests": 0
+    },
+    "style": {
+      "noOfRequests": 0
+    },
+    "script": {
+      "noOfRequests": 0
+    },
+    "xhr": {
+      "noOfRequests": 0
+    },
+    "other": {
+      "noOfRequests": 0
+    }
+  }
+}

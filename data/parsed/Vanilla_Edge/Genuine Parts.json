@@ -1,0 +1,73 @@
+{
+  "pages": {
+    "noOfPages": 1,
+    "medianOnLoad": null,
+    "ninetyFifthOnLoad": null,
+    "pages": [
+      {
+        "url": "Genuine Parts",
+        "onLoad": null
+      }
+    ]
+  },
+  "requests": {
+    "all": {
+      "noOfRequests": 74,
+      "medianTime": 254,
+      "ninetyFifthTime": 1756,
+      "medianTimings": {
+        "blocked": -1,
+        "wait": 237,
+        "receive": 0
+      },
+      "ninetyFifthTimings": {
+        "blocked": 0,
+        "wait": 1621,
+        "receive": 32
+      },
+      "bytesTransferred": null,
+      "topUrl": {
+        "url": "https://filecache.investorroom.com/mr5ir_genuineparts/369/branded%2Bt%2Bshirt.jpg",
+        "noOfOccurrences": 0
+      },
+      "largest": {
+        "url": "https://filecache.investorroom.com/mr5ir_genuineparts/369/branded%2Bt%2Bshirt.jpg",
+        "bytes": 0
+      },
+      "largestCompressed": {
+        "url": "https://privacyportal.onetrust.com/request/v1/consentreceipts"
+      },
+      "longest": {
+        "url": "https://filecache.investorroom.com/mr5ir_genuineparts/369/branded%2Bt%2Bshirt.jpg",
+        "time": 18001,
+        "timings": {
+          "blocked": -1,
+          "wait": 17995,
+          "receive": 5,
+          "connect": -1
+        }
+      }
+    },
+    "document": {
+      "noOfRequests": 0
+    },
+    "font": {
+      "noOfRequests": 0
+    },
+    "image": {
+      "noOfRequests": 0
+    },
+    "style": {
+      "noOfRequests": 0
+    },
+    "script": {
+      "noOfRequests": 0
+    },
+    "xhr": {
+      "noOfRequests": 0
+    },
+    "other": {
+      "noOfRequests": 0
+    }
+  }
+}

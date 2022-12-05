@@ -1,0 +1,73 @@
+{
+  "pages": {
+    "noOfPages": 1,
+    "medianOnLoad": null,
+    "ninetyFifthOnLoad": null,
+    "pages": [
+      {
+        "url": "Gap",
+        "onLoad": null
+      }
+    ]
+  },
+  "requests": {
+    "all": {
+      "noOfRequests": 110,
+      "medianTime": 42,
+      "ninetyFifthTime": 396,
+      "medianTimings": {
+        "blocked": -1,
+        "wait": 38,
+        "receive": 0
+      },
+      "ninetyFifthTimings": {
+        "blocked": 0,
+        "wait": 142,
+        "receive": 31
+      },
+      "bytesTransferred": null,
+      "topUrl": {
+        "url": "https://content.gap.com/fp/clear.png",
+        "noOfOccurrences": 3
+      },
+      "largest": {
+        "url": "https://h.online-metrix.net/fp/clear.png",
+        "bytes": 0
+      },
+      "largestCompressed": {
+        "url": "https://www.youtube.com/youtubei/v1/log_event"
+      },
+      "longest": {
+        "url": "https://www.gap.com/optimizely_snippets/gap_us_home.js",
+        "time": 593,
+        "timings": {
+          "blocked": 0,
+          "wait": 287,
+          "receive": 50,
+          "connect": 218
+        }
+      }
+    },
+    "document": {
+      "noOfRequests": 0
+    },
+    "font": {
+      "noOfRequests": 0
+    },
+    "image": {
+      "noOfRequests": 0
+    },
+    "style": {
+      "noOfRequests": 0
+    },
+    "script": {
+      "noOfRequests": 0
+    },
+    "xhr": {
+      "noOfRequests": 0
+    },
+    "other": {
+      "noOfRequests": 0
+    }
+  }
+}

@@ -1,0 +1,73 @@
+{
+  "pages": {
+    "noOfPages": 1,
+    "medianOnLoad": null,
+    "ninetyFifthOnLoad": null,
+    "pages": [
+      {
+        "url": "Tenet Healthcare",
+        "onLoad": null
+      }
+    ]
+  },
+  "requests": {
+    "all": {
+      "noOfRequests": 91,
+      "medianTime": 63,
+      "ninetyFifthTime": 435,
+      "medianTimings": {
+        "blocked": -1,
+        "wait": 56,
+        "receive": 0
+      },
+      "ninetyFifthTimings": {
+        "blocked": 0,
+        "wait": 122,
+        "receive": 108
+      },
+      "bytesTransferred": null,
+      "topUrl": {
+        "url": "https://collection.decibelinsight.net/i/13999/da/",
+        "noOfOccurrences": 11
+      },
+      "largest": {
+        "url": "https://stats.g.doubleclick.net/j/collect",
+        "bytes": 0
+      },
+      "largestCompressed": {
+        "url": "https://www.redditstatic.com/ads/pixel.js"
+      },
+      "longest": {
+        "url": "https://service-prep.tenethealth.com/api/domains",
+        "time": 556,
+        "timings": {
+          "blocked": 0,
+          "wait": 98,
+          "receive": 151,
+          "connect": 237
+        }
+      }
+    },
+    "document": {
+      "noOfRequests": 0
+    },
+    "font": {
+      "noOfRequests": 0
+    },
+    "image": {
+      "noOfRequests": 0
+    },
+    "style": {
+      "noOfRequests": 0
+    },
+    "script": {
+      "noOfRequests": 0
+    },
+    "xhr": {
+      "noOfRequests": 0
+    },
+    "other": {
+      "noOfRequests": 0
+    }
+  }
+}

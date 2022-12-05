@@ -1,0 +1,73 @@
+{
+  "pages": {
+    "noOfPages": 1,
+    "medianOnLoad": null,
+    "ninetyFifthOnLoad": null,
+    "pages": [
+      {
+        "url": "Lowe's",
+        "onLoad": null
+      }
+    ]
+  },
+  "requests": {
+    "all": {
+      "noOfRequests": 52,
+      "medianTime": 63,
+      "ninetyFifthTime": 621,
+      "medianTimings": {
+        "blocked": -1,
+        "wait": 39,
+        "receive": 0
+      },
+      "ninetyFifthTimings": {
+        "blocked": 0,
+        "wait": 382,
+        "receive": 38
+      },
+      "bytesTransferred": null,
+      "topUrl": {
+        "url": "https://www.lowes.com/globalweb/teslacontent",
+        "noOfOccurrences": 3
+      },
+      "largest": {
+        "url": "https://www.lowes.com/favicon.ico",
+        "bytes": 0
+      },
+      "largestCompressed": {
+        "url": "https://tags.tiqcdn.com/utag/tiqapp/utag.v.js"
+      },
+      "longest": {
+        "url": "https://www.lowes.com/XY5w1O/nR/Bc/IYWC/yxn_xSQbu6M7Q/buOJVzcw9E/SgwXNDU/IXcpWi0/BEykB",
+        "time": 1044,
+        "timings": {
+          "blocked": -1,
+          "wait": 1044,
+          "receive": 0,
+          "connect": -1
+        }
+      }
+    },
+    "document": {
+      "noOfRequests": 0
+    },
+    "font": {
+      "noOfRequests": 0
+    },
+    "image": {
+      "noOfRequests": 0
+    },
+    "style": {
+      "noOfRequests": 0
+    },
+    "script": {
+      "noOfRequests": 0
+    },
+    "xhr": {
+      "noOfRequests": 0
+    },
+    "other": {
+      "noOfRequests": 0
+    }
+  }
+}

@@ -1,0 +1,73 @@
+{
+  "pages": {
+    "noOfPages": 1,
+    "medianOnLoad": null,
+    "ninetyFifthOnLoad": null,
+    "pages": [
+      {
+        "url": "TIAA",
+        "onLoad": null
+      }
+    ]
+  },
+  "requests": {
+    "all": {
+      "noOfRequests": 92,
+      "medianTime": 133,
+      "ninetyFifthTime": 466,
+      "medianTimings": {
+        "blocked": 0,
+        "wait": 36,
+        "receive": 0
+      },
+      "ninetyFifthTimings": {
+        "blocked": 0,
+        "wait": 122,
+        "receive": 51
+      },
+      "bytesTransferred": null,
+      "topUrl": {
+        "url": "https://www.tiaa.org/Zkr5VYPz/i9g/H5C/GGoc8DzbHG/EziaD0uO9bVi/RVhAAg/IyllUHxg/HT0B",
+        "noOfOccurrences": 3
+      },
+      "largest": {
+        "url": "https://adservice.google.com/ddm/fls/z/dc_pre=CJ_zlZuH3PsCFYcGaAgd0pIHUQ;src=5367511;type=tiaa;cat=brand0;ord=8798627585777;gtm=2wgbu0;gcs=G111;auiddc=*;~oref=https%3A%2F%2Fwww.tiaa.org%2Fpublic%2F",
+        "bytes": 0
+      },
+      "largestCompressed": {
+        "url": "https://www.tiaa.org/"
+      },
+      "longest": {
+        "url": "https://tiaabank.us-4.evergage.com/api2/event/prod_tiaa",
+        "time": 527,
+        "timings": {
+          "blocked": 0,
+          "wait": 98,
+          "receive": 0,
+          "connect": 373
+        }
+      }
+    },
+    "document": {
+      "noOfRequests": 0
+    },
+    "font": {
+      "noOfRequests": 0
+    },
+    "image": {
+      "noOfRequests": 0
+    },
+    "style": {
+      "noOfRequests": 0
+    },
+    "script": {
+      "noOfRequests": 0
+    },
+    "xhr": {
+      "noOfRequests": 0
+    },
+    "other": {
+      "noOfRequests": 0
+    }
+  }
+}

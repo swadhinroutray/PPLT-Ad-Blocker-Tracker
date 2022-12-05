@@ -1,0 +1,73 @@
+{
+  "pages": {
+    "noOfPages": 1,
+    "medianOnLoad": null,
+    "ninetyFifthOnLoad": null,
+    "pages": [
+      {
+        "url": "Enterprise Products",
+        "onLoad": null
+      }
+    ]
+  },
+  "requests": {
+    "all": {
+      "noOfRequests": 51,
+      "medianTime": 57,
+      "ninetyFifthTime": 622,
+      "medianTimings": {
+        "blocked": -1,
+        "wait": 55,
+        "receive": 0
+      },
+      "ninetyFifthTimings": {
+        "blocked": 0,
+        "wait": 60,
+        "receive": 239
+      },
+      "bytesTransferred": null,
+      "topUrl": {
+        "url": "https://www.enterpriseproducts.com/media-library/a48e1df3-1d66-46fe-908d-c7b3c9ab46ba/20220803_Website4.m4s",
+        "noOfOccurrences": 4
+      },
+      "largest": {
+        "url": "https://www.enterpriseproducts.com/media-library/a48e1df3-1d66-46fe-908d-c7b3c9ab46ba/20220803_Website1.m4s",
+        "bytes": 0
+      },
+      "largestCompressed": {
+        "url": "https://www.enterpriseproducts.com/"
+      },
+      "longest": {
+        "url": "https://www.enterpriseproducts.com/media-library/30ed5674-a634-4146-8246-972dadf1847e.png",
+        "time": 841,
+        "timings": {
+          "blocked": -1,
+          "wait": 54,
+          "receive": 786,
+          "connect": -1
+        }
+      }
+    },
+    "document": {
+      "noOfRequests": 0
+    },
+    "font": {
+      "noOfRequests": 0
+    },
+    "image": {
+      "noOfRequests": 0
+    },
+    "style": {
+      "noOfRequests": 0
+    },
+    "script": {
+      "noOfRequests": 0
+    },
+    "xhr": {
+      "noOfRequests": 0
+    },
+    "other": {
+      "noOfRequests": 0
+    }
+  }
+}

@@ -1,0 +1,73 @@
+{
+  "pages": {
+    "noOfPages": 1,
+    "medianOnLoad": null,
+    "ninetyFifthOnLoad": null,
+    "pages": [
+      {
+        "url": "Oracle",
+        "onLoad": null
+      }
+    ]
+  },
+  "requests": {
+    "all": {
+      "noOfRequests": 47,
+      "medianTime": 54,
+      "ninetyFifthTime": 233,
+      "medianTimings": {
+        "blocked": -1,
+        "wait": 46,
+        "receive": 0
+      },
+      "ninetyFifthTimings": {
+        "blocked": 0,
+        "wait": 156,
+        "receive": 37
+      },
+      "bytesTransferred": null,
+      "topUrl": {
+        "url": "https://consent.trustarc.com/asset/notice.js/v/v1.7-9931",
+        "noOfOccurrences": 0
+      },
+      "largest": {
+        "url": "https://consent.trustarc.com/asset/notice.js/v/v1.7-9931",
+        "bytes": 0
+      },
+      "largestCompressed": {
+        "url": "https://www.oracle.com/"
+      },
+      "longest": {
+        "url": "https://www.oracle.com/asset/web/css/redwood-styles.css",
+        "time": 579,
+        "timings": {
+          "blocked": -1,
+          "wait": 428,
+          "receive": 151,
+          "connect": -1
+        }
+      }
+    },
+    "document": {
+      "noOfRequests": 0
+    },
+    "font": {
+      "noOfRequests": 0
+    },
+    "image": {
+      "noOfRequests": 0
+    },
+    "style": {
+      "noOfRequests": 0
+    },
+    "script": {
+      "noOfRequests": 0
+    },
+    "xhr": {
+      "noOfRequests": 0
+    },
+    "other": {
+      "noOfRequests": 0
+    }
+  }
+}

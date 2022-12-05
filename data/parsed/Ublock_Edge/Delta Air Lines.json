@@ -1,0 +1,73 @@
+{
+  "pages": {
+    "noOfPages": 1,
+    "medianOnLoad": null,
+    "ninetyFifthOnLoad": null,
+    "pages": [
+      {
+        "url": "Delta Air Lines",
+        "onLoad": null
+      }
+    ]
+  },
+  "requests": {
+    "all": {
+      "noOfRequests": 74,
+      "medianTime": 103,
+      "ninetyFifthTime": 379,
+      "medianTimings": {
+        "blocked": -1,
+        "wait": 49,
+        "receive": 0
+      },
+      "ninetyFifthTimings": {
+        "blocked": 0,
+        "wait": 215,
+        "receive": 54
+      },
+      "bytesTransferred": null,
+      "topUrl": {
+        "url": "https://www.delta.com/xx4q/xAkv/zV/EbI6/PO2g/O1t9fSSc/PVQiZgE/FU0/ZFA4gWAMC",
+        "noOfOccurrences": 3
+      },
+      "largest": {
+        "url": "https://content.delta.com/content/dam/delta-www/responsive/apps/login/favicon.ico",
+        "bytes": 0
+      },
+      "largestCompressed": {
+        "url": "https://www.delta.com/"
+      },
+      "longest": {
+        "url": "https://www.delta.com/xx4q/xAkv/zV/EbI6/PO2g/O1t9fSSc/PVQiZgE/FU0/ZFA4gWAMC",
+        "time": 776,
+        "timings": {
+          "blocked": -1,
+          "wait": 767,
+          "receive": 2,
+          "connect": -1
+        }
+      }
+    },
+    "document": {
+      "noOfRequests": 0
+    },
+    "font": {
+      "noOfRequests": 0
+    },
+    "image": {
+      "noOfRequests": 0
+    },
+    "style": {
+      "noOfRequests": 0
+    },
+    "script": {
+      "noOfRequests": 0
+    },
+    "xhr": {
+      "noOfRequests": 0
+    },
+    "other": {
+      "noOfRequests": 0
+    }
+  }
+}

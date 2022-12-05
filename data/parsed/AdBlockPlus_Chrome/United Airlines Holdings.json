@@ -1,0 +1,73 @@
+{
+  "pages": {
+    "noOfPages": 1,
+    "medianOnLoad": null,
+    "ninetyFifthOnLoad": null,
+    "pages": [
+      {
+        "url": "United Airlines Holdings",
+        "onLoad": null
+      }
+    ]
+  },
+  "requests": {
+    "all": {
+      "noOfRequests": 102,
+      "medianTime": 77,
+      "ninetyFifthTime": 544,
+      "medianTimings": {
+        "blocked": -1,
+        "wait": 35,
+        "receive": 0
+      },
+      "ninetyFifthTimings": {
+        "blocked": 0,
+        "wait": 147,
+        "receive": 44
+      },
+      "bytesTransferred": null,
+      "topUrl": {
+        "url": "https://r.stripe.com/0",
+        "noOfOccurrences": 13
+      },
+      "largest": {
+        "url": "https://ir.united.com/profiles/nasdaqir/themes/custom/nir_base/dist/fonts/ndqfonticons.woff2",
+        "bytes": 0
+      },
+      "largestCompressed": {
+        "url": "https://ir.united.com/"
+      },
+      "longest": {
+        "url": "https://optimizationguide-pa.googleapis.com/downloads",
+        "time": 6991,
+        "timings": {
+          "blocked": 0,
+          "wait": 6921,
+          "receive": 0,
+          "connect": 68
+        }
+      }
+    },
+    "document": {
+      "noOfRequests": 0
+    },
+    "font": {
+      "noOfRequests": 0
+    },
+    "image": {
+      "noOfRequests": 0
+    },
+    "style": {
+      "noOfRequests": 0
+    },
+    "script": {
+      "noOfRequests": 0
+    },
+    "xhr": {
+      "noOfRequests": 0
+    },
+    "other": {
+      "noOfRequests": 0
+    }
+  }
+}

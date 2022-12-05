@@ -1,0 +1,73 @@
+{
+  "pages": {
+    "noOfPages": 1,
+    "medianOnLoad": null,
+    "ninetyFifthOnLoad": null,
+    "pages": [
+      {
+        "url": "PayPal Holdings",
+        "onLoad": null
+      }
+    ]
+  },
+  "requests": {
+    "all": {
+      "noOfRequests": 35,
+      "medianTime": 93,
+      "ninetyFifthTime": 479,
+      "medianTimings": {
+        "blocked": 0,
+        "wait": 21,
+        "receive": 0
+      },
+      "ninetyFifthTimings": {
+        "blocked": 0,
+        "wait": 228,
+        "receive": 19
+      },
+      "bytesTransferred": null,
+      "topUrl": {
+        "url": "https://bam.nr-data.net/events/1/4b6f7f959c",
+        "noOfOccurrences": 1
+      },
+      "largest": {
+        "url": "https://www.paypalobjects.com/pa/3pjs/qualtrics/1.64.1/CoreModule.js",
+        "bytes": 0
+      },
+      "largestCompressed": {
+        "url": "https://www.paypal.com/"
+      },
+      "longest": {
+        "url": "https://www.paypal.com/us/home",
+        "time": 893,
+        "timings": {
+          "blocked": 0,
+          "wait": 499,
+          "receive": 59,
+          "connect": 288
+        }
+      }
+    },
+    "document": {
+      "noOfRequests": 0
+    },
+    "font": {
+      "noOfRequests": 0
+    },
+    "image": {
+      "noOfRequests": 0
+    },
+    "style": {
+      "noOfRequests": 0
+    },
+    "script": {
+      "noOfRequests": 0
+    },
+    "xhr": {
+      "noOfRequests": 0
+    },
+    "other": {
+      "noOfRequests": 0
+    }
+  }
+}

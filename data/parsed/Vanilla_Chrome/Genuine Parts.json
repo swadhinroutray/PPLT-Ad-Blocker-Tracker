@@ -1,0 +1,73 @@
+{
+  "pages": {
+    "noOfPages": 1,
+    "medianOnLoad": null,
+    "ninetyFifthOnLoad": null,
+    "pages": [
+      {
+        "url": "Genuine Parts",
+        "onLoad": null
+      }
+    ]
+  },
+  "requests": {
+    "all": {
+      "noOfRequests": 88,
+      "medianTime": 173,
+      "ninetyFifthTime": 353,
+      "medianTimings": {
+        "blocked": -1,
+        "wait": 85,
+        "receive": 0
+      },
+      "ninetyFifthTimings": {
+        "blocked": 0,
+        "wait": 268,
+        "receive": 48
+      },
+      "bytesTransferred": null,
+      "topUrl": {
+        "url": "https://www.genpt.com/favicon.ico",
+        "noOfOccurrences": 1
+      },
+      "largest": {
+        "url": "https://www.genpt.com/favicon.ico",
+        "bytes": 0
+      },
+      "largestCompressed": {
+        "url": "https://www.mastercard.us/content/dam/public/mastercardcom/mea/za/audio/MastercardSoundscape.mp3"
+      },
+      "longest": {
+        "url": "https://www.genpt.com/",
+        "time": 612,
+        "timings": {
+          "blocked": 0,
+          "wait": 262,
+          "receive": 54,
+          "connect": 225
+        }
+      }
+    },
+    "document": {
+      "noOfRequests": 0
+    },
+    "font": {
+      "noOfRequests": 0
+    },
+    "image": {
+      "noOfRequests": 0
+    },
+    "style": {
+      "noOfRequests": 0
+    },
+    "script": {
+      "noOfRequests": 0
+    },
+    "xhr": {
+      "noOfRequests": 0
+    },
+    "other": {
+      "noOfRequests": 0
+    }
+  }
+}

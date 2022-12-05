@@ -1,0 +1,72 @@
+{
+  "pages": {
+    "noOfPages": 1,
+    "medianOnLoad": 931,
+    "ninetyFifthOnLoad": 931,
+    "pages": [
+      {
+        "url": "Amazon.com. Spend less. Smile more.",
+        "onLoad": 931
+      }
+    ]
+  },
+  "requests": {
+    "all": {
+      "noOfRequests": 450,
+      "medianTime": 25,
+      "ninetyFifthTime": 110,
+      "medianTimings": {
+        "blocked": -1,
+        "wait": 28,
+        "receive": 0
+      },
+      "ninetyFifthTimings": {
+        "blocked": null,
+        "wait": null,
+        "receive": null
+      },
+      "bytesTransferred": null,
+      "topUrl": {
+        "url": "https://www.amazon.com/rd/uedata",
+        "noOfOccurrences": 9
+      },
+      "largest": {
+        "url": "https://fls-na.amazon.com/1/batch/1/OE/"
+      },
+      "largestCompressed": {
+        "url": "https://fls-na.amazon.com/1/batch/1/OP/ATVPDKIKX0DER:134-2079069-1201126:QFF602GJGD37GD1XM0MY$uedata=s:%2Frd%2Fuedata%3Fstaticb%26id%3DQFF602GJGD37GD1XM0MY:0"
+      },
+      "longest": {
+        "url": "https://player.stats.live-video.net/",
+        "time": 383,
+        "timings": {
+          "blocked": 0,
+          "wait": 88,
+          "receive": 0,
+          "connect": 87
+        }
+      }
+    },
+    "document": {
+      "noOfRequests": 0
+    },
+    "font": {
+      "noOfRequests": 0
+    },
+    "image": {
+      "noOfRequests": 0
+    },
+    "style": {
+      "noOfRequests": 0
+    },
+    "script": {
+      "noOfRequests": 0
+    },
+    "xhr": {
+      "noOfRequests": 0
+    },
+    "other": {
+      "noOfRequests": 0
+    }
+  }
+}

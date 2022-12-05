@@ -1,0 +1,73 @@
+{
+  "pages": {
+    "noOfPages": 1,
+    "medianOnLoad": null,
+    "ninetyFifthOnLoad": null,
+    "pages": [
+      {
+        "url": "Walgreens Boots Alliance",
+        "onLoad": null
+      }
+    ]
+  },
+  "requests": {
+    "all": {
+      "noOfRequests": 98,
+      "medianTime": 138,
+      "ninetyFifthTime": 545,
+      "medianTimings": {
+        "blocked": 0,
+        "wait": 33,
+        "receive": 0
+      },
+      "ninetyFifthTimings": {
+        "blocked": 0,
+        "wait": 134,
+        "receive": 28
+      },
+      "bytesTransferred": null,
+      "topUrl": {
+        "url": "https://www.googletagmanager.com/gtag/js",
+        "noOfOccurrences": 4
+      },
+      "largest": {
+        "url": "https://ws2.hotjar.com/api/v2/client/ws",
+        "bytes": 0
+      },
+      "largestCompressed": {
+        "url": "https://ct.pinterest.com/user"
+      },
+      "longest": {
+        "url": "https://ws2.hotjar.com/api/v2/sites/2411840/recordings/content",
+        "time": 1173,
+        "timings": {
+          "blocked": 0,
+          "wait": 613,
+          "receive": 0,
+          "connect": 495
+        }
+      }
+    },
+    "document": {
+      "noOfRequests": 0
+    },
+    "font": {
+      "noOfRequests": 0
+    },
+    "image": {
+      "noOfRequests": 0
+    },
+    "style": {
+      "noOfRequests": 0
+    },
+    "script": {
+      "noOfRequests": 0
+    },
+    "xhr": {
+      "noOfRequests": 0
+    },
+    "other": {
+      "noOfRequests": 0
+    }
+  }
+}

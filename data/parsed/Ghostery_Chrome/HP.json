@@ -1,0 +1,73 @@
+{
+  "pages": {
+    "noOfPages": 1,
+    "medianOnLoad": null,
+    "ninetyFifthOnLoad": null,
+    "pages": [
+      {
+        "url": "HP",
+        "onLoad": null
+      }
+    ]
+  },
+  "requests": {
+    "all": {
+      "noOfRequests": 79,
+      "medianTime": 73,
+      "ninetyFifthTime": 222,
+      "medianTimings": {
+        "blocked": -1,
+        "wait": 28,
+        "receive": 0
+      },
+      "ninetyFifthTimings": {
+        "blocked": 0,
+        "wait": 123,
+        "receive": 37
+      },
+      "bytesTransferred": null,
+      "topUrl": {
+        "url": "https://global-navbar-backend.id.hp.com/api/v1/session/sso_check",
+        "noOfOccurrences": 1
+      },
+      "largest": {
+        "url": "https://content-autofill.googleapis.com/v1/pages/ChRDaHJvbWUvMTA4LjAuNTM1OS45NBIlCdBq29X0PEhJEgUNnyyLRBIFDZ8si0QSBQ2fLItEEgUNpZM2JA==",
+        "bytes": 0
+      },
+      "largestCompressed": {
+        "url": "https://www.rtx.com/cdn-cgi/challenge-platform/h/g/pat/7737b1dfce366fbb/1670022196450/a19ed70c3312741a2ba0ed383215a0c4eca5c74fcb85681d5a3ac8e3307ba424/wbkew5viCT6vGpO"
+      },
+      "longest": {
+        "url": "https://global-navbar-backend.id.hp.com/api/v1/session/sso_check",
+        "time": 473,
+        "timings": {
+          "blocked": 0,
+          "wait": 28,
+          "receive": 0,
+          "connect": 410
+        }
+      }
+    },
+    "document": {
+      "noOfRequests": 0
+    },
+    "font": {
+      "noOfRequests": 0
+    },
+    "image": {
+      "noOfRequests": 0
+    },
+    "style": {
+      "noOfRequests": 0
+    },
+    "script": {
+      "noOfRequests": 0
+    },
+    "xhr": {
+      "noOfRequests": 0
+    },
+    "other": {
+      "noOfRequests": 0
+    }
+  }
+}

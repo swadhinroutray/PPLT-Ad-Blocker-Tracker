@@ -1,0 +1,72 @@
+{
+  "pages": {
+    "noOfPages": 1,
+    "medianOnLoad": 832,
+    "ninetyFifthOnLoad": 832,
+    "pages": [
+      {
+        "url": "Amazon.com. Spend less. Smile more.",
+        "onLoad": 832
+      }
+    ]
+  },
+  "requests": {
+    "all": {
+      "noOfRequests": 464,
+      "medianTime": 0,
+      "ninetyFifthTime": 126,
+      "medianTimings": {
+        "blocked": 0,
+        "wait": 0,
+        "receive": 0
+      },
+      "ninetyFifthTimings": {
+        "blocked": 91,
+        "wait": 106,
+        "receive": 7
+      },
+      "bytesTransferred": null,
+      "topUrl": {
+        "url": "https://www.amazon.com/rd/uedata",
+        "noOfOccurrences": 10
+      },
+      "largest": {
+        "url": "https://images-na.ssl-images-amazon.com/images/G/01/DiscoTec/2022/CML/Holiday/GW/QuadCards/DT/CML_Holiday_CMLGifts4_Version2_ColdWeatherPicks_GW_QuadCard_Desktop_372x232_SE_2x._SY232_CB606284124_.jpg"
+      },
+      "largestCompressed": {
+        "url": "https://m.media-amazon.com/images/I/313SuQK2WGL.js"
+      },
+      "longest": {
+        "url": "https://player.stats.live-video.net/",
+        "time": 675,
+        "timings": {
+          "blocked": 293,
+          "wait": 88,
+          "receive": 0,
+          "connect": 86
+        }
+      }
+    },
+    "document": {
+      "noOfRequests": 0
+    },
+    "font": {
+      "noOfRequests": 0
+    },
+    "image": {
+      "noOfRequests": 0
+    },
+    "style": {
+      "noOfRequests": 0
+    },
+    "script": {
+      "noOfRequests": 0
+    },
+    "xhr": {
+      "noOfRequests": 0
+    },
+    "other": {
+      "noOfRequests": 0
+    }
+  }
+}

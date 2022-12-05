@@ -1,0 +1,73 @@
+{
+  "pages": {
+    "noOfPages": 1,
+    "medianOnLoad": null,
+    "ninetyFifthOnLoad": null,
+    "pages": [
+      {
+        "url": "Qualcomm",
+        "onLoad": null
+      }
+    ]
+  },
+  "requests": {
+    "all": {
+      "noOfRequests": 33,
+      "medianTime": 86,
+      "ninetyFifthTime": 390,
+      "medianTimings": {
+        "blocked": -1,
+        "wait": 39,
+        "receive": 20
+      },
+      "ninetyFifthTimings": {
+        "blocked": 0,
+        "wait": 61,
+        "receive": 120
+      },
+      "bytesTransferred": null,
+      "topUrl": {
+        "url": "https://www.qualcomm.com/etc.clientlibs/qcomm-martech/clientlibs/clientlib-react/resources/favicon.ico",
+        "noOfOccurrences": 0
+      },
+      "largest": {
+        "url": "https://www.qualcomm.com/etc.clientlibs/qcomm-martech/clientlibs/clientlib-react/resources/favicon.ico",
+        "bytes": 0
+      },
+      "largestCompressed": {
+        "url": "https://dggo.dollargeneral.com/images/32/71/32710201_0.jpg"
+      },
+      "longest": {
+        "url": "https://www.qualcomm.com/content/qcomm-martech/us/en/jcr:content/content/globalheader.model.globalheader.json",
+        "time": 429,
+        "timings": {
+          "blocked": 0,
+          "wait": 36,
+          "receive": 298,
+          "connect": 94
+        }
+      }
+    },
+    "document": {
+      "noOfRequests": 0
+    },
+    "font": {
+      "noOfRequests": 0
+    },
+    "image": {
+      "noOfRequests": 0
+    },
+    "style": {
+      "noOfRequests": 0
+    },
+    "script": {
+      "noOfRequests": 0
+    },
+    "xhr": {
+      "noOfRequests": 0
+    },
+    "other": {
+      "noOfRequests": 0
+    }
+  }
+}

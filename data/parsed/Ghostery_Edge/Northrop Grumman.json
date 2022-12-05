@@ -1,0 +1,73 @@
+{
+  "pages": {
+    "noOfPages": 1,
+    "medianOnLoad": null,
+    "ninetyFifthOnLoad": null,
+    "pages": [
+      {
+        "url": "Northrop Grumman",
+        "onLoad": null
+      }
+    ]
+  },
+  "requests": {
+    "all": {
+      "noOfRequests": 136,
+      "medianTime": 96,
+      "ninetyFifthTime": 244,
+      "medianTimings": {
+        "blocked": 0,
+        "wait": 31,
+        "receive": 0
+      },
+      "ninetyFifthTimings": {
+        "blocked": 0,
+        "wait": 65,
+        "receive": 28
+      },
+      "bytesTransferred": null,
+      "topUrl": {
+        "url": "https://www.northropgrumman.com/_static/",
+        "noOfOccurrences": 10
+      },
+      "largest": {
+        "url": "https://match.adsrvr.org/track/upb/",
+        "bytes": 0
+      },
+      "largestCompressed": {
+        "url": "https://173bf109.akstat.io/"
+      },
+      "longest": {
+        "url": "https://stats.wp.com/e-202248.js",
+        "time": 754,
+        "timings": {
+          "blocked": 0,
+          "wait": 33,
+          "receive": 0,
+          "connect": 716
+        }
+      }
+    },
+    "document": {
+      "noOfRequests": 0
+    },
+    "font": {
+      "noOfRequests": 0
+    },
+    "image": {
+      "noOfRequests": 0
+    },
+    "style": {
+      "noOfRequests": 0
+    },
+    "script": {
+      "noOfRequests": 0
+    },
+    "xhr": {
+      "noOfRequests": 0
+    },
+    "other": {
+      "noOfRequests": 0
+    }
+  }
+}

@@ -1,0 +1,73 @@
+{
+  "pages": {
+    "noOfPages": 1,
+    "medianOnLoad": null,
+    "ninetyFifthOnLoad": null,
+    "pages": [
+      {
+        "url": "PepsiCo",
+        "onLoad": null
+      }
+    ]
+  },
+  "requests": {
+    "all": {
+      "noOfRequests": 126,
+      "medianTime": 37,
+      "ninetyFifthTime": 229,
+      "medianTimings": {
+        "blocked": -1,
+        "wait": 26,
+        "receive": 2
+      },
+      "ninetyFifthTimings": {
+        "blocked": 0,
+        "wait": 66,
+        "receive": 64
+      },
+      "bytesTransferred": null,
+      "topUrl": {
+        "url": "https://www.gstatic.com/recaptcha/releases/Km9gKuG06He-isPsP6saG8cn/recaptcha__en.js",
+        "noOfOccurrences": 2
+      },
+      "largest": {
+        "url": "https://www.pepsico.com/assets/images/icons/favicons/favicon-32.png",
+        "bytes": 0
+      },
+      "largestCompressed": {
+        "url": "https://www.citigroup.com/citi/assets/dist/vendors.min.js"
+      },
+      "longest": {
+        "url": "https://www.pepsico.com/",
+        "time": 975,
+        "timings": {
+          "blocked": 0,
+          "wait": 32,
+          "receive": 35,
+          "connect": 812
+        }
+      }
+    },
+    "document": {
+      "noOfRequests": 0
+    },
+    "font": {
+      "noOfRequests": 0
+    },
+    "image": {
+      "noOfRequests": 0
+    },
+    "style": {
+      "noOfRequests": 0
+    },
+    "script": {
+      "noOfRequests": 0
+    },
+    "xhr": {
+      "noOfRequests": 0
+    },
+    "other": {
+      "noOfRequests": 0
+    }
+  }
+}

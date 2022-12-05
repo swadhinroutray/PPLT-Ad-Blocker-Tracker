@@ -1,0 +1,73 @@
+{
+  "pages": {
+    "noOfPages": 1,
+    "medianOnLoad": null,
+    "ninetyFifthOnLoad": null,
+    "pages": [
+      {
+        "url": "Performance Food Group",
+        "onLoad": null
+      }
+    ]
+  },
+  "requests": {
+    "all": {
+      "noOfRequests": 62,
+      "medianTime": 58,
+      "ninetyFifthTime": 334,
+      "medianTimings": {
+        "blocked": -1,
+        "wait": 33,
+        "receive": 0
+      },
+      "ninetyFifthTimings": {
+        "blocked": 0,
+        "wait": 70,
+        "receive": 47
+      },
+      "bytesTransferred": null,
+      "topUrl": {
+        "url": "https://a.dpmsrv.com/dpmpxl/index.php",
+        "noOfOccurrences": 1
+      },
+      "largest": {
+        "url": "https://www.pfgc.com/favicon.ico",
+        "bytes": 0
+      },
+      "largestCompressed": {
+        "url": "https://www.pfgc.com/"
+      },
+      "longest": {
+        "url": "https://www.pfgc.com/sites/PFGC/css/main.css",
+        "time": 389,
+        "timings": {
+          "blocked": 0,
+          "wait": 61,
+          "receive": 47,
+          "connect": 226
+        }
+      }
+    },
+    "document": {
+      "noOfRequests": 0
+    },
+    "font": {
+      "noOfRequests": 0
+    },
+    "image": {
+      "noOfRequests": 0
+    },
+    "style": {
+      "noOfRequests": 0
+    },
+    "script": {
+      "noOfRequests": 0
+    },
+    "xhr": {
+      "noOfRequests": 0
+    },
+    "other": {
+      "noOfRequests": 0
+    }
+  }
+}

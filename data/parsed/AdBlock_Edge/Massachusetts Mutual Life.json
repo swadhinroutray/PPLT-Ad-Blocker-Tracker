@@ -1,0 +1,73 @@
+{
+  "pages": {
+    "noOfPages": 1,
+    "medianOnLoad": null,
+    "ninetyFifthOnLoad": null,
+    "pages": [
+      {
+        "url": "Massachusetts Mutual Life",
+        "onLoad": null
+      }
+    ]
+  },
+  "requests": {
+    "all": {
+      "noOfRequests": 235,
+      "medianTime": 89,
+      "ninetyFifthTime": 529,
+      "medianTimings": {
+        "blocked": -1,
+        "wait": 33,
+        "receive": 0
+      },
+      "ninetyFifthTimings": {
+        "blocked": 0,
+        "wait": 194,
+        "receive": 35
+      },
+      "bytesTransferred": null,
+      "topUrl": {
+        "url": "https://s.iaudienc.com/2/2.84.0/187292/AavgwKkHBZGI1UtG/postback",
+        "noOfOccurrences": 10
+      },
+      "largest": {
+        "url": "https://www.massmutual.com/mm-assets/3.5.16/mm-consumer/images/icons/actions/dismiss.svg",
+        "bytes": 0
+      },
+      "largestCompressed": {
+        "url": "https://www.massmutual.com/"
+      },
+      "longest": {
+        "url": "https://analytics.tiktok.com/i18n/pixel/events.js",
+        "time": 1061,
+        "timings": {
+          "blocked": 0,
+          "wait": 240,
+          "receive": 444,
+          "connect": 279
+        }
+      }
+    },
+    "document": {
+      "noOfRequests": 0
+    },
+    "font": {
+      "noOfRequests": 0
+    },
+    "image": {
+      "noOfRequests": 0
+    },
+    "style": {
+      "noOfRequests": 0
+    },
+    "script": {
+      "noOfRequests": 0
+    },
+    "xhr": {
+      "noOfRequests": 0
+    },
+    "other": {
+      "noOfRequests": 0
+    }
+  }
+}

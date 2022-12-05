@@ -1,0 +1,73 @@
+{
+  "pages": {
+    "noOfPages": 1,
+    "medianOnLoad": null,
+    "ninetyFifthOnLoad": null,
+    "pages": [
+      {
+        "url": "Hewlett Packard Enterpri",
+        "onLoad": null
+      }
+    ]
+  },
+  "requests": {
+    "all": {
+      "noOfRequests": 199,
+      "medianTime": 52,
+      "ninetyFifthTime": 361,
+      "medianTimings": {
+        "blocked": -1,
+        "wait": 27,
+        "receive": 0
+      },
+      "ninetyFifthTimings": {
+        "blocked": 0,
+        "wait": 102,
+        "receive": 22
+      },
+      "bytesTransferred": null,
+      "topUrl": {
+        "url": "https://collect.analyze.ly/",
+        "noOfOccurrences": 8
+      },
+      "largest": {
+        "url": "https://js.driftt.com/core/assets/js/32.02c90ef9.chunk.js",
+        "bytes": 0
+      },
+      "largestCompressed": {
+        "url": "https://images.ctfassets.net/srys4ukjcerm/48SxZHAObVtxfgKfGHNSXS/86caecbad7f37a53ffb627428ac8134a/hero-SeptHomepage-LillyMoments_ManufacturingPR_May2019_tmp19041_1267.jpg"
+      },
+      "longest": {
+        "url": "https://www.hpe.com/apps/hpeweb-ui/js/components/hpe-my-account/modal-signinup-overlay.009b7aca8d3f428ff033.js",
+        "time": 9118,
+        "timings": {
+          "blocked": -1,
+          "wait": 9118,
+          "receive": 0,
+          "connect": -1
+        }
+      }
+    },
+    "document": {
+      "noOfRequests": 0
+    },
+    "font": {
+      "noOfRequests": 0
+    },
+    "image": {
+      "noOfRequests": 0
+    },
+    "style": {
+      "noOfRequests": 0
+    },
+    "script": {
+      "noOfRequests": 0
+    },
+    "xhr": {
+      "noOfRequests": 0
+    },
+    "other": {
+      "noOfRequests": 0
+    }
+  }
+}

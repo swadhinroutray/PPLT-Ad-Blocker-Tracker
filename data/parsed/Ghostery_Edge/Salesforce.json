@@ -1,0 +1,73 @@
+{
+  "pages": {
+    "noOfPages": 1,
+    "medianOnLoad": null,
+    "ninetyFifthOnLoad": null,
+    "pages": [
+      {
+        "url": "Salesforce",
+        "onLoad": null
+      }
+    ]
+  },
+  "requests": {
+    "all": {
+      "noOfRequests": 200,
+      "medianTime": 87,
+      "ninetyFifthTime": 364,
+      "medianTimings": {
+        "blocked": 0,
+        "wait": 26,
+        "receive": 0
+      },
+      "ninetyFifthTimings": {
+        "blocked": 0,
+        "wait": 80,
+        "receive": 19
+      },
+      "bytesTransferred": null,
+      "topUrl": {
+        "url": "https://p.adsymptotic.com/d/px/",
+        "noOfOccurrences": 3
+      },
+      "largest": {
+        "url": "https://trc-events.taboola.com/1017061/log/3/unip",
+        "bytes": 0
+      },
+      "largestCompressed": {
+        "url": "https://dc.services.visualstudio.com/v2/track"
+      },
+      "longest": {
+        "url": "https://www.salesforce.com/wbin/www-core/f/g",
+        "time": 989,
+        "timings": {
+          "blocked": 0,
+          "wait": 919,
+          "receive": 0,
+          "connect": 70
+        }
+      }
+    },
+    "document": {
+      "noOfRequests": 0
+    },
+    "font": {
+      "noOfRequests": 0
+    },
+    "image": {
+      "noOfRequests": 0
+    },
+    "style": {
+      "noOfRequests": 0
+    },
+    "script": {
+      "noOfRequests": 0
+    },
+    "xhr": {
+      "noOfRequests": 0
+    },
+    "other": {
+      "noOfRequests": 0
+    }
+  }
+}

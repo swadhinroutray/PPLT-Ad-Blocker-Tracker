@@ -1,0 +1,73 @@
+{
+  "pages": {
+    "noOfPages": 1,
+    "medianOnLoad": null,
+    "ninetyFifthOnLoad": null,
+    "pages": [
+      {
+        "url": "Pfizer",
+        "onLoad": null
+      }
+    ]
+  },
+  "requests": {
+    "all": {
+      "noOfRequests": 44,
+      "medianTime": 64,
+      "ninetyFifthTime": 272,
+      "medianTimings": {
+        "blocked": -1,
+        "wait": 41,
+        "receive": 0
+      },
+      "ninetyFifthTimings": {
+        "blocked": 0,
+        "wait": 86,
+        "receive": 37
+      },
+      "bytesTransferred": null,
+      "topUrl": {
+        "url": "https://www.pfizer.com/profiles/pfecpfizercomus_profile/themes/pfcorporate_helix/favicons/favicon-32x32.png",
+        "noOfOccurrences": 0
+      },
+      "largest": {
+        "url": "https://www.pfizer.com/profiles/pfecpfizercomus_profile/themes/pfcorporate_helix/favicons/favicon-32x32.png",
+        "bytes": 0
+      },
+      "largestCompressed": {
+        "url": "https://www.pfizer.com/"
+      },
+      "longest": {
+        "url": "https://www.pfizer.com/",
+        "time": 423,
+        "timings": {
+          "blocked": 0,
+          "wait": 46,
+          "receive": 12,
+          "connect": 316
+        }
+      }
+    },
+    "document": {
+      "noOfRequests": 0
+    },
+    "font": {
+      "noOfRequests": 0
+    },
+    "image": {
+      "noOfRequests": 0
+    },
+    "style": {
+      "noOfRequests": 0
+    },
+    "script": {
+      "noOfRequests": 0
+    },
+    "xhr": {
+      "noOfRequests": 0
+    },
+    "other": {
+      "noOfRequests": 0
+    }
+  }
+}

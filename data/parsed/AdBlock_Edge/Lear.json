@@ -1,0 +1,73 @@
+{
+  "pages": {
+    "noOfPages": 1,
+    "medianOnLoad": null,
+    "ninetyFifthOnLoad": null,
+    "pages": [
+      {
+        "url": "Lear",
+        "onLoad": null
+      }
+    ]
+  },
+  "requests": {
+    "all": {
+      "noOfRequests": 109,
+      "medianTime": 67,
+      "ninetyFifthTime": 553,
+      "medianTimings": {
+        "blocked": -1,
+        "wait": 28,
+        "receive": 0
+      },
+      "ninetyFifthTimings": {
+        "blocked": 0,
+        "wait": 72,
+        "receive": 129
+      },
+      "bytesTransferred": null,
+      "topUrl": {
+        "url": "https://p.adsymptotic.com/d/px/",
+        "noOfOccurrences": 3
+      },
+      "largest": {
+        "url": "https://track.hubspot.com/__ptq.gif",
+        "bytes": 0
+      },
+      "largestCompressed": {
+        "url": "https://nav-edge.smartscreen.microsoft.com/api/browser/edge/navigate/3"
+      },
+      "longest": {
+        "url": "https://edge.microsoft.com/autofillservice/v1/pages/ChVDaHJvbWUvMTA3LjAuNTMwNC4xNTASXQnB6Hf1b9w0ZBIFDayD_DQSBQ1kWfH2EgUNg6hbPRIFDcvvsz8SBQ2bs-2VEgUNbialBhIFDfdhZ4gSBQ0N-CTsEgUNF9NV5BIFDbyyZo8SBQ3ADac6EgUNWjQTjg==",
+        "time": 1449,
+        "timings": {
+          "blocked": 0,
+          "wait": 1318,
+          "receive": 0,
+          "connect": 131
+        }
+      }
+    },
+    "document": {
+      "noOfRequests": 0
+    },
+    "font": {
+      "noOfRequests": 0
+    },
+    "image": {
+      "noOfRequests": 0
+    },
+    "style": {
+      "noOfRequests": 0
+    },
+    "script": {
+      "noOfRequests": 0
+    },
+    "xhr": {
+      "noOfRequests": 0
+    },
+    "other": {
+      "noOfRequests": 0
+    }
+  }
+}

@@ -1,0 +1,73 @@
+{
+  "pages": {
+    "noOfPages": 1,
+    "medianOnLoad": null,
+    "ninetyFifthOnLoad": null,
+    "pages": [
+      {
+        "url": "Synchrony Financial",
+        "onLoad": null
+      }
+    ]
+  },
+  "requests": {
+    "all": {
+      "noOfRequests": 140,
+      "medianTime": 99,
+      "ninetyFifthTime": 341,
+      "medianTimings": {
+        "blocked": 0,
+        "wait": 30,
+        "receive": 0
+      },
+      "ninetyFifthTimings": {
+        "blocked": 0,
+        "wait": 55,
+        "receive": 49
+      },
+      "bytesTransferred": null,
+      "topUrl": {
+        "url": "https://www.googletagmanager.com/gtag/js",
+        "noOfOccurrences": 2
+      },
+      "largest": {
+        "url": "https://www.google.com/ads/ga-audiences",
+        "bytes": 0
+      },
+      "largestCompressed": {
+        "url": "https://sstats.adobe.com/b/ss/adbadobenonacdcprod,adbadobeprototype/1/JS-2.22.4-LCXS/s17211740640367"
+      },
+      "longest": {
+        "url": "https://9037573.fls.doubleclick.net/activityi;src=9037573;type=visits;cat=syf_g0;ord=1;num=9870064256991;gtm=2odbu0;auiddc=2050450816.1670019695;gdid=dYmQxMT;~oref=https%3A%2F%2Fwww.synchrony.com%2F",
+        "time": 604,
+        "timings": {
+          "blocked": 0,
+          "wait": 38,
+          "receive": 0,
+          "connect": 502
+        }
+      }
+    },
+    "document": {
+      "noOfRequests": 0
+    },
+    "font": {
+      "noOfRequests": 0
+    },
+    "image": {
+      "noOfRequests": 0
+    },
+    "style": {
+      "noOfRequests": 0
+    },
+    "script": {
+      "noOfRequests": 0
+    },
+    "xhr": {
+      "noOfRequests": 0
+    },
+    "other": {
+      "noOfRequests": 0
+    }
+  }
+}

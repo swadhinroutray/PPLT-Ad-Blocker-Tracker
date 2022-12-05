@@ -1,0 +1,73 @@
+{
+  "pages": {
+    "noOfPages": 1,
+    "medianOnLoad": null,
+    "ninetyFifthOnLoad": null,
+    "pages": [
+      {
+        "url": "Lumen Technologies",
+        "onLoad": null
+      }
+    ]
+  },
+  "requests": {
+    "all": {
+      "noOfRequests": 120,
+      "medianTime": 93,
+      "ninetyFifthTime": 438,
+      "medianTimings": {
+        "blocked": -1,
+        "wait": 47,
+        "receive": 0
+      },
+      "ninetyFifthTimings": {
+        "blocked": 0,
+        "wait": 144,
+        "receive": 63
+      },
+      "bytesTransferred": null,
+      "topUrl": {
+        "url": "https://pages.lumentech.com/index.php/form/getForm",
+        "noOfOccurrences": 16
+      },
+      "largest": {
+        "url": "https://edge.microsoft.com/autofillservice/v1/pages/ChVDaHJvbWUvMTA3LjAuNTMwNC4xNTASJQmG_jmDOa2EOBIFDZFhlU4SBQ2RYZVOEgUNkWGVThIFDaWTNiQ=",
+        "bytes": 0
+      },
+      "largestCompressed": {
+        "url": "https://www.u46.pnc.com/783807/x0QRt"
+      },
+      "longest": {
+        "url": "https://pages.lumentech.com/js/forms2/js/forms2.min.js",
+        "time": 779,
+        "timings": {
+          "blocked": 0,
+          "wait": 51,
+          "receive": 26,
+          "connect": 515
+        }
+      }
+    },
+    "document": {
+      "noOfRequests": 0
+    },
+    "font": {
+      "noOfRequests": 0
+    },
+    "image": {
+      "noOfRequests": 0
+    },
+    "style": {
+      "noOfRequests": 0
+    },
+    "script": {
+      "noOfRequests": 0
+    },
+    "xhr": {
+      "noOfRequests": 0
+    },
+    "other": {
+      "noOfRequests": 0
+    }
+  }
+}

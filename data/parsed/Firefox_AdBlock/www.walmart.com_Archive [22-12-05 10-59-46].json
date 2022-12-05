@@ -1,0 +1,73 @@
+{
+  "pages": {
+    "noOfPages": 1,
+    "medianOnLoad": 1639,
+    "ninetyFifthOnLoad": 1639,
+    "pages": [
+      {
+        "url": "Walmart.com | Save Money. Live Better",
+        "onLoad": 1639
+      }
+    ]
+  },
+  "requests": {
+    "all": {
+      "noOfRequests": 121,
+      "medianTime": 0,
+      "ninetyFifthTime": 299,
+      "medianTimings": {
+        "blocked": 0,
+        "wait": 0,
+        "receive": 0
+      },
+      "ninetyFifthTimings": {
+        "blocked": null,
+        "wait": null,
+        "receive": null
+      },
+      "bytesTransferred": null,
+      "topUrl": {
+        "url": "https://beacon.walmart.com/rum.gif",
+        "noOfOccurrences": 5
+      },
+      "largest": {
+        "url": "https://i5.walmartimages.com/dfw/63fd9f59-c635/64830448-3c1c-499f-87e4-b0027614aa6a/v2/en-US/_next/static/chunks/node_modules_.pnpm_debounce@1.2_node_modules_debounce_index-cd7dfacff6815d78.js",
+        "bytes": 132427
+      },
+      "largestCompressed": {
+        "url": "https://i5.walmartimages.com/beacon/beacon.js"
+      },
+      "longest": {
+        "url": "https://www.walmart.com/",
+        "time": 614,
+        "timings": {
+          "blocked": 64,
+          "wait": 454,
+          "receive": 32,
+          "connect": 17
+        }
+      }
+    },
+    "document": {
+      "noOfRequests": 0
+    },
+    "font": {
+      "noOfRequests": 0
+    },
+    "image": {
+      "noOfRequests": 0
+    },
+    "style": {
+      "noOfRequests": 0
+    },
+    "script": {
+      "noOfRequests": 0
+    },
+    "xhr": {
+      "noOfRequests": 0
+    },
+    "other": {
+      "noOfRequests": 0
+    }
+  }
+}

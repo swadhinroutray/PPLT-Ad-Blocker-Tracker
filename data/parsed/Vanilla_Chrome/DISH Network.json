@@ -1,0 +1,73 @@
+{
+  "pages": {
+    "noOfPages": 1,
+    "medianOnLoad": null,
+    "ninetyFifthOnLoad": null,
+    "pages": [
+      {
+        "url": "DISH Network",
+        "onLoad": null
+      }
+    ]
+  },
+  "requests": {
+    "all": {
+      "noOfRequests": 206,
+      "medianTime": 45,
+      "ninetyFifthTime": 372,
+      "medianTimings": {
+        "blocked": -1,
+        "wait": 34,
+        "receive": 0
+      },
+      "ninetyFifthTimings": {
+        "blocked": 0,
+        "wait": 102,
+        "receive": 20
+      },
+      "bytesTransferred": null,
+      "topUrl": {
+        "url": "https://smetrics.dish.com/ee/va6/v1/interact",
+        "noOfOccurrences": 2
+      },
+      "largest": {
+        "url": "https://www.dish.com/images/favicon.png",
+        "bytes": 0
+      },
+      "largestCompressed": {
+        "url": "https://privacyportal-de.onetrust.com/request/v1/consentreceipts"
+      },
+      "longest": {
+        "url": "https://www.mp.dish.com/events",
+        "time": 642,
+        "timings": {
+          "blocked": 0,
+          "wait": 82,
+          "receive": 0,
+          "connect": 492
+        }
+      }
+    },
+    "document": {
+      "noOfRequests": 0
+    },
+    "font": {
+      "noOfRequests": 0
+    },
+    "image": {
+      "noOfRequests": 0
+    },
+    "style": {
+      "noOfRequests": 0
+    },
+    "script": {
+      "noOfRequests": 0
+    },
+    "xhr": {
+      "noOfRequests": 0
+    },
+    "other": {
+      "noOfRequests": 0
+    }
+  }
+}

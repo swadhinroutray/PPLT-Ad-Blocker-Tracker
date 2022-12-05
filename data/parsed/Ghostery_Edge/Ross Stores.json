@@ -1,0 +1,73 @@
+{
+  "pages": {
+    "noOfPages": 1,
+    "medianOnLoad": null,
+    "ninetyFifthOnLoad": null,
+    "pages": [
+      {
+        "url": "Ross Stores",
+        "onLoad": null
+      }
+    ]
+  },
+  "requests": {
+    "all": {
+      "noOfRequests": 94,
+      "medianTime": 126,
+      "ninetyFifthTime": 333,
+      "medianTimings": {
+        "blocked": 0,
+        "wait": 39,
+        "receive": 0
+      },
+      "ninetyFifthTimings": {
+        "blocked": 0,
+        "wait": 81,
+        "receive": 30
+      },
+      "bytesTransferred": null,
+      "topUrl": {
+        "url": "https://www.facebook.com/tr/",
+        "noOfOccurrences": 1
+      },
+      "largest": {
+        "url": "https://www.rossstores.com/wp-content/uploads/2021/03/cropped-cropped-ross_favicon_master-32x32.png",
+        "bytes": 0
+      },
+      "largestCompressed": {
+        "url": "https://173bf104.akstat.io/"
+      },
+      "longest": {
+        "url": "https://www.rossstores.com/",
+        "time": 470,
+        "timings": {
+          "blocked": 0,
+          "wait": 53,
+          "receive": 1,
+          "connect": 342
+        }
+      }
+    },
+    "document": {
+      "noOfRequests": 0
+    },
+    "font": {
+      "noOfRequests": 0
+    },
+    "image": {
+      "noOfRequests": 0
+    },
+    "style": {
+      "noOfRequests": 0
+    },
+    "script": {
+      "noOfRequests": 0
+    },
+    "xhr": {
+      "noOfRequests": 0
+    },
+    "other": {
+      "noOfRequests": 0
+    }
+  }
+}

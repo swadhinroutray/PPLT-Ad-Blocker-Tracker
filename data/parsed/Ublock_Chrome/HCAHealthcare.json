@@ -1,0 +1,73 @@
+{
+  "pages": {
+    "noOfPages": 1,
+    "medianOnLoad": null,
+    "ninetyFifthOnLoad": null,
+    "pages": [
+      {
+        "url": "HCAHealthcare",
+        "onLoad": null
+      }
+    ]
+  },
+  "requests": {
+    "all": {
+      "noOfRequests": 40,
+      "medianTime": 37,
+      "ninetyFifthTime": 160,
+      "medianTimings": {
+        "blocked": -1,
+        "wait": 31,
+        "receive": 0
+      },
+      "ninetyFifthTimings": {
+        "blocked": 0,
+        "wait": 64,
+        "receive": 27
+      },
+      "bytesTransferred": null,
+      "topUrl": {
+        "url": "https://www.abbvie.com/content/dam/abbvie-dotcom/images/icons/abbvie-social_linkedin.svg",
+        "noOfOccurrences": 2
+      },
+      "largest": {
+        "url": "https://www.abbvie.com/etc.clientlibs/abbvie-com/clientlibs/clientlib-site/resources/favicons/favicon.ico",
+        "bytes": 0
+      },
+      "largestCompressed": {
+        "url": "https://www.abbvie.com/"
+      },
+      "longest": {
+        "url": "https://news.abbvie.com/rss.cfm",
+        "time": 885,
+        "timings": {
+          "blocked": 0,
+          "wait": 573,
+          "receive": 23,
+          "connect": 205
+        }
+      }
+    },
+    "document": {
+      "noOfRequests": 0
+    },
+    "font": {
+      "noOfRequests": 0
+    },
+    "image": {
+      "noOfRequests": 0
+    },
+    "style": {
+      "noOfRequests": 0
+    },
+    "script": {
+      "noOfRequests": 0
+    },
+    "xhr": {
+      "noOfRequests": 0
+    },
+    "other": {
+      "noOfRequests": 0
+    }
+  }
+}

@@ -1,0 +1,72 @@
+{
+  "pages": {
+    "noOfPages": 1,
+    "medianOnLoad": 1765,
+    "ninetyFifthOnLoad": 1765,
+    "pages": [
+      {
+        "url": "Pioneering mRNA technology - Moderna",
+        "onLoad": 1765
+      }
+    ]
+  },
+  "requests": {
+    "all": {
+      "noOfRequests": 57,
+      "medianTime": 0,
+      "ninetyFifthTime": 198,
+      "medianTimings": {
+        "blocked": 0,
+        "wait": 0,
+        "receive": 0
+      },
+      "ninetyFifthTimings": {
+        "blocked": null,
+        "wait": null,
+        "receive": null
+      },
+      "bytesTransferred": null,
+      "topUrl": {
+        "url": "https://www.modernatx.com/assets/images/media-tile-default-background.svg",
+        "noOfOccurrences": 1
+      },
+      "largest": {
+        "url": "https://pbs.twimg.com/media/Fi_ccslXkAk89xo.jpg"
+      },
+      "largestCompressed": {
+        "url": "https://www.modernatx.com/_next/static/chunks/545ebdf828b3d6e9483ef7f54b792d43f6e93d39.12ae4a57c89286c94275.js"
+      },
+      "longest": {
+        "url": "https://www.modernatx.com/",
+        "time": 1082,
+        "timings": {
+          "blocked": 83,
+          "wait": 918,
+          "receive": 0,
+          "connect": 16
+        }
+      }
+    },
+    "document": {
+      "noOfRequests": 0
+    },
+    "font": {
+      "noOfRequests": 0
+    },
+    "image": {
+      "noOfRequests": 0
+    },
+    "style": {
+      "noOfRequests": 0
+    },
+    "script": {
+      "noOfRequests": 0
+    },
+    "xhr": {
+      "noOfRequests": 0
+    },
+    "other": {
+      "noOfRequests": 0
+    }
+  }
+}

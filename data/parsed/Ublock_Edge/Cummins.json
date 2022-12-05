@@ -1,0 +1,73 @@
+{
+  "pages": {
+    "noOfPages": 1,
+    "medianOnLoad": null,
+    "ninetyFifthOnLoad": null,
+    "pages": [
+      {
+        "url": "Cummins",
+        "onLoad": null
+      }
+    ]
+  },
+  "requests": {
+    "all": {
+      "noOfRequests": 148,
+      "medianTime": 50,
+      "ninetyFifthTime": 162,
+      "medianTimings": {
+        "blocked": -1,
+        "wait": 46,
+        "receive": 0
+      },
+      "ninetyFifthTimings": {
+        "blocked": 0,
+        "wait": 82,
+        "receive": 6
+      },
+      "bytesTransferred": null,
+      "topUrl": {
+        "url": "https://www.cummins.com/sites/default/files/2021-03/cummins.com-icons-map-pin_0.svg",
+        "noOfOccurrences": 1
+      },
+      "largest": {
+        "url": "https://edge.microsoft.com/autofillservice/v1/pages/ChVDaHJvbWUvMTA3LjAuNTMwNC4xNTASEAnViGau91ExoRIFDaWTNiQ=",
+        "bytes": 0
+      },
+      "largestCompressed": {
+        "url": "https://dynaag.riteaid.com/bf/0af9bfb2-30ba-4954-8403-e3ff4c4faf2f"
+      },
+      "longest": {
+        "url": "https://www.cummins.com/",
+        "time": 1193,
+        "timings": {
+          "blocked": 0,
+          "wait": 924,
+          "receive": 1,
+          "connect": 209
+        }
+      }
+    },
+    "document": {
+      "noOfRequests": 0
+    },
+    "font": {
+      "noOfRequests": 0
+    },
+    "image": {
+      "noOfRequests": 0
+    },
+    "style": {
+      "noOfRequests": 0
+    },
+    "script": {
+      "noOfRequests": 0
+    },
+    "xhr": {
+      "noOfRequests": 0
+    },
+    "other": {
+      "noOfRequests": 0
+    }
+  }
+}

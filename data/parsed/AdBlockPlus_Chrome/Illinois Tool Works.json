@@ -1,0 +1,73 @@
+{
+  "pages": {
+    "noOfPages": 1,
+    "medianOnLoad": null,
+    "ninetyFifthOnLoad": null,
+    "pages": [
+      {
+        "url": "Illinois Tool Works",
+        "onLoad": null
+      }
+    ]
+  },
+  "requests": {
+    "all": {
+      "noOfRequests": 41,
+      "medianTime": 104,
+      "ninetyFifthTime": 445,
+      "medianTimings": {
+        "blocked": 0,
+        "wait": 35,
+        "receive": 0
+      },
+      "ninetyFifthTimings": {
+        "blocked": 0,
+        "wait": 61,
+        "receive": 73
+      },
+      "bytesTransferred": null,
+      "topUrl": {
+        "url": "https://www.itw.com/DependencyHandler.axd",
+        "noOfOccurrences": 1
+      },
+      "largest": {
+        "url": "https://content-autofill.googleapis.com/v1/pages/ChVDaHJvbWUvMTA3LjAuNTMwNC4xMjESEAl04itmR8D8ZhIFDQDfFjU=",
+        "bytes": 0
+      },
+      "largestCompressed": {
+        "url": "https://www.amfam.com/rb_fc4e0b58-a44c-4748-a96f-c5d0c7a4f832"
+      },
+      "longest": {
+        "url": "https://www.itw.com/media/py5l4gwe/itw-june-blog-heads.png",
+        "time": 694,
+        "timings": {
+          "blocked": -1,
+          "wait": 49,
+          "receive": 644,
+          "connect": -1
+        }
+      }
+    },
+    "document": {
+      "noOfRequests": 0
+    },
+    "font": {
+      "noOfRequests": 0
+    },
+    "image": {
+      "noOfRequests": 0
+    },
+    "style": {
+      "noOfRequests": 0
+    },
+    "script": {
+      "noOfRequests": 0
+    },
+    "xhr": {
+      "noOfRequests": 0
+    },
+    "other": {
+      "noOfRequests": 0
+    }
+  }
+}

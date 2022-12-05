@@ -1,0 +1,73 @@
+{
+  "pages": {
+    "noOfPages": 1,
+    "medianOnLoad": null,
+    "ninetyFifthOnLoad": null,
+    "pages": [
+      {
+        "url": "Cleveland-Cliffs",
+        "onLoad": null
+      }
+    ]
+  },
+  "requests": {
+    "all": {
+      "noOfRequests": 45,
+      "medianTime": 194,
+      "ninetyFifthTime": 590,
+      "medianTimings": {
+        "blocked": 0,
+        "wait": 35,
+        "receive": 1
+      },
+      "ninetyFifthTimings": {
+        "blocked": 0,
+        "wait": 96,
+        "receive": 315
+      },
+      "bytesTransferred": null,
+      "topUrl": {
+        "url": "https://edge.microsoft.com/entityextractiontemplates/api/v1/assets/find-assets",
+        "noOfOccurrences": 2
+      },
+      "largest": {
+        "url": "https://edge.microsoft.com/abusiveadblocking/api/v1/blocklist",
+        "bytes": 0
+      },
+      "largestCompressed": {
+        "url": "https://www.clevelandcliffs.com/"
+      },
+      "longest": {
+        "url": "https://data-edge.smartscreen.microsoft.com/api/browser/edge/data/toptraffic/3",
+        "time": 1168,
+        "timings": {
+          "blocked": 0,
+          "wait": 91,
+          "receive": 584,
+          "connect": 490
+        }
+      }
+    },
+    "document": {
+      "noOfRequests": 0
+    },
+    "font": {
+      "noOfRequests": 0
+    },
+    "image": {
+      "noOfRequests": 0
+    },
+    "style": {
+      "noOfRequests": 0
+    },
+    "script": {
+      "noOfRequests": 0
+    },
+    "xhr": {
+      "noOfRequests": 0
+    },
+    "other": {
+      "noOfRequests": 0
+    }
+  }
+}

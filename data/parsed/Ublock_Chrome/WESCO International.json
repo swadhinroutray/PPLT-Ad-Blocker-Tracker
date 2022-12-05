@@ -1,0 +1,73 @@
+{
+  "pages": {
+    "noOfPages": 1,
+    "medianOnLoad": null,
+    "ninetyFifthOnLoad": null,
+    "pages": [
+      {
+        "url": "WESCO International",
+        "onLoad": null
+      }
+    ]
+  },
+  "requests": {
+    "all": {
+      "noOfRequests": 103,
+      "medianTime": 45,
+      "ninetyFifthTime": 342,
+      "medianTimings": {
+        "blocked": -1,
+        "wait": 31,
+        "receive": 2
+      },
+      "ninetyFifthTimings": {
+        "blocked": 0,
+        "wait": 123,
+        "receive": 74
+      },
+      "bytesTransferred": null,
+      "topUrl": {
+        "url": "https://update.googleapis.com/service/update2/json",
+        "noOfOccurrences": 8
+      },
+      "largest": {
+        "url": "https://www.wesco.com/api/graphql",
+        "bytes": 0
+      },
+      "largestCompressed": {
+        "url": "https://update.googleapis.com/service/update2/json"
+      },
+      "longest": {
+        "url": "https://assets.adobedtm.com/38833b75d088/e1d89746e09b/launch-5720602dc662.min.js",
+        "time": 651,
+        "timings": {
+          "blocked": 0,
+          "wait": 24,
+          "receive": 29,
+          "connect": 567
+        }
+      }
+    },
+    "document": {
+      "noOfRequests": 0
+    },
+    "font": {
+      "noOfRequests": 0
+    },
+    "image": {
+      "noOfRequests": 0
+    },
+    "style": {
+      "noOfRequests": 0
+    },
+    "script": {
+      "noOfRequests": 0
+    },
+    "xhr": {
+      "noOfRequests": 0
+    },
+    "other": {
+      "noOfRequests": 0
+    }
+  }
+}

@@ -1,0 +1,73 @@
+{
+  "pages": {
+    "noOfPages": 1,
+    "medianOnLoad": null,
+    "ninetyFifthOnLoad": null,
+    "pages": [
+      {
+        "url": "Goldman Sachs Group",
+        "onLoad": null
+      }
+    ]
+  },
+  "requests": {
+    "all": {
+      "noOfRequests": 135,
+      "medianTime": 43,
+      "ninetyFifthTime": 236,
+      "medianTimings": {
+        "blocked": -1,
+        "wait": 33,
+        "receive": 0
+      },
+      "ninetyFifthTimings": {
+        "blocked": 0,
+        "wait": 111,
+        "receive": 16
+      },
+      "bytesTransferred": null,
+      "topUrl": {
+        "url": "https://bs.serving-sys.com/BurstingPipe/ActivityServer.bs",
+        "noOfOccurrences": 1
+      },
+      "largest": {
+        "url": "https://173bf106.akstat.io/",
+        "bytes": 0
+      },
+      "largestCompressed": {
+        "url": "https://www.goldmansachs.com/"
+      },
+      "longest": {
+        "url": "https://www.goldmansachs.com/",
+        "time": 1257,
+        "timings": {
+          "blocked": 0,
+          "wait": 957,
+          "receive": 0,
+          "connect": 168
+        }
+      }
+    },
+    "document": {
+      "noOfRequests": 0
+    },
+    "font": {
+      "noOfRequests": 0
+    },
+    "image": {
+      "noOfRequests": 0
+    },
+    "style": {
+      "noOfRequests": 0
+    },
+    "script": {
+      "noOfRequests": 0
+    },
+    "xhr": {
+      "noOfRequests": 0
+    },
+    "other": {
+      "noOfRequests": 0
+    }
+  }
+}

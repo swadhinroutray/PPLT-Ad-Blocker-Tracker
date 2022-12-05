@@ -1,0 +1,73 @@
+{
+  "pages": {
+    "noOfPages": 1,
+    "medianOnLoad": null,
+    "ninetyFifthOnLoad": null,
+    "pages": [
+      {
+        "url": "Home Depot",
+        "onLoad": null
+      }
+    ]
+  },
+  "requests": {
+    "all": {
+      "noOfRequests": 149,
+      "medianTime": 28,
+      "ninetyFifthTime": 325,
+      "medianTimings": {
+        "blocked": -1,
+        "wait": 24,
+        "receive": 0
+      },
+      "ninetyFifthTimings": {
+        "blocked": 0,
+        "wait": 111,
+        "receive": 28
+      },
+      "bytesTransferred": null,
+      "topUrl": {
+        "url": "https://www.homedepot.com/usA33cZNQ81N8jRWhG9mvph2bh8/5JuShNVtt1/WRZ9AQ/Tz/xQP3MQeXIB",
+        "noOfOccurrences": 3
+      },
+      "largest": {
+        "url": "https://1ad356638475.cdn4.forter.com/sn/1ad356638475/sha256-dWFObP2ggl%2B4TsbJy28vkQSv1y2usvTOesWxWy9yNgk%3D/script.js",
+        "bytes": 0
+      },
+      "largestCompressed": {
+        "url": "https://www.youtube.com/youtubei/v1/log_event"
+      },
+      "longest": {
+        "url": "https://images.ctfassets.net/7rldri896b2a/5OyuuHkds9Ys2SeNJlCWlJ/60539181d8622da03cc38425de1ff0a0/hp-mw44-45-hero1-tools-v2-dsk.jpg",
+        "time": 564,
+        "timings": {
+          "blocked": 0,
+          "wait": 25,
+          "receive": 56,
+          "connect": 452
+        }
+      }
+    },
+    "document": {
+      "noOfRequests": 0
+    },
+    "font": {
+      "noOfRequests": 0
+    },
+    "image": {
+      "noOfRequests": 0
+    },
+    "style": {
+      "noOfRequests": 0
+    },
+    "script": {
+      "noOfRequests": 0
+    },
+    "xhr": {
+      "noOfRequests": 0
+    },
+    "other": {
+      "noOfRequests": 0
+    }
+  }
+}

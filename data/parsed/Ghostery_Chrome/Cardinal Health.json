@@ -1,0 +1,73 @@
+{
+  "pages": {
+    "noOfPages": 1,
+    "medianOnLoad": null,
+    "ninetyFifthOnLoad": null,
+    "pages": [
+      {
+        "url": "Cardinal Health",
+        "onLoad": null
+      }
+    ]
+  },
+  "requests": {
+    "all": {
+      "noOfRequests": 188,
+      "medianTime": 97,
+      "ninetyFifthTime": 352,
+      "medianTimings": {
+        "blocked": 0,
+        "wait": 31,
+        "receive": 0
+      },
+      "ninetyFifthTimings": {
+        "blocked": 0,
+        "wait": 97,
+        "receive": 20
+      },
+      "bytesTransferred": null,
+      "topUrl": {
+        "url": "https://browser.events.data.microsoft.com/OneCollector/1.0/",
+        "noOfOccurrences": 5
+      },
+      "largest": {
+        "url": "https://www.cardinalhealth.com/etc/designs/corp/clientlibs/images/mobile-nav-button.svg",
+        "bytes": 0
+      },
+      "largestCompressed": {
+        "url": "https://www.google.com/pagead/1p-user-list/923371515/"
+      },
+      "longest": {
+        "url": "https://gw.linkedin.oribi.io/event",
+        "time": 624,
+        "timings": {
+          "blocked": 0,
+          "wait": 80,
+          "receive": 0,
+          "connect": 504
+        }
+      }
+    },
+    "document": {
+      "noOfRequests": 0
+    },
+    "font": {
+      "noOfRequests": 0
+    },
+    "image": {
+      "noOfRequests": 0
+    },
+    "style": {
+      "noOfRequests": 0
+    },
+    "script": {
+      "noOfRequests": 0
+    },
+    "xhr": {
+      "noOfRequests": 0
+    },
+    "other": {
+      "noOfRequests": 0
+    }
+  }
+}

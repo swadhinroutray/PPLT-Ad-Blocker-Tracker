@@ -1,0 +1,73 @@
+{
+  "pages": {
+    "noOfPages": 1,
+    "medianOnLoad": null,
+    "ninetyFifthOnLoad": null,
+    "pages": [
+      {
+        "url": "Block",
+        "onLoad": null
+      }
+    ]
+  },
+  "requests": {
+    "all": {
+      "noOfRequests": 37,
+      "medianTime": 232,
+      "ninetyFifthTime": 778,
+      "medianTimings": {
+        "blocked": 0,
+        "wait": 65,
+        "receive": 10
+      },
+      "ninetyFifthTimings": {
+        "blocked": 0,
+        "wait": 404,
+        "receive": 123
+      },
+      "bytesTransferred": null,
+      "topUrl": {
+        "url": "https://www.block.xyz/textures/tex6.png",
+        "noOfOccurrences": 1
+      },
+      "largest": {
+        "url": "https://cdn.block.xyz/favicon/064p.png",
+        "bytes": 0
+      },
+      "largestCompressed": {
+        "url": "https://nav-edge.smartscreen.microsoft.com/api/browser/edge/navigate/3"
+      },
+      "longest": {
+        "url": "https://cdn.block.xyz/_next/static/chunks/webpack-161faf1abe6ae002.js",
+        "time": 1045,
+        "timings": {
+          "blocked": 0,
+          "wait": 721,
+          "receive": 0,
+          "connect": 263
+        }
+      }
+    },
+    "document": {
+      "noOfRequests": 0
+    },
+    "font": {
+      "noOfRequests": 0
+    },
+    "image": {
+      "noOfRequests": 0
+    },
+    "style": {
+      "noOfRequests": 0
+    },
+    "script": {
+      "noOfRequests": 0
+    },
+    "xhr": {
+      "noOfRequests": 0
+    },
+    "other": {
+      "noOfRequests": 0
+    }
+  }
+}

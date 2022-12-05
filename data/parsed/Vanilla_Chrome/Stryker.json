@@ -1,0 +1,73 @@
+{
+  "pages": {
+    "noOfPages": 1,
+    "medianOnLoad": null,
+    "ninetyFifthOnLoad": null,
+    "pages": [
+      {
+        "url": "Stryker",
+        "onLoad": null
+      }
+    ]
+  },
+  "requests": {
+    "all": {
+      "noOfRequests": 33,
+      "medianTime": 33,
+      "ninetyFifthTime": 343,
+      "medianTimings": {
+        "blocked": -1,
+        "wait": 26,
+        "receive": 0
+      },
+      "ninetyFifthTimings": {
+        "blocked": 0,
+        "wait": 44,
+        "receive": 38
+      },
+      "bytesTransferred": null,
+      "topUrl": {
+        "url": "https://cdn.linkedin.oribi.io/partner/2435306/domain/stryker.com/token",
+        "noOfOccurrences": 1
+      },
+      "largest": {
+        "url": "https://www.stryker.com/content/dam/stryker/global/icons/favicon.ico",
+        "bytes": 0
+      },
+      "largestCompressed": {
+        "url": "https://www.stryker.com/"
+      },
+      "longest": {
+        "url": "https://www.stryker.com/etc/designs/stryker/clientlibs-1668283576424/components.min.css",
+        "time": 451,
+        "timings": {
+          "blocked": 0,
+          "wait": 23,
+          "receive": 11,
+          "connect": 331
+        }
+      }
+    },
+    "document": {
+      "noOfRequests": 0
+    },
+    "font": {
+      "noOfRequests": 0
+    },
+    "image": {
+      "noOfRequests": 0
+    },
+    "style": {
+      "noOfRequests": 0
+    },
+    "script": {
+      "noOfRequests": 0
+    },
+    "xhr": {
+      "noOfRequests": 0
+    },
+    "other": {
+      "noOfRequests": 0
+    }
+  }
+}

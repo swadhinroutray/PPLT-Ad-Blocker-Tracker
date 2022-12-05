@@ -1,0 +1,73 @@
+{
+  "pages": {
+    "noOfPages": 1,
+    "medianOnLoad": null,
+    "ninetyFifthOnLoad": null,
+    "pages": [
+      {
+        "url": "Humana",
+        "onLoad": null
+      }
+    ]
+  },
+  "requests": {
+    "all": {
+      "noOfRequests": 33,
+      "medianTime": 41,
+      "ninetyFifthTime": 230,
+      "medianTimings": {
+        "blocked": -1,
+        "wait": 29,
+        "receive": 0
+      },
+      "ninetyFifthTimings": {
+        "blocked": 0,
+        "wait": 80,
+        "receive": 60
+      },
+      "bytesTransferred": null,
+      "topUrl": {
+        "url": "https://www.humana.com/-/media/Humana/Tenants/HumanaCom-Tenant/HumanaCom/Homepage-Rebrand/Update---App-promotion---20220620/Unknown/Roadmap-to-Medicare/Homepage_Roadmap-to-Medicare_20220714_1x1.jpg",
+        "noOfOccurrences": 0
+      },
+      "largest": {
+        "url": "https://www.humana.com/-/media/Humana/Tenants/HumanaCom-Tenant/HumanaCom/Homepage-Rebrand/Update---App-promotion---20220620/Unknown/Roadmap-to-Medicare/Homepage_Roadmap-to-Medicare_20220714_1x1.jpg",
+        "bytes": 0
+      },
+      "largestCompressed": {
+        "url": "https://cdn.jsdelivr.net/gh/uBlockOrigin/uAssetsCDN@main/thirdparties/easylist.txt"
+      },
+      "longest": {
+        "url": "https://www.humana.com/",
+        "time": 876,
+        "timings": {
+          "blocked": 0,
+          "wait": 544,
+          "receive": 1,
+          "connect": 292
+        }
+      }
+    },
+    "document": {
+      "noOfRequests": 0
+    },
+    "font": {
+      "noOfRequests": 0
+    },
+    "image": {
+      "noOfRequests": 0
+    },
+    "style": {
+      "noOfRequests": 0
+    },
+    "script": {
+      "noOfRequests": 0
+    },
+    "xhr": {
+      "noOfRequests": 0
+    },
+    "other": {
+      "noOfRequests": 0
+    }
+  }
+}

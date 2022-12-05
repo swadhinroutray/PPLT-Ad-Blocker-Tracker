@@ -1,0 +1,73 @@
+{
+  "pages": {
+    "noOfPages": 1,
+    "medianOnLoad": null,
+    "ninetyFifthOnLoad": null,
+    "pages": [
+      {
+        "url": "Penske Automotive Group",
+        "onLoad": null
+      }
+    ]
+  },
+  "requests": {
+    "all": {
+      "noOfRequests": 66,
+      "medianTime": 111,
+      "ninetyFifthTime": 392,
+      "medianTimings": {
+        "blocked": 0,
+        "wait": 38,
+        "receive": 0
+      },
+      "ninetyFifthTimings": {
+        "blocked": 0,
+        "wait": 97,
+        "receive": 77
+      },
+      "bytesTransferred": null,
+      "topUrl": {
+        "url": "https://analytics.google.com/g/collect",
+        "noOfOccurrences": 3
+      },
+      "largest": {
+        "url": "https://bam.nr-data.net/1/4b6f7f959c",
+        "bytes": 0
+      },
+      "largestCompressed": {
+        "url": "https://privacyportal.onetrust.com/request/v1/consentreceipts"
+      },
+      "longest": {
+        "url": "https://edge.microsoft.com/autofillservice/v1/pages/ChVDaHJvbWUvMTA3LjAuNTMwNC4xNTASHgnXD9tdNY_BMhIFDXkzE2sSBQ2Ssg5XEgUNKpQ6Pw==",
+        "time": 742,
+        "timings": {
+          "blocked": 0,
+          "wait": 624,
+          "receive": 0,
+          "connect": 84
+        }
+      }
+    },
+    "document": {
+      "noOfRequests": 0
+    },
+    "font": {
+      "noOfRequests": 0
+    },
+    "image": {
+      "noOfRequests": 0
+    },
+    "style": {
+      "noOfRequests": 0
+    },
+    "script": {
+      "noOfRequests": 0
+    },
+    "xhr": {
+      "noOfRequests": 0
+    },
+    "other": {
+      "noOfRequests": 0
+    }
+  }
+}

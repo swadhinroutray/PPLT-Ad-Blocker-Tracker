@@ -1,0 +1,73 @@
+{
+  "pages": {
+    "noOfPages": 1,
+    "medianOnLoad": null,
+    "ninetyFifthOnLoad": null,
+    "pages": [
+      {
+        "url": "Deere",
+        "onLoad": null
+      }
+    ]
+  },
+  "requests": {
+    "all": {
+      "noOfRequests": 148,
+      "medianTime": 91,
+      "ninetyFifthTime": 432,
+      "medianTimings": {
+        "blocked": 0,
+        "wait": 33,
+        "receive": 0
+      },
+      "ninetyFifthTimings": {
+        "blocked": 0,
+        "wait": 122,
+        "receive": 29
+      },
+      "bytesTransferred": null,
+      "topUrl": {
+        "url": "https://digitalmarketing.dea-eng-prod.nikecloud.com/nr-proxy",
+        "noOfOccurrences": 14
+      },
+      "largest": {
+        "url": "https://pixel.mtrcs.samba.tv/v2/tag/mindshare/johndeere-homepage/impression",
+        "bytes": 0
+      },
+      "largestCompressed": {
+        "url": "https://www.googleadservices.com/pagead/conversion/609467918/"
+      },
+      "longest": {
+        "url": "https://www.deere.com/en/",
+        "time": 692,
+        "timings": {
+          "blocked": -1,
+          "wait": 690,
+          "receive": 1,
+          "connect": -1
+        }
+      }
+    },
+    "document": {
+      "noOfRequests": 0
+    },
+    "font": {
+      "noOfRequests": 0
+    },
+    "image": {
+      "noOfRequests": 0
+    },
+    "style": {
+      "noOfRequests": 0
+    },
+    "script": {
+      "noOfRequests": 0
+    },
+    "xhr": {
+      "noOfRequests": 0
+    },
+    "other": {
+      "noOfRequests": 0
+    }
+  }
+}

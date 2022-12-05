@@ -1,0 +1,73 @@
+{
+  "pages": {
+    "noOfPages": 1,
+    "medianOnLoad": null,
+    "ninetyFifthOnLoad": null,
+    "pages": [
+      {
+        "url": "JPMorgan Chase",
+        "onLoad": null
+      }
+    ]
+  },
+  "requests": {
+    "all": {
+      "noOfRequests": 64,
+      "medianTime": 246,
+      "ninetyFifthTime": 800,
+      "medianTimings": {
+        "blocked": -1,
+        "wait": 44,
+        "receive": 0
+      },
+      "ninetyFifthTimings": {
+        "blocked": 0,
+        "wait": 559,
+        "receive": 217
+      },
+      "bytesTransferred": null,
+      "topUrl": {
+        "url": "https://www.facebook.com/tr",
+        "noOfOccurrences": 1
+      },
+      "largest": {
+        "url": "https://p.adsymptotic.com/d/px/",
+        "bytes": 0
+      },
+      "largestCompressed": {
+        "url": "https://gateway.verizonwireless.com/glassbox/VZW/SHOP/reporting/cls_report"
+      },
+      "longest": {
+        "url": "https://www.jpmorganchase.com/content/dam/jpmc/jpmorgan-chase-and-co/institute/banners/purchsing-power-banner-2.png",
+        "time": 1244,
+        "timings": {
+          "blocked": -1,
+          "wait": 591,
+          "receive": 653,
+          "connect": -1
+        }
+      }
+    },
+    "document": {
+      "noOfRequests": 0
+    },
+    "font": {
+      "noOfRequests": 0
+    },
+    "image": {
+      "noOfRequests": 0
+    },
+    "style": {
+      "noOfRequests": 0
+    },
+    "script": {
+      "noOfRequests": 0
+    },
+    "xhr": {
+      "noOfRequests": 0
+    },
+    "other": {
+      "noOfRequests": 0
+    }
+  }
+}

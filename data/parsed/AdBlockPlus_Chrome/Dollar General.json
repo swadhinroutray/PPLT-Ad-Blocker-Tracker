@@ -1,0 +1,73 @@
+{
+  "pages": {
+    "noOfPages": 1,
+    "medianOnLoad": null,
+    "ninetyFifthOnLoad": null,
+    "pages": [
+      {
+        "url": "Dollar General",
+        "onLoad": null
+      }
+    ]
+  },
+  "requests": {
+    "all": {
+      "noOfRequests": 230,
+      "medianTime": 108,
+      "ninetyFifthTime": 439,
+      "medianTimings": {
+        "blocked": -1,
+        "wait": 35,
+        "receive": 0
+      },
+      "ninetyFifthTimings": {
+        "blocked": 0,
+        "wait": 410,
+        "receive": 93
+      },
+      "bytesTransferred": null,
+      "topUrl": {
+        "url": "https://www.dollargeneral.com/bin/omni/pickup/product/detail",
+        "noOfOccurrences": 13
+      },
+      "largest": {
+        "url": "https://dggo.dollargeneral.com/images/31/83/31838301_0.jpg",
+        "bytes": 0
+      },
+      "largestCompressed": {
+        "url": "https://173bf106.akstat.io/"
+      },
+      "longest": {
+        "url": "https://www.dollargeneral.com/_jcr_content/root/responsivegrid/responsivegrid_303914515/image_copy_213107019.coreimg.100.400.png/1669065475088/cabinet.png",
+        "time": 5597,
+        "timings": {
+          "blocked": -1,
+          "wait": 5522,
+          "receive": 75,
+          "connect": -1
+        }
+      }
+    },
+    "document": {
+      "noOfRequests": 0
+    },
+    "font": {
+      "noOfRequests": 0
+    },
+    "image": {
+      "noOfRequests": 0
+    },
+    "style": {
+      "noOfRequests": 0
+    },
+    "script": {
+      "noOfRequests": 0
+    },
+    "xhr": {
+      "noOfRequests": 0
+    },
+    "other": {
+      "noOfRequests": 0
+    }
+  }
+}

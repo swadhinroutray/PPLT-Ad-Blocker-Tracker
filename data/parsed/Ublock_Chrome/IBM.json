@@ -1,0 +1,73 @@
+{
+  "pages": {
+    "noOfPages": 1,
+    "medianOnLoad": null,
+    "ninetyFifthOnLoad": null,
+    "pages": [
+      {
+        "url": "IBM",
+        "onLoad": null
+      }
+    ]
+  },
+  "requests": {
+    "all": {
+      "noOfRequests": 208,
+      "medianTime": 22,
+      "ninetyFifthTime": 389,
+      "medianTimings": {
+        "blocked": -1,
+        "wait": 20,
+        "receive": 0
+      },
+      "ninetyFifthTimings": {
+        "blocked": 0,
+        "wait": 198,
+        "receive": 25
+      },
+      "bytesTransferred": null,
+      "topUrl": {
+        "url": "https://www.youtube.com/generate_204",
+        "noOfOccurrences": 8
+      },
+      "largest": {
+        "url": "https://gitcdn.link/cdn/uBlockOrigin/uAssetsCDN/main/filters/quick-fixes.txt",
+        "bytes": 0
+      },
+      "largestCompressed": {
+        "url": "https://content-autofill.googleapis.com/v1/pages/ChVDaHJvbWUvMTA3LjAuNTMwNC4xMjESFwloDInP2OjjZBIFDZFhlU4SBQ2RYZVO"
+      },
+      "longest": {
+        "url": "https://www-api.ibm.com/cookie-sync/dbdm-data",
+        "time": 3675,
+        "timings": {
+          "blocked": 0,
+          "wait": 3371,
+          "receive": 0,
+          "connect": 270
+        }
+      }
+    },
+    "document": {
+      "noOfRequests": 0
+    },
+    "font": {
+      "noOfRequests": 0
+    },
+    "image": {
+      "noOfRequests": 0
+    },
+    "style": {
+      "noOfRequests": 0
+    },
+    "script": {
+      "noOfRequests": 0
+    },
+    "xhr": {
+      "noOfRequests": 0
+    },
+    "other": {
+      "noOfRequests": 0
+    }
+  }
+}

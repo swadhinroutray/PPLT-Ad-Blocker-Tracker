@@ -1,0 +1,73 @@
+{
+  "pages": {
+    "noOfPages": 1,
+    "medianOnLoad": null,
+    "ninetyFifthOnLoad": null,
+    "pages": [
+      {
+        "url": "DISH Network",
+        "onLoad": null
+      }
+    ]
+  },
+  "requests": {
+    "all": {
+      "noOfRequests": 202,
+      "medianTime": 40,
+      "ninetyFifthTime": 379,
+      "medianTimings": {
+        "blocked": -1,
+        "wait": 33,
+        "receive": 0
+      },
+      "ninetyFifthTimings": {
+        "blocked": 0,
+        "wait": 101,
+        "receive": 18
+      },
+      "bytesTransferred": null,
+      "topUrl": {
+        "url": "https://www.facebook.com/tr/",
+        "noOfOccurrences": 1
+      },
+      "largest": {
+        "url": "https://c212.net/c/etag/",
+        "bytes": 0
+      },
+      "largestCompressed": {
+        "url": "https://privacyportal-de.onetrust.com/request/v1/consentreceipts"
+      },
+      "longest": {
+        "url": "https://www.dish.com/special-offers/images/signal.png",
+        "time": 1193,
+        "timings": {
+          "blocked": -1,
+          "wait": 1192,
+          "receive": 0,
+          "connect": -1
+        }
+      }
+    },
+    "document": {
+      "noOfRequests": 0
+    },
+    "font": {
+      "noOfRequests": 0
+    },
+    "image": {
+      "noOfRequests": 0
+    },
+    "style": {
+      "noOfRequests": 0
+    },
+    "script": {
+      "noOfRequests": 0
+    },
+    "xhr": {
+      "noOfRequests": 0
+    },
+    "other": {
+      "noOfRequests": 0
+    }
+  }
+}

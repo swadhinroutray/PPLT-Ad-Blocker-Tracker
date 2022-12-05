@@ -1,0 +1,73 @@
+{
+  "pages": {
+    "noOfPages": 1,
+    "medianOnLoad": null,
+    "ninetyFifthOnLoad": null,
+    "pages": [
+      {
+        "url": "World Fuel Services",
+        "onLoad": null
+      }
+    ]
+  },
+  "requests": {
+    "all": {
+      "noOfRequests": 68,
+      "medianTime": 95,
+      "ninetyFifthTime": 334,
+      "medianTimings": {
+        "blocked": 0,
+        "wait": 34,
+        "receive": 0
+      },
+      "ninetyFifthTimings": {
+        "blocked": 0,
+        "wait": 60,
+        "receive": 82
+      },
+      "bytesTransferred": null,
+      "topUrl": {
+        "url": "https://media-s3-us-east-1.ceros.com/world-kinect-energy-services/images/2022/10/11/a7ba7f7999572d1e493b9e15c56051ed/image.png",
+        "noOfOccurrences": 1
+      },
+      "largest": {
+        "url": "https://media-s3-us-east-1.ceros.com/world-kinect-energy-services/images/2022/10/11/a7ba7f7999572d1e493b9e15c56051ed/image.png",
+        "bytes": 0
+      },
+      "largestCompressed": {
+        "url": "https://nav-edge.smartscreen.microsoft.com/api/browser/edge/navigate/3"
+      },
+      "longest": {
+        "url": "https://pmi-prod-privacy.my.onetrust.com/request/v1/consentreceipts",
+        "time": 695,
+        "timings": {
+          "blocked": 0,
+          "wait": 532,
+          "receive": 0,
+          "connect": 131
+        }
+      }
+    },
+    "document": {
+      "noOfRequests": 0
+    },
+    "font": {
+      "noOfRequests": 0
+    },
+    "image": {
+      "noOfRequests": 0
+    },
+    "style": {
+      "noOfRequests": 0
+    },
+    "script": {
+      "noOfRequests": 0
+    },
+    "xhr": {
+      "noOfRequests": 0
+    },
+    "other": {
+      "noOfRequests": 0
+    }
+  }
+}

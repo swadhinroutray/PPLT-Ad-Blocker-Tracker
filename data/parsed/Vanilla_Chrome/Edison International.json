@@ -1,0 +1,73 @@
+{
+  "pages": {
+    "noOfPages": 1,
+    "medianOnLoad": null,
+    "ninetyFifthOnLoad": null,
+    "pages": [
+      {
+        "url": "Edison International",
+        "onLoad": null
+      }
+    ]
+  },
+  "requests": {
+    "all": {
+      "noOfRequests": 115,
+      "medianTime": 127,
+      "ninetyFifthTime": 402,
+      "medianTimings": {
+        "blocked": 0,
+        "wait": 40,
+        "receive": 0
+      },
+      "ninetyFifthTimings": {
+        "blocked": 0,
+        "wait": 120,
+        "receive": 78
+      },
+      "bytesTransferred": null,
+      "topUrl": {
+        "url": "https://su.addthis.com/red/usync",
+        "noOfOccurrences": 4
+      },
+      "largest": {
+        "url": "https://stags.bluekai.com/site/4448",
+        "bytes": 0
+      },
+      "largestCompressed": {
+        "url": "https://a.idio.co/ia.gif"
+      },
+      "longest": {
+        "url": "https://s3.amazonaws.com/cms.ipressroom.com/406/files/202210/careers-video-loop.mp4",
+        "time": 4014,
+        "timings": {
+          "blocked": -1,
+          "wait": 48,
+          "receive": 3965,
+          "connect": -1
+        }
+      }
+    },
+    "document": {
+      "noOfRequests": 0
+    },
+    "font": {
+      "noOfRequests": 0
+    },
+    "image": {
+      "noOfRequests": 0
+    },
+    "style": {
+      "noOfRequests": 0
+    },
+    "script": {
+      "noOfRequests": 0
+    },
+    "xhr": {
+      "noOfRequests": 0
+    },
+    "other": {
+      "noOfRequests": 0
+    }
+  }
+}

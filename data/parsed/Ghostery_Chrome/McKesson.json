@@ -1,0 +1,73 @@
+{
+  "pages": {
+    "noOfPages": 1,
+    "medianOnLoad": null,
+    "ninetyFifthOnLoad": null,
+    "pages": [
+      {
+        "url": "McKesson",
+        "onLoad": null
+      }
+    ]
+  },
+  "requests": {
+    "all": {
+      "noOfRequests": 85,
+      "medianTime": 60,
+      "ninetyFifthTime": 348,
+      "medianTimings": {
+        "blocked": -1,
+        "wait": 28,
+        "receive": 0
+      },
+      "ninetyFifthTimings": {
+        "blocked": 0,
+        "wait": 103,
+        "receive": 66
+      },
+      "bytesTransferred": null,
+      "topUrl": {
+        "url": "https://www.mckesson.com/uploadedImages/McKesson.com/Content/Home/_Images/PROMO-Standing-Ready-title.jpg",
+        "noOfOccurrences": 1
+      },
+      "largest": {
+        "url": "https://scripts.demandbase.com/9oP2Og47.min.js",
+        "bytes": 0
+      },
+      "largestCompressed": {
+        "url": "https://www.mckesson.com/"
+      },
+      "longest": {
+        "url": "https://www.mckesson.com/",
+        "time": 525,
+        "timings": {
+          "blocked": 0,
+          "wait": 212,
+          "receive": 65,
+          "connect": 169
+        }
+      }
+    },
+    "document": {
+      "noOfRequests": 0
+    },
+    "font": {
+      "noOfRequests": 0
+    },
+    "image": {
+      "noOfRequests": 0
+    },
+    "style": {
+      "noOfRequests": 0
+    },
+    "script": {
+      "noOfRequests": 0
+    },
+    "xhr": {
+      "noOfRequests": 0
+    },
+    "other": {
+      "noOfRequests": 0
+    }
+  }
+}

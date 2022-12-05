@@ -1,0 +1,73 @@
+{
+  "pages": {
+    "noOfPages": 1,
+    "medianOnLoad": null,
+    "ninetyFifthOnLoad": null,
+    "pages": [
+      {
+        "url": "Microsoft",
+        "onLoad": null
+      }
+    ]
+  },
+  "requests": {
+    "all": {
+      "noOfRequests": 115,
+      "medianTime": 89,
+      "ninetyFifthTime": 457,
+      "medianTimings": {
+        "blocked": -1,
+        "wait": 46,
+        "receive": 0
+      },
+      "ninetyFifthTimings": {
+        "blocked": 0,
+        "wait": 140,
+        "receive": 25
+      },
+      "bytesTransferred": null,
+      "topUrl": {
+        "url": "https://browser.events.data.microsoft.com/OneCollector/1.0/",
+        "noOfOccurrences": 3
+      },
+      "largest": {
+        "url": "https://ats.everesttech.net/ats/ats",
+        "bytes": 0
+      },
+      "largestCompressed": {
+        "url": "https://www.att.com/ui/global_all_cms_globalnav/web-components/2.0/attwc-globalnav/p-bcae8885.system.js"
+      },
+      "longest": {
+        "url": "https://na5.thunderhead.com/one/rt/web/v1/ONE-G8V3SQCVEX-2062",
+        "time": 1236,
+        "timings": {
+          "blocked": 0,
+          "wait": 97,
+          "receive": 0,
+          "connect": 1061
+        }
+      }
+    },
+    "document": {
+      "noOfRequests": 0
+    },
+    "font": {
+      "noOfRequests": 0
+    },
+    "image": {
+      "noOfRequests": 0
+    },
+    "style": {
+      "noOfRequests": 0
+    },
+    "script": {
+      "noOfRequests": 0
+    },
+    "xhr": {
+      "noOfRequests": 0
+    },
+    "other": {
+      "noOfRequests": 0
+    }
+  }
+}

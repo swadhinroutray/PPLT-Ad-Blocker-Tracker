@@ -1,0 +1,73 @@
+{
+  "pages": {
+    "noOfPages": 1,
+    "medianOnLoad": null,
+    "ninetyFifthOnLoad": null,
+    "pages": [
+      {
+        "url": "Illinois Tool Works",
+        "onLoad": null
+      }
+    ]
+  },
+  "requests": {
+    "all": {
+      "noOfRequests": 80,
+      "medianTime": 80,
+      "ninetyFifthTime": 889,
+      "medianTimings": {
+        "blocked": -1,
+        "wait": 34,
+        "receive": 0
+      },
+      "ninetyFifthTimings": {
+        "blocked": 0,
+        "wait": 85,
+        "receive": 270
+      },
+      "bytesTransferred": null,
+      "topUrl": {
+        "url": "https://log.getadblock.com/v2/record_log.php",
+        "noOfOccurrences": 7
+      },
+      "largest": {
+        "url": "https://log.getadblock.com/v2/record_log.php",
+        "bytes": 0
+      },
+      "largestCompressed": {
+        "url": "https://www.itw.com/"
+      },
+      "longest": {
+        "url": "https://optimizationguide-pa.googleapis.com/downloads",
+        "time": 2287,
+        "timings": {
+          "blocked": -1,
+          "wait": 2281,
+          "receive": 5,
+          "connect": -1
+        }
+      }
+    },
+    "document": {
+      "noOfRequests": 0
+    },
+    "font": {
+      "noOfRequests": 0
+    },
+    "image": {
+      "noOfRequests": 0
+    },
+    "style": {
+      "noOfRequests": 0
+    },
+    "script": {
+      "noOfRequests": 0
+    },
+    "xhr": {
+      "noOfRequests": 0
+    },
+    "other": {
+      "noOfRequests": 0
+    }
+  }
+}

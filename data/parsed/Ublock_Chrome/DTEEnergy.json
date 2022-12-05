@@ -1,0 +1,73 @@
+{
+  "pages": {
+    "noOfPages": 1,
+    "medianOnLoad": null,
+    "ninetyFifthOnLoad": null,
+    "pages": [
+      {
+        "url": "DTEEnergy",
+        "onLoad": null
+      }
+    ]
+  },
+  "requests": {
+    "all": {
+      "noOfRequests": 65,
+      "medianTime": 33,
+      "ninetyFifthTime": 308,
+      "medianTimings": {
+        "blocked": -1,
+        "wait": 28,
+        "receive": 1
+      },
+      "ninetyFifthTimings": {
+        "blocked": 0,
+        "wait": 37,
+        "receive": 93
+      },
+      "bytesTransferred": null,
+      "topUrl": {
+        "url": "https://signin.dteenergy.com/sdk.config.get",
+        "noOfOccurrences": 4
+      },
+      "largest": {
+        "url": "https://signin.dteenergy.com/sdk.config.get",
+        "bytes": 0
+      },
+      "largestCompressed": {
+        "url": "https://www.newlook.dteenergy.com/"
+      },
+      "longest": {
+        "url": "https://www.newlook.dteenergy.com/",
+        "time": 563,
+        "timings": {
+          "blocked": 0,
+          "wait": 34,
+          "receive": 257,
+          "connect": 186
+        }
+      }
+    },
+    "document": {
+      "noOfRequests": 0
+    },
+    "font": {
+      "noOfRequests": 0
+    },
+    "image": {
+      "noOfRequests": 0
+    },
+    "style": {
+      "noOfRequests": 0
+    },
+    "script": {
+      "noOfRequests": 0
+    },
+    "xhr": {
+      "noOfRequests": 0
+    },
+    "other": {
+      "noOfRequests": 0
+    }
+  }
+}

@@ -1,0 +1,73 @@
+{
+  "pages": {
+    "noOfPages": 1,
+    "medianOnLoad": null,
+    "ninetyFifthOnLoad": null,
+    "pages": [
+      {
+        "url": "Walt Disney",
+        "onLoad": null
+      }
+    ]
+  },
+  "requests": {
+    "all": {
+      "noOfRequests": 38,
+      "medianTime": 54,
+      "ninetyFifthTime": 268,
+      "medianTimings": {
+        "blocked": -1,
+        "wait": 24,
+        "receive": 3
+      },
+      "ninetyFifthTimings": {
+        "blocked": 0,
+        "wait": 44,
+        "receive": 33
+      },
+      "bytesTransferred": null,
+      "topUrl": {
+        "url": "https://irs.tools.investis.com/Clients/ScriptResource.axd",
+        "noOfOccurrences": 1
+      },
+      "largest": {
+        "url": "https://thewaltdisneycompany.com/app/uploads/cropped-512x512-copy5-160x160.png",
+        "bytes": 0
+      },
+      "largestCompressed": {
+        "url": "https://thewaltdisneycompany.com/"
+      },
+      "longest": {
+        "url": "https://thewaltdisneycompany.com/",
+        "time": 289,
+        "timings": {
+          "blocked": 0,
+          "wait": 30,
+          "receive": 0,
+          "connect": 219
+        }
+      }
+    },
+    "document": {
+      "noOfRequests": 0
+    },
+    "font": {
+      "noOfRequests": 0
+    },
+    "image": {
+      "noOfRequests": 0
+    },
+    "style": {
+      "noOfRequests": 0
+    },
+    "script": {
+      "noOfRequests": 0
+    },
+    "xhr": {
+      "noOfRequests": 0
+    },
+    "other": {
+      "noOfRequests": 0
+    }
+  }
+}

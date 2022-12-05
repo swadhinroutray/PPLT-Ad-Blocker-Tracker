@@ -1,0 +1,73 @@
+{
+  "pages": {
+    "noOfPages": 1,
+    "medianOnLoad": null,
+    "ninetyFifthOnLoad": null,
+    "pages": [
+      {
+        "url": "Lockheed Martin",
+        "onLoad": null
+      }
+    ]
+  },
+  "requests": {
+    "all": {
+      "noOfRequests": 36,
+      "medianTime": 210,
+      "ninetyFifthTime": 440,
+      "medianTimings": {
+        "blocked": -1,
+        "wait": 151,
+        "receive": 19
+      },
+      "ninetyFifthTimings": {
+        "blocked": 0,
+        "wait": 250,
+        "receive": 172
+      },
+      "bytesTransferred": null,
+      "topUrl": {
+        "url": "https://edge.microsoft.com/autofillservice/v1/pages/ChVDaHJvbWUvMTA3LjAuNTMwNC4xNTASEAktLUCWXSe06BIFDXdY_80=",
+        "noOfOccurrences": 0
+      },
+      "largest": {
+        "url": "https://edge.microsoft.com/autofillservice/v1/pages/ChVDaHJvbWUvMTA3LjAuNTMwNC4xNTASEAktLUCWXSe06BIFDXdY_80=",
+        "bytes": 0
+      },
+      "largestCompressed": {
+        "url": "https://nav-edge.smartscreen.microsoft.com/api/browser/edge/navigate/3"
+      },
+      "longest": {
+        "url": "https://www.lockheedmartin.com/etc.clientlibs/lockheed-martin/clientlibs/clientlibs.min.js",
+        "time": 725,
+        "timings": {
+          "blocked": -1,
+          "wait": 396,
+          "receive": 328,
+          "connect": -1
+        }
+      }
+    },
+    "document": {
+      "noOfRequests": 0
+    },
+    "font": {
+      "noOfRequests": 0
+    },
+    "image": {
+      "noOfRequests": 0
+    },
+    "style": {
+      "noOfRequests": 0
+    },
+    "script": {
+      "noOfRequests": 0
+    },
+    "xhr": {
+      "noOfRequests": 0
+    },
+    "other": {
+      "noOfRequests": 0
+    }
+  }
+}

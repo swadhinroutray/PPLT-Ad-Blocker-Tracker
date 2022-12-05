@@ -1,0 +1,73 @@
+{
+  "pages": {
+    "noOfPages": 1,
+    "medianOnLoad": null,
+    "ninetyFifthOnLoad": null,
+    "pages": [
+      {
+        "url": "Paramount Global",
+        "onLoad": null
+      }
+    ]
+  },
+  "requests": {
+    "all": {
+      "noOfRequests": 240,
+      "medianTime": 19,
+      "ninetyFifthTime": 176,
+      "medianTimings": {
+        "blocked": -1,
+        "wait": 18,
+        "receive": 0
+      },
+      "ninetyFifthTimings": {
+        "blocked": 0,
+        "wait": 34,
+        "receive": 18
+      },
+      "bytesTransferred": null,
+      "topUrl": {
+        "url": "https://www.paramount.com/sites/g/files/dxjhpe226/files/ViacomCBSDotCom/BrandPage/Images/Updated%20Brand%20Logos/New%20Logos/33_VidconNEW.svg",
+        "noOfOccurrences": 6
+      },
+      "largest": {
+        "url": "https://bam.nr-data.net/resources/1/707136bf06",
+        "bytes": 0
+      },
+      "largestCompressed": {
+        "url": "https://content-autofill.googleapis.com/v1/pages/ChVDaHJvbWUvMTA3LjAuNTMwNC4xMjESHgkXNi_Jjo7mBBIFDX6n2Y0SBQ1ibs6aEgUNpZM2JA=="
+      },
+      "longest": {
+        "url": "https://production-cmp.isgprivacy.cbsi.com/dist/optanon-v1.1.0.js",
+        "time": 449,
+        "timings": {
+          "blocked": 0,
+          "wait": 19,
+          "receive": 0,
+          "connect": 402
+        }
+      }
+    },
+    "document": {
+      "noOfRequests": 0
+    },
+    "font": {
+      "noOfRequests": 0
+    },
+    "image": {
+      "noOfRequests": 0
+    },
+    "style": {
+      "noOfRequests": 0
+    },
+    "script": {
+      "noOfRequests": 0
+    },
+    "xhr": {
+      "noOfRequests": 0
+    },
+    "other": {
+      "noOfRequests": 0
+    }
+  }
+}

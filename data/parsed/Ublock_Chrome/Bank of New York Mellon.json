@@ -1,0 +1,73 @@
+{
+  "pages": {
+    "noOfPages": 1,
+    "medianOnLoad": null,
+    "ninetyFifthOnLoad": null,
+    "pages": [
+      {
+        "url": "Bank of New York Mellon",
+        "onLoad": null
+      }
+    ]
+  },
+  "requests": {
+    "all": {
+      "noOfRequests": 68,
+      "medianTime": 33,
+      "ninetyFifthTime": 156,
+      "medianTimings": {
+        "blocked": -1,
+        "wait": 29,
+        "receive": 0
+      },
+      "ninetyFifthTimings": {
+        "blocked": 0,
+        "wait": 43,
+        "receive": 28
+      },
+      "bytesTransferred": null,
+      "topUrl": {
+        "url": "https://ublockorigin.pages.dev/filters/resource-abuse.txt",
+        "noOfOccurrences": 0
+      },
+      "largest": {
+        "url": "https://ublockorigin.pages.dev/filters/resource-abuse.txt",
+        "bytes": 0
+      },
+      "largestCompressed": {
+        "url": "https://www.bnymellon.com/"
+      },
+      "longest": {
+        "url": "https://www.bnymellon.com/",
+        "time": 415,
+        "timings": {
+          "blocked": 0,
+          "wait": 28,
+          "receive": 0,
+          "connect": 245
+        }
+      }
+    },
+    "document": {
+      "noOfRequests": 0
+    },
+    "font": {
+      "noOfRequests": 0
+    },
+    "image": {
+      "noOfRequests": 0
+    },
+    "style": {
+      "noOfRequests": 0
+    },
+    "script": {
+      "noOfRequests": 0
+    },
+    "xhr": {
+      "noOfRequests": 0
+    },
+    "other": {
+      "noOfRequests": 0
+    }
+  }
+}

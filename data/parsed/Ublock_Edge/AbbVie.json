@@ -1,0 +1,73 @@
+{
+  "pages": {
+    "noOfPages": 1,
+    "medianOnLoad": null,
+    "ninetyFifthOnLoad": null,
+    "pages": [
+      {
+        "url": "AbbVie",
+        "onLoad": null
+      }
+    ]
+  },
+  "requests": {
+    "all": {
+      "noOfRequests": 36,
+      "medianTime": 31,
+      "ninetyFifthTime": 64,
+      "medianTimings": {
+        "blocked": -1,
+        "wait": 30,
+        "receive": 0
+      },
+      "ninetyFifthTimings": {
+        "blocked": -1,
+        "wait": 44,
+        "receive": 13
+      },
+      "bytesTransferred": null,
+      "topUrl": {
+        "url": "https://www.abbvie.com/content/dam/abbvie-dotcom/images/icons/abbvie-social_youtube.svg",
+        "noOfOccurrences": 2
+      },
+      "largest": {
+        "url": "https://www.abbvie.com/etc.clientlibs/abbvie-com/clientlibs/clientlib-site/resources/favicons/favicon.ico",
+        "bytes": 0
+      },
+      "largestCompressed": {
+        "url": "https://www.abbvie.com/"
+      },
+      "longest": {
+        "url": "https://news.abbvie.com/rss.cfm",
+        "time": 425,
+        "timings": {
+          "blocked": -1,
+          "wait": 424,
+          "receive": 0,
+          "connect": -1
+        }
+      }
+    },
+    "document": {
+      "noOfRequests": 0
+    },
+    "font": {
+      "noOfRequests": 0
+    },
+    "image": {
+      "noOfRequests": 0
+    },
+    "style": {
+      "noOfRequests": 0
+    },
+    "script": {
+      "noOfRequests": 0
+    },
+    "xhr": {
+      "noOfRequests": 0
+    },
+    "other": {
+      "noOfRequests": 0
+    }
+  }
+}

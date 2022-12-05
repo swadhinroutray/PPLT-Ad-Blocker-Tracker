@@ -1,0 +1,73 @@
+{
+  "pages": {
+    "noOfPages": 1,
+    "medianOnLoad": null,
+    "ninetyFifthOnLoad": null,
+    "pages": [
+      {
+        "url": "Raytheon Technologies",
+        "onLoad": null
+      }
+    ]
+  },
+  "requests": {
+    "all": {
+      "noOfRequests": 12,
+      "medianTime": 98,
+      "ninetyFifthTime": 299,
+      "medianTimings": {
+        "blocked": -1,
+        "wait": 34,
+        "receive": 1
+      },
+      "ninetyFifthTimings": {
+        "blocked": 0,
+        "wait": 116,
+        "receive": 14
+      },
+      "bytesTransferred": null,
+      "topUrl": {
+        "url": "https://www.rtx.com/404---page-not-found",
+        "noOfOccurrences": 1
+      },
+      "largest": {
+        "url": "https://www.rtx.com/cdn-cgi/challenge-platform/h/g/pat/772d536dfde02036/1669913470164/fa8f8779b9c7b472dd63699a13f7fa104e345e1d759d18bfdbb1a235e3463236/UK5tlDQPCEylFop",
+        "bytes": 0
+      },
+      "largestCompressed": {
+        "url": "https://www.rtx.com/"
+      },
+      "longest": {
+        "url": "https://www.rtx.com/",
+        "time": 374,
+        "timings": {
+          "blocked": 0,
+          "wait": 32,
+          "receive": 4,
+          "connect": 303
+        }
+      }
+    },
+    "document": {
+      "noOfRequests": 0
+    },
+    "font": {
+      "noOfRequests": 0
+    },
+    "image": {
+      "noOfRequests": 0
+    },
+    "style": {
+      "noOfRequests": 0
+    },
+    "script": {
+      "noOfRequests": 0
+    },
+    "xhr": {
+      "noOfRequests": 0
+    },
+    "other": {
+      "noOfRequests": 0
+    }
+  }
+}

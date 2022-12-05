@@ -1,0 +1,73 @@
+{
+  "pages": {
+    "noOfPages": 1,
+    "medianOnLoad": null,
+    "ninetyFifthOnLoad": null,
+    "pages": [
+      {
+        "url": "Valero Energy",
+        "onLoad": null
+      }
+    ]
+  },
+  "requests": {
+    "all": {
+      "noOfRequests": 35,
+      "medianTime": 120,
+      "ninetyFifthTime": 448,
+      "medianTimings": {
+        "blocked": 0,
+        "wait": 29,
+        "receive": 0
+      },
+      "ninetyFifthTimings": {
+        "blocked": 0,
+        "wait": 69,
+        "receive": 149
+      },
+      "bytesTransferred": null,
+      "topUrl": {
+        "url": "https://webstats.valero.com/dcsd1pkhf00000wgyaf12w3d0_4f1n/dcs.gif",
+        "noOfOccurrences": 1
+      },
+      "largest": {
+        "url": "https://bam.nr-data.net/1/NRJS-ba38a1da1ea75233230",
+        "bytes": 0
+      },
+      "largestCompressed": {
+        "url": "https://nav-edge.smartscreen.microsoft.com/api/browser/edge/navigate/3"
+      },
+      "longest": {
+        "url": "https://i.icomoon.io/public/c989bbac51/BostonDigital/style.css",
+        "time": 465,
+        "timings": {
+          "blocked": 0,
+          "wait": 74,
+          "receive": 0,
+          "connect": 358
+        }
+      }
+    },
+    "document": {
+      "noOfRequests": 0
+    },
+    "font": {
+      "noOfRequests": 0
+    },
+    "image": {
+      "noOfRequests": 0
+    },
+    "style": {
+      "noOfRequests": 0
+    },
+    "script": {
+      "noOfRequests": 0
+    },
+    "xhr": {
+      "noOfRequests": 0
+    },
+    "other": {
+      "noOfRequests": 0
+    }
+  }
+}

@@ -1,0 +1,73 @@
+{
+  "pages": {
+    "noOfPages": 1,
+    "medianOnLoad": null,
+    "ninetyFifthOnLoad": null,
+    "pages": [
+      {
+        "url": "Union Pacific",
+        "onLoad": null
+      }
+    ]
+  },
+  "requests": {
+    "all": {
+      "noOfRequests": 82,
+      "medianTime": 89,
+      "ninetyFifthTime": 545,
+      "medianTimings": {
+        "blocked": -1,
+        "wait": 82,
+        "receive": 0
+      },
+      "ninetyFifthTimings": {
+        "blocked": 0,
+        "wait": 104,
+        "receive": 140
+      },
+      "bytesTransferred": null,
+      "topUrl": {
+        "url": "https://www.up.com/favicon.ico",
+        "noOfOccurrences": 0
+      },
+      "largest": {
+        "url": "https://www.up.com/favicon.ico",
+        "bytes": 0
+      },
+      "largestCompressed": {
+        "url": "https://www.whirlpoolindia.com/serviceWorkerMerged.js"
+      },
+      "longest": {
+        "url": "https://www.up.com/cs/websites/up/sitenavigation.js",
+        "time": 929,
+        "timings": {
+          "blocked": 0,
+          "wait": 85,
+          "receive": 272,
+          "connect": 303
+        }
+      }
+    },
+    "document": {
+      "noOfRequests": 0
+    },
+    "font": {
+      "noOfRequests": 0
+    },
+    "image": {
+      "noOfRequests": 0
+    },
+    "style": {
+      "noOfRequests": 0
+    },
+    "script": {
+      "noOfRequests": 0
+    },
+    "xhr": {
+      "noOfRequests": 0
+    },
+    "other": {
+      "noOfRequests": 0
+    }
+  }
+}

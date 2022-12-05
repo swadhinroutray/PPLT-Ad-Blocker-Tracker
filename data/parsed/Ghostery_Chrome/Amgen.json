@@ -1,0 +1,73 @@
+{
+  "pages": {
+    "noOfPages": 1,
+    "medianOnLoad": null,
+    "ninetyFifthOnLoad": null,
+    "pages": [
+      {
+        "url": "Amgen",
+        "onLoad": null
+      }
+    ]
+  },
+  "requests": {
+    "all": {
+      "noOfRequests": 113,
+      "medianTime": 93,
+      "ninetyFifthTime": 386,
+      "medianTimings": {
+        "blocked": -1,
+        "wait": 91,
+        "receive": 0
+      },
+      "ninetyFifthTimings": {
+        "blocked": 0,
+        "wait": 105,
+        "receive": 47
+      },
+      "bytesTransferred": null,
+      "topUrl": {
+        "url": "https://analytics.google.com/g/collect",
+        "noOfOccurrences": 2
+      },
+      "largest": {
+        "url": "https://analytics.google.com/g/collect",
+        "bytes": 0
+      },
+      "largestCompressed": {
+        "url": "https://www.amgen.com/"
+      },
+      "longest": {
+        "url": "https://www.amgen.com/",
+        "time": 632,
+        "timings": {
+          "blocked": 0,
+          "wait": 89,
+          "receive": 13,
+          "connect": 416
+        }
+      }
+    },
+    "document": {
+      "noOfRequests": 0
+    },
+    "font": {
+      "noOfRequests": 0
+    },
+    "image": {
+      "noOfRequests": 0
+    },
+    "style": {
+      "noOfRequests": 0
+    },
+    "script": {
+      "noOfRequests": 0
+    },
+    "xhr": {
+      "noOfRequests": 0
+    },
+    "other": {
+      "noOfRequests": 0
+    }
+  }
+}

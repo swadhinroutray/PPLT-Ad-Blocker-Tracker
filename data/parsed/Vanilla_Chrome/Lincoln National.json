@@ -1,0 +1,73 @@
+{
+  "pages": {
+    "noOfPages": 1,
+    "medianOnLoad": null,
+    "ninetyFifthOnLoad": null,
+    "pages": [
+      {
+        "url": "Lincoln National",
+        "onLoad": null
+      }
+    ]
+  },
+  "requests": {
+    "all": {
+      "noOfRequests": 52,
+      "medianTime": 100,
+      "ninetyFifthTime": 348,
+      "medianTimings": {
+        "blocked": -1,
+        "wait": 38,
+        "receive": 0
+      },
+      "ninetyFifthTimings": {
+        "blocked": 0,
+        "wait": 258,
+        "receive": 20
+      },
+      "bytesTransferred": null,
+      "topUrl": {
+        "url": "https://fonts.googleapis.com/css2",
+        "noOfOccurrences": 3
+      },
+      "largest": {
+        "url": "https://www.lincolnfinancial.com/pbl-static/image/desktop/Home-Large-Photo1---Right---IMAGE.jpg",
+        "bytes": 0
+      },
+      "largestCompressed": {
+        "url": "https://www.lincolnfinancial.com/"
+      },
+      "longest": {
+        "url": "https://www.lincolnfinancial.com/pbl-static-ui/5272-es2015.92e3fa2b93ddead3c6eb.js",
+        "time": 425,
+        "timings": {
+          "blocked": -1,
+          "wait": 425,
+          "receive": 0,
+          "connect": -1
+        }
+      }
+    },
+    "document": {
+      "noOfRequests": 0
+    },
+    "font": {
+      "noOfRequests": 0
+    },
+    "image": {
+      "noOfRequests": 0
+    },
+    "style": {
+      "noOfRequests": 0
+    },
+    "script": {
+      "noOfRequests": 0
+    },
+    "xhr": {
+      "noOfRequests": 0
+    },
+    "other": {
+      "noOfRequests": 0
+    }
+  }
+}

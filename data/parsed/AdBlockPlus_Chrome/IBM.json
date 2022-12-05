@@ -1,0 +1,73 @@
+{
+  "pages": {
+    "noOfPages": 1,
+    "medianOnLoad": null,
+    "ninetyFifthOnLoad": null,
+    "pages": [
+      {
+        "url": "IBM",
+        "onLoad": null
+      }
+    ]
+  },
+  "requests": {
+    "all": {
+      "noOfRequests": 233,
+      "medianTime": 40,
+      "ninetyFifthTime": 375,
+      "medianTimings": {
+        "blocked": -1,
+        "wait": 20,
+        "receive": 0
+      },
+      "ninetyFifthTimings": {
+        "blocked": 0,
+        "wait": 154,
+        "receive": 21
+      },
+      "bytesTransferred": null,
+      "topUrl": {
+        "url": "https://www.youtube.com/youtubei/v1/log_event",
+        "noOfOccurrences": 5
+      },
+      "largest": {
+        "url": "https://cdn.segment.com/v1/projects/EFAiCLHQcw8IIrN9klb5xYk0NN82Iu7D/settings",
+        "bytes": 0
+      },
+      "largestCompressed": {
+        "url": "https://content-autofill.googleapis.com/v1/pages/ChVDaHJvbWUvMTA3LjAuNTMwNC4xMjESFwloDInP2OjjZBIFDZFhlU4SBQ2RYZVO"
+      },
+      "longest": {
+        "url": "https://api.www.s81c.com/webmaster/dbip/",
+        "time": 643,
+        "timings": {
+          "blocked": 0,
+          "wait": 190,
+          "receive": 0,
+          "connect": 424
+        }
+      }
+    },
+    "document": {
+      "noOfRequests": 0
+    },
+    "font": {
+      "noOfRequests": 0
+    },
+    "image": {
+      "noOfRequests": 0
+    },
+    "style": {
+      "noOfRequests": 0
+    },
+    "script": {
+      "noOfRequests": 0
+    },
+    "xhr": {
+      "noOfRequests": 0
+    },
+    "other": {
+      "noOfRequests": 0
+    }
+  }
+}

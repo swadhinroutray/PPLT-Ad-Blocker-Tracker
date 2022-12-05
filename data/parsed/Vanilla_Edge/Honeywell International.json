@@ -1,0 +1,73 @@
+{
+  "pages": {
+    "noOfPages": 1,
+    "medianOnLoad": null,
+    "ninetyFifthOnLoad": null,
+    "pages": [
+      {
+        "url": "Honeywell International",
+        "onLoad": null
+      }
+    ]
+  },
+  "requests": {
+    "all": {
+      "noOfRequests": 170,
+      "medianTime": 47,
+      "ninetyFifthTime": 258,
+      "medianTimings": {
+        "blocked": -1,
+        "wait": 33,
+        "receive": 0
+      },
+      "ninetyFifthTimings": {
+        "blocked": 0,
+        "wait": 105,
+        "receive": 26
+      },
+      "bytesTransferred": null,
+      "topUrl": {
+        "url": "https://bat.bing.com/actionp/0",
+        "noOfOccurrences": 2
+      },
+      "largest": {
+        "url": "https://honeywell.sc.omtrdc.net/b/ss/hwhoneywellbtprod,hwglobalprod/1/JS-2.23.0-LCXS/s08238846680964",
+        "bytes": 0
+      },
+      "largestCompressed": {
+        "url": "https://173bf10e.akstat.io/"
+      },
+      "longest": {
+        "url": "https://edge.microsoft.com/autofillservice/v1/pages/ChVDaHJvbWUvMTA3LjAuNTMwNC4xNTASHgnTWuWQIN8J_xIFDcd58iASBQ3HefIgEgUNpZM2JA==",
+        "time": 1200,
+        "timings": {
+          "blocked": -1,
+          "wait": 1199,
+          "receive": 0,
+          "connect": -1
+        }
+      }
+    },
+    "document": {
+      "noOfRequests": 0
+    },
+    "font": {
+      "noOfRequests": 0
+    },
+    "image": {
+      "noOfRequests": 0
+    },
+    "style": {
+      "noOfRequests": 0
+    },
+    "script": {
+      "noOfRequests": 0
+    },
+    "xhr": {
+      "noOfRequests": 0
+    },
+    "other": {
+      "noOfRequests": 0
+    }
+  }
+}

@@ -1,0 +1,73 @@
+{
+  "pages": {
+    "noOfPages": 1,
+    "medianOnLoad": null,
+    "ninetyFifthOnLoad": null,
+    "pages": [
+      {
+        "url": "Lincoln National",
+        "onLoad": null
+      }
+    ]
+  },
+  "requests": {
+    "all": {
+      "noOfRequests": 46,
+      "medianTime": 39,
+      "ninetyFifthTime": 133,
+      "medianTimings": {
+        "blocked": -1,
+        "wait": 27,
+        "receive": 0
+      },
+      "ninetyFifthTimings": {
+        "blocked": 0,
+        "wait": 75,
+        "receive": 18
+      },
+      "bytesTransferred": null,
+      "topUrl": {
+        "url": "https://fonts.googleapis.com/css2",
+        "noOfOccurrences": 3
+      },
+      "largest": {
+        "url": "https://www.lincolnfinancial.com/pbl-static/image/tablet/ICON-FIXED-RED---find-a-dentist.svg",
+        "bytes": 0
+      },
+      "largestCompressed": {
+        "url": "https://www.lincolnfinancial.com/"
+      },
+      "longest": {
+        "url": "https://www.lincolnfinancial.com/",
+        "time": 437,
+        "timings": {
+          "blocked": 0,
+          "wait": 77,
+          "receive": 0,
+          "connect": 304
+        }
+      }
+    },
+    "document": {
+      "noOfRequests": 0
+    },
+    "font": {
+      "noOfRequests": 0
+    },
+    "image": {
+      "noOfRequests": 0
+    },
+    "style": {
+      "noOfRequests": 0
+    },
+    "script": {
+      "noOfRequests": 0
+    },
+    "xhr": {
+      "noOfRequests": 0
+    },
+    "other": {
+      "noOfRequests": 0
+    }
+  }
+}

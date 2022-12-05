@@ -1,0 +1,73 @@
+{
+  "pages": {
+    "noOfPages": 1,
+    "medianOnLoad": null,
+    "ninetyFifthOnLoad": null,
+    "pages": [
+      {
+        "url": "Walmart",
+        "onLoad": null
+      }
+    ]
+  },
+  "requests": {
+    "all": {
+      "noOfRequests": 229,
+      "medianTime": 40,
+      "ninetyFifthTime": 480,
+      "medianTimings": {
+        "blocked": -1,
+        "wait": 27,
+        "receive": 0
+      },
+      "ninetyFifthTimings": {
+        "blocked": 0,
+        "wait": 125,
+        "receive": 24
+      },
+      "bytesTransferred": null,
+      "topUrl": {
+        "url": "https://beacon.walmart.com/rum.gif",
+        "noOfOccurrences": 8
+      },
+      "largest": {
+        "url": "https://www.walmart.com/favicon.ico",
+        "bytes": 0
+      },
+      "largestCompressed": {
+        "url": "https://www.googleapis.com/chromewebstore/v1.1/items/verify"
+      },
+      "longest": {
+        "url": "https://easylist-downloads.adblockplus.org/exceptionrules.txt",
+        "time": 1373,
+        "timings": {
+          "blocked": 0,
+          "wait": 127,
+          "receive": 649,
+          "connect": 554
+        }
+      }
+    },
+    "document": {
+      "noOfRequests": 0
+    },
+    "font": {
+      "noOfRequests": 0
+    },
+    "image": {
+      "noOfRequests": 0
+    },
+    "style": {
+      "noOfRequests": 0
+    },
+    "script": {
+      "noOfRequests": 0
+    },
+    "xhr": {
+      "noOfRequests": 0
+    },
+    "other": {
+      "noOfRequests": 0
+    }
+  }
+}

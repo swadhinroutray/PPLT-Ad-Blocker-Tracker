@@ -1,0 +1,73 @@
+{
+  "pages": {
+    "noOfPages": 1,
+    "medianOnLoad": null,
+    "ninetyFifthOnLoad": null,
+    "pages": [
+      {
+        "url": "U.S. Bancorp",
+        "onLoad": null
+      }
+    ]
+  },
+  "requests": {
+    "all": {
+      "noOfRequests": 46,
+      "medianTime": 80,
+      "ninetyFifthTime": 332,
+      "medianTimings": {
+        "blocked": -1,
+        "wait": 36,
+        "receive": 0
+      },
+      "ninetyFifthTimings": {
+        "blocked": 0,
+        "wait": 174,
+        "receive": 48
+      },
+      "bytesTransferred": null,
+      "topUrl": {
+        "url": "https://www.usbank.com/Wzy5OSt0Hw8uyqodwQ/iGD3DfJwc5Yu/IzwKAQ/YnsBIj/VwPF8B",
+        "noOfOccurrences": 3
+      },
+      "largest": {
+        "url": "https://www.usbank.com/digital/servicing/logging/browser-log-transport",
+        "bytes": 0
+      },
+      "largestCompressed": {
+        "url": "https://www.usbank.com/"
+      },
+      "longest": {
+        "url": "https://www.usbank.com/",
+        "time": 471,
+        "timings": {
+          "blocked": 0,
+          "wait": 160,
+          "receive": 0,
+          "connect": 252
+        }
+      }
+    },
+    "document": {
+      "noOfRequests": 0
+    },
+    "font": {
+      "noOfRequests": 0
+    },
+    "image": {
+      "noOfRequests": 0
+    },
+    "style": {
+      "noOfRequests": 0
+    },
+    "script": {
+      "noOfRequests": 0
+    },
+    "xhr": {
+      "noOfRequests": 0
+    },
+    "other": {
+      "noOfRequests": 0
+    }
+  }
+}

@@ -1,0 +1,73 @@
+{
+  "pages": {
+    "noOfPages": 1,
+    "medianOnLoad": null,
+    "ninetyFifthOnLoad": null,
+    "pages": [
+      {
+        "url": "UPS",
+        "onLoad": null
+      }
+    ]
+  },
+  "requests": {
+    "all": {
+      "noOfRequests": 46,
+      "medianTime": 53,
+      "ninetyFifthTime": 363,
+      "medianTimings": {
+        "blocked": -1,
+        "wait": 40,
+        "receive": 0
+      },
+      "ninetyFifthTimings": {
+        "blocked": 0,
+        "wait": 182,
+        "receive": 27
+      },
+      "bytesTransferred": null,
+      "topUrl": {
+        "url": "https://www.ups.com/bgm7/2XTR/oK/Jt_2/419A/a7DaSbDauSiY/d2pDGSk/fV9/sKApIfWkB",
+        "noOfOccurrences": 5
+      },
+      "largest": {
+        "url": "https://www.ups.com/bgm7/2XTR/oK/Jt_2/419A/a7DaSbDauSiY/d2pDGSk/fV9/sKApIfWkB",
+        "bytes": 0
+      },
+      "largestCompressed": {
+        "url": "https://www.ups.com/"
+      },
+      "longest": {
+        "url": "https://media-us1.digital.nuance.com/media/launch/chatLoader.min.js",
+        "time": 427,
+        "timings": {
+          "blocked": 0,
+          "wait": 28,
+          "receive": 0,
+          "connect": 308
+        }
+      }
+    },
+    "document": {
+      "noOfRequests": 0
+    },
+    "font": {
+      "noOfRequests": 0
+    },
+    "image": {
+      "noOfRequests": 0
+    },
+    "style": {
+      "noOfRequests": 0
+    },
+    "script": {
+      "noOfRequests": 0
+    },
+    "xhr": {
+      "noOfRequests": 0
+    },
+    "other": {
+      "noOfRequests": 0
+    }
+  }
+}

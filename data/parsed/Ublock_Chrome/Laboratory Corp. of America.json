@@ -1,0 +1,73 @@
+{
+  "pages": {
+    "noOfPages": 1,
+    "medianOnLoad": null,
+    "ninetyFifthOnLoad": null,
+    "pages": [
+      {
+        "url": "Laboratory Corp. of America",
+        "onLoad": null
+      }
+    ]
+  },
+  "requests": {
+    "all": {
+      "noOfRequests": 41,
+      "medianTime": 98,
+      "ninetyFifthTime": 306,
+      "medianTimings": {
+        "blocked": 0,
+        "wait": 44,
+        "receive": 1
+      },
+      "ninetyFifthTimings": {
+        "blocked": 0,
+        "wait": 123,
+        "receive": 48
+      },
+      "bytesTransferred": null,
+      "topUrl": {
+        "url": "https://www.labcorp.com/",
+        "noOfOccurrences": 1
+      },
+      "largest": {
+        "url": "https://www.labcorp.com/themes/custom/labcorp/images/icons/favicon.ico",
+        "bytes": 0
+      },
+      "largestCompressed": {
+        "url": "https://www.labcorp.com/"
+      },
+      "longest": {
+        "url": "https://files.labcorp.com/labcorp-d8/css/css_YIXqsoB0s4bkAJkBABUjTlUCn8_3mzjBzp9SaUeIVU0.css",
+        "time": 356,
+        "timings": {
+          "blocked": 0,
+          "wait": 71,
+          "receive": 34,
+          "connect": 200
+        }
+      }
+    },
+    "document": {
+      "noOfRequests": 0
+    },
+    "font": {
+      "noOfRequests": 0
+    },
+    "image": {
+      "noOfRequests": 0
+    },
+    "style": {
+      "noOfRequests": 0
+    },
+    "script": {
+      "noOfRequests": 0
+    },
+    "xhr": {
+      "noOfRequests": 0
+    },
+    "other": {
+      "noOfRequests": 0
+    }
+  }
+}

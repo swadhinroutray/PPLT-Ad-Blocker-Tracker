@@ -1,0 +1,73 @@
+{
+  "pages": {
+    "noOfPages": 1,
+    "medianOnLoad": null,
+    "ninetyFifthOnLoad": null,
+    "pages": [
+      {
+        "url": "TJX",
+        "onLoad": null
+      }
+    ]
+  },
+  "requests": {
+    "all": {
+      "noOfRequests": 91,
+      "medianTime": 57,
+      "ninetyFifthTime": 545,
+      "medianTimings": {
+        "blocked": -1,
+        "wait": 31,
+        "receive": 0
+      },
+      "ninetyFifthTimings": {
+        "blocked": 0,
+        "wait": 189,
+        "receive": 12
+      },
+      "bytesTransferred": null,
+      "topUrl": {
+        "url": "https://www.tjx.com/ScriptResource.axd",
+        "noOfOccurrences": 2
+      },
+      "largest": {
+        "url": "https://www.bing.com/api/shopping/v1/item/search",
+        "bytes": 0
+      },
+      "largestCompressed": {
+        "url": "https://smetrics.cisco.com/b/ss/cisco-complete/10/JS-2.12.0/s17630165981988"
+      },
+      "longest": {
+        "url": "https://www.tjx.com/",
+        "time": 1656,
+        "timings": {
+          "blocked": 0,
+          "wait": 307,
+          "receive": 0,
+          "connect": 1224
+        }
+      }
+    },
+    "document": {
+      "noOfRequests": 0
+    },
+    "font": {
+      "noOfRequests": 0
+    },
+    "image": {
+      "noOfRequests": 0
+    },
+    "style": {
+      "noOfRequests": 0
+    },
+    "script": {
+      "noOfRequests": 0
+    },
+    "xhr": {
+      "noOfRequests": 0
+    },
+    "other": {
+      "noOfRequests": 0
+    }
+  }
+}

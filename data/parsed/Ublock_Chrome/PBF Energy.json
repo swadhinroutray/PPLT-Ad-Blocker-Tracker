@@ -1,0 +1,73 @@
+{
+  "pages": {
+    "noOfPages": 1,
+    "medianOnLoad": null,
+    "ninetyFifthOnLoad": null,
+    "pages": [
+      {
+        "url": "PBF Energy",
+        "onLoad": null
+      }
+    ]
+  },
+  "requests": {
+    "all": {
+      "noOfRequests": 48,
+      "medianTime": 97,
+      "ninetyFifthTime": 650,
+      "medianTimings": {
+        "blocked": -1,
+        "wait": 85,
+        "receive": 0
+      },
+      "ninetyFifthTimings": {
+        "blocked": 0,
+        "wait": 344,
+        "receive": 169
+      },
+      "bytesTransferred": null,
+      "topUrl": {
+        "url": "https://use.typekit.net/af/705e94/00000000000000003b9b3062/27/l",
+        "noOfOccurrences": 1
+      },
+      "largest": {
+        "url": "https://www.pbfenergy.com/wp-content/uploads/2022/01/cropped-PBF-R_2Clr-favicon-32x32.png",
+        "bytes": 0
+      },
+      "largestCompressed": {
+        "url": "https://platform.twitter.com/_next/static/chunks/ondemand.Dropdown.8bc7f6ae41bfb038b2b2.js"
+      },
+      "longest": {
+        "url": "https://irs.tools.investis.com/clients/us/pbf_energy3/ticker/ticker.aspx",
+        "time": 1271,
+        "timings": {
+          "blocked": 0,
+          "wait": 833,
+          "receive": 0,
+          "connect": 327
+        }
+      }
+    },
+    "document": {
+      "noOfRequests": 0
+    },
+    "font": {
+      "noOfRequests": 0
+    },
+    "image": {
+      "noOfRequests": 0
+    },
+    "style": {
+      "noOfRequests": 0
+    },
+    "script": {
+      "noOfRequests": 0
+    },
+    "xhr": {
+      "noOfRequests": 0
+    },
+    "other": {
+      "noOfRequests": 0
+    }
+  }
+}

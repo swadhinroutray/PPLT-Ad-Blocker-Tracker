@@ -1,0 +1,73 @@
+{
+  "pages": {
+    "noOfPages": 1,
+    "medianOnLoad": null,
+    "ninetyFifthOnLoad": null,
+    "pages": [
+      {
+        "url": "BlackRock",
+        "onLoad": null
+      }
+    ]
+  },
+  "requests": {
+    "all": {
+      "noOfRequests": 86,
+      "medianTime": 119,
+      "ninetyFifthTime": 391,
+      "medianTimings": {
+        "blocked": -1,
+        "wait": 33,
+        "receive": 0
+      },
+      "ninetyFifthTimings": {
+        "blocked": 0,
+        "wait": 192,
+        "receive": 56
+      },
+      "bytesTransferred": null,
+      "topUrl": {
+        "url": "https://www.blackrock.com/Vd5vO4ArJffIv/xNFG/Ob2ix1ZUSw/ONDiSwkm/Qk1QIA/TEQ7MHk/BTTgB",
+        "noOfOccurrences": 3
+      },
+      "largest": {
+        "url": "https://edge.microsoft.com/autofillservice/v1/pages/ChVDaHJvbWUvMTA3LjAuNTMwNC4xNTASFwmkAUUDJUSCGxIFDVzt8uUSBQ2lkzYk",
+        "bytes": 0
+      },
+      "largestCompressed": {
+        "url": "https://pippio.com/api/sync"
+      },
+      "longest": {
+        "url": "https://edge.microsoft.com/autofillservice/v1/pages/ChVDaHJvbWUvMTA3LjAuNTMwNC4xNTASEAlRfruYDAQqRxIFDVzt8uU=",
+        "time": 1153,
+        "timings": {
+          "blocked": 0,
+          "wait": 1059,
+          "receive": 0,
+          "connect": 94
+        }
+      }
+    },
+    "document": {
+      "noOfRequests": 0
+    },
+    "font": {
+      "noOfRequests": 0
+    },
+    "image": {
+      "noOfRequests": 0
+    },
+    "style": {
+      "noOfRequests": 0
+    },
+    "script": {
+      "noOfRequests": 0
+    },
+    "xhr": {
+      "noOfRequests": 0
+    },
+    "other": {
+      "noOfRequests": 0
+    }
+  }
+}

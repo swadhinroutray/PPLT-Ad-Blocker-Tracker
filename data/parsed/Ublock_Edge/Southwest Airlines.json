@@ -1,0 +1,73 @@
+{
+  "pages": {
+    "noOfPages": 1,
+    "medianOnLoad": null,
+    "ninetyFifthOnLoad": null,
+    "pages": [
+      {
+        "url": "Southwest Airlines",
+        "onLoad": null
+      }
+    ]
+  },
+  "requests": {
+    "all": {
+      "noOfRequests": 38,
+      "medianTime": 73,
+      "ninetyFifthTime": 230,
+      "medianTimings": {
+        "blocked": -1,
+        "wait": 41,
+        "receive": 0
+      },
+      "ninetyFifthTimings": {
+        "blocked": 0,
+        "wait": 141,
+        "receive": 34
+      },
+      "bytesTransferred": null,
+      "topUrl": {
+        "url": "https://www.bing.com/api/shopping/v1/item/search",
+        "noOfOccurrences": 0
+      },
+      "largest": {
+        "url": "https://www.bing.com/api/shopping/v1/item/search",
+        "bytes": 0
+      },
+      "largestCompressed": {
+        "url": "https://www.southwest.com/"
+      },
+      "longest": {
+        "url": "https://www.southwest.com/landing/home-page/static/56.0.0-16/js/en.js",
+        "time": 269,
+        "timings": {
+          "blocked": -1,
+          "wait": 241,
+          "receive": 27,
+          "connect": -1
+        }
+      }
+    },
+    "document": {
+      "noOfRequests": 0
+    },
+    "font": {
+      "noOfRequests": 0
+    },
+    "image": {
+      "noOfRequests": 0
+    },
+    "style": {
+      "noOfRequests": 0
+    },
+    "script": {
+      "noOfRequests": 0
+    },
+    "xhr": {
+      "noOfRequests": 0
+    },
+    "other": {
+      "noOfRequests": 0
+    }
+  }
+}

@@ -1,0 +1,73 @@
+{
+  "pages": {
+    "noOfPages": 1,
+    "medianOnLoad": null,
+    "ninetyFifthOnLoad": null,
+    "pages": [
+      {
+        "url": "Cleveland-Cliffs",
+        "onLoad": null
+      }
+    ]
+  },
+  "requests": {
+    "all": {
+      "noOfRequests": 35,
+      "medianTime": 137,
+      "ninetyFifthTime": 506,
+      "medianTimings": {
+        "blocked": 0,
+        "wait": 31,
+        "receive": 0
+      },
+      "ninetyFifthTimings": {
+        "blocked": 0,
+        "wait": 128,
+        "receive": 105
+      },
+      "bytesTransferred": null,
+      "topUrl": {
+        "url": "https://d1io3yog0oux5.cloudfront.net/_1d72f1292344e42e7297bb3990a7fb77/clevelandcliffs/files/theme/images/favicons/favicon.ico",
+        "noOfOccurrences": 0
+      },
+      "largest": {
+        "url": "https://d1io3yog0oux5.cloudfront.net/_1d72f1292344e42e7297bb3990a7fb77/clevelandcliffs/files/theme/images/favicons/favicon.ico",
+        "bytes": 0
+      },
+      "largestCompressed": {
+        "url": "https://p.adsymptotic.com/d/px/"
+      },
+      "longest": {
+        "url": "https://400-zoj-998.mktoresp.com/webevents/visitWebPage",
+        "time": 675,
+        "timings": {
+          "blocked": 0,
+          "wait": 107,
+          "receive": 0,
+          "connect": 478
+        }
+      }
+    },
+    "document": {
+      "noOfRequests": 0
+    },
+    "font": {
+      "noOfRequests": 0
+    },
+    "image": {
+      "noOfRequests": 0
+    },
+    "style": {
+      "noOfRequests": 0
+    },
+    "script": {
+      "noOfRequests": 0
+    },
+    "xhr": {
+      "noOfRequests": 0
+    },
+    "other": {
+      "noOfRequests": 0
+    }
+  }
+}

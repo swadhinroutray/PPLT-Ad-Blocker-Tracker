@@ -1,0 +1,73 @@
+{
+  "pages": {
+    "noOfPages": 1,
+    "medianOnLoad": null,
+    "ninetyFifthOnLoad": null,
+    "pages": [
+      {
+        "url": "Corteva",
+        "onLoad": null
+      }
+    ]
+  },
+  "requests": {
+    "all": {
+      "noOfRequests": 86,
+      "medianTime": 102,
+      "ninetyFifthTime": 392,
+      "medianTimings": {
+        "blocked": 0,
+        "wait": 35,
+        "receive": 0
+      },
+      "ninetyFifthTimings": {
+        "blocked": 0,
+        "wait": 177,
+        "receive": 34
+      },
+      "bytesTransferred": null,
+      "topUrl": {
+        "url": "https://www.googletagmanager.com/gtag/js",
+        "noOfOccurrences": 4
+      },
+      "largest": {
+        "url": "https://dpagcoagcoglobal.112.2o7.net/b/ss/dpagcoagcoglobal/10/JS-2.23.0-LCXS/s06372671966893",
+        "bytes": 0
+      },
+      "largestCompressed": {
+        "url": "https://68794905.akstat.io/"
+      },
+      "longest": {
+        "url": "https://assets.corteva.com/is/image/Corteva/IMG-Banner_4_4000x3000-Global:Large",
+        "time": 1049,
+        "timings": {
+          "blocked": 0,
+          "wait": 934,
+          "receive": 42,
+          "connect": 72
+        }
+      }
+    },
+    "document": {
+      "noOfRequests": 0
+    },
+    "font": {
+      "noOfRequests": 0
+    },
+    "image": {
+      "noOfRequests": 0
+    },
+    "style": {
+      "noOfRequests": 0
+    },
+    "script": {
+      "noOfRequests": 0
+    },
+    "xhr": {
+      "noOfRequests": 0
+    },
+    "other": {
+      "noOfRequests": 0
+    }
+  }
+}

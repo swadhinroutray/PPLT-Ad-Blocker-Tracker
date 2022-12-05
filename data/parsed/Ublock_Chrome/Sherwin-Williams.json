@@ -1,0 +1,73 @@
+{
+  "pages": {
+    "noOfPages": 1,
+    "medianOnLoad": null,
+    "ninetyFifthOnLoad": null,
+    "pages": [
+      {
+        "url": "Sherwin-Williams",
+        "onLoad": null
+      }
+    ]
+  },
+  "requests": {
+    "all": {
+      "noOfRequests": 159,
+      "medianTime": 22,
+      "ninetyFifthTime": 320,
+      "medianTimings": {
+        "blocked": -1,
+        "wait": 20,
+        "receive": 0
+      },
+      "ninetyFifthTimings": {
+        "blocked": 0,
+        "wait": 53,
+        "receive": 58
+      },
+      "bytesTransferred": null,
+      "topUrl": {
+        "url": "https://cdns.us1.gigya.com/sdk.config.get",
+        "noOfOccurrences": 4
+      },
+      "largest": {
+        "url": "https://va.v.liveperson.net/api/js/71038765",
+        "bytes": 0
+      },
+      "largestCompressed": {
+        "url": "https://www.sherwin-williams.com/"
+      },
+      "longest": {
+        "url": "https://www.sherwin-williams.com/",
+        "time": 456,
+        "timings": {
+          "blocked": 0,
+          "wait": 37,
+          "receive": 80,
+          "connect": 286
+        }
+      }
+    },
+    "document": {
+      "noOfRequests": 0
+    },
+    "font": {
+      "noOfRequests": 0
+    },
+    "image": {
+      "noOfRequests": 0
+    },
+    "style": {
+      "noOfRequests": 0
+    },
+    "script": {
+      "noOfRequests": 0
+    },
+    "xhr": {
+      "noOfRequests": 0
+    },
+    "other": {
+      "noOfRequests": 0
+    }
+  }
+}

@@ -1,0 +1,73 @@
+{
+  "pages": {
+    "noOfPages": 1,
+    "medianOnLoad": null,
+    "ninetyFifthOnLoad": null,
+    "pages": [
+      {
+        "url": "ConocoPhillips",
+        "onLoad": null
+      }
+    ]
+  },
+  "requests": {
+    "all": {
+      "noOfRequests": 103,
+      "medianTime": 85,
+      "ninetyFifthTime": 334,
+      "medianTimings": {
+        "blocked": -1,
+        "wait": 26,
+        "receive": 2
+      },
+      "ninetyFifthTimings": {
+        "blocked": 0,
+        "wait": 107,
+        "receive": 52
+      },
+      "bytesTransferred": null,
+      "topUrl": {
+        "url": "https://fresnel.vimeocdn.com/add/player-stats",
+        "noOfOccurrences": 5
+      },
+      "largest": {
+        "url": "https://i.vimeocdn.com/video/977994016-f89d9217c1e4ce26987fb8902c820e9069a478a94f5e634a2e96234f4427b527-d",
+        "bytes": 0
+      },
+      "largestCompressed": {
+        "url": "https://www.publix.com/rb_8981b617-8f86-49d6-bb84-01a60ce12544"
+      },
+      "longest": {
+        "url": "https://www.publix.com/rb_8981b617-8f86-49d6-bb84-01a60ce12544",
+        "time": 3453,
+        "timings": {
+          "blocked": -1,
+          "wait": 3453,
+          "receive": 0,
+          "connect": -1
+        }
+      }
+    },
+    "document": {
+      "noOfRequests": 0
+    },
+    "font": {
+      "noOfRequests": 0
+    },
+    "image": {
+      "noOfRequests": 0
+    },
+    "style": {
+      "noOfRequests": 0
+    },
+    "script": {
+      "noOfRequests": 0
+    },
+    "xhr": {
+      "noOfRequests": 0
+    },
+    "other": {
+      "noOfRequests": 0
+    }
+  }
+}

@@ -1,0 +1,73 @@
+{
+  "pages": {
+    "noOfPages": 1,
+    "medianOnLoad": null,
+    "ninetyFifthOnLoad": null,
+    "pages": [
+      {
+        "url": "Walgreens Boots Alliance",
+        "onLoad": null
+      }
+    ]
+  },
+  "requests": {
+    "all": {
+      "noOfRequests": 107,
+      "medianTime": 55,
+      "ninetyFifthTime": 273,
+      "medianTimings": {
+        "blocked": -1,
+        "wait": 33,
+        "receive": 0
+      },
+      "ninetyFifthTimings": {
+        "blocked": 0,
+        "wait": 116,
+        "receive": 23
+      },
+      "bytesTransferred": null,
+      "topUrl": {
+        "url": "https://265d2e7f974944af8ba54d7a4cbecc08-1ad356638475.cdn.forter.com/prop.json",
+        "noOfOccurrences": 2
+      },
+      "largest": {
+        "url": "https://ws12.hotjar.com/api/v2/client/ws",
+        "bytes": 0
+      },
+      "largestCompressed": {
+        "url": "https://collector-pxj770cp7y.px-cloud.net/api/v2/collector/beacon"
+      },
+      "longest": {
+        "url": "https://ws12.hotjar.com/api/v2/sites/2411840/recordings/content",
+        "time": 1219,
+        "timings": {
+          "blocked": 0,
+          "wait": 602,
+          "receive": 0,
+          "connect": 548
+        }
+      }
+    },
+    "document": {
+      "noOfRequests": 0
+    },
+    "font": {
+      "noOfRequests": 0
+    },
+    "image": {
+      "noOfRequests": 0
+    },
+    "style": {
+      "noOfRequests": 0
+    },
+    "script": {
+      "noOfRequests": 0
+    },
+    "xhr": {
+      "noOfRequests": 0
+    },
+    "other": {
+      "noOfRequests": 0
+    }
+  }
+}

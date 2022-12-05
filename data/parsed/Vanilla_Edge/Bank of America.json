@@ -1,0 +1,73 @@
+{
+  "pages": {
+    "noOfPages": 1,
+    "medianOnLoad": null,
+    "ninetyFifthOnLoad": null,
+    "pages": [
+      {
+        "url": "Bank of America",
+        "onLoad": null
+      }
+    ]
+  },
+  "requests": {
+    "all": {
+      "noOfRequests": 180,
+      "medianTime": 45,
+      "ninetyFifthTime": 405,
+      "medianTimings": {
+        "blocked": -1,
+        "wait": 26,
+        "receive": 0
+      },
+      "ninetyFifthTimings": {
+        "blocked": 0,
+        "wait": 91,
+        "receive": 41
+      },
+      "bytesTransferred": null,
+      "topUrl": {
+        "url": "https://target.bankofamerica.com/m2/bankofamerica/mbox/json",
+        "noOfOccurrences": 7
+      },
+      "largest": {
+        "url": "https://aero.bankofamerica.com/30306/C5ib",
+        "bytes": 0
+      },
+      "largestCompressed": {
+        "url": "https://trkn.us/pixel/conv/ppt=18259;g=universal_lowes_tag;gid=41844;ord=1784917550150349;ip=73.236.13.188;cuidchk=1"
+      },
+      "longest": {
+        "url": "https://www.bankofamerica.com/",
+        "time": 1126,
+        "timings": {
+          "blocked": 0,
+          "wait": 182,
+          "receive": 331,
+          "connect": 457
+        }
+      }
+    },
+    "document": {
+      "noOfRequests": 0
+    },
+    "font": {
+      "noOfRequests": 0
+    },
+    "image": {
+      "noOfRequests": 0
+    },
+    "style": {
+      "noOfRequests": 0
+    },
+    "script": {
+      "noOfRequests": 0
+    },
+    "xhr": {
+      "noOfRequests": 0
+    },
+    "other": {
+      "noOfRequests": 0
+    }
+  }
+}
