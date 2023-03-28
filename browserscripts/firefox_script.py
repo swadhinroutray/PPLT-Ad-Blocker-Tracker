@@ -21,7 +21,8 @@ class CreateHar(object):
 
     def __start_server(self):
         """prepare and start server"""
-        self.server = Server(self.browser_mob, options={'existing_proxy_port_to_use': 8090})
+        self.server = Server(self.browser_mob, options={
+                             'existing_proxy_port_to_use': 8090})
         self.server.start()
         self.proxy = self.server.create_proxy()
 

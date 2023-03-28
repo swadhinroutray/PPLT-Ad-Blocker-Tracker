@@ -1,0 +1,73 @@
+{
+  "pages": {
+    "noOfPages": 1,
+    "medianOnLoad": 953,
+    "ninetyFifthOnLoad": 953,
+    "pages": [
+      {
+        "url": "Procter & Gamble Company",
+        "onLoad": 953
+      }
+    ]
+  },
+  "requests": {
+    "all": {
+      "noOfRequests": 157,
+      "medianTime": 0,
+      "ninetyFifthTime": 0,
+      "medianTimings": {
+        "blocked": 0,
+        "wait": 0,
+        "receive": 0
+      },
+      "ninetyFifthTimings": {
+        "blocked": null,
+        "wait": null,
+        "receive": null
+      },
+      "bytesTransferred": null,
+      "topUrl": {
+        "url": "https://fonts.gstatic.com/s/montserrat/v25/JTUSjIg1_i6t8kCHKm459WlhyyTh89Y.woff2",
+        "noOfOccurrences": 3
+      },
+      "largest": {
+        "url": "https://www.googletagmanager.com/gtm.js",
+        "bytes": 461545
+      },
+      "largestCompressed": {
+        "url": "https://bat.bing.com/actionp/0"
+      },
+      "longest": {
+        "url": "https://bat.bing.com/actionp/0",
+        "time": 31,
+        "timings": {
+          "blocked": -1,
+          "wait": 31,
+          "receive": 0,
+          "connect": 0
+        }
+      }
+    },
+    "document": {
+      "noOfRequests": 0
+    },
+    "font": {
+      "noOfRequests": 0
+    },
+    "image": {
+      "noOfRequests": 0
+    },
+    "style": {
+      "noOfRequests": 0
+    },
+    "script": {
+      "noOfRequests": 0
+    },
+    "xhr": {
+      "noOfRequests": 0
+    },
+    "other": {
+      "noOfRequests": 0
+    }
+  }
+}

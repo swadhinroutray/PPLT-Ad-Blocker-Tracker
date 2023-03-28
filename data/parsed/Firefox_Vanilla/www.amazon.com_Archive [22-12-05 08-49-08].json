@@ -1,0 +1,73 @@
+{
+  "pages": {
+    "noOfPages": 1,
+    "medianOnLoad": 506,
+    "ninetyFifthOnLoad": 506,
+    "pages": [
+      {
+        "url": "Amazon.com. Spend less. Smile more.",
+        "onLoad": 506
+      }
+    ]
+  },
+  "requests": {
+    "all": {
+      "noOfRequests": 444,
+      "medianTime": 0,
+      "ninetyFifthTime": 32,
+      "medianTimings": {
+        "blocked": null,
+        "wait": null,
+        "receive": null
+      },
+      "ninetyFifthTimings": {
+        "blocked": null,
+        "wait": null,
+        "receive": null
+      },
+      "bytesTransferred": null,
+      "topUrl": {
+        "url": "https://unagi-na.amazon.com/1/events/com.amazon.eel.amazonlive.metrics.nexus",
+        "noOfOccurrences": 5
+      },
+      "largest": {
+        "url": "https://www.amazon.com/rd/uedata",
+        "bytes": 71
+      },
+      "largestCompressed": {
+        "url": "https://images-na.ssl-images-amazon.com/images/S/apesafeframe/ape/la/desktop/ApeDLA-1.50.085a9a1.js"
+      },
+      "longest": {
+        "url": "https://video-weaver.ord56.hls.live-video.net/v1/playlist/CpkFS64xJSBKEjKwW-X_MOo0yeMZZnY93eEgN49cNe3YaIzptmLfWYbsVTmWJB06qkF8J2WepAUoVFUAFMrDr6C-sb2nVMtgkoifRyciDbbZjoPMUXxXo4BtH2UE_E3AbcBeQxlbPe9zXYxX275HCM9hTRl6mgXY1ygIhTKkEhxGLcF8FE56TeF6-F_w7JeBD6XCx8ww_Ipj3KlwfXYm3MVavkF4BZb7bXmLpByTeBsQHqoHmhO2u44vCYr6v2GjB9u_fquR_OODxD6G1OaWLFABm6YzG9UxdulsLAIEU9XMaClugvX2EVdCDjpUCF6ksvuNa4VcAvbztLV34pUx9UqGXiuhvuU5JqOXsTedfToY8cBfeUaPiVinwnlMe5xSN0ZygVrI0l4wqsLols0-ejy5pfzZx0I0rdEkWzSaS9dlphXaR7SMxTAeOWyb-lWqfC0RZ1RL7mjC8osg_0Xl16OUZJNeM3aYDdLGXLXUkeNyANiyXgoT2chondLHuNnuNKzDdcN25SFOU2MdBwerPeMmhZnfFGLX2JD9au_4vGjqQlLQ4bNG7uNNtpPtOlh4VeZPZXfNE5UeHmeK7brRCHqdrwYT2yF8x6xKJ8R5qtvNmluOYsajuEecUAVYCKmLTkgP8UQ5J8IpVCHMRc_fag3W-ruMnWG3FO1Cub3_6mmCGY3e0hye5AP_Q6F5hlrb121qvV8pxuyKGXqmGym0RYLJfT-RfZ9Xk7NCwHD7aozUinmyW_LIv6hzAAAElufSwFRQq8eLxPNf4Hm4mnxnPMezaABNgsgK-47wQGJ7dnwvzMuOUIzcdGwJGeTAyFT2oqRHgN-YcR5aktTJLeatK1t8C7rsVqrVsyg93EqDDGAff3ANmofcEE0wS8saDGrgnNq52I3HOQrC9CABKgl1cy1lYXN0LTIwpgU.m3u8",
+        "time": 190,
+        "timings": {
+          "blocked": 75,
+          "wait": 40,
+          "receive": 0,
+          "connect": 38
+        }
+      }
+    },
+    "document": {
+      "noOfRequests": 0
+    },
+    "font": {
+      "noOfRequests": 0
+    },
+    "image": {
+      "noOfRequests": 0
+    },
+    "style": {
+      "noOfRequests": 0
+    },
+    "script": {
+      "noOfRequests": 0
+    },
+    "xhr": {
+      "noOfRequests": 0
+    },
+    "other": {
+      "noOfRequests": 0
+    }
+  }
+}

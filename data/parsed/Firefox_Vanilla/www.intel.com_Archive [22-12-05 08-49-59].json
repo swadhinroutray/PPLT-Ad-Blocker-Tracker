@@ -1,0 +1,72 @@
+{
+  "pages": {
+    "noOfPages": 1,
+    "medianOnLoad": 1404,
+    "ninetyFifthOnLoad": 1404,
+    "pages": [
+      {
+        "url": "Intel | Data Center Solutions, IoT, and PC Innovation",
+        "onLoad": 1404
+      }
+    ]
+  },
+  "requests": {
+    "all": {
+      "noOfRequests": 100,
+      "medianTime": 35,
+      "ninetyFifthTime": 387,
+      "medianTimings": {
+        "blocked": 0,
+        "wait": 32,
+        "receive": 0
+      },
+      "ninetyFifthTimings": {
+        "blocked": null,
+        "wait": null,
+        "receive": null
+      },
+      "bytesTransferred": null,
+      "topUrl": {
+        "url": "https://dpm.demdex.net/id",
+        "noOfOccurrences": 3
+      },
+      "largest": {
+        "url": "https://dpm.demdex.net/id"
+      },
+      "largestCompressed": {
+        "url": "https://sfederation.intel.com/federation/status.asp"
+      },
+      "longest": {
+        "url": "https://elqtrk.intel.com/visitor/v200/svrGP.aspx",
+        "time": 966,
+        "timings": {
+          "blocked": 463,
+          "wait": 40,
+          "receive": 0,
+          "connect": 33
+        }
+      }
+    },
+    "document": {
+      "noOfRequests": 0
+    },
+    "font": {
+      "noOfRequests": 0
+    },
+    "image": {
+      "noOfRequests": 0
+    },
+    "style": {
+      "noOfRequests": 0
+    },
+    "script": {
+      "noOfRequests": 0
+    },
+    "xhr": {
+      "noOfRequests": 0
+    },
+    "other": {
+      "noOfRequests": 0
+    }
+  }
+}

@@ -1,0 +1,73 @@
+{
+  "pages": {
+    "noOfPages": 1,
+    "medianOnLoad": 996,
+    "ninetyFifthOnLoad": 996,
+    "pages": [
+      {
+        "url": "Apple",
+        "onLoad": 996
+      }
+    ]
+  },
+  "requests": {
+    "all": {
+      "noOfRequests": 62,
+      "medianTime": 0,
+      "ninetyFifthTime": 110,
+      "medianTimings": {
+        "blocked": 0,
+        "wait": 0,
+        "receive": 0
+      },
+      "ninetyFifthTimings": {
+        "blocked": 35,
+        "wait": 77,
+        "receive": 6
+      },
+      "bytesTransferred": null,
+      "topUrl": {
+        "url": "https://www.apple.com/favicon.ico",
+        "noOfOccurrences": 0
+      },
+      "largest": {
+        "url": "https://is5-ssl.mzstatic.com/image/thumb/PWsYggMXgU6kQrxaB3MZPQ/2500x1406.jpg",
+        "bytes": 1451478
+      },
+      "largestCompressed": {
+        "url": "https://securemetrics.apple.com/b/ss/applestoreww/1/JS-2.22.0/s23407167160119"
+      },
+      "longest": {
+        "url": "https://www.apple.com/ac/ac-films/6.8.2/styles/modal.css",
+        "time": 130,
+        "timings": {
+          "blocked": 35,
+          "wait": 75,
+          "receive": 20,
+          "connect": 0
+        }
+      }
+    },
+    "document": {
+      "noOfRequests": 0
+    },
+    "font": {
+      "noOfRequests": 0
+    },
+    "image": {
+      "noOfRequests": 0
+    },
+    "style": {
+      "noOfRequests": 0
+    },
+    "script": {
+      "noOfRequests": 0
+    },
+    "xhr": {
+      "noOfRequests": 0
+    },
+    "other": {
+      "noOfRequests": 0
+    }
+  }
+}

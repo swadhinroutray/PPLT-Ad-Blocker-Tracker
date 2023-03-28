@@ -1,0 +1,72 @@
+{
+  "pages": {
+    "noOfPages": 1,
+    "medianOnLoad": 1271,
+    "ninetyFifthOnLoad": 1271,
+    "pages": [
+      {
+        "url": "IBM - United States",
+        "onLoad": 1271
+      }
+    ]
+  },
+  "requests": {
+    "all": {
+      "noOfRequests": 224,
+      "medianTime": 104,
+      "ninetyFifthTime": 355,
+      "medianTimings": {
+        "blocked": -1,
+        "wait": 99,
+        "receive": 0
+      },
+      "ninetyFifthTimings": {
+        "blocked": null,
+        "wait": null,
+        "receive": null
+      },
+      "bytesTransferred": null,
+      "topUrl": {
+        "url": "https://udc-neb.kampyle.com/egw/5/qceuv8449dzg58ptt1bhda9g8ue19c7s/track/__cool.gif",
+        "noOfOccurrences": 2
+      },
+      "largest": {
+        "url": "https://api.segment.io/v1/p"
+      },
+      "largestCompressed": {
+        "url": "https://1.www.s81c.com/common/carbon-for-ibm-dotcom/tag/v2/alpha/masthead.min.js"
+      },
+      "longest": {
+        "url": "https://login.ibm.com/v1/mgmt/idaas/user/status/",
+        "time": 894,
+        "timings": {
+          "blocked": 92,
+          "wait": 712,
+          "receive": 0,
+          "connect": 17
+        }
+      }
+    },
+    "document": {
+      "noOfRequests": 0
+    },
+    "font": {
+      "noOfRequests": 0
+    },
+    "image": {
+      "noOfRequests": 0
+    },
+    "style": {
+      "noOfRequests": 0
+    },
+    "script": {
+      "noOfRequests": 0
+    },
+    "xhr": {
+      "noOfRequests": 0
+    },
+    "other": {
+      "noOfRequests": 0
+    }
+  }
+}

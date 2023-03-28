@@ -1,0 +1,73 @@
+{
+  "pages": {
+    "noOfPages": 1,
+    "medianOnLoad": 1115,
+    "ninetyFifthOnLoad": 1115,
+    "pages": [
+      {
+        "url": "Apple",
+        "onLoad": 1115
+      }
+    ]
+  },
+  "requests": {
+    "all": {
+      "noOfRequests": 62,
+      "medianTime": 49,
+      "ninetyFifthTime": 542,
+      "medianTimings": {
+        "blocked": -1,
+        "wait": 32,
+        "receive": 2
+      },
+      "ninetyFifthTimings": {
+        "blocked": 0,
+        "wait": 92,
+        "receive": 392
+      },
+      "bytesTransferred": null,
+      "topUrl": {
+        "url": "https://www.apple.com/favicon.ico",
+        "noOfOccurrences": 0
+      },
+      "largest": {
+        "url": "https://is5-ssl.mzstatic.com/image/thumb/PWsYggMXgU6kQrxaB3MZPQ/2500x1406.jpg",
+        "bytes": 1451478
+      },
+      "largestCompressed": {
+        "url": "https://www.apple.com/us/shop/bag/status"
+      },
+      "longest": {
+        "url": "https://is3-ssl.mzstatic.com/image/thumb/EuF6BWsgBeic_Ap2qeAGBQ/2500x1406.jpg",
+        "time": 562,
+        "timings": {
+          "blocked": -1,
+          "wait": 36,
+          "receive": 401,
+          "connect": 20
+        }
+      }
+    },
+    "document": {
+      "noOfRequests": 0
+    },
+    "font": {
+      "noOfRequests": 0
+    },
+    "image": {
+      "noOfRequests": 0
+    },
+    "style": {
+      "noOfRequests": 0
+    },
+    "script": {
+      "noOfRequests": 0
+    },
+    "xhr": {
+      "noOfRequests": 0
+    },
+    "other": {
+      "noOfRequests": 0
+    }
+  }
+}

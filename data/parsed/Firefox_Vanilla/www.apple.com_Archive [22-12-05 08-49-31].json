@@ -1,0 +1,72 @@
+{
+  "pages": {
+    "noOfPages": 1,
+    "medianOnLoad": 353,
+    "ninetyFifthOnLoad": 353,
+    "pages": [
+      {
+        "url": "Apple",
+        "onLoad": 353
+      }
+    ]
+  },
+  "requests": {
+    "all": {
+      "noOfRequests": 28,
+      "medianTime": 0,
+      "ninetyFifthTime": 164,
+      "medianTimings": {
+        "blocked": 0,
+        "wait": 34,
+        "receive": 0
+      },
+      "ninetyFifthTimings": {
+        "blocked": null,
+        "wait": null,
+        "receive": null
+      },
+      "bytesTransferred": null,
+      "topUrl": {
+        "url": "https://securemetrics.apple.com/b/ss/applestoreww/1/JS-2.22.0/s2815878921626",
+        "noOfOccurrences": 0
+      },
+      "largest": {
+        "url": "https://is3-ssl.mzstatic.com/image/thumb/AWDRdQz0nepFpnsUNiTDuw/2500x1406.jpg"
+      },
+      "largestCompressed": {
+        "url": "https://securemetrics.apple.com/b/ss/applestoreww/1/JS-2.22.0/s2815878921626"
+      },
+      "longest": {
+        "url": "https://www.apple.com/ac/ac-films/6.8.2/styles/modal.css",
+        "time": 288,
+        "timings": {
+          "blocked": -1,
+          "wait": 266,
+          "receive": 22,
+          "connect": 0
+        }
+      }
+    },
+    "document": {
+      "noOfRequests": 0
+    },
+    "font": {
+      "noOfRequests": 0
+    },
+    "image": {
+      "noOfRequests": 0
+    },
+    "style": {
+      "noOfRequests": 0
+    },
+    "script": {
+      "noOfRequests": 0
+    },
+    "xhr": {
+      "noOfRequests": 0
+    },
+    "other": {
+      "noOfRequests": 0
+    }
+  }
+}

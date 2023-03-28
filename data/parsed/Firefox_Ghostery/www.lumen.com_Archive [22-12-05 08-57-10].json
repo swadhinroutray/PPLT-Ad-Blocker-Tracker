@@ -1,0 +1,72 @@
+{
+  "pages": {
+    "noOfPages": 1,
+    "medianOnLoad": 1924,
+    "ninetyFifthOnLoad": 1924,
+    "pages": [
+      {
+        "url": "Enterprise Technology for the Digital Revolution | Lumen",
+        "onLoad": 1924
+      }
+    ]
+  },
+  "requests": {
+    "all": {
+      "noOfRequests": 173,
+      "medianTime": 0,
+      "ninetyFifthTime": 69,
+      "medianTimings": {
+        "blocked": 0,
+        "wait": 0,
+        "receive": 0
+      },
+      "ninetyFifthTimings": {
+        "blocked": null,
+        "wait": null,
+        "receive": null
+      },
+      "bytesTransferred": null,
+      "topUrl": {
+        "url": "https://pages.lumentech.com/js/forms2/js/forms2.min.js",
+        "noOfOccurrences": 17
+      },
+      "largest": {
+        "url": "https://id.rlcdn.com/712087.gif"
+      },
+      "largestCompressed": {
+        "url": "https://pages.lumentech.com/js/forms2/js/forms2.min.js"
+      },
+      "longest": {
+        "url": "https://www.lumen.com/en-us/home.html",
+        "time": 776,
+        "timings": {
+          "blocked": 279,
+          "wait": 123,
+          "receive": 96,
+          "connect": 48
+        }
+      }
+    },
+    "document": {
+      "noOfRequests": 0
+    },
+    "font": {
+      "noOfRequests": 0
+    },
+    "image": {
+      "noOfRequests": 0
+    },
+    "style": {
+      "noOfRequests": 0
+    },
+    "script": {
+      "noOfRequests": 0
+    },
+    "xhr": {
+      "noOfRequests": 0
+    },
+    "other": {
+      "noOfRequests": 0
+    }
+  }
+}

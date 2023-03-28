@@ -1,0 +1,73 @@
+{
+  "pages": {
+    "noOfPages": 1,
+    "medianOnLoad": 1609,
+    "ninetyFifthOnLoad": 1609,
+    "pages": [
+      {
+        "url": "Reliance Steel & Aluminum Co. - A leading diversified metal solutions provider.",
+        "onLoad": 1609
+      }
+    ]
+  },
+  "requests": {
+    "all": {
+      "noOfRequests": 151,
+      "medianTime": 0,
+      "ninetyFifthTime": 0,
+      "medianTimings": {
+        "blocked": 0,
+        "wait": 0,
+        "receive": 0
+      },
+      "ninetyFifthTimings": {
+        "blocked": null,
+        "wait": null,
+        "receive": null
+      },
+      "bytesTransferred": null,
+      "topUrl": {
+        "url": "https://www.rsac.com/wp-content/uploads/2020/01/Tube-Service-Co.jpg",
+        "noOfOccurrences": 1
+      },
+      "largest": {
+        "url": "https://www.rsac.com/news-feed.php",
+        "bytes": 4060
+      },
+      "largestCompressed": {
+        "url": "https://www.rsac.com/wp-includes/css/classic-themes.min.css"
+      },
+      "longest": {
+        "url": "https://www.rsac.com/stock-feed.php",
+        "time": 3693,
+        "timings": {
+          "blocked": 0,
+          "wait": 3693,
+          "receive": 0,
+          "connect": 0
+        }
+      }
+    },
+    "document": {
+      "noOfRequests": 0
+    },
+    "font": {
+      "noOfRequests": 0
+    },
+    "image": {
+      "noOfRequests": 0
+    },
+    "style": {
+      "noOfRequests": 0
+    },
+    "script": {
+      "noOfRequests": 0
+    },
+    "xhr": {
+      "noOfRequests": 0
+    },
+    "other": {
+      "noOfRequests": 0
+    }
+  }
+}
